@@ -72,7 +72,7 @@ export default function PlantarFasiitPage() {
           <Link
             href="https://wa.me/905522493909"
             target="_blank"
-            className="bg-green-500 text-white px-6 py-3 rounded-lg font-semibold hover:bg-green-600 transition inline-block"
+            className="bg-green-600 text-white px-6 py-3 rounded-lg font-semibold hover:bg-green-700 transition inline-block"
           >
             📱 WhatsApp ile Randevu Al
           </Link>

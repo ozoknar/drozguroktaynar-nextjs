@@ -35,7 +35,7 @@ export default function Header() {
             <Link
               href="https://wa.me/905522493909"
               target="_blank"
-              className="bg-green-500 text-white px-4 py-2 rounded-lg hover:bg-green-600 transition"
+              className="bg-green-600 text-white px-4 py-2 rounded-lg hover:bg-green-700 transition"
             >
               WhatsApp Randevu
             </Link>
@@ -77,7 +77,7 @@ export default function Header() {
               <Link
                 href="https://wa.me/905522493909"
                 target="_blank"
-                className="bg-green-500 text-white px-4 py-2 rounded-lg text-center hover:bg-green-600 transition"
+                className="bg-green-600 text-white px-4 py-2 rounded-lg text-center hover:bg-green-700 transition"
               >
                 WhatsApp Randevu
               </Link>

@@ -49,7 +49,7 @@ export default function Home() {
               <Link
                 href="https://wa.me/905522493909"
                 target="_blank"
-                className="bg-green-500 text-white px-8 py-3 rounded-lg text-lg font-semibold hover:bg-green-600 transition"
+                className="bg-green-600 text-white px-8 py-3 rounded-lg text-lg font-semibold hover:bg-green-700 transition"
               >
                 📱 WhatsApp Randevu
               </Link>
@@ -127,7 +127,7 @@ export default function Home() {
           <Link
             href="https://wa.me/905522493909"
             target="_blank"
-            className="bg-white text-green-600 px-10 py-4 rounded-lg text-xl font-semibold hover:bg-green-50 transition inline-block"
+            className="bg-white text-green-700 px-10 py-4 rounded-lg text-xl font-semibold hover:bg-green-50 transition inline-block"
           >
             📱 WhatsApp ile Randevu Al
           </Link>
