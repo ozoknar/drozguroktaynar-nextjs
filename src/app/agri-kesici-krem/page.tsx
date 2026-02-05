@@ -2,12 +2,12 @@ import { Metadata } from 'next'
 import Link from 'next/link'
 
 export const metadata: Metadata = {
-  title: 'Ağrı Kesici Krem: Bursa'da Eklem ve Kas Ağrılarına Etkili Çözüm | Op. Dr. Özgür Oktay Nar',
-  description: 'Bursa Nilüfer\'de ortopedi uzmanı Dr. Özgür Oktay Nar rehberliğinde ağrı kesici kremler hakkında bilmeniz gerekenler. Diz, bel, boyun ağrılarına ameliyatsız çözümler.',
-  keywords: 'ağrı kesici krem, Bursa ortopedi, kas ağrısı kremi, eklem ağrısı, diz ağrısı kremi, bel ağrısı kremi, ameliyatsız tedavi, Nilüfer ortopedi',
+  title: "Ağrı Kesici Krem: Bursa'da Eklem ve Kas Ağrılarına Etkili Çözüm | Op. Dr. Özgür Oktay Nar",
+  description: "Bursa Nilüfer'de ortopedi uzmanı Dr. Özgür Oktay Nar rehberliğinde ağrı kesici kremler hakkında bilmeniz gerekenler. Diz, bel, boyun ağrılarına ameliyatsız çözümler.",
+  keywords: "ağrı kesici krem, Bursa ortopedi, kas ağrısı kremi, eklem ağrısı, diz ağrısı kremi, bel ağrısı kremi, ameliyatsız tedavi, Nilüfer ortopedi",
   openGraph: {
-    title: 'Ağrı Kesici Krem: Eklem ve Kas Ağrılarına Pratik Çözüm | Bursa',
-    description: 'Ortopedi uzmanı Dr. Özgür Oktay Nar rehberliğinde ağrı kesici kremler hakkında her şey. Ameliyatsız tedavi seçenekleri.',
+    title: "Ağrı Kesici Krem: Eklem ve Kas Ağrılarına Pratik Çözüm | Bursa",
+    description: "Ortopedi uzmanı Dr. Özgür Oktay Nar rehberliğinde ağrı kesici kremler hakkında her şey. Ameliyatsız tedavi seçenekleri.",
     type: 'article',
   },
 }
