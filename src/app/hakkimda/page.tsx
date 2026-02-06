@@ -18,7 +18,7 @@ const physicianSchema = {
   "@context": "https://schema.org",
   "@type": "Physician",
   "name": "Op. Dr. Özgür Oktay Nar",
-  "image": "https://ooxijkokuifpwunx.public.blob.vercel-storage.com/uploads/2023/04/5i6a7025-1024x683.jpg",
+  "image": "https://ooxijkokuifpwunx.public.blob.vercel-storage.com/uploads/uploads/2023/04/5i6a7025-1024x683.jpg",
   "description": "Ortopedi ve Travmatoloji Uzmanı",
   "medicalSpecialty": "Orthopedic Surgery",
   "address": {
@@ -105,7 +105,7 @@ export default function HakkimdaPage() {
           <div className="relative">
             <div className="aspect-[4/3] bg-gray-200 rounded-2xl overflow-hidden">
               <img
-                src="https://ooxijkokuifpwunx.public.blob.vercel-storage.com/uploads/2023/04/5i6a7025-1024x683.jpg"
+                src="https://ooxijkokuifpwunx.public.blob.vercel-storage.com/uploads/uploads/2023/04/5i6a7025-1024x683.jpg"
                 alt="Op. Dr. Özgür Oktay Nar"
                 className="w-full h-full object-cover"
               />
@@ -287,28 +287,28 @@ export default function HakkimdaPage() {
           <div className="grid grid-cols-2 md:grid-cols-4 gap-4">
             <div className="aspect-[3/4] bg-gray-100 rounded-lg overflow-hidden">
               <img
-                src="https://ooxijkokuifpwunx.public.blob.vercel-storage.com/uploads/2023/04/21-x-30-cm-folyo-baski-b.jpg"
+                src="https://ooxijkokuifpwunx.public.blob.vercel-storage.com/uploads/uploads/2023/04/21-x-30-cm-folyo-baski-b.jpg"
                 alt="Sertifika"
                 className="w-full h-full object-cover hover:scale-105 transition"
               />
             </div>
             <div className="aspect-[3/4] bg-gray-100 rounded-lg overflow-hidden">
               <img
-                src="https://ooxijkokuifpwunx.public.blob.vercel-storage.com/uploads/2023/04/15-x-21-cm-folyo-baski.jpg"
+                src="https://ooxijkokuifpwunx.public.blob.vercel-storage.com/uploads/uploads/2023/04/15-x-21-cm-folyo-baski.jpg"
                 alt="Sertifika"
                 className="w-full h-full object-cover hover:scale-105 transition"
               />
             </div>
             <div className="aspect-[3/4] bg-gray-100 rounded-lg overflow-hidden">
               <img
-                src="https://ooxijkokuifpwunx.public.blob.vercel-storage.com/uploads/2023/04/23-x-33-cm-folyo-baski.jpg"
+                src="https://ooxijkokuifpwunx.public.blob.vercel-storage.com/uploads/uploads/2023/04/23-x-33-cm-folyo-baski.jpg"
                 alt="Sertifika"
                 className="w-full h-full object-cover hover:scale-105 transition"
               />
             </div>
             <div className="aspect-[3/4] bg-gray-100 rounded-lg overflow-hidden">
               <img
-                src="https://ooxijkokuifpwunx.public.blob.vercel-storage.com/uploads/2023/04/21-x-30-cm-folyo-baski-s.jpg"
+                src="https://ooxijkokuifpwunx.public.blob.vercel-storage.com/uploads/uploads/2023/04/21-x-30-cm-folyo-baski-s.jpg"
                 alt="Sertifika"
                 className="w-full h-full object-cover hover:scale-105 transition"
               />
