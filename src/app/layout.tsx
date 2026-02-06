@@ -14,10 +14,18 @@ export const metadata: Metadata = {
   openGraph: {
     title: "Op. Dr. Özgür Oktay Nar | Bursa Ortopedi Doktoru",
     description: "Bursa'da ortopedi ve travmatoloji uzmanı. Modern tedavi yöntemleri ile sağlığınıza kavuşun.",
-    url: "https://drozguroktaynar.com",
+    url: "https://www.ozguroktaynar.com",
     siteName: "Op. Dr. Özgür Oktay Nar",
     locale: "tr_TR",
     type: "website",
+    images: [
+      {
+        url: "https://ooxijkokuifpwunx.public.blob.vercel-storage.com/uploads/uploads/2025/10/ozgur-768x432.jpg",
+        width: 768,
+        height: 432,
+        alt: "Op. Dr. Özgür Oktay Nar - Bursa Ortopedi Uzmanı",
+      },
+    ],
   },
 };
 

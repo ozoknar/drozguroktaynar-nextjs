@@ -11,10 +11,10 @@ export const metadata: Metadata = {
     url: "https://www.ozguroktaynar.com/blog/plantar-fasiit",
     images: [
       {
-        url: "https://ooxijkokuifpwunx.public.blob.vercel-storage.com/uploads/uploads/2024/05/woman-enjoying-feet-massage-2023-11-27-05-32-32-utc-min-scaled-1.jpg",
+        url: "https://ooxijkokuifpwunx.public.blob.vercel-storage.com/uploads/uploads/2025/10/ayak_bilegi_tedavisi.jpg",
         width: 1200,
-        height: 630,
-        alt: "Plantar Fasiit Tedavisi",
+        height: 800,
+        alt: "Plantar Fasiit - Ayak ve Topuk Tedavisi",
       },
     ],
   },
@@ -39,7 +39,7 @@ const articleSchema = {
   "datePublished": "2024-01-15",
   "dateModified": "2026-02-06",
   "mainEntityOfPage": "https://www.ozguroktaynar.com/blog/plantar-fasiit",
-  "image": "https://ooxijkokuifpwunx.public.blob.vercel-storage.com/uploads/uploads/2024/05/woman-enjoying-feet-massage-2023-11-27-05-32-32-utc-min-scaled-1.jpg"
+  "image": "https://ooxijkokuifpwunx.public.blob.vercel-storage.com/uploads/uploads/2025/10/ayak_bilegi_tedavisi.jpg"
 };
 
 const faqSchema = {
@@ -108,7 +108,7 @@ export default function PlantarFasiitPage() {
             </div>
             <div className="hidden md:block">
               <img
-                src="https://ooxijkokuifpwunx.public.blob.vercel-storage.com/uploads/uploads/2024/05/woman-enjoying-feet-massage-2023-11-27-05-32-32-utc-min-scaled-1.jpg"
+                src="https://ooxijkokuifpwunx.public.blob.vercel-storage.com/uploads/uploads/2025/10/ayak_bilegi_tedavisi.jpg"
                 alt="Plantar Fasiit Tedavisi"
                 className="rounded-lg shadow-2xl"
                 width={600}
@@ -267,58 +267,62 @@ export default function PlantarFasiitPage() {
             </div>
           </section>
 
-          {/* PubMed References */}
+          {/* PubMed References - Pillar Content */}
           <section className="mt-12 bg-gray-50 p-6 rounded-xl">
             <h3 className="text-xl font-bold text-gray-800 mb-4 flex items-center gap-2">
               <span>📚</span> Bilimsel Kaynaklar
             </h3>
-            <p className="text-sm text-gray-600 mb-4">
-              Bu yazıdaki bilgiler aşağıdaki bilimsel kaynaklardan derlenmiştir:
-            </p>
-            <ul className="space-y-3 text-sm">
-              <li className="flex items-start gap-2">
-                <span className="text-blue-500">•</span>
-                <div>
-                  <a 
-                    href="https://pubmed.ncbi.nlm.nih.gov/25145882/" 
-                    target="_blank" 
-                    rel="noopener noreferrer"
-                    className="text-blue-600 hover:underline"
-                  >
-                    Trojian T, Tucker AK. (2019). Plantar Fasciitis.
-                  </a>
-                  <span className="text-gray-500"> - Am Fam Physician.</span>
-                </div>
+            <ol className="space-y-3 text-sm text-gray-700">
+              <li>
+                <span className="font-medium">1.</span> Trojian T, Tucker AK. <em>"Plantar Fasciitis."</em> Am Fam Physician. 2019;99(12):744-750.{' '}
+                <a href="https://pubmed.ncbi.nlm.nih.gov/31194487/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 31194487</a>
               </li>
-              <li className="flex items-start gap-2">
-                <span className="text-blue-500">•</span>
-                <div>
-                  <a 
-                    href="https://pubmed.ncbi.nlm.nih.gov/30050937/" 
-                    target="_blank" 
-                    rel="noopener noreferrer"
-                    className="text-blue-600 hover:underline"
-                  >
-                    Buchanan BK, Kushner D. (2023). Plantar Fasciitis.
-                  </a>
-                  <span className="text-gray-500"> - StatPearls [Internet].</span>
-                </div>
+              <li>
+                <span className="font-medium">2.</span> Buchanan BK, Kushner D. <em>"Plantar Fasciitis."</em> StatPearls [Internet]. 2023.{' '}
+                <a href="https://pubmed.ncbi.nlm.nih.gov/28613727/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 28613727</a>
               </li>
-              <li className="flex items-start gap-2">
-                <span className="text-blue-500">•</span>
-                <div>
-                  <a 
-                    href="https://pubmed.ncbi.nlm.nih.gov/16882901/" 
-                    target="_blank" 
-                    rel="noopener noreferrer"
-                    className="text-blue-600 hover:underline"
-                  >
-                    Riddle DL, et al. (2003). Risk factors for plantar fasciitis.
-                  </a>
-                  <span className="text-gray-500"> - J Bone Joint Surg Am.</span>
-                </div>
+              <li>
+                <span className="font-medium">3.</span> Riddle DL, et al. <em>"Risk factors for plantar fasciitis: a matched case-control study."</em> J Bone Joint Surg Am. 2003;85(5):872-7.{' '}
+                <a href="https://pubmed.ncbi.nlm.nih.gov/12728038/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 12728038</a>
               </li>
-            </ul>
+              <li>
+                <span className="font-medium">4.</span> Thomas JL, et al. <em>"The diagnosis and treatment of heel pain: a clinical practice guideline."</em> J Foot Ankle Surg. 2010;49(3 Suppl):S1-19.{' '}
+                <a href="https://pubmed.ncbi.nlm.nih.gov/20439021/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 20439021</a>
+              </li>
+              <li>
+                <span className="font-medium">5.</span> Rompe JD, et al. <em>"Plantar fascia-specific stretching versus radial shock-wave therapy."</em> J Bone Joint Surg Am. 2010;92(15):2514-22.{' '}
+                <a href="https://pubmed.ncbi.nlm.nih.gov/21048171/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 21048171</a>
+              </li>
+            </ol>
+            
+            {/* Expandable References */}
+            <details className="mt-4">
+              <summary className="cursor-pointer text-blue-600 font-medium hover:text-blue-800 flex items-center gap-2">
+                <span>📖 Daha Fazla Kaynak Göster (5 ek referans)</span>
+              </summary>
+              <ol start={6} className="space-y-3 text-sm text-gray-700 mt-4 pt-4 border-t">
+                <li>
+                  <span className="font-medium">6.</span> Landorf KB, et al. <em>"Effectiveness of foot orthoses to treat plantar fasciitis."</em> Arch Intern Med. 2006;166(12):1305-10.{' '}
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/16801514/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 16801514</a>
+                </li>
+                <li>
+                  <span className="font-medium">7.</span> DiGiovanni BF, et al. <em>"Tissue-specific plantar fascia-stretching exercise enhances outcomes."</em> J Bone Joint Surg Am. 2003;85(7):1270-7.{' '}
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/12851352/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 12851352</a>
+                </li>
+                <li>
+                  <span className="font-medium">8.</span> Goff JD, Crawford R. <em>"Diagnosis and treatment of plantar fasciitis."</em> Am Fam Physician. 2011;84(6):676-82.{' '}
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/21916393/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 21916393</a>
+                </li>
+                <li>
+                  <span className="font-medium">9.</span> Schneider HP, et al. <em>"American College of Foot and Ankle Surgeons clinical consensus statement: diagnosis and treatment of adult acquired infracalcaneal heel pain."</em> J Foot Ankle Surg. 2018;57(2):370-381.{' '}
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/29409700/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 29409700</a>
+                </li>
+                <li>
+                  <span className="font-medium">10.</span> Taunton JE, et al. <em>"Plantar fasciitis: a biomechanical perspective."</em> Clin J Sport Med. 2002;12(1):54-9.{' '}
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/11854590/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 11854590</a>
+                </li>
+              </ol>
+            </details>
           </section>
 
           {/* Related Links */}

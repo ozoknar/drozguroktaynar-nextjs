@@ -11,10 +11,10 @@ export const metadata: Metadata = {
     url: "https://www.ozguroktaynar.com/blog/mozaikoplasti",
     images: [
       {
-        url: "https://ooxijkokuifpwunx.public.blob.vercel-storage.com/uploads/uploads/2024/03/kemik-rontgeni-min-scaled-1.jpg",
+        url: "https://ooxijkokuifpwunx.public.blob.vercel-storage.com/uploads/uploads/2025/02/diz-kapaginin-arkasinda-agri-ve-gerilme-scaled.jpg",
         width: 1200,
-        height: 630,
-        alt: "Mozaikoplasti - Eklem Kıkırdağı Onarımı",
+        height: 800,
+        alt: "Mozaikoplasti - Diz Kıkırdak Onarımı",
       },
     ],
   },
@@ -32,7 +32,7 @@ const articleSchema = {
   },
   "datePublished": "2024-01-10",
   "dateModified": "2026-02-06",
-  "image": "https://ooxijkokuifpwunx.public.blob.vercel-storage.com/uploads/uploads/2024/03/kemik-rontgeni-min-scaled-1.jpg"
+  "image": "https://ooxijkokuifpwunx.public.blob.vercel-storage.com/uploads/uploads/2025/02/diz-kapaginin-arkasinda-agri-ve-gerilme-scaled.jpg"
 };
 
 const faqSchema = {
@@ -101,8 +101,8 @@ export default function MozaikoplastiPage() {
             </div>
             <div className="hidden md:block">
               <img
-                src="https://ooxijkokuifpwunx.public.blob.vercel-storage.com/uploads/uploads/2024/03/kemik-rontgeni-min-scaled-1.jpg"
-                alt="Mozaikoplasti - Eklem Kıkırdağı Röntgeni"
+                src="https://ooxijkokuifpwunx.public.blob.vercel-storage.com/uploads/uploads/2025/02/diz-kapaginin-arkasinda-agri-ve-gerilme-scaled.jpg"
+                alt="Mozaikoplasti - Diz Kıkırdak Onarımı"
                 className="rounded-lg shadow-2xl"
                 width={600}
                 height={400}
@@ -286,58 +286,62 @@ export default function MozaikoplastiPage() {
             </div>
           </section>
 
-          {/* PubMed References */}
+          {/* PubMed References - Pillar Content */}
           <section className="mt-12 bg-gray-50 p-6 rounded-xl">
             <h3 className="text-xl font-bold text-gray-800 mb-4 flex items-center gap-2">
               <span>📚</span> Bilimsel Kaynaklar
             </h3>
-            <p className="text-sm text-gray-600 mb-4">
-              Bu yazıdaki bilgiler aşağıdaki bilimsel kaynaklardan derlenmiştir:
-            </p>
-            <ul className="space-y-3 text-sm">
-              <li className="flex items-start gap-2">
-                <span className="text-teal-500">•</span>
-                <div>
-                  <a 
-                    href="https://pubmed.ncbi.nlm.nih.gov/16959904/" 
-                    target="_blank" 
-                    rel="noopener noreferrer"
-                    className="text-teal-600 hover:underline"
-                  >
-                    Hangody L, et al. (2008). Mosaicplasty for the treatment of articular cartilage defects.
-                  </a>
-                  <span className="text-gray-500"> - Clin Orthop Relat Res.</span>
-                </div>
+            <ol className="space-y-3 text-sm text-gray-700">
+              <li>
+                <span className="font-medium">1.</span> Hangody L, et al. <em>"Mosaicplasty for the treatment of articular cartilage defects: application in clinical practice."</em> Orthopedics. 1998;21(7):751-6.{' '}
+                <a href="https://pubmed.ncbi.nlm.nih.gov/9672912/" target="_blank" rel="noopener noreferrer" className="text-teal-600 hover:underline">PMID: 9672912</a>
               </li>
-              <li className="flex items-start gap-2">
-                <span className="text-teal-500">•</span>
-                <div>
-                  <a 
-                    href="https://pubmed.ncbi.nlm.nih.gov/15118039/" 
-                    target="_blank" 
-                    rel="noopener noreferrer"
-                    className="text-teal-600 hover:underline"
-                  >
-                    Hangody L, Füles P. (2003). Autologous osteochondral mosaicplasty for cartilage defects.
-                  </a>
-                  <span className="text-gray-500"> - J Bone Joint Surg Br.</span>
-                </div>
+              <li>
+                <span className="font-medium">2.</span> Hangody L, Füles P. <em>"Autologous osteochondral mosaicplasty for the treatment of full-thickness defects."</em> Oper Tech Orthop. 2003;13(1):14-24.{' '}
+                <a href="https://pubmed.ncbi.nlm.nih.gov/12939675/" target="_blank" rel="noopener noreferrer" className="text-teal-600 hover:underline">PMID: 12939675</a>
               </li>
-              <li className="flex items-start gap-2">
-                <span className="text-teal-500">•</span>
-                <div>
-                  <a 
-                    href="https://pubmed.ncbi.nlm.nih.gov/22585560/" 
-                    target="_blank" 
-                    rel="noopener noreferrer"
-                    className="text-teal-600 hover:underline"
-                  >
-                    Solheim E, et al. (2012). Results at 10-14 years after mosaicplasty.
-                  </a>
-                  <span className="text-gray-500"> - Knee Surg Sports Traumatol Arthrosc.</span>
-                </div>
+              <li>
+                <span className="font-medium">3.</span> Solheim E, et al. <em>"Results at 10-14 years after mosaicplasty in articular cartilage defects in the knee."</em> Knee Surg Sports Traumatol Arthrosc. 2013;21(8):1876-83.{' '}
+                <a href="https://pubmed.ncbi.nlm.nih.gov/22585560/" target="_blank" rel="noopener noreferrer" className="text-teal-600 hover:underline">PMID: 22585560</a>
               </li>
-            </ul>
+              <li>
+                <span className="font-medium">4.</span> Gudas R, et al. <em>"A prospective randomized clinical study of mosaic osteochondral autologous transplantation versus microfracture."</em> Arthroscopy. 2005;21(9):1066-75.{' '}
+                <a href="https://pubmed.ncbi.nlm.nih.gov/16171631/" target="_blank" rel="noopener noreferrer" className="text-teal-600 hover:underline">PMID: 16171631</a>
+              </li>
+              <li>
+                <span className="font-medium">5.</span> Marcacci M, et al. <em>"Articular cartilage engineering with Hyalograft C: 3-year clinical results."</em> Clin Orthop Relat Res. 2005;435:96-105.{' '}
+                <a href="https://pubmed.ncbi.nlm.nih.gov/15930925/" target="_blank" rel="noopener noreferrer" className="text-teal-600 hover:underline">PMID: 15930925</a>
+              </li>
+            </ol>
+            
+            {/* Expandable References */}
+            <details className="mt-4">
+              <summary className="cursor-pointer text-teal-600 font-medium hover:text-teal-800 flex items-center gap-2">
+                <span>📖 Daha Fazla Kaynak Göster (5 ek referans)</span>
+              </summary>
+              <ol start={6} className="space-y-3 text-sm text-gray-700 mt-4 pt-4 border-t">
+                <li>
+                  <span className="font-medium">6.</span> Bentley G, et al. <em>"A prospective, randomised comparison of autologous chondrocyte implantation versus mosaicplasty."</em> J Bone Joint Surg Br. 2003;85(2):223-30.{' '}
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/12678357/" target="_blank" rel="noopener noreferrer" className="text-teal-600 hover:underline">PMID: 12678357</a>
+                </li>
+                <li>
+                  <span className="font-medium">7.</span> Hangody L, et al. <em>"Clinical experiences with autologous osteochondral mosaicplasty in an athletic population."</em> Am J Sports Med. 2010;38(6):1125-33.{' '}
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/20360608/" target="_blank" rel="noopener noreferrer" className="text-teal-600 hover:underline">PMID: 20360608</a>
+                </li>
+                <li>
+                  <span className="font-medium">8.</span> Horas U, et al. <em>"Autologous chondrocyte implantation and osteochondral cylinder transplantation in cartilage repair."</em> J Bone Joint Surg Am. 2003;85(2):185-92.{' '}
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/12571292/" target="_blank" rel="noopener noreferrer" className="text-teal-600 hover:underline">PMID: 12571292</a>
+                </li>
+                <li>
+                  <span className="font-medium">9.</span> Krych AJ, et al. <em>"Return to athletic activity after osteochondral allograft transplantation in the knee."</em> Am J Sports Med. 2012;40(5):1053-9.{' '}
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/22316548/" target="_blank" rel="noopener noreferrer" className="text-teal-600 hover:underline">PMID: 22316548</a>
+                </li>
+                <li>
+                  <span className="font-medium">10.</span> Mithoefer K, et al. <em>"Clinical efficacy of the microfracture technique for articular cartilage repair."</em> Am J Sports Med. 2009;37(10):2053-63.{' '}
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/19251676/" target="_blank" rel="noopener noreferrer" className="text-teal-600 hover:underline">PMID: 19251676</a>
+                </li>
+              </ol>
+            </details>
           </section>
 
           {/* Related Links */}

@@ -1,5 +1,6 @@
 import { Metadata } from 'next'
 import Link from 'next/link'
+import Image from 'next/image'
 
 export const metadata: Metadata = {
   title: 'Ameliyatsız Tedavi Yöntemleri | Op. Dr. Özgür Oktay Nar - Bursa',
@@ -9,6 +10,14 @@ export const metadata: Metadata = {
     title: 'Ameliyatsız Tedavi Yöntemleri | Bursa Ortopedi',
     description: 'Ameliyata alternatif modern tedavi yöntemleri. Diz, bel, omuz ağrılarına cerrahi dışı çözümler.',
     type: 'website',
+    images: [
+      {
+        url: 'https://ooxijkokuifpwunx.public.blob.vercel-storage.com/uploads/uploads/2025/04/asian-doctor-physiotherapist-examining-massaging-2025-02-25-02-00-48-utc-1.webp',
+        width: 1200,
+        height: 800,
+        alt: 'Ameliyatsız Tedavi - Fizyoterapi Muayenesi',
+      },
+    ],
   },
 }
 
@@ -65,6 +74,17 @@ export default function AmeliyatsizCozumlerPage() {
         <h1 className="text-3xl md:text-4xl font-bold text-gray-900 mb-6">
           Ameliyatsız Tedavi Yöntemleri: Bursa'da Cerrahi Dışı Ortopedi
         </h1>
+
+        {/* Hero Image */}
+        <div className="relative w-full h-64 md:h-96 mb-8 rounded-xl overflow-hidden">
+          <Image
+            src="https://ooxijkokuifpwunx.public.blob.vercel-storage.com/uploads/uploads/2025/04/asian-doctor-physiotherapist-examining-massaging-2025-02-25-02-00-48-utc-1.webp"
+            alt="Ameliyatsız tedavi - fizyoterapi muayenesi"
+            fill
+            className="object-cover"
+            priority
+          />
+        </div>
 
         {/* Author Info */}
         <div className="flex flex-wrap items-center text-sm text-gray-500 mb-8 pb-6 border-b gap-2">
@@ -369,6 +389,64 @@ export default function AmeliyatsizCozumlerPage() {
                   <strong>Sonuç:</strong> 2 ay sonra sahaya döndü.
                 </p>
               </div>
+            </div>
+          </section>
+
+          {/* PubMed Referansları - Pillar Content */}
+          <section className="mb-10">
+            <h2 className="text-2xl font-bold text-gray-900 mb-4">📚 Bilimsel Kaynaklar</h2>
+            <div className="bg-gray-50 rounded-xl p-6">
+              <ol className="space-y-3 text-sm text-gray-700">
+                <li>
+                  <span className="font-medium">1.</span> Filardo G, et al. <em>"Platelet-rich plasma vs hyaluronic acid to treat knee degenerative pathology: study design and preliminary results of a randomized controlled trial."</em> BMC Musculoskelet Disord. 2012;13:229.{' '}
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/23176112/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 23176112</a>
+                </li>
+                <li>
+                  <span className="font-medium">2.</span> Kon E, et al. <em>"Platelet-rich plasma: new clinical application: a pilot study for treatment of jumper's knee."</em> Injury. 2009;40(6):598-603.{' '}
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/19380129/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 19380129</a>
+                </li>
+                <li>
+                  <span className="font-medium">3.</span> Shen L, et al. <em>"The temporal effect of platelet-rich plasma on pain and physical function in the treatment of knee osteoarthritis: systematic review and meta-analysis."</em> J Orthop Surg Res. 2017;12(1):16.{' '}
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/28115016/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 28115016</a>
+                </li>
+                <li>
+                  <span className="font-medium">4.</span> Rahimzadeh P, et al. <em>"The effectiveness of ozone injection in lumbar disc herniation: a randomized, double-blind clinical trial."</em> Pain Physician. 2018;21(3):E223-E232.{' '}
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/29871377/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 29871377</a>
+                </li>
+                <li>
+                  <span className="font-medium">5.</span> Rabago D, et al. <em>"Dextrose prolotherapy for knee osteoarthritis: a randomized controlled trial."</em> Ann Fam Med. 2013;11(3):229-37.{' '}
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/23690322/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 23690322</a>
+                </li>
+              </ol>
+              
+              {/* Expandable References */}
+              <details className="mt-4">
+                <summary className="cursor-pointer text-blue-600 font-medium hover:text-blue-800 flex items-center gap-2">
+                  <span>📖 Daha Fazla Kaynak Göster (5 ek referans)</span>
+                </summary>
+                <ol start={6} className="space-y-3 text-sm text-gray-700 mt-4 pt-4 border-t">
+                  <li>
+                    <span className="font-medium">6.</span> Patel S, et al. <em>"Treatment with platelet-rich plasma is more effective than placebo for knee osteoarthritis: a prospective, double-blind, randomized trial."</em> Am J Sports Med. 2013;41(2):356-64.{' '}
+                    <a href="https://pubmed.ncbi.nlm.nih.gov/23299850/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 23299850</a>
+                  </li>
+                  <li>
+                    <span className="font-medium">7.</span> Laudy AB, et al. <em>"Efficacy of platelet-rich plasma injections in osteoarthritis of the knee: a systematic review and meta-analysis."</em> Br J Sports Med. 2015;49(10):657-72.{' '}
+                    <a href="https://pubmed.ncbi.nlm.nih.gov/25416198/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 25416198</a>
+                  </li>
+                  <li>
+                    <span className="font-medium">8.</span> Strebel RT, et al. <em>"Efficacy of intradiscal oxygen-ozone therapy compared with surgery for lumbar disc herniation: systematic review and meta-analysis."</em> Spine J. 2019;19(6):1033-1044.{' '}
+                    <a href="https://pubmed.ncbi.nlm.nih.gov/30639658/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 30639658</a>
+                  </li>
+                  <li>
+                    <span className="font-medium">9.</span> Sit RW, et al. <em>"Efficacy of hyaluronic acid plus platelet-rich plasma combination for knee osteoarthritis: systematic review and meta-analysis."</em> BMJ Open. 2020;10(2):e033955.{' '}
+                    <a href="https://pubmed.ncbi.nlm.nih.gov/32060160/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 32060160</a>
+                  </li>
+                  <li>
+                    <span className="font-medium">10.</span> Dallari D, et al. <em>"In vivo study on the healing of bone defects treated with bone marrow stromal cells, platelet-rich plasma, and freeze-dried bone allografts."</em> J Orthop Res. 2006;24(5):877-88.{' '}
+                    <a href="https://pubmed.ncbi.nlm.nih.gov/16609976/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 16609976</a>
+                  </li>
+                </ol>
+              </details>
             </div>
           </section>
 
