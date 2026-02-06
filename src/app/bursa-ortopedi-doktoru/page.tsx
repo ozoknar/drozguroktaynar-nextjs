@@ -17,7 +17,7 @@ const localBusinessSchema = {
   "@context": "https://schema.org",
   "@type": "MedicalBusiness",
   "name": "Op. Dr. Özgür Oktay Nar - Ortopedi Kliniği",
-  "image": "https://www.drozguroktaynar.com/wp-content/uploads/2023/04/5i6a7025-1024x683.jpg",
+  "image": "https://ooxijkokuifpwunx.public.blob.vercel-storage.com/uploads/2023/04/5i6a7025-1024x683.jpg",
   "description": "Bursa Nilüfer'de ortopedi ve travmatoloji uzmanı",
   "address": {
     "@type": "PostalAddress",
