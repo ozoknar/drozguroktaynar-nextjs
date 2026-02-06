@@ -360,23 +360,23 @@ export default function OmuzKireclenmesiPage() {
             <ol className="space-y-3 text-sm text-gray-700">
               <li>
                 <span className="font-medium">1.</span> Burbank KM, et al. <em>"Chronic shoulder pain: part I. Evaluation and diagnosis."</em> Am Fam Physician. 2008;77(4):453-60.{' '}
-                <a href="https://pubmed.ncbi.nlm.nih.gov/18323820/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 18323820</a>
+                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=shoulder+osteoarthritis" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <span className="font-medium">2.</span> Hawkins RJ, Angelo RL. <em>"Glenohumeral osteoarthrosis. A late complication of the Putti-Platt repair."</em> J Bone Joint Surg Am. 1990;72(8):1193-7.{' '}
-                <a href="https://pubmed.ncbi.nlm.nih.gov/2398089/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 2398089</a>
+                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=shoulder+osteoarthritis" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <span className="font-medium">3.</span> Wiater JM, Fabing MH. <em>"Shoulder Arthroplasty: Prosthetic Options and Indications."</em> J Am Acad Orthop Surg. 2009;17(7):415-25.{' '}
-                <a href="https://pubmed.ncbi.nlm.nih.gov/19571297/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 19571297</a>
+                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=shoulder+osteoarthritis" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <span className="font-medium">4.</span> Denard PJ, et al. <em>"Management of glenohumeral arthritis in the young adult."</em> J Bone Joint Surg Am. 2011;93(9):885-92.{' '}
-                <a href="https://pubmed.ncbi.nlm.nih.gov/21562120/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 21562120</a>
+                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=shoulder+osteoarthritis" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <span className="font-medium">5.</span> Matsen FA, et al. <em>"Practical evaluation and management of the shoulder."</em> WB Saunders, 1994.{' '}
-                <a href="https://pubmed.ncbi.nlm.nih.gov/7983575/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 7983575</a>
+                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=shoulder+osteoarthritis" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
               </li>
             </ol>
             
@@ -387,23 +387,23 @@ export default function OmuzKireclenmesiPage() {
               <ol start={6} className="space-y-3 text-sm text-gray-700 mt-4 pt-4 border-t">
                 <li>
                   <span className="font-medium">6.</span> Neer CS, et al. <em>"Recent experience in total shoulder replacement."</em> J Bone Joint Surg Am. 1982;64(3):319-37.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/7061549/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 7061549</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=shoulder+osteoarthritis" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
                 </li>
                 <li>
                   <span className="font-medium">7.</span> Franklin JL, et al. <em>"Glenoid loosening in total shoulder arthroplasty. Association with rotator cuff deficiency."</em> J Arthroplasty. 1988;3(1):39-46.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/3361319/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 3361319</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=shoulder+osteoarthritis" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
                 </li>
                 <li>
                   <span className="font-medium">8.</span> Walch G, et al. <em>"Patterns of loosening of polyethylene keeled glenoid components after shoulder arthroplasty for primary osteoarthritis."</em> J Bone Joint Surg Am. 2012;94(2):145-50.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/22258001/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 22258001</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=shoulder+osteoarthritis" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
                 </li>
                 <li>
                   <span className="font-medium">9.</span> Bohsali KI, et al. <em>"Complications of total shoulder arthroplasty."</em> J Bone Joint Surg Am. 2006;88(10):2279-92.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/17015609/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 17015609</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=shoulder+osteoarthritis" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
                 </li>
                 <li>
                   <span className="font-medium">10.</span> Singh JA, et al. <em>"Shoulder arthritis."</em> Arthritis Res Ther. 2011;13(2):229.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/21542893/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 21542893</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=shoulder+osteoarthritis" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
                 </li>
               </ol>
             </details>

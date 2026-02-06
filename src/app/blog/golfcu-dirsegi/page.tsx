@@ -617,23 +617,23 @@ export default function GolfcuDirsegiPage() {
               <ol className="space-y-3 text-sm text-gray-700">
                 <li>
                   <span className="font-medium">1.</span> Ciccotti MC, et al. <em>"Non-surgical treatment of medial epicondylitis."</em> J Shoulder Elbow Surg. 2004;13(4):412-6.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/15220882/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 15220882</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=medial+epicondylitis+golfer+elbow" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
                 </li>
                 <li>
                   <span className="font-medium">2.</span> Amin NH, et al. <em>"Medial epicondylitis: evaluation and management."</em> J Am Acad Orthop Surg. 2015;23(6):348-55.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/25911660/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 25911660</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=medial+epicondylitis+golfer+elbow" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
                 </li>
                 <li>
                   <span className="font-medium">3.</span> Stahl S, Kaufman T. <em>"The efficacy of an injection of steroids for medial epicondylitis: a prospective study of sixty elbows."</em> J Bone Joint Surg Am. 1997;79(11):1648-52.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/9384423/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 9384423</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=medial+epicondylitis+golfer+elbow" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
                 </li>
                 <li>
                   <span className="font-medium">4.</span> Park GY, et al. <em>"Comparison of sonographically guided platelet-rich plasma injection and dry needling for lateral epicondylitis: a prospective observational study."</em> J Ultrasound Med. 2013;32(11):2023-31.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/24154906/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 24154906</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=medial+epicondylitis+golfer+elbow" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
                 </li>
                 <li>
                   <span className="font-medium">5.</span> Buchbinder R, et al. <em>"Shock wave therapy for lateral elbow pain."</em> Cochrane Database Syst Rev. 2005;(4):CD003524.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/16235327/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 16235327</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=medial+epicondylitis+golfer+elbow" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
                 </li>
               </ol>
               
@@ -644,23 +644,23 @@ export default function GolfcuDirsegiPage() {
                 <ol start={6} className="space-y-3 text-sm text-gray-700 mt-4 pt-4 border-t">
                   <li>
                     <span className="font-medium">6.</span> Vangsness CT Jr, Jobe FW. <em>"Surgical treatment of medial epicondylitis. Results in 35 elbows."</em> J Bone Joint Surg Br. 1991;73(3):409-11.{' '}
-                    <a href="https://pubmed.ncbi.nlm.nih.gov/1670438/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 1670438</a>
+                    <a href="https://pubmed.ncbi.nlm.nih.gov/?term=medial+epicondylitis+golfer+elbow" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
                   </li>
                   <li>
                     <span className="font-medium">7.</span> Kraushaar BS, Nirschl RP. <em>"Tendinosis of the elbow (tennis elbow). Clinical features and findings of histological, immunohistochemical, and electron microscopy studies."</em> J Bone Joint Surg Am. 1999;81(2):259-78.{' '}
-                    <a href="https://pubmed.ncbi.nlm.nih.gov/10073590/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 10073590</a>
+                    <a href="https://pubmed.ncbi.nlm.nih.gov/?term=medial+epicondylitis+golfer+elbow" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
                   </li>
                   <li>
                     <span className="font-medium">8.</span> Gabel GT, Morrey BF. <em>"Operative treatment of medial epicondylitis. Influence of concomitant ulnar neuropathy at the elbow."</em> J Bone Joint Surg Am. 1995;77(7):1065-9.{' '}
-                    <a href="https://pubmed.ncbi.nlm.nih.gov/7608228/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 7608228</a>
+                    <a href="https://pubmed.ncbi.nlm.nih.gov/?term=medial+epicondylitis+golfer+elbow" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
                   </li>
                   <li>
                     <span className="font-medium">9.</span> Jobe FW, Ciccotti MG. <em>"Lateral and medial epicondylitis of the elbow."</em> J Am Acad Orthop Surg. 1994;2(1):1-8.{' '}
-                    <a href="https://pubmed.ncbi.nlm.nih.gov/10708988/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 10708988</a>
+                    <a href="https://pubmed.ncbi.nlm.nih.gov/?term=medial+epicondylitis+golfer+elbow" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
                   </li>
                   <li>
                     <span className="font-medium">10.</span> Walz DM, et al. <em>"Epicondylitis: pathogenesis, imaging, and treatment."</em> Radiographics. 2010;30(1):167-84.{' '}
-                    <a href="https://pubmed.ncbi.nlm.nih.gov/20083592/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 20083592</a>
+                    <a href="https://pubmed.ncbi.nlm.nih.gov/?term=medial+epicondylitis+golfer+elbow" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
                   </li>
                 </ol>
               </details>

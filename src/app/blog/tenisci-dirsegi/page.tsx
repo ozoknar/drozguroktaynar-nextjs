@@ -643,23 +643,23 @@ export default function TenisciDirsegiPage() {
               <ol className="space-y-3 text-sm text-gray-700">
                 <li>
                   <span className="font-medium">1.</span> Tyler TF, et al. <em>"Addition of isolated wrist extensor eccentric exercise to standard treatment for chronic lateral epicondylosis: a prospective randomized trial."</em> J Shoulder Elbow Surg. 2010;19(6):917-22.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/20163967/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 20163967</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=lateral+epicondylitis+tennis+elbow" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
                 </li>
                 <li>
                   <span className="font-medium">2.</span> Mishra AK, et al. <em>"Treatment of chronic elbow tendinosis with buffered platelet-rich plasma."</em> Am J Sports Med. 2006;34(11):1774-8.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/16735582/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 16735582</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=lateral+epicondylitis+tennis+elbow" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
                 </li>
                 <li>
                   <span className="font-medium">3.</span> Rompe JD, et al. <em>"Repetitive low-energy shock wave treatment for chronic lateral epicondylitis in tennis players."</em> Am J Sports Med. 2004;32(3):734-43.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/15090392/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 15090392</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=lateral+epicondylitis+tennis+elbow" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
                 </li>
                 <li>
                   <span className="font-medium">4.</span> Coombes BK, et al. <em>"Efficacy and safety of corticosteroid injections and other injections for management of tendinopathy: a systematic review."</em> Lancet. 2010;376(9754):1751-67.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/20970844/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 20970844</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=lateral+epicondylitis+tennis+elbow" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
                 </li>
                 <li>
                   <span className="font-medium">5.</span> Bisset L, et al. <em>"Mobilisation with movement and exercise, corticosteroid injection, or wait and see for tennis elbow: randomised trial."</em> BMJ. 2006;333(7575):939.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/17012266/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 17012266</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=lateral+epicondylitis+tennis+elbow" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
                 </li>
               </ol>
               
@@ -670,23 +670,23 @@ export default function TenisciDirsegiPage() {
                 <ol start={6} className="space-y-3 text-sm text-gray-700 mt-4 pt-4 border-t">
                   <li>
                     <span className="font-medium">6.</span> Ahmad Z, et al. <em>"Lateral epicondylitis: a review of pathology and management."</em> Bone Joint J. 2013;95-B(9):1158-64.{' '}
-                    <a href="https://pubmed.ncbi.nlm.nih.gov/23997125/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 23997125</a>
+                    <a href="https://pubmed.ncbi.nlm.nih.gov/?term=lateral+epicondylitis+tennis+elbow" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
                   </li>
                   <li>
                     <span className="font-medium">7.</span> Krogh TP, et al. <em>"Treatment of lateral epicondylitis with platelet-rich plasma, glucocorticoid, or saline: a randomized, double-blind, placebo-controlled trial."</em> Am J Sports Med. 2013;41(3):625-35.{' '}
-                    <a href="https://pubmed.ncbi.nlm.nih.gov/23328738/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 23328738</a>
+                    <a href="https://pubmed.ncbi.nlm.nih.gov/?term=lateral+epicondylitis+tennis+elbow" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
                   </li>
                   <li>
                     <span className="font-medium">8.</span> Nirschl RP, Ashman ES. <em>"Elbow tendinopathy: tennis elbow."</em> Clin Sports Med. 2003;22(4):813-36.{' '}
-                    <a href="https://pubmed.ncbi.nlm.nih.gov/14560548/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 14560548</a>
+                    <a href="https://pubmed.ncbi.nlm.nih.gov/?term=lateral+epicondylitis+tennis+elbow" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
                   </li>
                   <li>
                     <span className="font-medium">9.</span> Peterson M, et al. <em>"Eccentric exercise in the treatment of tendinopathy."</em> Disabil Rehabil. 2014;36(20):1718-23.{' '}
-                    <a href="https://pubmed.ncbi.nlm.nih.gov/24279445/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 24279445</a>
+                    <a href="https://pubmed.ncbi.nlm.nih.gov/?term=lateral+epicondylitis+tennis+elbow" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
                   </li>
                   <li>
                     <span className="font-medium">10.</span> Spacca G, et al. <em>"Radial shock wave therapy for lateral epicondylitis: a prospective randomised controlled single-blind study."</em> Eura Medicophys. 2005;41(1):17-25.{' '}
-                    <a href="https://pubmed.ncbi.nlm.nih.gov/16175767/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 16175767</a>
+                    <a href="https://pubmed.ncbi.nlm.nih.gov/?term=lateral+epicondylitis+tennis+elbow" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
                   </li>
                 </ol>
               </details>

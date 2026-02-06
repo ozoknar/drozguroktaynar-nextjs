@@ -370,23 +370,23 @@ export default function OmuzSikismasiPage() {
             <ol className="space-y-3 text-sm text-gray-700">
               <li>
                 <span className="font-medium">1.</span> Neer CS. <em>"Impingement lesions."</em> Clin Orthop Relat Res. 1983;(173):70-7.{' '}
-                <a href="https://pubmed.ncbi.nlm.nih.gov/6825348/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 6825348</a>
+                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=shoulder+impingement+syndrome" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <span className="font-medium">2.</span> Michener LA, et al. <em>"Anatomical and biomechanical mechanisms of subacromial impingement syndrome."</em> Clin Biomech (Bristol, Avon). 2003;18(5):369-79.{' '}
-                <a href="https://pubmed.ncbi.nlm.nih.gov/12763431/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 12763431</a>
+                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=shoulder+impingement+syndrome" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <span className="font-medium">3.</span> Diercks R, et al. <em>"Guideline for diagnosis and treatment of subacromial pain syndrome."</em> Acta Orthop. 2014;85(3):314-22.{' '}
-                <a href="https://pubmed.ncbi.nlm.nih.gov/24847788/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 24847788</a>
+                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=shoulder+impingement+syndrome" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <span className="font-medium">4.</span> Lewis JS. <em>"Rotator cuff tendinopathy/subacromial impingement syndrome: is it time for a new method of assessment?"</em> Br J Sports Med. 2009;43(4):259-64.{' '}
-                <a href="https://pubmed.ncbi.nlm.nih.gov/18838403/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 18838403</a>
+                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=shoulder+impingement+syndrome" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <span className="font-medium">5.</span> Hermans J, et al. <em>"Does this patient with shoulder pain have rotator cuff disease?: The Rational Clinical Examination systematic review."</em> JAMA. 2013;310(8):837-47.{' '}
-                <a href="https://pubmed.ncbi.nlm.nih.gov/23982370/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 23982370</a>
+                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=shoulder+impingement+syndrome" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
               </li>
             </ol>
             
@@ -397,23 +397,23 @@ export default function OmuzSikismasiPage() {
               <ol start={6} className="space-y-3 text-sm text-gray-700 mt-4 pt-4 border-t">
                 <li>
                   <span className="font-medium">6.</span> Steuri R, et al. <em>"Effectiveness of conservative interventions including exercise, manual therapy and medical management in adults with shoulder impingement."</em> Br J Sports Med. 2017;51(18):1340-1347.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/28515056/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 28515056</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=shoulder+impingement+syndrome" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
                 </li>
                 <li>
                   <span className="font-medium">7.</span> Ketola S, et al. <em>"No evidence of long-term benefits of arthroscopic acromioplasty in the treatment of shoulder impingement syndrome."</em> Bone Joint Res. 2013;2(7):132-9.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/23836479/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 23836479</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=shoulder+impingement+syndrome" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
                 </li>
                 <li>
                   <span className="font-medium">8.</span> Hanratty CE, et al. <em>"The effectiveness of physiotherapy exercises in subacromial impingement syndrome: a systematic review and meta-analysis."</em> Semin Arthritis Rheum. 2012;42(3):297-316.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/22607807/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 22607807</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=shoulder+impingement+syndrome" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
                 </li>
                 <li>
                   <span className="font-medium">9.</span> Dong W, et al. <em>"Treatments for shoulder impingement syndrome: a PRISMA systematic review and network meta-analysis."</em> Medicine (Baltimore). 2015;94(10):e510.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/25761183/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 25761183</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=shoulder+impingement+syndrome" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
                 </li>
                 <li>
                   <span className="font-medium">10.</span> Papadonikolakis A, et al. <em>"Published evidence relevant to the diagnosis of impingement syndrome of the shoulder."</em> J Bone Joint Surg Am. 2011;93(19):1827-32.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/22005869/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 22005869</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=shoulder+impingement+syndrome" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
                 </li>
               </ol>
             </details>

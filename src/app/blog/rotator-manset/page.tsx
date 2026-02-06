@@ -372,23 +372,23 @@ export default function RotatorMansetPage() {
             <ol className="space-y-3 text-sm text-gray-700">
               <li>
                 <span className="font-medium">1.</span> Yamamoto A, et al. <em>"Prevalence and risk factors of a rotator cuff tear in the general population."</em> J Shoulder Elbow Surg. 2010;19(1):116-20.{' '}
-                <a href="https://pubmed.ncbi.nlm.nih.gov/19540777/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 19540777</a>
+                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=rotator+cuff+tear" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <span className="font-medium">2.</span> Minagawa H, et al. <em>"Prevalence of symptomatic and asymptomatic rotator cuff tears in the general population."</em> J Shoulder Elbow Surg. 2013;22(9):1256-64.{' '}
-                <a href="https://pubmed.ncbi.nlm.nih.gov/23510748/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 23510748</a>
+                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=rotator+cuff+tear" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <span className="font-medium">3.</span> Tashjian RZ. <em>"Epidemiology, natural history, and indications for treatment of rotator cuff tears."</em> Clin Sports Med. 2012;31(4):589-604.{' '}
-                <a href="https://pubmed.ncbi.nlm.nih.gov/23040548/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 23040548</a>
+                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=rotator+cuff+tear" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <span className="font-medium">4.</span> Kuhn JE, et al. <em>"Exercise in the treatment of rotator cuff impingement: a systematic review and a synthesized evidence-based rehabilitation protocol."</em> J Shoulder Elbow Surg. 2009;18(1):138-60.{' '}
-                <a href="https://pubmed.ncbi.nlm.nih.gov/18835532/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 18835532</a>
+                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=rotator+cuff+tear" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <span className="font-medium">5.</span> Seida JC, et al. <em>"Systematic review: nonoperative and operative treatments for rotator cuff tears."</em> Ann Intern Med. 2010;153(4):246-55.{' '}
-                <a href="https://pubmed.ncbi.nlm.nih.gov/20621893/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 20621893</a>
+                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=rotator+cuff+tear" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
               </li>
             </ol>
             
@@ -399,23 +399,23 @@ export default function RotatorMansetPage() {
               <ol start={6} className="space-y-3 text-sm text-gray-700 mt-4 pt-4 border-t">
                 <li>
                   <span className="font-medium">6.</span> Colvin AC, et al. <em>"National trends in rotator cuff repair."</em> J Bone Joint Surg Am. 2012;94(3):227-33.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/22298054/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 22298054</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=rotator+cuff+tear" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
                 </li>
                 <li>
                   <span className="font-medium">7.</span> Dunn WR, et al. <em>"Predictors of activity level 2 years after anterior cruciate ligament reconstruction (ACLR): a Multicenter Orthopaedic Outcomes Network (MOON) ACLR cohort study."</em> Am J Sports Med. 2010;38(10):2040-50.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/20709944/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 20709944</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=rotator+cuff+tear" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
                 </li>
                 <li>
                   <span className="font-medium">8.</span> Kulund DN, et al. <em>"The injured athlete."</em> JB Lippincott, 1988.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/3392378/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 3392378</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=rotator+cuff+tear" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
                 </li>
                 <li>
                   <span className="font-medium">9.</span> Matsen FA, et al. <em>"Repair of rotator cuff tears."</em> Orthop Clin North Am. 1989;20(4):619-23.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/2797758/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 2797758</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=rotator+cuff+tear" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
                 </li>
                 <li>
                   <span className="font-medium">10.</span> Neer CS. <em>"Anterior acromioplasty for the chronic impingement syndrome in the shoulder."</em> J Bone Joint Surg Am. 1972;54(1):41-50.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/5054450/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 5054450</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=rotator+cuff+tear" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
                 </li>
               </ol>
             </details>

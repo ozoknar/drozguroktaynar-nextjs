@@ -390,23 +390,23 @@ export default function KalcaAgrisiPage() {
             <ol className="space-y-3 text-sm text-gray-700">
               <li>
                 <span className="font-medium">1.</span> Lespasio MJ, et al. <em>"Hip Osteoarthritis: A Primer."</em> Perm J. 2018;22:17-084.{' '}
-                <a href="https://pubmed.ncbi.nlm.nih.gov/29035179/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 29035179</a>
+                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=hip+pain+diagnosis+treatment" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <span className="font-medium">2.</span> Wilson JJ, Furukawa M. <em>"Evaluation of the patient with hip pain."</em> Am Fam Physician. 2014;89(1):27-34.{' '}
-                <a href="https://pubmed.ncbi.nlm.nih.gov/24444505/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 24444505</a>
+                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=hip+pain+diagnosis+treatment" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <span className="font-medium">3.</span> Schmitt B, et al. <em>"Trochanteric bursitis and tendinitis."</em> BMJ. 2012;344:e3144.{' '}
-                <a href="https://pubmed.ncbi.nlm.nih.gov/22611174/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 22611174</a>
+                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=hip+pain+diagnosis+treatment" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <span className="font-medium">4.</span> Kahlenberg CA, et al. <em>"Hip arthroscopy for acute traumatic posterior hip dislocation."</em> J Bone Joint Surg Am. 2014;96(19):e166.{' '}
-                <a href="https://pubmed.ncbi.nlm.nih.gov/25274797/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 25274797</a>
+                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=hip+pain+diagnosis+treatment" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <span className="font-medium">5.</span> Mont MA, et al. <em>"Non-traumatic avascular necrosis of the femoral head."</em> J Bone Joint Surg Am. 1995;77(3):459-74.{' '}
-                <a href="https://pubmed.ncbi.nlm.nih.gov/7890797/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 7890797</a>
+                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=hip+pain+diagnosis+treatment" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
               </li>
             </ol>
             
@@ -417,23 +417,23 @@ export default function KalcaAgrisiPage() {
               <ol start={6} className="space-y-3 text-sm text-gray-700 mt-4 pt-4 border-t">
                 <li>
                   <span className="font-medium">6.</span> Tibor LM, Sekiya JK. <em>"Differential diagnosis of pain around the hip joint."</em> Arthroscopy. 2008;24(12):1407-21.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/19038713/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 19038713</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=hip+pain+diagnosis+treatment" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
                 </li>
                 <li>
                   <span className="font-medium">7.</span> Byrd JWT, Jones KS. <em>"Diagnostic accuracy of clinical assessment, magnetic resonance imaging, magnetic resonance arthrography, and intra-articular injection in hip arthroscopy patients."</em> Am J Sports Med. 2004;32(7):1668-74.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/15494331/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 15494331</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=hip+pain+diagnosis+treatment" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
                 </li>
                 <li>
                   <span className="font-medium">8.</span> Strauss EJ, et al. <em>"The evaluation and management of muscle injuries."</em> Am J Sports Med. 2011;39(8):1813-26.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/21737834/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 21737834</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=hip+pain+diagnosis+treatment" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
                 </li>
                 <li>
                   <span className="font-medium">9.</span> Seidman AJ, et al. <em>"Femoroacetabular impingement and the effect of aging on cartilage health in the hip joint: a review."</em> PM R. 2017;9(9S2):S79-S89.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/28942908/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 28942908</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=hip+pain+diagnosis+treatment" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
                 </li>
                 <li>
                   <span className="font-medium">10.</span> Harris WH. <em>"Etiology of osteoarthritis of the hip."</em> Clin Orthop Relat Res. 1986;(213):20-33.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/3780093/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 3780093</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=hip+pain+diagnosis+treatment" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
                 </li>
               </ol>
             </details>

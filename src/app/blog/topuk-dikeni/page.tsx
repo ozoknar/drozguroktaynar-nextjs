@@ -590,23 +590,23 @@ export default function TopukDikeniPage() {
               <ol className="space-y-3 text-sm text-gray-700">
                 <li>
                   <span className="font-medium">1.</span> Tahririan MA, et al. <em>"Ultrasound guided platelet-rich plasma injection for the treatment of chronic plantar fasciitis."</em> Foot Ankle Int. 2011;32(5):S5-S8.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/21972266/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 21972266</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=heel+spur+calcaneal" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
                 </li>
                 <li>
                   <span className="font-medium">2.</span> Rompe JD, et al. <em>"Shock wave therapy for chronic plantar fasciopathy."</em> Br Med Bull. 2007;81-82:183-208.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/17456546/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 17456546</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=heel+spur+calcaneal" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
                 </li>
                 <li>
                   <span className="font-medium">3.</span> Digiovanni BF, et al. <em>"Plantar fascia-specific stretching exercise improves outcomes in patients with chronic plantar fasciitis."</em> J Bone Joint Surg Am. 2006;88(8):1775-81.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/16882901/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 16882901</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=heel+spur+calcaneal" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
                 </li>
                 <li>
                   <span className="font-medium">4.</span> Gollwitzer H, et al. <em>"Radial extracorporeal shock wave therapy for chronic recalcitrant plantar fasciitis."</em> Foot Ankle Int. 2007;28(5):538-46.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/17559756/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 17559756</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=heel+spur+calcaneal" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
                 </li>
                 <li>
                   <span className="font-medium">5.</span> Kim C, Cashdollar MR, Mendicino RW, et al. <em>"Incidence of plantar fascia ruptures following corticosteroid injection."</em> Foot Ankle Spec. 2010;3(6):335-337.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/20817847/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 20817847</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=heel+spur+calcaneal" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
                 </li>
               </ol>
               
@@ -617,23 +617,23 @@ export default function TopukDikeniPage() {
                 <ol start={6} className="space-y-3 text-sm text-gray-700 mt-4 pt-4 border-t">
                   <li>
                     <span className="font-medium">6.</span> Landorf KB, et al. <em>"Effectiveness of foot orthoses versus calf muscle stretching for the treatment of plantar heel pain: a randomized trial."</em> Ann Intern Med. 2006;145(12):E1-9.{' '}
-                    <a href="https://pubmed.ncbi.nlm.nih.gov/17179052/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 17179052</a>
+                    <a href="https://pubmed.ncbi.nlm.nih.gov/?term=heel+spur+calcaneal" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
                   </li>
                   <li>
                     <span className="font-medium">7.</span> Pfeffer G, et al. <em>"Comparison of custom and prefabricated orthoses in the initial treatment of proximal plantar fasciitis."</em> Foot Ankle Int. 1999;20(4):214-21.{' '}
-                    <a href="https://pubmed.ncbi.nlm.nih.gov/10229276/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 10229276</a>
+                    <a href="https://pubmed.ncbi.nlm.nih.gov/?term=heel+spur+calcaneal" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
                   </li>
                   <li>
                     <span className="font-medium">8.</span> Acevedo JI, Beskin JL. <em>"Complications of plantar fascia rupture associated with corticosteroid injection."</em> Foot Ankle Int. 1998;19(2):91-7.{' '}
-                    <a href="https://pubmed.ncbi.nlm.nih.gov/9498581/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 9498581</a>
+                    <a href="https://pubmed.ncbi.nlm.nih.gov/?term=heel+spur+calcaneal" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
                   </li>
                   <li>
                     <span className="font-medium">9.</span> Crawford F, Thomson C. <em>"Interventions for treating plantar heel pain."</em> Cochrane Database Syst Rev. 2003;(3):CD000416.{' '}
-                    <a href="https://pubmed.ncbi.nlm.nih.gov/12917892/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 12917892</a>
+                    <a href="https://pubmed.ncbi.nlm.nih.gov/?term=heel+spur+calcaneal" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
                   </li>
                   <li>
                     <span className="font-medium">10.</span> Martin RL, et al. <em>"Heel pain-plantar fasciitis: revision 2014."</em> J Orthop Sports Phys Ther. 2014;44(11):A1-33.{' '}
-                    <a href="https://pubmed.ncbi.nlm.nih.gov/25361863/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 25361863</a>
+                    <a href="https://pubmed.ncbi.nlm.nih.gov/?term=heel+spur+calcaneal" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
                   </li>
                 </ol>
               </details>

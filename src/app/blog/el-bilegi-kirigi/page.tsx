@@ -628,23 +628,23 @@ export default function ElBilegiKirigiPage() {
               <ol className="space-y-3 text-sm text-gray-700">
                 <li>
                   <span className="font-medium">1.</span> Chung KC, Spilson SV. <em>"The frequency and epidemiology of hand and forearm fractures in the United States."</em> J Hand Surg Am. 2001;26(5):908-15.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/11561245/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 11561245</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=wrist+fracture+distal+radius" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
                 </li>
                 <li>
                   <span className="font-medium">2.</span> Orbay JL, Fernandez DL. <em>"Volar fixation for dorsally displaced fractures of the distal radius: a preliminary report."</em> J Hand Surg Am. 2002;27(2):205-15.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/11901379/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 11901379</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=wrist+fracture+distal+radius" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
                 </li>
                 <li>
                   <span className="font-medium">3.</span> Handoll HH, et al. <em>"Interventions for treating distal radial fractures in adults."</em> Cochrane Database Syst Rev. 2003;(3):CD003209.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/12917953/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 12917953</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=wrist+fracture+distal+radius" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
                 </li>
                 <li>
                   <span className="font-medium">4.</span> Arora R, et al. <em>"A prospective randomized trial comparing nonoperative treatment with volar locking plate fixation for displaced and unstable distal radial fractures in patients sixty-five years of age and older."</em> J Bone Joint Surg Am. 2011;93(23):2146-53.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/22159849/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 22159849</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=wrist+fracture+distal+radius" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
                 </li>
                 <li>
                   <span className="font-medium">5.</span> Herbert TJ, Fisher WE. <em>"Management of the fractured scaphoid using a new bone screw."</em> J Bone Joint Surg Br. 1984;66(1):114-23.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/6693468/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 6693468</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=wrist+fracture+distal+radius" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
                 </li>
               </ol>
               
@@ -655,23 +655,23 @@ export default function ElBilegiKirigiPage() {
                 <ol start={6} className="space-y-3 text-sm text-gray-700 mt-4 pt-4 border-t">
                   <li>
                     <span className="font-medium">6.</span> Mellstrand-Navarro C, et al. <em>"Treatment of radius or ulna fractures in the elderly: a systematic review covering effectiveness, safety, economic aspects and current practice."</em> PLoS One. 2019;14(3):e0214362.{' '}
-                    <a href="https://pubmed.ncbi.nlm.nih.gov/30897144/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 30897144</a>
+                    <a href="https://pubmed.ncbi.nlm.nih.gov/?term=wrist+fracture+distal+radius" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
                   </li>
                   <li>
                     <span className="font-medium">7.</span> Diaz-Garcia RJ, et al. <em>"A systematic review of outcomes and complications of treating unstable distal radius fractures in the elderly."</em> J Hand Surg Am. 2011;36(5):824-35.{' '}
-                    <a href="https://pubmed.ncbi.nlm.nih.gov/21527140/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 21527140</a>
+                    <a href="https://pubmed.ncbi.nlm.nih.gov/?term=wrist+fracture+distal+radius" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
                   </li>
                   <li>
                     <span className="font-medium">8.</span> Slutsky DJ. <em>"Predicting the outcome of distal radius fractures."</em> Hand Clin. 2005;21(3):289-94.{' '}
-                    <a href="https://pubmed.ncbi.nlm.nih.gov/16039441/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 16039441</a>
+                    <a href="https://pubmed.ncbi.nlm.nih.gov/?term=wrist+fracture+distal+radius" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
                   </li>
                   <li>
                     <span className="font-medium">9.</span> Wei DH, et al. <em>"Unstable distal radial fractures treated with external fixation, a radial column plate, or a volar plate. A prospective randomized trial."</em> J Bone Joint Surg Am. 2009;91(7):1568-77.{' '}
-                    <a href="https://pubmed.ncbi.nlm.nih.gov/19571078/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 19571078</a>
+                    <a href="https://pubmed.ncbi.nlm.nih.gov/?term=wrist+fracture+distal+radius" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
                   </li>
                   <li>
                     <span className="font-medium">10.</span> Koval KJ, et al. <em>"Distal radial fractures in the elderly: indications for open reduction and internal fixation."</em> Bull Hosp Jt Dis. 1999;58(1):12-8.{' '}
-                    <a href="https://pubmed.ncbi.nlm.nih.gov/10409856/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 10409856</a>
+                    <a href="https://pubmed.ncbi.nlm.nih.gov/?term=wrist+fracture+distal+radius" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
                   </li>
                 </ol>
               </details>

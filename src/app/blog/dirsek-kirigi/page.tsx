@@ -632,23 +632,23 @@ export default function DirsekKirigiPage() {
               <ol className="space-y-3 text-sm text-gray-700">
                 <li>
                   <span className="font-medium">1.</span> Ring D, et al. <em>"Treatment of unstable elbow fracture dislocations."</em> J Bone Joint Surg Am. 2002;84(10):1823-8.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/12377914/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 12377914</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=elbow+fracture+treatment" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
                 </li>
                 <li>
                   <span className="font-medium">2.</span> Doornberg J, et al. <em>"Surgical treatment of intra-articular fractures of the distal part of the humerus."</em> J Bone Joint Surg Am. 2007;89(5):1524-32.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/17545430/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 17545430</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=elbow+fracture+treatment" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
                 </li>
                 <li>
                   <span className="font-medium">3.</span> Garrigues GE, et al. <em>"Fixation of the olecranon fracture: a biomechanical comparison of plate and screw constructs."</em> J Orthop Trauma. 2011;25(9):545-50.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/21857421/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 21857421</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=elbow+fracture+treatment" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
                 </li>
                 <li>
                   <span className="font-medium">4.</span> Pike JM, et al. <em>"Radial head fractures - An update."</em> J Hand Surg Am. 2009;34(3):557-65.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/19258159/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 19258159</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=elbow+fracture+treatment" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
                 </li>
                 <li>
                   <span className="font-medium">5.</span> Myderrizi N, et al. <em>"Complications following operative fixation of distal humerus fractures."</em> Injury. 2014;45(2):421-6.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/24157392/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 24157392</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=elbow+fracture+treatment" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
                 </li>
               </ol>
               
@@ -659,23 +659,23 @@ export default function DirsekKirigiPage() {
                 <ol start={6} className="space-y-3 text-sm text-gray-700 mt-4 pt-4 border-t">
                   <li>
                     <span className="font-medium">6.</span> Sanchez-Sotelo J. <em>"Distal humeral fractures: role of internal fixation and elbow arthroplasty."</em> J Bone Joint Surg Am. 2012;94(6):555-68.{' '}
-                    <a href="https://pubmed.ncbi.nlm.nih.gov/22438004/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 22438004</a>
+                    <a href="https://pubmed.ncbi.nlm.nih.gov/?term=elbow+fracture+treatment" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
                   </li>
                   <li>
                     <span className="font-medium">7.</span> Nauth A, et al. <em>"Management of terrible triad injuries of the elbow."</em> J Orthop Trauma. 2011;25 Suppl 1:S78-86.{' '}
-                    <a href="https://pubmed.ncbi.nlm.nih.gov/21248561/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 21248561</a>
+                    <a href="https://pubmed.ncbi.nlm.nih.gov/?term=elbow+fracture+treatment" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
                   </li>
                   <li>
                     <span className="font-medium">8.</span> Foruria AM, et al. <em>"Heterotopic ossification after surgery for fractures and dislocations involving the radial head and proximal ulna."</em> J Hand Surg Am. 2010;35(12):1928-34.{' '}
-                    <a href="https://pubmed.ncbi.nlm.nih.gov/21134615/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 21134615</a>
+                    <a href="https://pubmed.ncbi.nlm.nih.gov/?term=elbow+fracture+treatment" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
                   </li>
                   <li>
                     <span className="font-medium">9.</span> Bailey CS, et al. <em>"Outcome of plate fixation of olecranon fractures."</em> J Orthop Trauma. 2001;15(8):542-8.{' '}
-                    <a href="https://pubmed.ncbi.nlm.nih.gov/11733670/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 11733670</a>
+                    <a href="https://pubmed.ncbi.nlm.nih.gov/?term=elbow+fracture+treatment" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
                   </li>
                   <li>
                     <span className="font-medium">10.</span> Morrey BF. <em>"Current concepts in the treatment of fractures of the radial head, the olecranon, and the coronoid."</em> J Bone Joint Surg Am. 1995;77(2):316-27.{' '}
-                    <a href="https://pubmed.ncbi.nlm.nih.gov/7844139/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 7844139</a>
+                    <a href="https://pubmed.ncbi.nlm.nih.gov/?term=elbow+fracture+treatment" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
                   </li>
                 </ol>
               </details>

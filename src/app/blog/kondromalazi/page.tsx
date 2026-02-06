@@ -399,23 +399,23 @@ export default function KondromelaziPage() {
             <ol className="space-y-3 text-sm text-gray-700">
               <li>
                 <span className="font-medium">1.</span> Dye SF. <em>"The pathophysiology of patellofemoral pain: a tissue homeostasis perspective."</em> Clin Orthop Relat Res. 2005;(436):100-10.{' '}
-                <a href="https://pubmed.ncbi.nlm.nih.gov/15995427/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 15995427</a>
+                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=chondromalacia+patella" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <span className="font-medium">2.</span> Witvrouw E, et al. <em>"Patellofemoral pain: consensus statement from the 3rd International Patellofemoral Pain Research Retreat."</em> Br J Sports Med. 2014;48(6):411-4.{' '}
-                <a href="https://pubmed.ncbi.nlm.nih.gov/24569145/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 24569145</a>
+                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=chondromalacia+patella" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <span className="font-medium">3.</span> Crossley KM, et al. <em>"2016 Patellofemoral pain consensus statement from the 4th International Patellofemoral Pain Research Retreat."</em> Br J Sports Med. 2016;50(14):839-43.{' '}
-                <a href="https://pubmed.ncbi.nlm.nih.gov/27343241/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 27343241</a>
+                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=chondromalacia+patella" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <span className="font-medium">4.</span> Boling M, et al. <em>"Gender differences in the incidence and prevalence of patellofemoral pain syndrome."</em> Scand J Med Sci Sports. 2010;20(5):725-30.{' '}
-                <a href="https://pubmed.ncbi.nlm.nih.gov/19765240/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 19765240</a>
+                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=chondromalacia+patella" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <span className="font-medium">5.</span> Fairbank JC, et al. <em>"Mechanical factors in the incidence of knee pain in adolescents and young adults."</em> J Bone Joint Surg Br. 1984;66(5):685-93.{' '}
-                <a href="https://pubmed.ncbi.nlm.nih.gov/6501361/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 6501361</a>
+                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=chondromalacia+patella" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
               </li>
             </ol>
             
@@ -426,23 +426,23 @@ export default function KondromelaziPage() {
               <ol start={6} className="space-y-3 text-sm text-gray-700 mt-4 pt-4 border-t">
                 <li>
                   <span className="font-medium">6.</span> Nakagawa TH, et al. <em>"The effect of additional strengthening of hip abductor and lateral rotator muscles in patellofemoral pain syndrome."</em> J Orthop Sports Phys Ther. 2008;38(1):12-8.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/18349475/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 18349475</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=chondromalacia+patella" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
                 </li>
                 <li>
                   <span className="font-medium">7.</span> Fukuda TY, et al. <em>"Hip posterolateral musculature strengthening in sedentary women with patellofemoral pain syndrome."</em> J Orthop Sports Phys Ther. 2010;40(11):736-42.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/21041965/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 21041965</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=chondromalacia+patella" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
                 </li>
                 <li>
                   <span className="font-medium">8.</span> Collins NJ, et al. <em>"Prognostic factors for patellofemoral pain: a multicentre observational analysis."</em> Br J Sports Med. 2013;47(4):227-33.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/22936409/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 22936409</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=chondromalacia+patella" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
                 </li>
                 <li>
                   <span className="font-medium">9.</span> Barton CJ, et al. <em>"The 'Best Practice Guide to Conservative Management of Patellofemoral Pain': incorporating level 1 evidence with expert clinical reasoning."</em> Br J Sports Med. 2015;49(14):923-34.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/25716151/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 25716151</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=chondromalacia+patella" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
                 </li>
                 <li>
                   <span className="font-medium">10.</span> Powers CM, et al. <em>"Patellofemoral pain: proximal, distal, and local factors."</em> J Orthop Sports Phys Ther. 2012;42(6):A1-54.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/22660660/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 22660660</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=chondromalacia+patella" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
                 </li>
               </ol>
             </details>

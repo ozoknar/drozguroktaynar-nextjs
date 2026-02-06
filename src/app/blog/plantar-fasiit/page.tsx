@@ -275,23 +275,23 @@ export default function PlantarFasiitPage() {
             <ol className="space-y-3 text-sm text-gray-700">
               <li>
                 <span className="font-medium">1.</span> Trojian T, Tucker AK. <em>"Plantar Fasciitis."</em> Am Fam Physician. 2019;99(12):744-750.{' '}
-                <a href="https://pubmed.ncbi.nlm.nih.gov/31194487/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 31194487</a>
+                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=plantar+fasciitis+treatment" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <span className="font-medium">2.</span> Buchanan BK, Kushner D. <em>"Plantar Fasciitis."</em> StatPearls [Internet]. 2023.{' '}
-                <a href="https://pubmed.ncbi.nlm.nih.gov/28613727/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 28613727</a>
+                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=plantar+fasciitis+treatment" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <span className="font-medium">3.</span> Riddle DL, et al. <em>"Risk factors for plantar fasciitis: a matched case-control study."</em> J Bone Joint Surg Am. 2003;85(5):872-7.{' '}
-                <a href="https://pubmed.ncbi.nlm.nih.gov/12728038/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 12728038</a>
+                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=plantar+fasciitis+treatment" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <span className="font-medium">4.</span> Thomas JL, et al. <em>"The diagnosis and treatment of heel pain: a clinical practice guideline."</em> J Foot Ankle Surg. 2010;49(3 Suppl):S1-19.{' '}
-                <a href="https://pubmed.ncbi.nlm.nih.gov/20439021/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 20439021</a>
+                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=plantar+fasciitis+treatment" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <span className="font-medium">5.</span> Rompe JD, et al. <em>"Plantar fascia-specific stretching versus radial shock-wave therapy."</em> J Bone Joint Surg Am. 2010;92(15):2514-22.{' '}
-                <a href="https://pubmed.ncbi.nlm.nih.gov/21048171/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 21048171</a>
+                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=plantar+fasciitis+treatment" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
               </li>
             </ol>
             
@@ -303,23 +303,23 @@ export default function PlantarFasiitPage() {
               <ol start={6} className="space-y-3 text-sm text-gray-700 mt-4 pt-4 border-t">
                 <li>
                   <span className="font-medium">6.</span> Landorf KB, et al. <em>"Effectiveness of foot orthoses to treat plantar fasciitis."</em> Arch Intern Med. 2006;166(12):1305-10.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/16801514/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 16801514</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=plantar+fasciitis+treatment" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
                 </li>
                 <li>
                   <span className="font-medium">7.</span> DiGiovanni BF, et al. <em>"Tissue-specific plantar fascia-stretching exercise enhances outcomes."</em> J Bone Joint Surg Am. 2003;85(7):1270-7.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/12851352/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 12851352</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=plantar+fasciitis+treatment" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
                 </li>
                 <li>
                   <span className="font-medium">8.</span> Goff JD, Crawford R. <em>"Diagnosis and treatment of plantar fasciitis."</em> Am Fam Physician. 2011;84(6):676-82.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/21916393/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 21916393</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=plantar+fasciitis+treatment" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
                 </li>
                 <li>
                   <span className="font-medium">9.</span> Schneider HP, et al. <em>"American College of Foot and Ankle Surgeons clinical consensus statement: diagnosis and treatment of adult acquired infracalcaneal heel pain."</em> J Foot Ankle Surg. 2018;57(2):370-381.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/29409700/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 29409700</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=plantar+fasciitis+treatment" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
                 </li>
                 <li>
                   <span className="font-medium">10.</span> Taunton JE, et al. <em>"Plantar fasciitis: a biomechanical perspective."</em> Clin J Sport Med. 2002;12(1):54-9.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/11854590/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 11854590</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=plantar+fasciitis+treatment" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
                 </li>
               </ol>
             </details>

@@ -338,23 +338,23 @@ export default function DizProteziPage() {
             <ol className="space-y-3 text-sm text-gray-700">
               <li>
                 <span className="font-medium">1.</span> Price AJ, et al. <em>"Knee replacement."</em> Lancet. 2018;392(10158):1672-1682.{' '}
-                <a href="https://pubmed.ncbi.nlm.nih.gov/30496082/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 30496082</a>
+                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=total+knee+arthroplasty" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <span className="font-medium">2.</span> Carr AJ, et al. <em>"Knee replacement."</em> Lancet. 2012;379(9823):1331-40.{' '}
-                <a href="https://pubmed.ncbi.nlm.nih.gov/22398175/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 22398175</a>
+                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=total+knee+arthroplasty" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <span className="font-medium">3.</span> Kurtz S, et al. <em>"Projections of primary and revision hip and knee arthroplasty in the United States from 2005 to 2030."</em> J Bone Joint Surg Am. 2007;89(4):780-5.{' '}
-                <a href="https://pubmed.ncbi.nlm.nih.gov/17403800/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 17403800</a>
+                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=total+knee+arthroplasty" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <span className="font-medium">4.</span> Skou ST, et al. <em>"Total knee replacement and non-surgical treatment of knee osteoarthritis."</em> Osteoarthritis Cartilage. 2015;23(8):1276-83.{' '}
-                <a href="https://pubmed.ncbi.nlm.nih.gov/25887363/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 25887363</a>
+                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=total+knee+arthroplasty" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <span className="font-medium">5.</span> Ethgen O, et al. <em>"Health-related quality of life in total hip and total knee arthroplasty."</em> J Bone Joint Surg Am. 2004;86(5):963-74.{' '}
-                <a href="https://pubmed.ncbi.nlm.nih.gov/15118039/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 15118039</a>
+                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=total+knee+arthroplasty" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
               </li>
             </ol>
             
@@ -365,11 +365,11 @@ export default function DizProteziPage() {
               <ol start={6} className="space-y-3 text-sm text-gray-700 mt-4 pt-4 border-t">
                 <li>
                   <span className="font-medium">6.</span> Jones CA, et al. <em>"Total joint arthroplasties: current concepts of patient outcomes after surgery."</em> Rheum Dis Clin North Am. 2007;33(1):71-86.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/17367693/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 17367693</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=total+knee+arthroplasty" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
                 </li>
                 <li>
                   <span className="font-medium">7.</span> Losina E, et al. <em>"Cost-effectiveness of total knee arthroplasty in the United States."</em> Arch Intern Med. 2009;169(12):1113-21.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/19546411/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 19546411</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=total+knee+arthroplasty" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
                 </li>
                 <li>
                   <span className="font-medium">8.</span> Insall JN, et al. <em>"Total knee arthroplasty."</em> Clin Orthop Relat Res. 1985;(192):13-22.{' '}
@@ -377,11 +377,11 @@ export default function DizProteziPage() {
                 </li>
                 <li>
                   <span className="font-medium">9.</span> Ranawat CS, et al. <em>"Total condylar knee arthroplasty."</em> Clin Orthop Relat Res. 1976;(120):76-82.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/991522/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 991522</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=total+knee+arthroplasty" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
                 </li>
                 <li>
                   <span className="font-medium">10.</span> Maradit Kremers H, et al. <em>"Prevalence of Total Hip and Knee Replacement in the United States."</em> J Bone Joint Surg Am. 2015;97(17):1386-97.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/26333733/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 26333733</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=total+knee+arthroplasty" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
                 </li>
               </ol>
             </details>

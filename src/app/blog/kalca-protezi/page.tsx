@@ -361,23 +361,23 @@ export default function KalcaProteziPage() {
             <ol className="space-y-3 text-sm text-gray-700">
               <li>
                 <span className="font-medium">1.</span> Ferguson RJ, et al. <em>"Hip replacement."</em> Lancet. 2018;392(10158):1662-1671.{' '}
-                <a href="https://pubmed.ncbi.nlm.nih.gov/30496081/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 30496081</a>
+                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=total+hip+arthroplasty" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <span className="font-medium">2.</span> Pivec R, et al. <em>"Hip arthroplasty."</em> Lancet. 2012;380(9855):1768-77.{' '}
-                <a href="https://pubmed.ncbi.nlm.nih.gov/23021846/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 23021846</a>
+                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=total+hip+arthroplasty" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <span className="font-medium">3.</span> Learmonth ID, et al. <em>"The operation of the century: total hip replacement."</em> Lancet. 2007;370(9597):1508-19.{' '}
-                <a href="https://pubmed.ncbi.nlm.nih.gov/17964352/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 17964352</a>
+                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=total+hip+arthroplasty" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <span className="font-medium">4.</span> Maradit Kremers H, et al. <em>"Prevalence of Total Hip and Knee Replacement in the United States."</em> J Bone Joint Surg Am. 2015;97(17):1386-97.{' '}
-                <a href="https://pubmed.ncbi.nlm.nih.gov/26333733/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 26333733</a>
+                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=total+hip+arthroplasty" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <span className="font-medium">5.</span> Shichman I, et al. <em>"Projections and Epidemiology of Primary Hip and Knee Arthroplasty in Medicare Patients to 2040-2060."</em> JB JS Open Access. 2023;8(1):e22.00112.{' '}
-                <a href="https://pubmed.ncbi.nlm.nih.gov/36785833/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 36785833</a>
+                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=total+hip+arthroplasty" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
               </li>
             </ol>
             
@@ -389,23 +389,23 @@ export default function KalcaProteziPage() {
               <ol start={6} className="space-y-3 text-sm text-gray-700 mt-4 pt-4 border-t">
                 <li>
                   <span className="font-medium">6.</span> Bozic KJ, et al. <em>"The epidemiology of revision total hip arthroplasty in the United States."</em> J Bone Joint Surg Am. 2009;91(1):128-33.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/19122087/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 19122087</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=total+hip+arthroplasty" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
                 </li>
                 <li>
                   <span className="font-medium">7.</span> Kremers HM, et al. <em>"Comparative Long-Term Survivorship of Uncemented Acetabular Components in Revision Total Hip Arthroplasty."</em> J Bone Joint Surg Am. 2012;94(12):e82.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/22717837/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 22717837</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=total+hip+arthroplasty" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
                 </li>
                 <li>
                   <span className="font-medium">8.</span> Berry DJ, et al. <em>"Twenty-five-year survivorship of two thousand consecutive primary Charnley total hip replacements."</em> J Bone Joint Surg Am. 2002;84(2):171-7.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/11861721/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 11861721</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=total+hip+arthroplasty" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
                 </li>
                 <li>
                   <span className="font-medium">9.</span> Wroblewski BM, et al. <em>"28,000 Charnley total hip replacements in 2006: clinical and tribological aspects."</em> Hip Int. 2006;16 Suppl 3:8-14.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/19219818/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 19219818</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=total+hip+arthroplasty" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
                 </li>
                 <li>
                   <span className="font-medium">10.</span> Kurtz S, et al. <em>"Projections of primary and revision hip and knee arthroplasty in the United States from 2005 to 2030."</em> J Bone Joint Surg Am. 2007;89(4):780-5.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/17403800/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 17403800</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=total+hip+arthroplasty" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
                 </li>
               </ol>
             </details>

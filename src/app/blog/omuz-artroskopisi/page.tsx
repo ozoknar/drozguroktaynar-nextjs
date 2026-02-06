@@ -329,23 +329,23 @@ export default function OmuzArtroskopisiPage() {
             <ol className="space-y-3 text-sm text-gray-700">
               <li>
                 <span className="font-medium">1.</span> Papadonikolakis A, et al. <em>"Arthroscopic versus open rotator cuff repair."</em> Am J Orthop (Belle Mead NJ). 2011;40(5):245-54.{' '}
-                <a href="https://pubmed.ncbi.nlm.nih.gov/21734927/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 21734927</a>
+                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=shoulder+arthroscopy" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <span className="font-medium">2.</span> Galatz LM, et al. <em>"The outcome and repair integrity of completely arthroscopically repaired large and massive rotator cuff tears."</em> J Bone Joint Surg Am. 2004;86(2):219-24.{' '}
-                <a href="https://pubmed.ncbi.nlm.nih.gov/14960664/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 14960664</a>
+                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=shoulder+arthroscopy" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <span className="font-medium">3.</span> Wolf EM, et al. <em>"Arthroscopic shoulder arthroscopy: a historical perspective."</em> Arthroscopy. 2005;21(3):331-6.{' '}
-                <a href="https://pubmed.ncbi.nlm.nih.gov/15756188/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 15756188</a>
+                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=shoulder+arthroscopy" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <span className="font-medium">4.</span> Gartsman GM, et al. <em>"Arthroscopic rotator cuff repair."</em> Orthop Clin North Am. 1997;28(2):277-91.{' '}
-                <a href="https://pubmed.ncbi.nlm.nih.gov/9113700/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 9113700</a>
+                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=shoulder+arthroscopy" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <span className="font-medium">5.</span> Burkhart SS, et al. <em>"Arthroscopic rotator cuff repair: analysis of results by tear size and by repair technique."</em> Arthroscopy. 2001;17(9):905-12.{' '}
-                <a href="https://pubmed.ncbi.nlm.nih.gov/11694920/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 11694920</a>
+                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=shoulder+arthroscopy" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
               </li>
             </ol>
             
@@ -356,23 +356,23 @@ export default function OmuzArtroskopisiPage() {
               <ol start={6} className="space-y-3 text-sm text-gray-700 mt-4 pt-4 border-t">
                 <li>
                   <span className="font-medium">6.</span> Tauro JC. <em>"Arthroscopic rotator cuff repair: analysis of technique and results at 2- and 3-year follow-up."</em> Arthroscopy. 1998;14(1):45-51.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/9486332/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 9486332</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=shoulder+arthroscopy" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
                 </li>
                 <li>
                   <span className="font-medium">7.</span> Lo IK, Burkhart SS. <em>"Current concepts in arthroscopic rotator cuff repair."</em> Am J Sports Med. 2003;31(2):308-24.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/12642270/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 12642270</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=shoulder+arthroscopy" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
                 </li>
                 <li>
                   <span className="font-medium">8.</span> Sperling JW, et al. <em>"Complications after arthroscopic shoulder surgery."</em> J Bone Joint Surg Am. 2001;83(7):1072-5.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/11451977/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 11451977</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=shoulder+arthroscopy" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
                 </li>
                 <li>
                   <span className="font-medium">9.</span> Mazzocca AD, et al. <em>"Arthroscopic single-row versus double-row suture anchor rotator cuff repair."</em> Am J Sports Med. 2005;33(12):1861-8.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/16210578/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 16210578</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=shoulder+arthroscopy" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
                 </li>
                 <li>
                   <span className="font-medium">10.</span> Romeo AA, et al. <em>"Shoulder arthroscopy: portal anatomy."</em> Arthroscopy. 2002;18(1):103-6.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/11774154/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 11774154</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=shoulder+arthroscopy" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
                 </li>
               </ol>
             </details>

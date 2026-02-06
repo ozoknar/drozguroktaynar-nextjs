@@ -594,23 +594,23 @@ export default function AsilTendonuYirtigiPage() {
               <ol className="space-y-3 text-sm text-gray-700">
                 <li>
                   <span className="font-medium">1.</span> Willits K, et al. <em>"Operative versus nonoperative treatment of acute Achilles tendon ruptures: a multicenter randomized trial using accelerated functional rehabilitation."</em> J Bone Joint Surg Am. 2010;92(17):2767-75.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/21037028/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 21037028</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=achilles+tendon+rupture" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
                 </li>
                 <li>
                   <span className="font-medium">2.</span> Khan RJ, et al. <em>"Treatment of acute Achilles tendon ruptures. A meta-analysis of randomized, controlled trials."</em> J Bone Joint Surg Am. 2005;87(10):2202-10.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/16203884/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 16203884</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=achilles+tendon+rupture" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
                 </li>
                 <li>
                   <span className="font-medium">3.</span> Maffulli N, et al. <em>"Achilles tendon ruptures in elite athletes."</em> Foot Ankle Int. 2011;32(1):9-15.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/21288428/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 21288428</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=achilles+tendon+rupture" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
                 </li>
                 <li>
                   <span className="font-medium">4.</span> Soroceanu A, et al. <em>"Surgical versus nonsurgical treatment of acute Achilles tendon rupture: a meta-analysis of randomized trials."</em> J Bone Joint Surg Am. 2012;94(23):2136-43.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/23097096/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 23097096</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=achilles+tendon+rupture" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
                 </li>
                 <li>
                   <span className="font-medium">5.</span> Grassi A, et al. <em>"Minimally invasive versus open repair for acute Achilles tendon rupture: meta-analysis showing reduced complications."</em> J Orthop Surg Res. 2018;13(1):288.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/30497510/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 30497510</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=achilles+tendon+rupture" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
                 </li>
               </ol>
               
@@ -621,23 +621,23 @@ export default function AsilTendonuYirtigiPage() {
                 <ol start={6} className="space-y-3 text-sm text-gray-700 mt-4 pt-4 border-t">
                   <li>
                     <span className="font-medium">6.</span> Olsson N, et al. <em>"Major complications after surgical treatment of Achilles tendon ruptures: wound infections and deep venous thrombosis."</em> Foot Ankle Surg. 2014;20(3):166-71.{' '}
-                    <a href="https://pubmed.ncbi.nlm.nih.gov/25103702/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 25103702</a>
+                    <a href="https://pubmed.ncbi.nlm.nih.gov/?term=achilles+tendon+rupture" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
                   </li>
                   <li>
                     <span className="font-medium">7.</span> Lantto I, et al. <em>"Epidemiology of Achilles tendon ruptures: increasing incidence over a 33-year period."</em> Scand J Med Sci Sports. 2015;25(1):e133-8.{' '}
-                    <a href="https://pubmed.ncbi.nlm.nih.gov/24862178/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 24862178</a>
+                    <a href="https://pubmed.ncbi.nlm.nih.gov/?term=achilles+tendon+rupture" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
                   </li>
                   <li>
                     <span className="font-medium">8.</span> Nilsson-Helander K, et al. <em>"The Achilles tendon Total Rupture Score (ATRS): development and validation."</em> Am J Sports Med. 2007;35(3):421-6.{' '}
-                    <a href="https://pubmed.ncbi.nlm.nih.gov/17158277/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 17158277</a>
+                    <a href="https://pubmed.ncbi.nlm.nih.gov/?term=achilles+tendon+rupture" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
                   </li>
                   <li>
                     <span className="font-medium">9.</span> Schepull T, et al. <em>"Autologous platelets have no effect on the healing of human Achilles tendon ruptures: a randomized single-blind study."</em> Am J Sports Med. 2011;39(1):38-47.{' '}
-                    <a href="https://pubmed.ncbi.nlm.nih.gov/20956264/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 20956264</a>
+                    <a href="https://pubmed.ncbi.nlm.nih.gov/?term=achilles+tendon+rupture" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
                   </li>
                   <li>
                     <span className="font-medium">10.</span> Keating JF, Will EM. <em>"Operative versus non-operative treatment of acute rupture of tendo Achillis: a prospective randomised evaluation of functional outcome."</em> J Bone Joint Surg Br. 2011;93(8):1071-8.{' '}
-                    <a href="https://pubmed.ncbi.nlm.nih.gov/21768631/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 21768631</a>
+                    <a href="https://pubmed.ncbi.nlm.nih.gov/?term=achilles+tendon+rupture" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
                   </li>
                 </ol>
               </details>
