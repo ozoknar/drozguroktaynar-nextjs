@@ -1,83 +1,330 @@
-import type { Metadata } from "next";
-import Link from "next/link";
+import { Metadata } from "next";
 
 export const metadata: Metadata = {
-  title: "Stres Kırığı Tedavisi | Op. Dr. Özgür Oktay Nar",
-  description: "Stres kırığı nedir, belirtileri ve tedavi yöntemleri. Sporcularda sık görülen bu rahatsızlık hakkında detaylı bilgi.",
+  title: "Stres Kırığı Nedir? Belirtileri ve Tedavisi | Op. Dr. Özgür Oktay Nar",
+  description: "Stres kırığı (yorgunluk kırığı) belirtileri, sebepleri ve tedavi yöntemleri. Sporcularda sık görülen ayak ve bacak stres kırığı hakkında uzman bilgisi.",
+  keywords: ["stres kırığı", "yorgunluk kırığı", "ayak kırığı", "sporcu yaralanması", "tarak kemiği kırığı", "bursa ortopedi"],
+  openGraph: {
+    title: "Stres Kırığı Nedir? Belirtileri ve Tedavisi",
+    description: "Stres kırığı tedavisi hakkında uzman bilgisi. Op. Dr. Özgür Oktay Nar - Bursa Ortopedi Uzmanı",
+    type: "article",
+    url: "https://www.ozguroktaynar.com/blog/stres-kirigi",
+    images: [
+      {
+        url: "https://ooxijkokuifpwunx.public.blob.vercel-storage.com/uploads/uploads/2024/02/kosu-analizi-nedir-scaled-1.jpg",
+        width: 1200,
+        height: 630,
+        alt: "Stres Kırığı Tedavisi",
+      },
+    ],
+  },
+};
+
+const articleSchema = {
+  "@context": "https://schema.org",
+  "@type": "MedicalWebPage",
+  "name": "Stres Kırığı Nedir? Belirtileri ve Tedavisi",
+  "description": "Stres kırığı, tekrarlayan mikro travmalar sonucu kemiklerde oluşan çatlaklardır. Sporcularda sık görülür.",
+  "author": {
+    "@type": "Person",
+    "name": "Op. Dr. Özgür Oktay Nar",
+    "jobTitle": "Ortopedi ve Travmatoloji Uzmanı"
+  },
+  "datePublished": "2024-01-12",
+  "dateModified": "2026-02-06",
+  "image": "https://ooxijkokuifpwunx.public.blob.vercel-storage.com/uploads/uploads/2024/02/kosu-analizi-nedir-scaled-1.jpg"
+};
+
+const faqSchema = {
+  "@context": "https://schema.org",
+  "@type": "FAQPage",
+  "mainEntity": [
+    {
+      "@type": "Question",
+      "name": "Stres kırığı nedir?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Stres kırığı, tekrarlayan mikro travmalar ve aşırı yüklenme sonucu kemiklerde oluşan küçük çatlaklardır. Tam bir kırık değildir."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Stres kırığı belirtileri nelerdir?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Kırık bölgede hassasiyet, şişlik, aktivite ile artan ağrı, dinlenince azalan ağrı ve morluklar stres kırığının belirtileridir."
+      }
+    },
+    {
+      "@type": "Question",
+      "name": "Stres kırığı nasıl tedavi edilir?",
+      "acceptedAnswer": {
+        "@type": "Answer",
+        "text": "Tedavide öncelikle istirahat, doğru ayakkabı seçimi ve problemli bölgeye yük verilmemesi gerekir. Gerekirse alçı uygulanabilir."
+      }
+    }
+  ]
 };
 
 export default function StresKirigiPage() {
   return (
-    <article className="py-16">
-      <div className="max-w-3xl mx-auto px-4 sm:px-6 lg:px-8">
-        <Link href="/blog" className="text-blue-600 hover:text-blue-800 mb-6 inline-block">
-          ← Blog&apos;a Dön
-        </Link>
-        
-        <h1 className="text-4xl font-bold text-gray-900 mb-4">
-          Stres Kırığı Tedavisi
-        </h1>
-        <time className="text-gray-500">2026-02-03</time>
+    <>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(articleSchema) }}
+      />
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(faqSchema) }}
+      />
 
-        <div className="prose prose-lg mt-8 text-gray-700">
-          <p>
-            Stres kırığı, aslında tam olarak bir kırık değildir. Ayağın yük taşıması sırasında her bölgenin farklı işlevleri vardır. Yürüyüş esnasında ayağın her bölgesi belli miktarda yük taşır.
-          </p>
-          <p>
-            Ancak ayağın anatomik yapısı zorlanırsa ve yanlış yerlere fazla miktarda yük bindirilirse kemiğin basınç altında kalmasına sebep olunur. Basınç ise tarak ve kaval kemiklerinde ödeme neden olur. Ödem geliştikçe kemiğin içerisindeki basıncı arttırır. Bu basınç ise hastaya ağrı olarak yansır.
-          </p>
-          <p>
-            Stres kırığı daha çok alt baldır kemikleri ve ayak tarak kemiklerinde meydana gelir. Bunun sonucunda ise küçük çatlaklar meydana gelir.
-          </p>
-          <p>
-            Araştırmalar sonucu stres kırığının daha çok enerji gerektiren sporları yapan kişilerde oluştuğu görülmüştür. Bu enerji gerektiren sporlar ise basketbol, tenis, atletizm gibi sporlardır. Çünkü bu sporlarda zemine ayak çarpma hareketi daha çok yapılır.
-          </p>
-
-          <h2 className="text-2xl font-bold text-gray-900 mt-8 mb-4">Stres Kırığı Belirtileri</h2>
-          <p>Stres kırığının birçok belirtisi bulunmaktadır:</p>
-          <ul className="list-disc pl-6 space-y-2">
-            <li>Kırık bölgeye dokunulduğunda hassasiyet</li>
-            <li>Ayağın üzerinde ve ayak bileği dışında şişlik</li>
-            <li>Vücuda ağırlık yükleyen aktivitelerde ağrının artması ve dinlenince azalması</li>
-            <li>Ağrının olduğu kısımlarda morluklar</li>
-          </ul>
-
-          <h2 className="text-2xl font-bold text-gray-900 mt-8 mb-4">Stres Kırığı Tedavisi</h2>
-          <p>
-            Tedavisindeki en önemli aşama, hastanın stres yüke sebep olan faktörünü ortadan kaldırmaktır. Bunun için öncelikle doğru ayakkabı seçilmelidir.
-          </p>
-          <p>
-            Tedavi sürecinde:
-          </p>
-          <ul className="list-disc pl-6 space-y-2">
-            <li>İlk üç haftada istirahat edilmelidir</li>
-            <li>Problem olan ayağın üzerine kesinlikle yük verilmemelidir</li>
-            <li>Takip eden 3-6 hafta arasında hafif yük verilmelidir</li>
-            <li>Problemli bölge alçıya alınabilir</li>
-            <li>Hasta yumuşak ve koruyucu ayakkabıları tercih etmelidir</li>
-          </ul>
-          <p className="mt-4">
-            Bu hastalığın tanısı koyulurken kullanılan en etkili yöntem MRI&apos;dır. Bahsedilen uygulamaların tümü cerrahi dışı yöntemlerdir. Ancak hasta bu yöntemlerden herhangi birisine cevap vermezse cerrahi uygulamalara başvurulabilir.
-          </p>
-
-          <h2 className="text-2xl font-bold text-gray-900 mt-8 mb-4">Tedavi Sonrası</h2>
-          <p>
-            Stres kırığı tedavi edildikten sonra, aktivitelere dönüş için acele edilmemelidir. Egzersizlerin hızı, süresi ve mesafesi kademeli olarak arttırılmalı ve ayak kemiğinin çok fazla zorlanmasının önüne geçilmelidir.
-          </p>
+      {/* Hero Section */}
+      <section className="relative bg-gradient-to-r from-orange-900 to-orange-700 text-white py-20">
+        <div className="container mx-auto px-4">
+          <div className="grid md:grid-cols-2 gap-8 items-center">
+            <div>
+              <span className="inline-block bg-orange-500 text-sm px-3 py-1 rounded-full mb-4">
+                Sporcu Yaralanmaları
+              </span>
+              <h1 className="text-4xl md:text-5xl font-bold mb-4">
+                Stres Kırığı Tedavisi
+              </h1>
+              <p className="text-xl text-orange-100 mb-6">
+                Sporcularda sık görülen stres kırığı hakkında bilmeniz gerekenler
+              </p>
+              <a
+                href="tel:+905398416801"
+                className="inline-block bg-white text-orange-900 px-8 py-3 rounded-lg font-semibold hover:bg-orange-50 transition"
+              >
+                Randevu Al: 0539 841 68 01
+              </a>
+            </div>
+            <div className="hidden md:block">
+              <img
+                src="https://ooxijkokuifpwunx.public.blob.vercel-storage.com/uploads/uploads/2024/02/kosu-analizi-nedir-scaled-1.jpg"
+                alt="Stres Kırığı - Koşu Analizi"
+                className="rounded-lg shadow-2xl"
+                width={600}
+                height={400}
+              />
+            </div>
+          </div>
         </div>
+      </section>
 
-        <div className="mt-12 p-6 bg-green-50 rounded-xl">
-          <h3 className="text-xl font-semibold text-gray-900 mb-3">Randevu Almak İster misiniz?</h3>
-          <p className="text-gray-600 mb-4">Stres kırığı tedavisi için muayenehaneye bekleriz.</p>
-          <Link
-            href="https://wa.me/905522493909"
-            target="_blank"
-            className="bg-green-600 text-white px-6 py-3 rounded-lg font-semibold hover:bg-green-700 transition inline-block"
-          >
-            📱 WhatsApp ile Randevu Al
-          </Link>
+      {/* Main Content */}
+      <article className="py-16">
+        <div className="container mx-auto px-4 max-w-4xl">
+          
+          {/* Introduction */}
+          <section className="prose prose-lg max-w-none mb-12">
+            <p className="text-xl text-gray-700 leading-relaxed">
+              <strong>Stres kırığı</strong>, aslında tam olarak bir kırık değildir. Ayağın yük taşıması sırasında 
+              her bölgenin farklı işlevleri vardır. Yürüyüş esnasında ayağın her bölgesi belli miktarda yük taşır.
+            </p>
+            <p className="text-gray-600">
+              Ancak ayağın anatomik yapısı zorlanırsa ve yanlış yerlere fazla miktarda yük bindirilirse kemiğin 
+              basınç altında kalmasına sebep olunur. Basınç ise tarak ve kaval kemiklerinde ödeme neden olur. 
+              Ödem geliştikçe kemiğin içerisindeki basıncı arttırır. Bu basınç ise hastaya ağrı olarak yansır.
+            </p>
+          </section>
+
+          {/* Who Gets It */}
+          <section className="mb-12 bg-orange-50 p-8 rounded-xl">
+            <h2 className="text-2xl font-bold text-gray-800 mb-6">
+              Stres Kırığı Kimlerde Görülür?
+            </h2>
+            <p className="text-gray-700 mb-4">
+              Stres kırığı daha çok alt baldır kemikleri ve ayak tarak kemiklerinde meydana gelir. 
+              Araştırmalar sonucu stres kırığının daha çok enerji gerektiren sporları yapan kişilerde 
+              oluştuğu görülmüştür.
+            </p>
+            <div className="grid md:grid-cols-2 gap-4 mt-6">
+              <div className="bg-white p-4 rounded-lg">
+                <h3 className="font-semibold text-orange-800 mb-2">Yüksek Riskli Sporlar</h3>
+                <ul className="text-gray-700 space-y-1">
+                  <li>• Basketbol</li>
+                  <li>• Tenis</li>
+                  <li>• Atletizm</li>
+                  <li>• Saha ve pist sporları</li>
+                </ul>
+              </div>
+              <div className="bg-white p-4 rounded-lg">
+                <h3 className="font-semibold text-orange-800 mb-2">Risk Faktörleri</h3>
+                <ul className="text-gray-700 space-y-1">
+                  <li>• Yanlış ayakkabı kullanımı</li>
+                  <li>• Sert zeminde antrenman</li>
+                  <li>• Ani antrenman artışı</li>
+                  <li>• Yetersiz dinlenme</li>
+                </ul>
+              </div>
+            </div>
+          </section>
+
+          {/* Symptoms */}
+          <section className="mb-12">
+            <h2 className="text-2xl font-bold text-gray-800 mb-6">
+              Stres Kırığı Belirtileri
+            </h2>
+            <div className="bg-red-50 border-l-4 border-red-500 p-6 rounded-r-lg">
+              <p className="text-gray-700 mb-4 font-medium">
+                Stres kırığının birçok belirtisi bulunmaktadır:
+              </p>
+              <ul className="space-y-3">
+                {[
+                  "Kırık bölgeye dokunulduğunda hassasiyet",
+                  "Ayağın üzerinde ve ayak bileği dışında şişlik",
+                  "Vücuda ağırlık yükleyen aktivitelerde ağrının artması",
+                  "Dinlenince ağrının azalması",
+                  "Ağrının olduğu kısımlarda morluklar"
+                ].map((item, i) => (
+                  <li key={i} className="flex items-start gap-2">
+                    <span className="text-red-500 font-bold">!</span>
+                    <span className="text-gray-700">{item}</span>
+                  </li>
+                ))}
+              </ul>
+            </div>
+          </section>
+
+          {/* Treatment */}
+          <section className="mb-12">
+            <h2 className="text-2xl font-bold text-gray-800 mb-6">
+              Stres Kırığı Tedavisi
+            </h2>
+            <div className="bg-green-50 p-8 rounded-xl">
+              <p className="text-gray-700 mb-6">
+                Tedavisindeki en önemli aşama, hastanın stres yüke sebep olan faktörünü ortadan kaldırmaktır.
+              </p>
+              
+              <div className="space-y-4">
+                <div className="bg-white p-4 rounded-lg border-l-4 border-green-500">
+                  <h3 className="font-semibold text-green-800 mb-2">1. Hafta 1-3: İstirahat</h3>
+                  <p className="text-gray-600">Doğru ayakkabı seçimi ve kesin istirahat. Problem olan ayağa kesinlikle yük verilmemeli.</p>
+                </div>
+                
+                <div className="bg-white p-4 rounded-lg border-l-4 border-green-500">
+                  <h3 className="font-semibold text-green-800 mb-2">2. Hafta 3-6: Kademeli Yük</h3>
+                  <p className="text-gray-600">Hafif yük verilerek yanlış yük vermekten kaynaklanan basınç azaltılır.</p>
+                </div>
+                
+                <div className="bg-white p-4 rounded-lg border-l-4 border-green-500">
+                  <h3 className="font-semibold text-green-800 mb-2">3. Destekleyici Tedavi</h3>
+                  <p className="text-gray-600">Gerekirse alçı uygulanabilir. Yumuşak ve koruyucu ayakkabılar tercih edilmelidir.</p>
+                </div>
+              </div>
+            </div>
+          </section>
+
+          {/* Diagnosis */}
+          <section className="mb-12 bg-blue-50 p-8 rounded-xl">
+            <h2 className="text-2xl font-bold text-gray-800 mb-4">
+              Tanı Yöntemi
+            </h2>
+            <p className="text-gray-700">
+              Bu hastalığın tanısı koyulurken kullanılan en etkili yöntem <strong>MRI</strong>'dır. 
+              MRI ile kemiğin içindeki ödem ve mikro çatlaklar net olarak görüntülenebilir.
+            </p>
+          </section>
+
+          {/* After Treatment */}
+          <section className="mb-12">
+            <h2 className="text-2xl font-bold text-gray-800 mb-6">
+              Tedavi Sonrası Dikkat Edilmesi Gerekenler
+            </h2>
+            <div className="bg-yellow-50 border-l-4 border-yellow-500 p-6 rounded-r-lg">
+              <p className="text-gray-700 mb-4">
+                Stres kırığı tedavi edildikten sonra, aktivitelere dönüş için acele edilmemelidir.
+              </p>
+              <ul className="space-y-2 text-gray-700">
+                <li>• Egzersizlerin hızı, süresi ve mesafesi kademeli olarak arttırılmalı</li>
+                <li>• Ayak kemiğinin çok fazla zorlanmasının önüne geçilmeli</li>
+                <li>• Uygun spor ayakkabısı kullanılmalı</li>
+                <li>• Antrenman programı uzman gözetiminde ayarlanmalı</li>
+              </ul>
+            </div>
+          </section>
+
+          {/* FAQ Section */}
+          <section className="mb-12">
+            <h2 className="text-2xl font-bold text-gray-800 mb-6">
+              Sıkça Sorulan Sorular
+            </h2>
+            <div className="space-y-4">
+              {[
+                {
+                  q: "Stres kırığı nedir?",
+                  a: "Stres kırığı, tekrarlayan mikro travmalar ve aşırı yüklenme sonucu kemiklerde oluşan küçük çatlaklardır. Tam bir kırık değildir."
+                },
+                {
+                  q: "Stres kırığı belirtileri nelerdir?",
+                  a: "Kırık bölgede hassasiyet, şişlik, aktivite ile artan ağrı, dinlenince azalan ağrı ve morluklar stres kırığının belirtileridir."
+                },
+                {
+                  q: "Stres kırığı nasıl tedavi edilir?",
+                  a: "Tedavide öncelikle istirahat, doğru ayakkabı seçimi ve problemli bölgeye yük verilmemesi gerekir. Gerekirse alçı uygulanabilir."
+                },
+                {
+                  q: "Stres kırığı ne kadar sürede iyileşir?",
+                  a: "Uygun tedavi ile genellikle 6-8 hafta içinde iyileşme sağlanır. Ancak tam spora dönüş daha uzun sürebilir."
+                }
+              ].map((faq, i) => (
+                <details key={i} className="bg-gray-50 rounded-lg p-4 group">
+                  <summary className="font-semibold text-gray-800 cursor-pointer list-none flex justify-between items-center">
+                    {faq.q}
+                    <span className="text-orange-500 group-open:rotate-180 transition-transform">▼</span>
+                  </summary>
+                  <p className="mt-3 text-gray-600">{faq.a}</p>
+                </details>
+              ))}
+            </div>
+          </section>
+
+          {/* CTA Section */}
+          <section className="bg-gradient-to-r from-orange-600 to-orange-800 text-white p-8 rounded-2xl text-center">
+            <h2 className="text-2xl font-bold mb-4">
+              Ayak veya Bacak Ağrınız mı Var?
+            </h2>
+            <p className="text-orange-100 mb-6">
+              Stres kırığı şüphesi varsa erken tanı önemlidir. Hemen randevu alın.
+            </p>
+            <div className="flex flex-col sm:flex-row gap-4 justify-center">
+              <a
+                href="tel:+905398416801"
+                className="bg-white text-orange-700 px-8 py-3 rounded-lg font-semibold hover:bg-orange-50 transition"
+              >
+                📞 0539 841 68 01
+              </a>
+              <a
+                href="https://wa.me/905398416801"
+                className="bg-green-500 text-white px-8 py-3 rounded-lg font-semibold hover:bg-green-600 transition"
+              >
+                💬 WhatsApp
+              </a>
+            </div>
+          </section>
+
+          {/* Related Links */}
+          <section className="mt-12">
+            <h3 className="text-xl font-bold text-gray-800 mb-4">İlgili Konular</h3>
+            <div className="grid md:grid-cols-3 gap-4">
+              {[
+                { title: "Plantar Fasiit", href: "/blog/plantar-fasiit" },
+                { title: "Ayak Bileği Kırığı", href: "/ayak-bilegi-kirigi-sonrasi-yurume" },
+                { title: "Sporcu Sorunları", href: "/bursa-ortopedi-doktoru" }
+              ].map((link, i) => (
+                <a
+                  key={i}
+                  href={link.href}
+                  className="block p-4 bg-gray-50 rounded-lg hover:bg-gray-100 transition"
+                >
+                  <span className="text-orange-600 font-medium">{link.title} →</span>
+                </a>
+              ))}
+            </div>
+          </section>
         </div>
-      </div>
-    </article>
+      </article>
+    </>
   );
 }
