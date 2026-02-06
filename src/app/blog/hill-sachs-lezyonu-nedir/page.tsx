@@ -131,7 +131,7 @@ export default function HillSachsLezyonuPage() {
             <div className="bg-yellow-50 p-6 rounded-lg">
               <h4 className="font-semibold text-lg mb-3">Risk Faktörleri:</h4>
               <ul className="space-y-2 text-gray-700">
-                <li>• Genç yaş (<30 yaş, ilk dislokasyonda)</li>
+                <li>• Genç yaş (&lt;30 yaş, ilk dislokasyonda)</li>
                 <li>• Erkek cinsiyet (2-3:1)</li>
                 <li>• Kontakt sporlar (Amerikan futbolu, ragbi)</li>
                 <li>• Overhead sporlar (yüzme, tenis)</li>
@@ -152,9 +152,9 @@ export default function HillSachsLezyonuPage() {
             <div className="bg-green-50 p-6 rounded-lg border-l-4 border-green-500">
               <h4 className="font-semibold text-lg mb-3">1. Boyuta Göre Sınıflandırma (Rowe):</h4>
               <ul className="space-y-2 text-gray-700">
-                <li>• <strong>Küçük (Mild):</strong> <2 cm, yüzeyel (<0.3 cm derinlik)</li>
+                <li>• <strong>Küçük (Mild):</strong> &lt;2 cm, yüzeyel (&lt;0.3 cm derinlik)</li>
                 <li>• <strong>Orta (Moderate):</strong> 2-4 cm, 0.3-1 cm derinlik</li>
-                <li>• <strong>Büyük (Severe):</strong> >4 cm, >1 cm derinlik, humerus başı %25-40'ı</li>
+                <li>• <strong>Büyük (Severe):</strong> &gt;4 cm, &gt;1 cm derinlik, humerus başı %25-40'ı</li>
               </ul>
             </div>
 
@@ -248,7 +248,7 @@ export default function HillSachsLezyonuPage() {
               <h4 className="font-semibold text-lg mb-3">Sulcus Sign:</h4>
               <ul className="space-y-2 text-gray-700">
                 <li>• <strong>Prosedür:</strong> Kol yanında, aşağıya çekme ile akromiyon altında çukurluk oluşumu</li>
-                <li>• <strong>Pozitif:</strong> >2 cm çukurluk → multidirectional instability (MDI) işareti</li>
+                <li>• <strong>Pozitif:</strong> &gt;2 cm çukurluk → multidirectional instability (MDI) işareti</li>
               </ul>
             </div>
           </div>
@@ -314,7 +314,7 @@ export default function HillSachsLezyonuPage() {
               <li>• <strong>Bankart lezyonu:</strong> %90-95 (anterior-inferior labral yırtık) — Hill-Sachs'ın "karşı ucu"</li>
               <li>• <strong>ALPSA lezyonu:</strong> Anterior labrum periosteal sleeve avulsion</li>
               <li>• <strong>HAGL lezyonu:</strong> Humeral avulsion of glenohumeral ligament</li>
-              <li>• <strong>Rotator cuff yırtığı:</strong> Özellikli >40 yaş (%35-40)</li>
+              <li>• <strong>Rotator cuff yırtığı:</strong> Özellikli &gt;40 yaş (%35-40)</li>
               <li>• <strong>SLAP lezyonu:</strong> Superior labral yırtık</li>
               <li>• <strong>Anterior kapsül gerilmesi:</strong> Kronik instabilite</li>
             </ul>
@@ -365,7 +365,7 @@ export default function HillSachsLezyonuPage() {
               <li>• Engaging Hill-Sachs lezyonu (off-track)</li>
               <li>• Genç, aktif hastalar (özellikle overhead sporcular)</li>
               <li>• Ciddi fonksiyon kaybı ve yaşam kalitesinde azalma</li>
-              <li>• Büyük Hill-Sachs lezyonu (>%25 humerus başı)</li>
+              <li>• Büyük Hill-Sachs lezyonu (&gt;%25 humerus başı)</li>
             </ul>
           </div>
 
@@ -398,7 +398,7 @@ export default function HillSachsLezyonuPage() {
             <div className="bg-purple-50 p-6 rounded-lg">
               <h4 className="font-semibold text-lg mb-3">3. Kemik Greft (Bone Grafting):</h4>
               <ul className="space-y-2 text-gray-700">
-                <li>• <strong>Endikasyon:</strong> Çok büyük Hill-Sachs lezyonu (>%40 humerus başı, remplissage yetersiz)</li>
+                <li>• <strong>Endikasyon:</strong> Çok büyük Hill-Sachs lezyonu (&gt;%40 humerus başı, remplissage yetersiz)</li>
                 <li>• <strong>Greft kaynağı:</strong>
                   <ul className="ml-6 mt-2 space-y-1">
                     <li>- <strong>Otogreft:</strong> Distal femur, iliac crest, humerus başı</li>
@@ -441,10 +441,10 @@ export default function HillSachsLezyonuPage() {
             <h4 className="font-semibold text-lg mb-3">Tedavi Seçim Algoritması:</h4>
             <ul className="space-y-2 text-gray-700">
               <li>• <strong>Küçük Hill-Sachs + on-track:</strong> Sadece Bankart tamiri</li>
-              <li>• <strong>Orta Hill-Sachs + off-track + <25% defekt:</strong> Bankart + Remplissage</li>
+              <li>• <strong>Orta Hill-Sachs + off-track + &lt;25% defekt:</strong> Bankart + Remplissage</li>
               <li>• <strong>Büyük Hill-Sachs + 25-40% defekt:</strong> Remplissage veya kemik greft (yaş, talep bazlı)</li>
-              <li>• <strong>Çok büyük Hill-Sachs + >40% defekt:</strong> Osteochondral allograft veya resurfacing</li>
-              <li>• <strong>Glenoid kemik kaybı >20%:</strong> Latarjet/Bristow prosedürü eklenebilir</li>
+              <li>• <strong>Çok büyük Hill-Sachs + &gt;40% defekt:</strong> Osteochondral allograft veya resurfacing</li>
+              <li>• <strong>Glenoid kemik kaybı &gt;20%:</strong> Latarjet/Bristow prosedürü eklenebilir</li>
             </ul>
           </div>
 
@@ -483,8 +483,8 @@ export default function HillSachsLezyonuPage() {
               <li>• <strong>Tekrar dislokasyon:</strong> %3-15 (teknik ve lezyon büyüklüğüne bağlı)</li>
               <li>• <strong>Sertlik:</strong> %5-10</li>
               <li>• <strong>Eksternal rotasyon kaybı:</strong> 5-10° (remplissage sonrası)</li>
-              <li>• <strong>Enfeksiyon:</strong> <%1</li>
-              <li>• <strong>Nörolojik yaralanma:</strong> <%1 (aksiller sinir)</li>
+              <li>• <strong>Enfeksiyon:</strong> &lt;%1</li>
+              <li>• <strong>Nörolojik yaralanma:</strong> &lt;%1 (aksiller sinir)</li>
               <li>• <strong>Artrit:</strong> %5-15 (10-20 yıl içinde, özellikle kemik greft sonrası)</li>
             </ul>
           </div>
@@ -493,8 +493,8 @@ export default function HillSachsLezyonuPage() {
             <h4 className="font-semibold text-lg mb-3">Prognostik Faktörler:</h4>
             <ul className="space-y-2 text-gray-700">
               <li>• <strong>İyi prognoz:</strong> İlk dislokasyon, küçük lezyon, uygun tedavi, düşük talep</li>
-              <li>• <strong>Kötü prognoz:</strong> Tekrarlayan dislokasyon, büyük/engaging lezyon, glenoid kemik kaybı >20%, hiperlaksitite, sigara</li>
-              <li>• <strong>Yaş faktörü:</strong> <20 yaş ilk dislokasyonda → %80-90 tekrar riski (cerrahi önerilir)</li>
+              <li>• <strong>Kötü prognoz:</strong> Tekrarlayan dislokasyon, büyük/engaging lezyon, glenoid kemik kaybı &gt;20%, hiperlaksitite, sigara</li>
+              <li>• <strong>Yaş faktörü:</strong> &lt;20 yaş ilk dislokasyonda → %80-90 tekrar riski (cerrahi önerilir)</li>
             </ul>
           </div>
         </section>

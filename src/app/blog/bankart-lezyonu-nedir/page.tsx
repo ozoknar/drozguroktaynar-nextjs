@@ -164,12 +164,12 @@ export default function BankartLezyonuPage() {
             <div className="bg-yellow-50 p-6 rounded-lg">
               <h4 className="font-semibold text-lg mb-3">Risk Faktörleri (Tekrar Dislokasyon İçin):</h4>
               <ul className="space-y-2 text-gray-700">
-                <li>• Genç yaş (<25 yaş, ilk dislokasyonda)</li>
+                <li>• Genç yaş (&lt;25 yaş, ilk dislokasyonda)</li>
                 <li>• Erkek cinsiyet</li>
                 <li>• Yüksek aktivite seviyesi (kontakt sporcu)</li>
                 <li>• Yüksek dereceli travma</li>
                 <li>• Eşlik eden Hill-Sachs lezyonu (özellikle engaging)</li>
-                <li>• Glenoid kemik kaybı (>%20-25)</li>
+                <li>• Glenoid kemik kaybı (&gt;%20-25)</li>
                 <li>• Hiperlaksitite (eklem gevşekliği)</li>
               </ul>
             </div>
@@ -311,7 +311,7 @@ export default function BankartLezyonuPage() {
                 </ul>
               </li>
               <li>• <strong>Aktivite modifikasyonu:</strong> Risk pozisyonlarından kaçınma (abduksiyon + eksternal rotasyon)</li>
-              <li>• <strong>Başarı oranı:</strong> İlk dislokasyonda tekrar riski <20 yaş için %80-90, >40 yaş için %10-20</li>
+              <li>• <strong>Başarı oranı:</strong> İlk dislokasyonda tekrar riski &lt;20 yaş için %80-90, &gt;40 yaş için %10-20</li>
             </ul>
           </div>
 
@@ -322,7 +322,7 @@ export default function BankartLezyonuPage() {
             <ul className="space-y-2">
               <li>• Tekrarlayan dislokasyon veya subluksasyon</li>
               <li>• Genç, aktif hastalar (özellikle overhead sporcular)</li>
-              <li>• Ciddi glenoid kemik kaybı (>%20)</li>
+              <li>• Ciddi glenoid kemik kaybı (&gt;%20)</li>
               <li>• Büyük Hill-Sachs lezyonu (engaging)</li>
               <li>• Konservatif tedaviye yanıtsızlık</li>
             </ul>
@@ -356,13 +356,13 @@ export default function BankartLezyonuPage() {
             <div className="bg-purple-50 p-6 rounded-lg">
               <h4 className="font-semibold text-lg mb-3">3. Latarjet Prosedürü (Kemik Transferi):</h4>
               <ul className="space-y-2 text-gray-700">
-                <li>• <strong>Endikasyon:</strong> Ciddi glenoid kemik kaybı (>%20-25), engaging Hill-Sachs, başarısız Bankart tamiri</li>
+                <li>• <strong>Endikasyon:</strong> Ciddi glenoid kemik kaybı (&gt;%20-25), engaging Hill-Sachs, başarısız Bankart tamiri</li>
                 <li>• <strong>Yöntem:</strong> Açık veya artroskopik</li>
                 <li>• <strong>Prosedür:</strong> Korakoid çıkıntının bir kısmının kesilerek glenoidin ön-alt kenarına transferi (kemik blok) ve tespit edilmesi. 
                 Korakoidden çıkan kaslar (konjoin tendon) da ön kapsülü güçlendirir.</li>
                 <li>• <strong>Avantaj:</strong> Kemik kaybını restore eder, mekanik bariyer sağlar, kas flebi ile dinamik stabilizasyon</li>
                 <li>• <strong>Dezavantaj:</strong> Daha invaziv, komplikasyon riski yüksek (sinir, damar, nonunion)</li>
-                <li>• <strong>Başarı:</strong> %90-98, tekrar dislokasyon <%5</li>
+                <li>• <strong>Başarı:</strong> %90-98, tekrar dislokasyon &lt;%5</li>
               </ul>
             </div>
 
@@ -390,8 +390,8 @@ export default function BankartLezyonuPage() {
             <ul className="space-y-2 text-gray-700">
               <li>• <strong>Genç, aktif, yumuşak doku Bankart, küçük Hill-Sachs (on-track):</strong> Artroskopik Bankart Tamiri</li>
               <li>• <strong>Yumuşak doku Bankart + orta Hill-Sachs (off-track):</strong> Artroskopik Bankart + Remplissage</li>
-              <li>• <strong>Glenoid kemik kaybı >%20-25 veya başarısız Bankart:</strong> Latarjet Prosedürü</li>
-              <li>• <strong>Büyük Hill-Sachs (>%40):</strong> Kemik greft veya Latarjet</li>
+              <li>• <strong>Glenoid kemik kaybı &gt;%20-25 veya başarısız Bankart:</strong> Latarjet Prosedürü</li>
+              <li>• <strong>Büyük Hill-Sachs (&gt;%40):</strong> Kemik greft veya Latarjet</li>
             </ul>
           </div>
 
@@ -442,8 +442,8 @@ export default function BankartLezyonuPage() {
             <ul className="space-y-2 text-gray-700">
               <li>• <strong>Tekrar dislokasyon/instabilite:</strong> En sık komplikasyon (%5-20, cerrahiye göre değişir)</li>
               <li>• <strong>Sertlik:</strong> %5-10 (özellikle açık cerrahi sonrası)</li>
-              <li>• <strong>Sinir yaralanması:</strong> <%1 (aksiller sinir, muskulokutanöz sinir - Latarjet sonrası)</li>
-              <li>• <strong>Enfeksiyon:</strong> <%1</li>
+              <li>• <strong>Sinir yaralanması:</strong> &lt;%1 (aksiller sinir, muskulokutanöz sinir - Latarjet sonrası)</li>
+              <li>• <strong>Enfeksiyon:</strong> &lt;%1</li>
               <li>• <strong>Kemik greft nonunion:</strong> Latarjet sonrası (%1-5)</li>
               <li>• <strong>Artrit:</strong> Uzun vadede %5-15</li>
             </ul>
@@ -452,10 +452,10 @@ export default function BankartLezyonuPage() {
           <div className="bg-blue-50 p-6 rounded-lg mb-8">
             <h4 className="font-semibold text-lg mb-3">Kötü Prognostik Faktörler:</h4>
             <ul className="space-y-2 text-gray-700">
-              <li>• <25 yaş</li>
+              <li>• &lt;25 yaş</li>
               <li>• Erkek cinsiyet</li>
               <li>• Kontakt veya overhead sporlar</li>
-              <li>• Ciddi glenoid kemik kaybı (>%20)</li>
+              <li>• Ciddi glenoid kemik kaybı (&gt;%20)</li>
               <li>• Engaging Hill-Sachs lezyonu</li>
               <li>• Çoklu dislokasyon öyküsü</li>
               <li>• Hiperlaksitite</li>

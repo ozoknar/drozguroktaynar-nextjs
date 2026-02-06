@@ -230,7 +230,7 @@ export default function HidrojelDizProteziPage() {
 
           <h3 className="text-2xl font-semibold text-gray-900 mt-8 mb-4">İdeal Adaylar (Teorik)</h3>
           <ul className="list-disc pl-6 mb-6 text-gray-700">
-            <li><strong>Genç hastalar:</strong> <60 yaş, uzun beklenen yaşam süresi</li>
+            <li><strong>Genç hastalar:</strong> &lt;60 yaş, uzun beklenen yaşam süresi</li>
             <li><strong>Aktif yaşam tarzı:</strong> Spor ve fiziksel aktiviteye devam etmek isteyenler</li>
             <li><strong>Hafif-orta derecede artrit:</strong> İleri kemik kaybı olmayan vakalar</li>
             <li><strong>Metal alerjisi:</strong> Geleneksel protezlere alerjisi olanlar</li>
@@ -239,7 +239,7 @@ export default function HidrojelDizProteziPage() {
           <h3 className="text-2xl font-semibold text-gray-900 mt-8 mb-4">Uygun Olmayanlar</h3>
           <ul className="list-disc pl-6 mb-6 text-gray-700">
             <li><strong>İleri derecede artrit:</strong> Ciddi kemik kaybı ve deformite</li>
-            <li><strong>Obezite:</strong> Aşırı vücut ağırlığı (BMI >35)</li>
+            <li><strong>Obezite:</strong> Aşırı vücut ağırlığı (BMI &gt;35)</li>
             <li><strong>Osteoporoz:</strong> Zayıf kemik kalitesi</li>
             <li><strong>Enfeksiyon riski:</strong> İmmün yetmezlik, diyabet kontrolsüz</li>
           </ul>

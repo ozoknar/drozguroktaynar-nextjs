@@ -286,7 +286,7 @@ export default function EklemFaresiCerrahisiPage() {
             Nadiren, aşağıdaki durumlarda açık cerrahi gerekebilir:
           </p>
           <ul className="list-disc pl-6 mb-6 text-gray-700 space-y-2">
-            <li>Çok büyük eklem fareleri (>3-4 cm)</li>
+            <li>Çok büyük eklem fareleri (&gt;3-4 cm)</li>
             <li>Artroskopik ulaşımın zor olduğu lokalizasyonlar</li>
             <li>Kompleks osteokondral greft gerektiren durumlar</li>
             <li>Eşlik eden major rekonstrüksiyon ihtiyacı</li>

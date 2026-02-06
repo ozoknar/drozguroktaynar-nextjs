@@ -1,4 +1,3 @@
-import React from 'react';
 import type { Metadata } from 'next';
 import Link from 'next/link';
 
@@ -35,8 +34,6 @@ export const metadata: Metadata = {
 };
 
 export default function AyakBilegiKirigiSonrasiYurumePage() {
-  const [showAllReferences, setShowAllReferences] = React.useState(false);
-
   const jsonLd = {
     '@context': 'https://schema.org',
     '@graph': [
@@ -344,47 +341,33 @@ export default function AyakBilegiKirigiSonrasiYurumePage() {
                   Handoll HH, et al. "Interventions for treating ankle fractures in adults" Cochrane Database of Systematic Reviews. 2012. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=interventions+treating+ankle+fractures" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
                 </li>
                 
-                {showAllReferences && (
-                  <>
-                    <li>
-                      Stufkens SA, et al. "Long-term outcome after 1822 operatively treated ankle fractures" Injury. 2011. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=long+term+outcome+operatively+treated+ankle+fractures" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
-                    </li>
-                    <li>
-                      Petrisor BA, et al. "Management of displaced ankle fractures" Journal of Orthopaedic Trauma. 2006. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=management+displaced+ankle+fractures" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
-                    </li>
-                    <li>
-                      Egol KA, et al. "Functional outcome of surgery for displaced ankle fractures" Journal of Bone and Joint Surgery. 2000. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=functional+outcome+surgery+ankle+fractures" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
-                    </li>
-                    <li>
-                      van der Sluis CK, et al. "Long-term physical, psychological and social consequences of ankle fracture" Injury. 2011. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=long+term+consequences+ankle+fracture" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
-                    </li>
-                    <li>
-                      Shah NH, et al. "Complications of ankle fracture fixation" Foot and Ankle Clinics. 2017. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=complications+ankle+fracture+fixation" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
-                    </li>
-                  </>
-                )}
               </ol>
               
-              <button
-                onClick={() => setShowAllReferences(!showAllReferences)}
-                className="mt-4 text-blue-600 hover:text-blue-800 font-semibold flex items-center gap-2"
-              >
-                {showAllReferences ? (
-                  <>
-                    <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 15l7-7 7 7" />
-                    </svg>
-                    Daha Az Göster
-                  </>
-                ) : (
-                  <>
-                    <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
-                    </svg>
-                    5 Referans Daha Göster
-                  </>
-                )}
-              </button>
+              <details className="mt-4">
+                <summary className="text-blue-600 hover:text-blue-800 font-semibold cursor-pointer flex items-center gap-2">
+                  <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                    <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
+                  </svg>
+                  5 Referans Daha Göster
+                </summary>
+                <ol className="list-decimal list-inside space-y-2 text-gray-700 mt-4" start={6}>
+                  <li>
+                    Stufkens SA, et al. "Long-term outcome after 1822 operatively treated ankle fractures" Injury. 2011. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=long+term+outcome+operatively+treated+ankle+fractures" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                  </li>
+                  <li>
+                    Petrisor BA, et al. "Management of displaced ankle fractures" Journal of Orthopaedic Trauma. 2006. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=management+displaced+ankle+fractures" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                  </li>
+                  <li>
+                    Egol KA, et al. "Functional outcome of surgery for displaced ankle fractures" Journal of Bone and Joint Surgery. 2000. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=functional+outcome+surgery+ankle+fractures" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                  </li>
+                  <li>
+                    van der Sluis CK, et al. "Long-term physical, psychological and social consequences of ankle fracture" Injury. 2011. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=long+term+consequences+ankle+fracture" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                  </li>
+                  <li>
+                    Shah NH, et al. "Complications of ankle fracture fixation" Foot and Ankle Clinics. 2017. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=complications+ankle+fracture+fixation" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                  </li>
+                </ol>
+              </details>
             </section>
 
             {/* Conclusion */}

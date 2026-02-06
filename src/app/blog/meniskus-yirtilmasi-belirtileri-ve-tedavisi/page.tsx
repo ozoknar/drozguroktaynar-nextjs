@@ -371,7 +371,7 @@ export default function MeniskusYirtilmasiPage() {
             <div className="mb-8 bg-green-50 border-l-4 border-green-500 p-6 rounded-r-lg">
               <h3 className="font-semibold text-green-800 mb-4">✅ Konservatif Tedavi</h3>
               <p className="text-gray-700 mb-4">
-                <strong>İndikasyonlar:</strong> Küçük (<10 mm), stable, asemptomatik yırtıklar. Dejeneratif yırtıklar (yaşlı, düşük aktivite). 
+                <strong>İndikasyonlar:</strong> Küçük (&lt;10 mm), stable, asemptomatik yırtıklar. Dejeneratif yırtıklar (yaşlı, düşük aktivite). 
                 %20-40 hasta konservatif tedavi ile semptomlardan kurtulur.
               </p>
               <div className="space-y-3">
@@ -429,7 +429,7 @@ export default function MeniskusYirtilmasiPage() {
                 <div className="bg-white p-5 rounded-lg">
                   <h4 className="font-medium text-gray-800 mb-3">2️⃣ Menisküs Onarımı (Repair)</h4>
                   <p className="text-gray-700 mb-3 text-sm">
-                    <strong>Red zone yırtığı</strong> (kan dolaşımı iyi), longitudinal yırtık, genç hasta (<40 yaş), akut yırtık.
+                    <strong>Red zone yırtığı</strong> (kan dolaşımı iyi), longitudinal yırtık, genç hasta (&lt;40 yaş), akut yırtık.
                     <strong> Altın standart</strong> - menisküs korunur.
                   </p>
                   <ul className="text-sm text-gray-700 space-y-1">
@@ -446,7 +446,7 @@ export default function MeniskusYirtilmasiPage() {
                 <div className="bg-white p-5 rounded-lg">
                   <h4 className="font-medium text-gray-800 mb-3">3️⃣ Menisküs Transplantasyonu</h4>
                   <p className="text-gray-700 text-sm">
-                    <strong>Total menisektomi sonrası</strong> (kadavra menisküsü). Nadir, genç (<50 yaş), kıkırdak hasarı az. 
+                    <strong>Total menisektomi sonrası</strong> (kadavra menisküsü). Nadir, genç (&lt;50 yaş), kıkırdak hasarı az. 
                     Osteoartrit gelişimini yavaşlatır.
                   </p>
                 </div>

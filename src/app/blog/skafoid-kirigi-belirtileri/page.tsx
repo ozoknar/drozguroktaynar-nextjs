@@ -239,8 +239,8 @@ export default function SkafoidKirigiBelirtileriPage() {
 
           <h3 className="text-2xl font-semibold text-gray-900 mt-8 mb-4">Stabilitesine Göre</h3>
           <ul className="list-disc pl-6 mb-6 text-gray-700">
-            <li><strong>Stabil:</strong> Deplase olmayan (<1mm), transvers (yatay) kırık çizgisi</li>
-            <li><strong>İnstabil:</strong> Deplase (>1mm), vertikal oblik kırık, çoklu fragman</li>
+            <li><strong>Stabil:</strong> Deplase olmayan (&lt;1mm), transvers (yatay) kırık çizgisi</li>
+            <li><strong>İnstabil:</strong> Deplase (&gt;1mm), vertikal oblik kırık, çoklu fragman</li>
           </ul>
 
           <h2 className="text-3xl font-bold text-gray-900 mt-12 mb-6">Tedavi Seçenekleri</h2>
@@ -278,7 +278,7 @@ export default function SkafoidKirigiBelirtileriPage() {
 
           <h4 className="text-xl font-semibold text-gray-800 mt-6 mb-3">Cerrahi Endikasyonlar</h4>
           <ul className="list-disc pl-6 mb-6 text-gray-700">
-            <li>Deplase kırık (>1mm)</li>
+            <li>Deplase kırık (&gt;1mm)</li>
             <li>İnstabil kırık (oblik, vertikal)</li>
             <li>Proksimal pol kırığı</li>
             <li>Kaynamama (nonunion)</li>

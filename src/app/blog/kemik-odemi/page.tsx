@@ -250,7 +250,7 @@ export default function KemikOdemiPage() {
             <div className="bg-purple-50 border-l-4 border-purple-500 p-6 mb-4">
               <h4 className="font-semibold text-gray-900 mb-3">3. Fizik Tedavi</h4>
               <ul className="space-y-2 text-gray-700 text-sm">
-                <li>• <strong>Akut dönem:</strong> Buz, kompresyon, elevasyonli>
+                <li>• <strong>Akut dönem:</strong> Buz, kompresyon, elevasyon</li>
                 <li>• <strong>Subakut dönem:</strong> Düşük etkili egzersizler (havuz, bisiklet)</li>
                 <li>• <strong>İyileşme dönemi:</strong> Progresif yük verme, kas güçlendirme</li>
               </ul>

@@ -1,4 +1,4 @@
-import React from 'react';
+
 import type { Metadata } from 'next';
 import Link from 'next/link';
 
@@ -35,7 +35,6 @@ export const metadata: Metadata = {
 };
 
 export default function SokDalgaTedaviPage() {
-  const [showAllReferences, setShowAllReferences] = React.useState(false);
 
   const jsonLd = {
     '@context': 'https://schema.org',
@@ -415,9 +414,7 @@ export default function SokDalgaTedaviPage() {
                   Gerdesmeyer L, et al. "Radial extracorporeal shock wave therapy is safe and effective" American Journal of Sports Medicine. 2008. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=radial+ESWT+safe+effective" target="_blank" rel="noopener noreferrer" className="text-teal-600 hover:underline">[PubMed Ara]</a>
                 </li>
                 
-                {showAllReferences && (
-                  <>
-                    <li>
+                <li>
                       Haake M, et al. "Extracorporeal shock wave therapy in the treatment of lateral epicondylitis" Journal of Bone and Joint Surgery. 2002. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=ESWT+lateral+epicondylitis" target="_blank" rel="noopener noreferrer" className="text-teal-600 hover:underline">[PubMed Ara]</a>
                     </li>
                     <li>
@@ -432,30 +429,7 @@ export default function SokDalgaTedaviPage() {
                     <li>
                       Simplicio CL, et al. "Extracorporeal shock waves therapy mechanisms" Disability and Rehabilitation. 2008. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=ESWT+mechanisms+musculoskeletal" target="_blank" rel="noopener noreferrer" className="text-teal-600 hover:underline">[PubMed Ara]</a>
                     </li>
-                  </>
-                )}
               </ol>
-              
-              <button
-                onClick={() => setShowAllReferences(!showAllReferences)}
-                className="mt-4 text-teal-600 hover:text-teal-800 font-semibold flex items-center gap-2"
-              >
-                {showAllReferences ? (
-                  <>
-                    <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 15l7-7 7 7" />
-                    </svg>
-                    Daha Az Göster
-                  </>
-                ) : (
-                  <>
-                    <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
-                    </svg>
-                    5 Referans Daha Göster
-                  </>
-                )}
-              </button>
             </section>
 
             {/* Conclusion */}

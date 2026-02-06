@@ -293,7 +293,7 @@ export default function OmuzProteziPage() {
             <h4 className="font-semibold text-lg mb-3">Aktivite Kısıtlamaları:</h4>
             <ul className="space-y-2 text-gray-700">
               <li>• <strong>İzin verilen:</strong> Yüzme, golf, tenis (rekreasyonel), bisiklet, yürüyüş</li>
-              <li>• <strong>Kaçınılması gereken:</strong> Kontakt sporlar, ağır kaldırma (>10kg tekrar), overhead ağır işler</li>
+              <li>• <strong>Kaçınılması gereken:</strong> Kontakt sporlar, ağır kaldırma (&gt;10kg tekrar), overhead ağır işler</li>
               <li>• Düzenli takip: İlk yıl 3-6 ayda bir, sonra yıllık kontrol</li>
             </ul>
           </div>

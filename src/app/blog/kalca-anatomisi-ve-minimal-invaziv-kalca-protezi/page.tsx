@@ -320,7 +320,7 @@ export default function KalcaAnatomisiVeMinimalInvazivKalcaProteziPage() {
               <div className="bg-white p-5 rounded-lg">
                 <h3 className="font-semibold text-red-800 mb-2">⚠️ Dikkat Edilmesi Gerekenler</h3>
                 <ul className="text-sm text-gray-700 space-y-1">
-                  <li>• İlk 6 hafta kalça bükme (>90°), içe çevirme ve bacak bacak üstüne atmaktan kaçının (dislokasyon riski).</li>
+                  <li>• İlk 6 hafta kalça bükme (&gt;90°), içe çevirme ve bacak bacak üstüne atmaktan kaçının (dislokasyon riski).</li>
                   <li>• Ameliyat sonrası doktor tavsiyelerine harfiyen uyun.</li>
                   <li>• Düzenli kontroller ve röntgen takibi önemlidir.</li>
                 </ul>

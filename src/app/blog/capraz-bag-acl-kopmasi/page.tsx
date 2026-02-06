@@ -1,4 +1,4 @@
-import React from 'react';
+
 import type { Metadata } from 'next';
 import Link from 'next/link';
 
@@ -35,7 +35,6 @@ export const metadata: Metadata = {
 };
 
 export default function CaprazBagAclKopmasiPage() {
-  const [showAllReferences, setShowAllReferences] = React.useState(false);
 
   const jsonLd = {
     '@context': 'https://schema.org',
@@ -372,9 +371,7 @@ export default function CaprazBagAclKopmasiPage() {
                   Hewett TE, et al. "Decrease in neuromuscular control and increase in knee abduction moments in females with ACL injury" American Journal of Sports Medicine. 2004. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=ACL+injury+neuromuscular+control+females" target="_blank" rel="noopener noreferrer" className="text-blue-700 hover:underline">[PubMed Ara]</a>
                 </li>
                 
-                {showAllReferences && (
-                  <>
-                    <li>
+                <li>
                       Shelbourne KD, et al. "Outcomes of anterior cruciate ligament reconstruction with patellar tendon autograft" American Journal of Sports Medicine. 2002. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=ACL+reconstruction+patellar+tendon" target="_blank" rel="noopener noreferrer" className="text-blue-700 hover:underline">[PubMed Ara]</a>
                     </li>
                     <li>
@@ -389,30 +386,7 @@ export default function CaprazBagAclKopmasiPage() {
                     <li>
                       Frobell RB, et al. "Treatment for acute anterior cruciate ligament tear: a randomized trial" New England Journal of Medicine. 2010. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=acute+ACL+tear+randomized+trial" target="_blank" rel="noopener noreferrer" className="text-blue-700 hover:underline">[PubMed Ara]</a>
                     </li>
-                  </>
-                )}
               </ol>
-              
-              <button
-                onClick={() => setShowAllReferences(!showAllReferences)}
-                className="mt-4 text-blue-700 hover:text-blue-900 font-semibold flex items-center gap-2"
-              >
-                {showAllReferences ? (
-                  <>
-                    <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 15l7-7 7 7" />
-                    </svg>
-                    Daha Az Göster
-                  </>
-                ) : (
-                  <>
-                    <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
-                    </svg>
-                    5 Referans Daha Göster
-                  </>
-                )}
-              </button>
             </section>
 
             {/* Conclusion */}

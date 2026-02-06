@@ -1,4 +1,4 @@
-import React from 'react';
+
 import type { Metadata } from 'next';
 import Link from 'next/link';
 
@@ -35,7 +35,6 @@ export const metadata: Metadata = {
 };
 
 export default function EklemSagligiIcinTakviyePage() {
-  const [showAllReferences, setShowAllReferences] = React.useState(false);
 
   const jsonLd = {
     '@context': 'https://schema.org',
@@ -356,10 +355,8 @@ export default function EklemSagligiIcinTakviyePage() {
                   Clark KL, et al. "24-week study on the use of collagen hydrolysate as a dietary supplement" Current Medical Research and Opinion. 2008. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=collagen+hydrolysate+dietary+supplement" target="_blank" rel="noopener noreferrer" className="text-purple-600 hover:underline">[PubMed Ara]</a>
                 </li>
                 
-                {showAllReferences && (
-                  <>
-                    <li>
-                      Goldberg RJ, et al. "Dietary omega-3 fatty acids for pain in osteoarthritis" Pain. 2007. <a href="https://pubmed.ncbi.nlm.nlm.nih.gov/?term=omega-3+fatty+acids+pain+osteoarthritis" target="_blank" rel="noopener noreferrer" className="text-purple-600 hover:underline">[PubMed Ara]</a>
+                <li>
+                      Goldberg RJ, et al. "Dietary omega-3 fatty acids for pain in osteoarthritis" Pain. 2007. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=omega-3+fatty+acids+pain+osteoarthritis" target="_blank" rel="noopener noreferrer" className="text-purple-600 hover:underline">[PubMed Ara]</a>
                     </li>
                     <li>
                       Bjordal JM, et al. "Non-steroidal anti-inflammatory drugs, glucocorticosteroids, and omega-3 fatty acids for tendinopathy" British Journal of Sports Medicine. 2010. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=tendinopathy+omega-3+fatty+acids" target="_blank" rel="noopener noreferrer" className="text-purple-600 hover:underline">[PubMed Ara]</a>
@@ -373,30 +370,7 @@ export default function EklemSagligiIcinTakviyePage() {
                     <li>
                       Rayman MP. "The importance of selenium to human health" The Lancet. 2000. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=selenium+human+health" target="_blank" rel="noopener noreferrer" className="text-purple-600 hover:underline">[PubMed Ara]</a>
                     </li>
-                  </>
-                )}
               </ol>
-              
-              <button
-                onClick={() => setShowAllReferences(!showAllReferences)}
-                className="mt-4 text-purple-600 hover:text-purple-800 font-semibold flex items-center gap-2"
-              >
-                {showAllReferences ? (
-                  <>
-                    <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M5 15l7-7 7 7" />
-                    </svg>
-                    Daha Az Göster
-                  </>
-                ) : (
-                  <>
-                    <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
-                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
-                    </svg>
-                    5 Referans Daha Göster
-                  </>
-                )}
-              </button>
             </section>
 
             {/* Conclusion */}
