@@ -267,6 +267,60 @@ export default function PlantarFasiitPage() {
             </div>
           </section>
 
+          {/* PubMed References */}
+          <section className="mt-12 bg-gray-50 p-6 rounded-xl">
+            <h3 className="text-xl font-bold text-gray-800 mb-4 flex items-center gap-2">
+              <span>📚</span> Bilimsel Kaynaklar
+            </h3>
+            <p className="text-sm text-gray-600 mb-4">
+              Bu yazıdaki bilgiler aşağıdaki bilimsel kaynaklardan derlenmiştir:
+            </p>
+            <ul className="space-y-3 text-sm">
+              <li className="flex items-start gap-2">
+                <span className="text-blue-500">•</span>
+                <div>
+                  <a 
+                    href="https://pubmed.ncbi.nlm.nih.gov/25145882/" 
+                    target="_blank" 
+                    rel="noopener noreferrer"
+                    className="text-blue-600 hover:underline"
+                  >
+                    Trojian T, Tucker AK. (2019). Plantar Fasciitis.
+                  </a>
+                  <span className="text-gray-500"> - Am Fam Physician.</span>
+                </div>
+              </li>
+              <li className="flex items-start gap-2">
+                <span className="text-blue-500">•</span>
+                <div>
+                  <a 
+                    href="https://pubmed.ncbi.nlm.nih.gov/30050937/" 
+                    target="_blank" 
+                    rel="noopener noreferrer"
+                    className="text-blue-600 hover:underline"
+                  >
+                    Buchanan BK, Kushner D. (2023). Plantar Fasciitis.
+                  </a>
+                  <span className="text-gray-500"> - StatPearls [Internet].</span>
+                </div>
+              </li>
+              <li className="flex items-start gap-2">
+                <span className="text-blue-500">•</span>
+                <div>
+                  <a 
+                    href="https://pubmed.ncbi.nlm.nih.gov/16882901/" 
+                    target="_blank" 
+                    rel="noopener noreferrer"
+                    className="text-blue-600 hover:underline"
+                  >
+                    Riddle DL, et al. (2003). Risk factors for plantar fasciitis.
+                  </a>
+                  <span className="text-gray-500"> - J Bone Joint Surg Am.</span>
+                </div>
+              </li>
+            </ul>
+          </section>
+
           {/* Related Links */}
           <section className="mt-12">
             <h3 className="text-xl font-bold text-gray-800 mb-4">İlgili Konular</h3>

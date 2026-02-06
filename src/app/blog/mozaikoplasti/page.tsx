@@ -11,10 +11,10 @@ export const metadata: Metadata = {
     url: "https://www.ozguroktaynar.com/blog/mozaikoplasti",
     images: [
       {
-        url: "https://ooxijkokuifpwunx.public.blob.vercel-storage.com/uploads/uploads/2024/04/physiotherapist-giving-knee-therapy-to-a-woman-2023-11-27-04-49-13-utc-min-scaled-1.jpg",
+        url: "https://ooxijkokuifpwunx.public.blob.vercel-storage.com/uploads/uploads/2024/03/kemik-rontgeni-min-scaled-1.jpg",
         width: 1200,
         height: 630,
-        alt: "Mozaikoplasti Kıkırdak Onarımı",
+        alt: "Mozaikoplasti - Eklem Kıkırdağı Onarımı",
       },
     ],
   },
@@ -32,7 +32,7 @@ const articleSchema = {
   },
   "datePublished": "2024-01-10",
   "dateModified": "2026-02-06",
-  "image": "https://ooxijkokuifpwunx.public.blob.vercel-storage.com/uploads/uploads/2024/04/physiotherapist-giving-knee-therapy-to-a-woman-2023-11-27-04-49-13-utc-min-scaled-1.jpg"
+  "image": "https://ooxijkokuifpwunx.public.blob.vercel-storage.com/uploads/uploads/2024/03/kemik-rontgeni-min-scaled-1.jpg"
 };
 
 const faqSchema = {
@@ -101,8 +101,8 @@ export default function MozaikoplastiPage() {
             </div>
             <div className="hidden md:block">
               <img
-                src="https://ooxijkokuifpwunx.public.blob.vercel-storage.com/uploads/uploads/2024/04/physiotherapist-giving-knee-therapy-to-a-woman-2023-11-27-04-49-13-utc-min-scaled-1.jpg"
-                alt="Mozaikoplasti Kıkırdak Onarımı"
+                src="https://ooxijkokuifpwunx.public.blob.vercel-storage.com/uploads/uploads/2024/03/kemik-rontgeni-min-scaled-1.jpg"
+                alt="Mozaikoplasti - Eklem Kıkırdağı Röntgeni"
                 className="rounded-lg shadow-2xl"
                 width={600}
                 height={400}
@@ -284,6 +284,60 @@ export default function MozaikoplastiPage() {
                 💬 WhatsApp
               </a>
             </div>
+          </section>
+
+          {/* PubMed References */}
+          <section className="mt-12 bg-gray-50 p-6 rounded-xl">
+            <h3 className="text-xl font-bold text-gray-800 mb-4 flex items-center gap-2">
+              <span>📚</span> Bilimsel Kaynaklar
+            </h3>
+            <p className="text-sm text-gray-600 mb-4">
+              Bu yazıdaki bilgiler aşağıdaki bilimsel kaynaklardan derlenmiştir:
+            </p>
+            <ul className="space-y-3 text-sm">
+              <li className="flex items-start gap-2">
+                <span className="text-teal-500">•</span>
+                <div>
+                  <a 
+                    href="https://pubmed.ncbi.nlm.nih.gov/16959904/" 
+                    target="_blank" 
+                    rel="noopener noreferrer"
+                    className="text-teal-600 hover:underline"
+                  >
+                    Hangody L, et al. (2008). Mosaicplasty for the treatment of articular cartilage defects.
+                  </a>
+                  <span className="text-gray-500"> - Clin Orthop Relat Res.</span>
+                </div>
+              </li>
+              <li className="flex items-start gap-2">
+                <span className="text-teal-500">•</span>
+                <div>
+                  <a 
+                    href="https://pubmed.ncbi.nlm.nih.gov/15118039/" 
+                    target="_blank" 
+                    rel="noopener noreferrer"
+                    className="text-teal-600 hover:underline"
+                  >
+                    Hangody L, Füles P. (2003). Autologous osteochondral mosaicplasty for cartilage defects.
+                  </a>
+                  <span className="text-gray-500"> - J Bone Joint Surg Br.</span>
+                </div>
+              </li>
+              <li className="flex items-start gap-2">
+                <span className="text-teal-500">•</span>
+                <div>
+                  <a 
+                    href="https://pubmed.ncbi.nlm.nih.gov/22585560/" 
+                    target="_blank" 
+                    rel="noopener noreferrer"
+                    className="text-teal-600 hover:underline"
+                  >
+                    Solheim E, et al. (2012). Results at 10-14 years after mosaicplasty.
+                  </a>
+                  <span className="text-gray-500"> - Knee Surg Sports Traumatol Arthrosc.</span>
+                </div>
+              </li>
+            </ul>
           </section>
 
           {/* Related Links */}
