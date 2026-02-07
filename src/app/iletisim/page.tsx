@@ -70,9 +70,9 @@ export default function IletisimPage() {
                       Muayenehane Adresi
                     </h3>
                     <p className="mt-2 text-gray-600">
-                      Odunluk Mahallesi, Akademi Caddesi
+                      Bağlarbaşı Mah. Sanayi Cad. 348/B No:46
                       <br />
-                      No: 2/B Nilüfer, Bursa
+                      (Opus Evke Plaza) Osmangazi / BURSA
                     </p>
                   </div>
                 </div>
@@ -186,7 +186,7 @@ export default function IletisimPage() {
                     <div className="mt-2 text-gray-600 space-y-1">
                       <p>
                         <span className="font-medium">Pazartesi - Cuma:</span>{" "}
-                        09:00 - 18:00
+                        09:00 - 17:00
                       </p>
                       <p>
                         <span className="font-medium">Cumartesi:</span> 09:00 -
@@ -208,15 +208,29 @@ export default function IletisimPage() {
               {/* Google Maps Embed */}
               <div className="bg-white rounded-xl shadow-md overflow-hidden mb-6">
                 <iframe
-                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3046.8!2d28.9877!3d40.2167!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNDDCsDEzJzAwLjEiTiAyOMKwNTknMTUuNyJF!5e0!3m2!1str!2str!4v1"
+                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3046.5!2d28.980360228958872!3d40.233981909343264!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNDDCsMTQnMDEuOSJOIDI4wrA1OCc0OS4zIkU!5e0!3m2!1str!2str!4v1"
                   width="100%"
                   height="300"
                   style={{ border: 0 }}
                   allowFullScreen
                   loading="lazy"
                   referrerPolicy="no-referrer-when-downgrade"
-                  title="Op. Dr. Özgür Oktay Nar Muayenehane Konumu"
+                  title="Op. Dr. Özgür Oktay Nar Muayenehane Konumu - Opus Evke Plaza, Osmangazi, Bursa"
                 ></iframe>
+                <div className="p-4 bg-gray-50">
+                  <a
+                    href="https://maps.app.goo.gl/j57YL1Dwd6QsEsgB9"
+                    target="_blank"
+                    rel="noopener noreferrer"
+                    className="inline-flex items-center text-blue-600 hover:text-blue-800 font-medium"
+                  >
+                    <svg className="w-5 h-5 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z" />
+                      <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M15 11a3 3 0 11-6 0 3 3 0 016 0z" />
+                    </svg>
+                    Google Maps ile Yol Tarifi Al
+                  </a>
+                </div>
               </div>
 
               {/* Quick Links */}
@@ -344,23 +358,23 @@ export default function IletisimPage() {
             telephone: "+905522493909",
             address: {
               "@type": "PostalAddress",
-              streetAddress: "Odunluk Mahallesi, Akademi Caddesi No: 2/B",
-              addressLocality: "Nilüfer",
+              streetAddress: "Bağlarbaşı Mah. Sanayi Cad. 348/B No:46 (Opus Evke Plaza)",
+              addressLocality: "Osmangazi",
               addressRegion: "Bursa",
-              postalCode: "16110",
+              postalCode: "16170",
               addressCountry: "TR",
             },
             geo: {
               "@type": "GeoCoordinates",
-              latitude: 40.2167,
-              longitude: 28.9877,
+              latitude: 40.233981909343264,
+              longitude: 28.980360228958872,
             },
             openingHoursSpecification: [
               {
                 "@type": "OpeningHoursSpecification",
                 dayOfWeek: ["Monday", "Tuesday", "Wednesday", "Thursday", "Friday"],
                 opens: "09:00",
-                closes: "18:00",
+                closes: "17:00",
               },
               {
                 "@type": "OpeningHoursSpecification",
