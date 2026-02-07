@@ -207,7 +207,7 @@ export default function BlogPage() {
                 </p>
                 <ul className="space-y-2 text-gray-700">
                   <li>• <strong>İşe dönüş:</strong> 4-6 hafta</li>
-                  <li>• <strong>Sınırlı görevlerle başla:</strong> İlk 2 hafta hafif yükler (&lt;5 kg), kısa süreli ayakta kalma</li>
+                  <li>• <strong>Sınırlı görevlerle başla:</strong> İlk 2 hafta hafif yükler ({'<'}5 kg), kısa süreli ayakta kalma</li>
                   <li>• <strong>Tam iş yükü:</strong> 8-10. hafta</li>
                   <li>• <strong>Koşullar:</strong> Yük kaldırırken diz bükme, bel bükme YOK, sık dinlenme molaları</li>
                 </ul>
@@ -296,7 +296,7 @@ export default function BlogPage() {
             <ul className="space-y-3 mb-6">
               <li className="flex items-start">
                 <span className="text-green-500 mr-2 mt-1">✓</span>
-                <span><strong>Ağrı Kontrolü:</strong> İstirahat ve hafif aktivitede ağrı yok. Bacak ağrısı (siyatik) tamamen veya %80+ gerilemiş. Bel ağrısı tolere edilebilir düzeyde (VAS &lt;3/10).</span>
+                <span><strong>Ağrı Kontrolü:</strong> İstirahat ve hafif aktivitede ağrı yok. Bacak ağrısı (siyatik) tamamen veya %80+ gerilemiş. Bel ağrısı tolere edilebilir düzeyde (VAS {'<'}3/10).</span>
               </li>
               <li className="flex items-start">
                 <span className="text-green-500 mr-2 mt-1">✓</span>

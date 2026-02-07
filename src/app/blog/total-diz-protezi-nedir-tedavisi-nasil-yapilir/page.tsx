@@ -198,9 +198,9 @@ export default function BlogPage() {
                 <strong>Geleneksel Yaklaşım:</strong> 60-80 yaş arası ideal. Ancak günümüzde yaş tek başına kriter değil, biyolojik yaş ve aktivite düzeyi önemli.
               </p>
               <ul className="space-y-2 text-gray-700 mt-3">
-                <li>• <strong>&lt;60 yaş:</strong> Aktif hastalarda protez ömrü endişesi (20-25 yıl sonra revizyon gerekebilir). Unicompartmental (yarım) protez veya osteotomi alternatifleri değerlendirilir.</li>
+                <li>• <strong>{'<'}60 yaş:</strong> Aktif hastalarda protez ömrü endişesi (20-25 yıl sonra revizyon gerekebilir). Unicompartmental (yarım) protez veya osteotomi alternatifleri değerlendirilir.</li>
                 <li>• <strong>60-80 yaş:</strong> En ideal grup. Protez ömrü (15-25 yıl) hastanın yaşam beklentisi ile uyumlu.</li>
-                <li>• <strong>&gt;80 yaş:</strong> Ameliyat riski artar, ancak mobiliteyi korumak için hâlâ yapılabilir. Anestezi ve komorbidite değerlendirmesi kritik.</li>
+                <li>• <strong>{'>'}80 yaş:</strong> Ameliyat riski artar, ancak mobiliteyi korumak için hâlâ yapılabilir. Anestezi ve komorbidite değerlendirmesi kritik.</li>
               </ul>
             </div>
 
@@ -215,8 +215,8 @@ export default function BlogPage() {
               </ul>
               <p className="text-gray-700 mb-3"><strong>Relatif Kontrendikasyonlar (Dikkatle Değerlendirilmeli):</strong></p>
               <ul className="space-y-1 text-gray-700">
-                <li>• Kontrol altında olmayan diyabet (HbA1c &gt;8%)</li>
-                <li>• Morbid obezite (VKİ &gt;40) - komplikasyon riski 2-3 kat artar</li>
+                <li>• Kontrol altında olmayan diyabet (HbA1c {'>'}8%)</li>
+                <li>• Morbid obezite (VKİ {'>'}40) - komplikasyon riski 2-3 kat artar</li>
                 <li>• Periferik nöropati (denge ve propriosepsiyon sorunu)</li>
                 <li>• Sigara (kemik iyileşmesini bozar, enfeksiyon riski artar)</li>
                 <li>• Psikiyatrik hastalık (beklenti yönetimi zor)</li>
@@ -234,7 +234,7 @@ export default function BlogPage() {
               <li>• <strong>Dental Kontrol:</strong> Enfeksiyon kaynağı olabilecek diş sorunları tedavi edilmeli</li>
               <li>• <strong>Deri Hazırlığı:</strong> Yara, egzama, enfeksiyon varsa ameliyat ertelen mir</li>
               <li>• <strong>İlaç Düzenlemesi:</strong> Kan sulandırıcılar (aspirin, warfarin, NOAC) önceden kesilir</li>
-              <li>• <strong>Kilo Verme:</strong> VKİ &gt;35 ise ameliyat öncesi 5-10 kg vermek komplikasyonları azaltır</li>
+              <li>• <strong>Kilo Verme:</strong> VKİ {'>'}35 ise ameliyat öncesi 5-10 kg vermek komplikasyonları azaltır</li>
               <li>• <strong>Fizik Tedavi:</strong> Ameliyat öncesi quadriseps güçlendirme iyileşmeyi hızlandırır</li>
             </ul>
 
@@ -391,7 +391,7 @@ export default function BlogPage() {
               <div className="bg-gray-50 p-6 rounded-lg">
                 <h3 className="text-xl font-semibold text-gray-900 mb-2">Diz protezi ömrü ne kadar? Revizyon gerekir mi?</h3>
                 <p className="text-gray-700">
-                  Modern protezlerin %90-95'i 15-20 yıl sonra hâlâ fonksiyoneldir. Bazı protezler 25-30 yıl dayanır. Revizyon (protezin değiştirilmesi) genellikle polietilen aşınması, gevşeme veya enfeksiyon nedeniyle gerekir. 60 yaşında protez olan birinin 80 yaşında revizyon olasılığı %10-15 civarındadır. Genç hastalarda (&lt;60 yaş) yaşam boyu revizyon riski daha yüksektir.
+                  Modern protezlerin %90-95'i 15-20 yıl sonra hâlâ fonksiyoneldir. Bazı protezler 25-30 yıl dayanır. Revizyon (protezin değiştirilmesi) genellikle polietilen aşınması, gevşeme veya enfeksiyon nedeniyle gerekir. 60 yaşında protez olan birinin 80 yaşında revizyon olasılığı %10-15 civarındadır. Genç hastalarda ({'<'}60 yaş) yaşam boyu revizyon riski daha yüksektir.
                 </p>
               </div>
 
@@ -435,7 +435,7 @@ export default function BlogPage() {
               <div className="bg-gray-50 p-6 rounded-lg">
                 <h3 className="text-xl font-semibold text-gray-900 mb-2">Her iki dizime birden protez yapılabilir mi?</h3>
                 <p className="text-gray-700">
-                  Evet, bilateral (aynı anda iki diz) protez mümkündür. Avantajları: Tek anestezi, tek hastane yatış, tek rehabilitasyon süreci, daha kısa toplam iyileşme. Dezavantajları: Kan kaybı daha fazla, kardiyopulmoner stres artar, rehabilitasyon daha zor (iki dizden de destek alamazsınız). Genellikle genç (&lt;70 yaş), sağlıklı, fit hastalarda tercih edilir. 70+ yaş veya kalp/akciğer sorunu varsa kademeli ameliyat (3-6 ay ara ile) daha güvenlidir.
+                  Evet, bilateral (aynı anda iki diz) protez mümkündür. Avantajları: Tek anestezi, tek hastane yatış, tek rehabilitasyon süreci, daha kısa toplam iyileşme. Dezavantajları: Kan kaybı daha fazla, kardiyopulmoner stres artar, rehabilitasyon daha zor (iki dizden de destek alamazsınız). Genellikle genç ({'<'}70 yaş), sağlıklı, fit hastalarda tercih edilir. 70+ yaş veya kalp/akciğer sorunu varsa kademeli ameliyat (3-6 ay ara ile) daha güvenlidir.
                 </p>
               </div>
             </div>

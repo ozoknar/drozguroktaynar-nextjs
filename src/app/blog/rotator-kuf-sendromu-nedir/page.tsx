@@ -109,7 +109,7 @@ export default function RotatorKufSendromuPage() {
               <li>• Korakoakromiyal ligament</li>
             </ul>
             <p className="text-gray-700 mt-3">
-              Boşluk daraldığında (&lt;7 mm) sıkışma oluşur.
+              Boşluk daraldığında ({'<'}7 mm) sıkışma oluşur.
             </p>
           </div>
 
@@ -165,7 +165,7 @@ export default function RotatorKufSendromuPage() {
             <div className="bg-green-50 p-6 rounded-lg border-l-4 border-green-500">
               <h4 className="font-semibold text-lg mb-3">Evre I (Ödem ve Hemoraji):</h4>
               <ul className="space-y-2 text-gray-700">
-                <li>• <strong>Yaş:</strong> Genellikle &lt;25 yaş</li>
+                <li>• <strong>Yaş:</strong> Genellikle {'<'}25 yaş</li>
                 <li>• <strong>Patoloji:</strong> Reversibl ödem ve bursa iltihabı</li>
                 <li>• <strong>Belirtiler:</strong> Aktivite ile ağrı, gece ağrısı yok</li>
                 <li>• <strong>Prognoz:</strong> Konservatif tedavi ile tam iyileşme</li>
@@ -185,7 +185,7 @@ export default function RotatorKufSendromuPage() {
             <div className="bg-red-50 p-6 rounded-lg border-l-4 border-red-500">
               <h4 className="font-semibold text-lg mb-3">Evre III (Tendon Yırtığı ve Kemik Değişiklikleri):</h4>
               <ul className="space-y-2 text-gray-700">
-                <li>• <strong>Yaş:</strong> &gt;40 yaş</li>
+                <li>• <strong>Yaş:</strong> {'>'}40 yaş</li>
                 <li>• <strong>Patoloji:</strong> Parsiyel veya tam kat tendon yırtığı, kemik spurs</li>
                 <li>• <strong>Belirtiler:</strong> Şiddetli ağrı, belirgin güçsüzlük, fonksiyon kaybı</li>
                 <li>• <strong>Prognoz:</strong> Cerrahi tedavi (dekompresyon + tendon tamiri)</li>
@@ -258,7 +258,7 @@ export default function RotatorKufSendromuPage() {
               <h4 className="font-semibold text-lg mb-3">X-Ray (Radyografi):</h4>
               <ul className="space-y-2 text-gray-700">
                 <li>• <strong>Görüntüler:</strong> AP, outlet view (supraspinatus outlet), aksiller</li>
-                <li>• <strong>Bulgular:</strong> Akromiyon morfolojisi, AC eklem osteofitleri, akromihumeral mesafe (&lt;7mm), supraspinatus çıkış darlığı</li>
+                <li>• <strong>Bulgular:</strong> Akromiyon morfolojisi, AC eklem osteofitleri, akromihumeral mesafe ({'<'}7mm), supraspinatus çıkış darlığı</li>
               </ul>
             </div>
 
@@ -437,7 +437,7 @@ export default function RotatorKufSendromuPage() {
               <li>• <strong>Evre I:</strong> %90-95 konservatif tedavi ile iyileşme</li>
               <li>• <strong>Evre II:</strong> %70-80 konservatif, %85-90 cerrahi ile iyileşme</li>
               <li>• <strong>Evre III:</strong> %80-85 cerrahi ile iyileşme (yırtık boyutuna bağlı)</li>
-              <li>• <strong>Kötü prognostik faktörler:</strong> &gt;3 ay gecikmiş tedavi, sigara, diyabet, ileri yaş, büyük yırtık</li>
+              <li>• <strong>Kötü prognostik faktörler:</strong> {'>'}3 ay gecikmiş tedavi, sigara, diyabet, ileri yaş, büyük yırtık</li>
             </ul>
           </div>
         </section>

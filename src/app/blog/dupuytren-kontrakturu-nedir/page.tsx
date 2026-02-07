@@ -296,7 +296,7 @@ export default function DupuytrenKonkrakturuPage() {
                   </tr>
                   <tr>
                     <td className="px-4 py-3">IV</td>
-                    <td className="px-4 py-3">&gt;135°</td>
+                    <td className="px-4 py-3">{'>'}135°</td>
                     <td className="px-4 py-3">Çok ileri kontraktür</td>
                   </tr>
                 </tbody>

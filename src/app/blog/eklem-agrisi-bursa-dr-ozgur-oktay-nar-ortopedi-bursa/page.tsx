@@ -142,7 +142,7 @@ export default function EklemAgrisiPage() {
             <li><strong>Mekanizma:</strong> Eklem kıkırdağının aşınması ve kemik sürtünmesi</li>
             <li><strong>Risk faktörleri:</strong> İleri yaş, obezite, genetik yatkınlık, eski travmalar</li>
             <li><strong>Etkilenen eklemler:</strong> Diz, kalça, el parmakları, omuz, ayak bileği</li>
-            <li><strong>Belirtiler:</strong> Aktiviteyle artan ağrı, sabah sertliği (&lt;30 dk), krepitasyon (çıtırtı)</li>
+            <li><strong>Belirtiler:</strong> Aktiviteyle artan ağrı, sabah sertliği ({'<'}30 dk), krepitasyon (çıtırtı)</li>
           </ul>
 
           <h3 className="text-2xl font-semibold text-gray-900 mt-8 mb-4">2. Romatoid Artrit</h3>
@@ -150,7 +150,7 @@ export default function EklemAgrisiPage() {
             <li><strong>Tip:</strong> Otoimmün inflamatuar hastalık</li>
             <li><strong>Mekanizma:</strong> Bağışıklık sistemi eklem zarına saldırır</li>
             <li><strong>Özellik:</strong> Simetrik tutulum (her iki elde, her iki dizde)</li>
-            <li><strong>Belirtiler:</strong> Sabah sertliği (&gt;1 saat), şişlik, kızarıklık, sıcaklık hissi</li>
+            <li><strong>Belirtiler:</strong> Sabah sertliği ({'>'}1 saat), şişlik, kızarıklık, sıcaklık hissi</li>
             <li><strong>Ekstraartiküler bulgular:</strong> Yorgunluk, ateş, nodüller</li>
           </ul>
 

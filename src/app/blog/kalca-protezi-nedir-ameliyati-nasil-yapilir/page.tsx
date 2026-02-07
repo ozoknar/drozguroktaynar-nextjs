@@ -513,7 +513,7 @@ export default function KalcaProteziPage() {
               <div className="bg-red-50 p-5 rounded-lg">
                 <h4 className="font-semibold text-red-900 mb-2">3. Bacak Uzunluk Farkı</h4>
                 <p className="text-red-800 text-sm">
-                  Genellikle küçük (&lt;1 cm) ve semptomatik değildir. Büyük farklarda topuk takviyesi kullanılır.
+                  Genellikle küçük ({'<'}1 cm) ve semptomatik değildir. Büyük farklarda topuk takviyesi kullanılır.
                 </p>
               </div>
 
@@ -525,7 +525,7 @@ export default function KalcaProteziPage() {
               </div>
 
               <div className="bg-red-50 p-5 rounded-lg">
-                <h4 className="font-semibold text-red-900 mb-2">5. Sinir veya Damar Yaralanması (&lt;1%)</h4>
+                <h4 className="font-semibold text-red-900 mb-2">5. Sinir veya Damar Yaralanması ({'<'}1%)</h4>
                 <p className="text-red-800 text-sm">
                   Siyatik sinir yaralanması (ayak düşmesi), femoral arter/ven yaralanması.
                 </p>

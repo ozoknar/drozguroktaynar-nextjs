@@ -341,7 +341,7 @@ export default function PleksusYaralanmalariPage() {
               <li>• <strong>Acil (ilk 72 saat):</strong> Açık yaralanmalar, vasküler yaralanma</li>
               <li>• <strong>Erken (3-6 ay):</strong> 3 ayda klinik/EMG iyileşme yoksa cerrahi ekspektasyon</li>
               <li>• <strong>Geç (6-12 ay):</strong> Rekonstrüktif prosedürler (tendon transferi)</li>
-              <li>• <strong>Çok geç (&gt;12-18 ay):</strong> Artrodez, amputasyon gibi kurtarma prosedürleri</li>
+              <li>• <strong>Çok geç ({'>'}12-18 ay):</strong> Artrodez, amputasyon gibi kurtarma prosedürleri</li>
             </ul>
           </div>
 

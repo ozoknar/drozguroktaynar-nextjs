@@ -203,7 +203,7 @@ export default function BlogPage() {
                 • Ateş, kızarıklık, şiddetli şişlik (enfeksiyon şüphesi)
                 • Travma olmadan ani şiddetli ağrı (Aşil tendonu rüptürü)
                 • Gece uykudan uyandıran ağrı (tümör, enfeksiyon)
-                • Her iki ayakta simetrik ağrı + sabah sertliği &gt;30 dk (romatizmal hastalık)
+                • Her iki ayakta simetrik ağrı + sabah sertliği {'>'}30 dk (romatizmal hastalık)
               </p>
             </div>
           </section>
@@ -240,7 +240,7 @@ export default function BlogPage() {
             <ul className="space-y-3 mb-6">
               <li className="flex items-start">
                 <span className="text-blue-500 mr-2 mt-1">•</span>
-                <span><strong>Obezite:</strong> Her fazla kilogram ayak tabanına 3-4 kg ek yük bindirir. VKİ &gt;30 olan kişilerde risk 3 kat artar</span>
+                <span><strong>Obezite:</strong> Her fazla kilogram ayak tabanına 3-4 kg ek yük bindirir. VKİ {'>'}30 olan kişilerde risk 3 kat artar</span>
               </li>
               <li className="flex items-start">
                 <span className="text-blue-500 mr-2 mt-1">•</span>

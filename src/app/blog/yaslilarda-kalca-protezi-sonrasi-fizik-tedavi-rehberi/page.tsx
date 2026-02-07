@@ -186,7 +186,7 @@ export default function YaslilardaKalcaProteziPage() {
               Ameliyat sonrası ilk 6-12 hafta boyunca kalça çıkığını önlemek için <strong>3 Altın Kural</strong> takip edilmelidir:
             </p>
             <ol className="text-gray-700 space-y-2">
-              <li><strong>1. Aşırı Bükülme Yasak (&gt;90°):</strong> Kalçayı diz seviyesinden yukarı kaldırmayın</li>
+              <li><strong>1. Aşırı Bükülme Yasak ({'>'}90°):</strong> Kalçayı diz seviyesinden yukarı kaldırmayın</li>
               <li><strong>2. İçe Dönme Yasak (Adduction):</strong> Bacakları çaprazlama, orta çizgiyi geçmeyin</li>
               <li><strong>3. İçe Rotasyon Yasak:</strong> Ayak parmağını içe döndürmeyin</li>
             </ol>
@@ -364,7 +364,7 @@ export default function YaslilardaKalcaProteziPage() {
                 <li>• Yüksek etkili aerobik</li>
                 <li>• Temas sporları</li>
                 <li>• Derin çömelme</li>
-                <li>• Ağır kaldırma (&gt;10-15 kg)</li>
+                <li>• Ağır kaldırma ({'>'}10-15 kg)</li>
                 <li>• Bacakları çaprazlama oturma</li>
               </ul>
             </div>
@@ -379,7 +379,7 @@ export default function YaslilardaKalcaProteziPage() {
             <h3 className="text-lg font-semibold text-gray-800 mb-3">🚨 Acil Doktor Görüşü Gereken Durumlar</h3>
             <ul className="text-gray-700 space-y-2">
               <li>• <strong>Çıkık şüphesi:</strong> Ani şiddetli ağrı, bacak kısalığı, anormal pozisyon, hareket edememe</li>
-              <li>• <strong>Enfeksiyon:</strong> Ateş (&gt;38°C), yara bölgesinde kızarıklık, şişlik, akıntı, kötü koku</li>
+              <li>• <strong>Enfeksiyon:</strong> Ateş ({'>'}38°C), yara bölgesinde kızarıklık, şişlik, akıntı, kötü koku</li>
               <li>• <strong>Derin ven trombozu (DVT):</strong> Bacakta şişlik, ısı artışı, ağrı, ciltte renk değişimi</li>
               <li>• <strong>Pulmoner emboli:</strong> Ani nefes darlığı, göğüs ağrısı, hızlı kalp atışı</li>
               <li>• <strong>Kırık:</strong> Ameliyat bölgesinde çatırtı, anormal hareket</li>

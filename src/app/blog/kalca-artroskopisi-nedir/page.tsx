@@ -400,7 +400,7 @@ export default function KalcaArtroskopisiPage() {
             <h3 className="text-2xl font-semibold text-gray-900 mb-3">Kaçınılması Gereken Hareketler</h3>
             <div className="bg-red-50 p-6 rounded-lg">
               <ul className="text-red-800 space-y-1">
-                <li>• İlk 6 hafta aşırı fleksiyon (&gt;90°) ve adduksiyon (bacak çaprazlama)</li>
+                <li>• İlk 6 hafta aşırı fleksiyon ({'>'}90°) ve adduksiyon (bacak çaprazlama)</li>
                 <li>• İlk 3 ay yüksek etkili sporlar (koşu, zıplama)</li>
                 <li>• İlk 6 hafta derin çömelme, bacak havaya kaldırma</li>
                 <li>• Ani dönme hareketleri (ilk 3 ay)</li>
@@ -453,7 +453,7 @@ export default function KalcaArtroskopisiPage() {
                 <li>• <strong>Sinir yaralanması:</strong> Traksiyon sırasında pudendal, lateral femoral kutanöz sinir (%0.5-1)</li>
                 <li>• <strong>Heterotopik ossifikasyon:</strong> Eklem çevresinde kemikleşme (%1-6)</li>
                 <li>• <strong>Traksiyon komplikasyonları:</strong> Kasık bölgesinde morarma, uyuşukluk</li>
-                <li>• <strong>Enfeksiyon:</strong> Nadir (&lt;0.5%)</li>
+                <li>• <strong>Enfeksiyon:</strong> Nadir ({'<'}0.5%)</li>
                 <li>• <strong>Tromboz/emboli:</strong> Çok nadir</li>
                 <li>• <strong>Sıvı ekstravasasyonu:</strong> Eklem dışına sıvı kaçışı</li>
                 <li>• <strong>Cerrahi başarısızlık:</strong> Semptomların devam etmesi (%10-15)</li>

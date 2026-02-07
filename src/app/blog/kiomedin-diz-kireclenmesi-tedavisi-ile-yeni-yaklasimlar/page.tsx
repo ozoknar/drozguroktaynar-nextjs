@@ -297,7 +297,7 @@ export default function KiomedinDizKireclenmesiPage() {
             <h4 className="text-lg font-semibold text-gray-800 mb-3">✅ İyi Adaylar</h4>
             <ul className="text-gray-700 space-y-2">
               <li>• Erken-orta evre osteoartrit (Kellgren-Lawrence Evre 1-2)</li>
-              <li>• Genç-orta yaş hastalar (&lt;60 yaş)</li>
+              <li>• Genç-orta yaş hastalar ({'<'}60 yaş)</li>
               <li>• Fokal kıkırdak defektleri</li>
               <li>• Aktif yaşam tarzı, spor yapma isteği</li>
               <li>• Konservatif tedavilere sınırlı yanıt</li>
@@ -311,7 +311,7 @@ export default function KiomedinDizKireclenmesiPage() {
               <li>• Geniş yaygın eklem hasarı</li>
               <li>• Aktif enfeksiyon</li>
               <li>• Kanser öyküsü (bazı biyolojik tedaviler için)</li>
-              <li>• Diz dizilim bozuklukları (varus/valgus &gt;5°)</li>
+              <li>• Diz dizilim bozuklukları (varus/valgus {'>'}5°)</li>
             </ul>
           </div>
 

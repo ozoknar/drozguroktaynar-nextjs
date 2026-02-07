@@ -32,6 +32,9 @@ export default function Header() {
             <Link href="/blog" className="text-gray-700 hover:text-blue-600 transition">
               Blog
             </Link>
+            <Link href="/iletisim" className="text-gray-700 hover:text-blue-600 transition">
+              İletişim
+            </Link>
             <Link
               href="https://wa.me/905522493909"
               target="_blank"
@@ -73,6 +76,9 @@ export default function Header() {
               </Link>
               <Link href="/blog" className="text-gray-700 hover:text-blue-600 transition">
                 Blog
+              </Link>
+              <Link href="/iletisim" className="text-gray-700 hover:text-blue-600 transition">
+                İletişim
               </Link>
               <Link
                 href="https://wa.me/905522493909"

@@ -275,7 +275,7 @@ export default function DizKapagiCikigiPage() {
               <div className="bg-gray-50 p-6 rounded-lg">
                 <h3 className="text-xl font-semibold text-gray-900 mb-2">Diz kapağı bir kez çıktıysa tekrar çıkar mı?</h3>
                 <p className="text-gray-700">
-                  İlk dislokasyondan sonra tekrarlama riski %15-50 arasındadır. Risk faktörleri: genç yaş (&lt;20 yaş), 
+                  İlk dislokasyondan sonra tekrarlama riski %15-50 arasındadır. Risk faktörleri: genç yaş ({'<'}20 yaş), 
                   anatomik anormallikler, yetersiz rehabilitasyon. Doğru fizik tedavi ve kas güçlendirme riski azaltır.
                 </p>
               </div>

@@ -210,7 +210,7 @@ export default function AyakBilegiArtroskopisiPage() {
             <li><strong>Erken mobilizasyon:</strong> Daha erken yürümeye başlama</li>
             <li><strong>Kozmetik sonuç:</strong> Küçük, zor fark edilen izler</li>
             <li><strong>Günübirlik cerrahi:</strong> Çoğu vakada aynı gün taburcu</li>
-            <li><strong>Düşük enfeksiyon riski:</strong> Küçük kesiler &lt;%1 enfeksiyon oranı</li>
+            <li><strong>Düşük enfeksiyon riski:</strong> Küçük kesiler {'<'}%1 enfeksiyon oranı</li>
             <li><strong>Az sertlik:</strong> Eklem hareketleri daha iyi korunur</li>
           </ul>
 
@@ -358,7 +358,7 @@ export default function AyakBilegiArtroskopisiPage() {
 
           <h3 className="text-2xl font-semibold text-gray-900 mt-8 mb-4">Genel Cerrahi Riskleri</h3>
           <ul className="list-disc pl-6 mb-6 text-gray-700">
-            <li>Enfeksiyon (&lt;%1)</li>
+            <li>Enfeksiyon ({'<'}%1)</li>
             <li>Kanama ve hematom</li>
             <li>Anestezi komplikasyonları</li>
             <li>DVT (derin ven trombozu) - çok nadir</li>
@@ -367,11 +367,11 @@ export default function AyakBilegiArtroskopisiPage() {
           <h3 className="text-2xl font-semibold text-gray-900 mt-8 mb-4">Artroskopiye Özgü Riskler</h3>
           <ul className="list-disc pl-6 mb-6 text-gray-700">
             <li><strong>Sinir hasarı:</strong> Superfisyal peroneal sinir (%1-3) - genellikle geçici</li>
-            <li><strong>Damar hasarı:</strong> Anterior tibial arter/ven - çok nadir (&lt;%0.5%)</li>
+            <li><strong>Damar hasarı:</strong> Anterior tibial arter/ven - çok nadir ({'<'}%0.5%)</li>
             <li><strong>Kıkırdak hasarı:</strong> Portal veya alet yerleştirilmesi sırasında - nadir</li>
             <li><strong>Portal skar ağrısı:</strong> Geçici, genellikle birkaç ay içinde kaybolur</li>
             <li><strong>Eklem sertliği:</strong> Yetersiz rehabilitasyonda (%2-5)</li>
-            <li><strong>CRPS (Kompleks Bölgesel Ağrı Sendromu):</strong> Çok nadir (&lt;%1)</li>
+            <li><strong>CRPS (Kompleks Bölgesel Ağrı Sendromu):</strong> Çok nadir ({'<'}%1)</li>
             <li><strong>Instrument kırılması:</strong> Ekstra minimal invaziv kesi ile çıkarılır - nadir</li>
           </ul>
 
