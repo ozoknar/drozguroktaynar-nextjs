@@ -44,3 +44,4 @@ export default function RootLayout({
     </html>
   );
 }
+// Trigger redeploy Cts 07 Şub 2026 12:06:18 EET
