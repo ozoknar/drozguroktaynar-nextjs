@@ -208,14 +208,14 @@ export default function IletisimPage() {
               {/* Google Maps Embed */}
               <div className="bg-white rounded-xl shadow-md overflow-hidden mb-6">
                 <iframe
-                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3046.5!2d28.980360228958872!3d40.233981909343264!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x0%3A0x0!2zNDDCsMTQnMDEuOSJOIDI4wrA1OCc0OS4zIkU!5e0!3m2!1str!2str!4v1"
+                  src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d3047.5!2d28.9803!3d40.2340!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x14ca1553f27ff265%3A0xe1e0de9facfe1942!2sBursa%20Ortopedi%20ve%20Travmatoloji%20Uzman%C4%B1%20Dr.%20%C3%96zg%C3%BCr%20Oktay%20Nar!5e0!3m2!1str!2str!4v1707280000000"
                   width="100%"
-                  height="300"
+                  height="350"
                   style={{ border: 0 }}
                   allowFullScreen
                   loading="lazy"
                   referrerPolicy="no-referrer-when-downgrade"
-                  title="Op. Dr. Özgür Oktay Nar Muayenehane Konumu - Opus Evke Plaza, Osmangazi, Bursa"
+                  title="Bursa Ortopedi ve Travmatoloji Uzmanı Dr. Özgür Oktay Nar - Opus Evke Plaza, Osmangazi, Bursa"
                 ></iframe>
                 <div className="p-4 bg-gray-50">
                   <a
