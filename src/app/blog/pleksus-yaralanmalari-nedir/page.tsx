@@ -389,6 +389,17 @@ export default function PleksusYaralanmalariPage() {
             <li>10. Yang LJ, et al. "Avulsed spinal nerve roots: histologic assessment after failed nerve transfers." Neurosurgery. 2008. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=brachial+plexus+avulsion+histology" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a></li>
           </ol>
         </section>
+          {/* Ameliyatsız Tedavi Internal Link */}
+          <div className="bg-blue-50 border-l-4 border-blue-700 p-6 my-8 rounded-r-lg">
+            <p className="text-gray-700">
+              <strong>İlgili İçerik:</strong> Ameliyatsız tedavi seçenekleri hakkında daha fazla bilgi için{' '}
+              <a href="/ameliyatsiz-cozumler" className="text-blue-700 hover:text-blue-900 font-semibold hover:underline">
+                ameliyatsız çözümler sayfamızı
+              </a>{' '}
+              ziyaret edebilirsiniz.
+            </p>
+          </div>
+
 
         {/* CTA Section */}
         <section className="mt-12 p-8 bg-gradient-to-r from-blue-600 to-blue-700 rounded-2xl text-white">

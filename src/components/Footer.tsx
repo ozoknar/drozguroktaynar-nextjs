@@ -51,8 +51,35 @@ export default function Footer() {
           </div>
         </div>
 
-        <div className="border-t border-gray-800 mt-8 pt-8 text-center text-gray-400">
-          <p>© {new Date().getFullYear()} Op. Dr. Özgür Oktay Nar. Tüm hakları saklıdır.</p>
+        <div className="border-t border-gray-800 mt-8 pt-8">
+          {/* Legal Links */}
+          <div className="flex flex-wrap justify-center gap-4 mb-4 text-sm">
+            <Link 
+              href="/kvkk" 
+              className="text-gray-400 hover:text-white transition-colors"
+            >
+              KVKK
+            </Link>
+            <span className="text-gray-600">•</span>
+            <Link 
+              href="/gizlilik-politikasi" 
+              className="text-gray-400 hover:text-white transition-colors"
+            >
+              Gizlilik Politikası
+            </Link>
+            <span className="text-gray-600">•</span>
+            <Link 
+              href="/guvenlik-politikasi" 
+              className="text-gray-400 hover:text-white transition-colors"
+            >
+              Güvenlik Politikası
+            </Link>
+          </div>
+          
+          {/* Copyright */}
+          <p className="text-center text-gray-400">
+            © {new Date().getFullYear()} Op. Dr. Özgür Oktay Nar - Tüm hakları saklıdır.
+          </p>
         </div>
       </div>
     </footer>

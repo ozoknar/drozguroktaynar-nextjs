@@ -1,0 +1,228 @@
+/**
+ * NEXT.JS BLOG PAGE TEMPLATE
+ * ===========================
+ * 
+ * Bu template'i kullanarak yeni blog sayfaları oluşturun.
+ * 
+ * KURALLAR:
+ * 1. ASLA React.useState kullanma (Server Component!)
+ * 2. ASLA sahte PMID/DOI oluşturma - [PubMed Ara] linki kullan
+ * 3. Hero image İÇERİKLE DOĞRUDAN İLGİLİ olmalı
+ * 4. /ameliyatsiz-cozumler sayfasına internal link ekle
+ * 5. Metadata.canonical URL'i doğru ayarla
+ * 6. 7-Step Content Architecture uygula
+ * 
+ * PLACEHOLDER'LAR:
+ * - {{SLUG}} → sayfa-slug-adi
+ * - {{TITLE}} → Sayfa Başlığı
+ * - {{DESCRIPTION}} → SEO açıklaması
+ * - {{KEYWORDS}} → anahtar, kelimeler
+ * - {{HERO_IMAGE_URL}} → Vercel Blob URL
+ * - {{HERO_IMAGE_ALT}} → Görsel açıklaması
+ * - {{DATE_PUBLISHED}} → 2025-01-15T10:00:00+00:00
+ * - {{CONTENT}} → Ana içerik
+ */
+
+import type { Metadata } from 'next';
+import Link from 'next/link';
+
+export const metadata: Metadata = {
+  title: '{{TITLE}} | Op. Dr. Özgür Oktay Nar',
+  description: '{{DESCRIPTION}}',
+  keywords: '{{KEYWORDS}}',
+  authors: [{ name: 'Op. Dr. Özgür Oktay Nar' }],
+  openGraph: {
+    title: '{{TITLE}}',
+    description: '{{DESCRIPTION}}',
+    type: 'article',
+    locale: 'tr_TR',
+    url: 'https://www.ozguroktaynar.com/blog/{{SLUG}}',
+    siteName: 'Op. Dr. Özgür Oktay Nar',
+    images: [
+      {
+        url: '{{HERO_IMAGE_URL}}',
+        width: 1200,
+        height: 630,
+        alt: '{{HERO_IMAGE_ALT}}',
+      },
+    ],
+  },
+  twitter: {
+    card: 'summary_large_image',
+    title: '{{TITLE}}',
+    description: '{{DESCRIPTION}}',
+    images: ['{{HERO_IMAGE_URL}}'],
+  },
+  alternates: {
+    canonical: 'https://www.ozguroktaynar.com/blog/{{SLUG}}',
+  },
+};
+
+export default function BlogPage() {
+  const jsonLd = {
+    '@context': 'https://schema.org',
+    '@graph': [
+      {
+        '@type': 'MedicalWebPage',
+        '@id': 'https://www.ozguroktaynar.com/blog/{{SLUG}}#webpage',
+        url: 'https://www.ozguroktaynar.com/blog/{{SLUG}}',
+        name: '{{TITLE}}',
+        description: '{{DESCRIPTION}}',
+        datePublished: '{{DATE_PUBLISHED}}',
+        dateModified: '{{DATE_PUBLISHED}}',
+        inLanguage: 'tr-TR',
+        author: {
+          '@type': 'Physician',
+          name: 'Op. Dr. Özgür Oktay Nar',
+          url: 'https://www.ozguroktaynar.com',
+          specialty: 'Ortopedi ve Travmatoloji',
+        },
+        publisher: {
+          '@type': 'Organization',
+          name: 'Op. Dr. Özgür Oktay Nar',
+          url: 'https://www.ozguroktaynar.com',
+        },
+      },
+    ],
+  };
+
+  return (
+    <>
+      <script
+        type="application/ld+json"
+        dangerouslySetInnerHTML={{ __html: JSON.stringify(jsonLd) }}
+      />
+
+      <article className="max-w-4xl mx-auto px-4 py-8">
+        {/* Breadcrumb */}
+        <nav className="text-sm text-gray-500 mb-6">
+          <Link href="/" className="hover:text-blue-600">Ana Sayfa</Link>
+          <span className="mx-2">/</span>
+          <Link href="/blog" className="hover:text-blue-600">Blog</Link>
+          <span className="mx-2">/</span>
+          <span className="text-gray-700">{{TITLE}}</span>
+        </nav>
+
+        {/* Hero Section */}
+        <header className="mb-8">
+          <h1 className="text-4xl font-bold text-gray-900 mb-4">{{TITLE}}</h1>
+          <div className="flex items-center text-gray-600 text-sm mb-6">
+            <span>Op. Dr. Özgür Oktay Nar</span>
+            <span className="mx-2">•</span>
+            <time>{{DATE_PUBLISHED}}</time>
+          </div>
+          <img
+            src="{{HERO_IMAGE_URL}}"
+            alt="{{HERO_IMAGE_ALT}}"
+            className="w-full rounded-xl shadow-lg"
+          />
+        </header>
+
+        {/* Main Content - 7 STEP ARCHITECTURE */}
+        <div className="prose prose-lg max-w-none">
+          
+          {/* Section 1: Giriş */}
+          <section className="mb-12">
+            <h2 className="text-3xl font-bold text-gray-900 mb-4">Giriş</h2>
+            <p className="text-gray-700 leading-relaxed">
+              {/* İçerik buraya */}
+            </p>
+          </section>
+
+          {/* Section 2: Nedir / Tanım */}
+          <section className="mb-12">
+            <h2 className="text-3xl font-bold text-gray-900 mb-4">{{TOPIC}} Nedir?</h2>
+            <p className="text-gray-700 leading-relaxed">
+              {/* İçerik buraya */}
+            </p>
+          </section>
+
+          {/* Section 3: Belirtiler */}
+          <section className="mb-12">
+            <h2 className="text-3xl font-bold text-gray-900 mb-4">Belirtiler</h2>
+            <ul className="space-y-3">
+              <li className="flex items-start">
+                <span className="text-green-500 mr-2">✓</span>
+                <span>Belirti 1</span>
+              </li>
+            </ul>
+          </section>
+
+          {/* Section 4: Tedavi Yöntemleri */}
+          <section className="mb-12">
+            <h2 className="text-3xl font-bold text-gray-900 mb-4">Tedavi Yöntemleri</h2>
+            <p className="text-gray-700 leading-relaxed">
+              {/* İçerik buraya */}
+            </p>
+          </section>
+
+          {/* Section 5: Sıkça Sorulan Sorular */}
+          <section className="mb-12">
+            <h2 className="text-3xl font-bold text-gray-900 mb-4">Sıkça Sorulan Sorular</h2>
+            <div className="space-y-6">
+              <div className="bg-gray-50 p-6 rounded-lg">
+                <h3 className="text-xl font-semibold text-gray-900 mb-2">Soru 1?</h3>
+                <p className="text-gray-700">Cevap...</p>
+              </div>
+            </div>
+          </section>
+
+          {/* Section 6: Kaynaklar - ASLA SAHTE PMID KULLANMA! */}
+          <section className="mb-12 bg-gray-50 p-6 rounded-lg">
+            <h2 className="text-2xl font-bold text-gray-900 mb-4">Kaynaklar</h2>
+            <ol className="list-decimal pl-6 space-y-2 text-sm text-gray-700">
+              <li>
+                Yazar A, et al. "Makale Başlığı" Dergi Adı. Yıl. 
+                <a 
+                  href="https://pubmed.ncbi.nlm.nih.gov/?term=arama+terimleri" 
+                  target="_blank" 
+                  rel="noopener noreferrer" 
+                  className="text-blue-600 hover:underline ml-1"
+                >
+                  [PubMed Ara]
+                </a>
+              </li>
+            </ol>
+          </section>
+
+          {/* Section 7: Internal Link - ZORUNLU! */}
+          <section className="mb-12">
+            <div className="bg-blue-50 border-l-4 border-blue-500 p-6 rounded-r-lg">
+              <p className="text-gray-700">
+                <strong>İlgili İçerik:</strong> Ameliyatsız tedavi seçenekleri hakkında daha fazla bilgi için{' '}
+                <Link 
+                  href="/ameliyatsiz-cozumler" 
+                  className="text-blue-600 hover:text-blue-800 font-semibold hover:underline"
+                >
+                  ameliyatsız çözümler sayfamızı
+                </Link>{' '}
+                ziyaret edebilirsiniz.
+              </p>
+            </div>
+          </section>
+
+          {/* Sonuç */}
+          <section className="mb-12">
+            <h2 className="text-3xl font-bold text-gray-900 mb-4">Sonuç</h2>
+            <p className="text-gray-700 leading-relaxed">
+              {/* İçerik buraya */}
+            </p>
+          </section>
+
+        </div>
+
+        {/* CTA */}
+        <div className="bg-gradient-to-r from-blue-600 to-blue-700 rounded-xl p-8 text-center text-white mt-12">
+          <h2 className="text-2xl font-bold mb-4">Randevu Almak İster misiniz?</h2>
+          <p className="mb-6">Uzman değerlendirmesi için hemen iletişime geçin.</p>
+          <Link 
+            href="/iletisim" 
+            className="inline-block bg-white text-blue-600 px-8 py-3 rounded-lg font-semibold hover:bg-gray-100 transition"
+          >
+            Randevu Al
+          </Link>
+        </div>
+      </article>
+    </>
+  );
+}

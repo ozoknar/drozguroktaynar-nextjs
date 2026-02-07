@@ -482,6 +482,17 @@ export default function EklemFaresiCerrahisiPage() {
             </ol>
           </div>
         </section>
+          {/* Ameliyatsız Tedavi Internal Link */}
+          <div className="bg-blue-50 border-l-4 border-blue-700 p-6 my-8 rounded-r-lg">
+            <p className="text-gray-700">
+              <strong>İlgili İçerik:</strong> Ameliyatsız tedavi seçenekleri hakkında daha fazla bilgi için{' '}
+              <a href="/ameliyatsiz-cozumler" className="text-blue-700 hover:text-blue-900 font-semibold hover:underline">
+                ameliyatsız çözümler sayfamızı
+              </a>{' '}
+              ziyaret edebilirsiniz.
+            </p>
+          </div>
+
 
         {/* CTA Section */}
         <section className="bg-gradient-to-r from-emerald-600 to-emerald-800 rounded-2xl p-8 md:p-12 text-white text-center">
