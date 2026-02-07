@@ -8,6 +8,16 @@ const nextConfig: NextConfig = {
         hostname: 'ooxijkokuifpwunx.public.blob.vercel-storage.com',
         pathname: '/uploads/**',
       },
+      {
+        protocol: 'https',
+        hostname: 'www.drozguroktaynar.com',
+        pathname: '/wp-content/uploads/**',
+      },
+      {
+        protocol: 'https',
+        hostname: 'placehold.co',
+        pathname: '/**',
+      },
     ],
   },
 };
