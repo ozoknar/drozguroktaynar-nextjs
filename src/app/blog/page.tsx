@@ -46,11 +46,11 @@ export default function BlogPage() {
             >
               <Link href={`/blog/${post.slug}`}>
                 <time className="text-sm text-gray-500">{post.date}</time>
-                <h2 className="text-2xl font-semibold text-gray-900 mt-2 mb-3 hover:text-blue-600 transition">
+                <h2 className="text-2xl font-semibold text-gray-900 mt-2 mb-3 hover:text-[#01CAB8] transition">
                   {post.title}
                 </h2>
                 <p className="text-gray-600">{post.excerpt}</p>
-                <span className="inline-block mt-4 text-blue-600 font-medium">
+                <span className="inline-block mt-4 text-[#01CAB8] font-medium">
                   Devamını Oku →
                 </span>
               </Link>

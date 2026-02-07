@@ -65,7 +65,7 @@ export default function AmeliyatsizCozumlerPage() {
       <article className="max-w-4xl mx-auto px-4 py-12">
         {/* Breadcrumb */}
         <nav className="text-sm text-gray-500 mb-6">
-          <Link href="/" className="hover:text-blue-600">Ana Sayfa</Link>
+          <Link href="/" className="hover:text-[#01CAB8]">Ana Sayfa</Link>
           <span className="mx-2">/</span>
           <span className="text-gray-700">Ameliyatsız Çözümler</span>
         </nav>
@@ -92,7 +92,7 @@ export default function AmeliyatsizCozumlerPage() {
           <span className="mx-2">•</span>
           <span>Ortopedi ve Travmatoloji Uzmanı</span>
           <span className="mx-2">•</span>
-          <span className="text-blue-600">📍 Nilüfer, Bursa</span>
+          <span className="text-[#01CAB8]">📍 Nilüfer, Bursa</span>
         </div>
 
         <div className="prose prose-lg max-w-none">
@@ -111,7 +111,7 @@ export default function AmeliyatsizCozumlerPage() {
           </section>
 
           {/* ADIM 2: FAQ Modülü */}
-          <section className="bg-blue-50 rounded-xl p-6 mb-10">
+          <section className="bg-[#E6FAF8] rounded-xl p-6 mb-10">
             <h2 className="text-xl font-semibold text-gray-900 mb-4">❓ En Çok Sorulan 3 Soru</h2>
             
             <div className="space-y-4">
@@ -142,13 +142,13 @@ export default function AmeliyatsizCozumlerPage() {
           <div className="bg-gray-50 rounded-xl p-6 mb-10">
             <h2 className="text-xl font-semibold text-gray-900 mb-4">📑 İçindekiler</h2>
             <ul className="space-y-2">
-              <li><a href="#neden-ameliyatsiz" className="text-blue-600 hover:underline">Neden Ameliyatsız Tedavi?</a></li>
-              <li><a href="#prp" className="text-blue-600 hover:underline">PRP Tedavisi</a></li>
-              <li><a href="#hidrojel" className="text-blue-600 hover:underline">Hidrojel Tedavisi</a></li>
-              <li><a href="#proloterapi" className="text-blue-600 hover:underline">Proloterapi</a></li>
-              <li><a href="#ozon" className="text-blue-600 hover:underline">Ozon Terapi</a></li>
-              <li><a href="#hangi-hastaliklar" className="text-blue-600 hover:underline">Hangi Hastalıklarda Uygulanır?</a></li>
-              <li><a href="#tedavi-sureci" className="text-blue-600 hover:underline">Tedavi Süreci</a></li>
+              <li><a href="#neden-ameliyatsiz" className="text-[#01CAB8] hover:underline">Neden Ameliyatsız Tedavi?</a></li>
+              <li><a href="#prp" className="text-[#01CAB8] hover:underline">PRP Tedavisi</a></li>
+              <li><a href="#hidrojel" className="text-[#01CAB8] hover:underline">Hidrojel Tedavisi</a></li>
+              <li><a href="#proloterapi" className="text-[#01CAB8] hover:underline">Proloterapi</a></li>
+              <li><a href="#ozon" className="text-[#01CAB8] hover:underline">Ozon Terapi</a></li>
+              <li><a href="#hangi-hastaliklar" className="text-[#01CAB8] hover:underline">Hangi Hastalıklarda Uygulanır?</a></li>
+              <li><a href="#tedavi-sureci" className="text-[#01CAB8] hover:underline">Tedavi Süreci</a></li>
             </ul>
           </div>
 
@@ -223,9 +223,9 @@ export default function AmeliyatsizCozumlerPage() {
               </div>
             </div>
             
-            <div className="bg-blue-50 rounded-lg p-4">
-              <h4 className="font-semibold text-blue-800 mb-2">✓ Özellikle Etkili Olduğu Durumlar</h4>
-              <ul className="text-blue-700 space-y-1 text-sm">
+            <div className="bg-[#E6FAF8] rounded-lg p-4">
+              <h4 className="font-semibold text-[#01867A] mb-2">✓ Özellikle Etkili Olduğu Durumlar</h4>
+              <ul className="text-[#01A899] space-y-1 text-sm">
                 <li>• Erken-orta evre diz kireçlenmesi</li>
                 <li>• Kalça kireçlenmesi</li>
                 <li>• Protez ameliyatını ertelemek isteyenler</li>
@@ -320,7 +320,7 @@ export default function AmeliyatsizCozumlerPage() {
             
             <div className="space-y-4">
               <div className="flex items-start">
-                <div className="bg-blue-600 text-white rounded-full w-10 h-10 flex items-center justify-center font-bold mr-4 flex-shrink-0">1</div>
+                <div className="bg-[#01CAB8] text-white rounded-full w-10 h-10 flex items-center justify-center font-bold mr-4 flex-shrink-0">1</div>
                 <div>
                   <h3 className="font-semibold text-gray-900">Muayene ve Değerlendirme</h3>
                   <p className="text-gray-600">Fizik muayene, gerekirse MR veya röntgen. Sorununuzun kaynağını belirliyoruz.</p>
@@ -328,7 +328,7 @@ export default function AmeliyatsizCozumlerPage() {
               </div>
               
               <div className="flex items-start">
-                <div className="bg-blue-600 text-white rounded-full w-10 h-10 flex items-center justify-center font-bold mr-4 flex-shrink-0">2</div>
+                <div className="bg-[#01CAB8] text-white rounded-full w-10 h-10 flex items-center justify-center font-bold mr-4 flex-shrink-0">2</div>
                 <div>
                   <h3 className="font-semibold text-gray-900">Tedavi Planı</h3>
                   <p className="text-gray-600">Size en uygun ameliyatsız yöntemi belirliyoruz: PRP, hidrojel, proloterapi...</p>
@@ -336,7 +336,7 @@ export default function AmeliyatsizCozumlerPage() {
               </div>
               
               <div className="flex items-start">
-                <div className="bg-blue-600 text-white rounded-full w-10 h-10 flex items-center justify-center font-bold mr-4 flex-shrink-0">3</div>
+                <div className="bg-[#01CAB8] text-white rounded-full w-10 h-10 flex items-center justify-center font-bold mr-4 flex-shrink-0">3</div>
                 <div>
                   <h3 className="font-semibold text-gray-900">Uygulama</h3>
                   <p className="text-gray-600">Muayenehanede, lokal anestezi ile. Aynı gün eve dönebilirsiniz.</p>
@@ -399,51 +399,51 @@ export default function AmeliyatsizCozumlerPage() {
               <ol className="space-y-3 text-sm text-gray-700">
                 <li>
                   <span className="font-medium">1.</span> Filardo G, et al. <em>"Platelet-rich plasma vs hyaluronic acid to treat knee degenerative pathology: study design and preliminary results of a randomized controlled trial."</em> BMC Musculoskelet Disord. 2012;13:229.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/23176112/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 23176112</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/23176112/" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">PMID: 23176112</a>
                 </li>
                 <li>
                   <span className="font-medium">2.</span> Kon E, et al. <em>"Platelet-rich plasma: new clinical application: a pilot study for treatment of jumper's knee."</em> Injury. 2009;40(6):598-603.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/19380129/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 19380129</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/19380129/" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">PMID: 19380129</a>
                 </li>
                 <li>
                   <span className="font-medium">3.</span> Shen L, et al. <em>"The temporal effect of platelet-rich plasma on pain and physical function in the treatment of knee osteoarthritis: systematic review and meta-analysis."</em> J Orthop Surg Res. 2017;12(1):16.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/28115016/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 28115016</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/28115016/" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">PMID: 28115016</a>
                 </li>
                 <li>
                   <span className="font-medium">4.</span> Rahimzadeh P, et al. <em>"The effectiveness of ozone injection in lumbar disc herniation: a randomized, double-blind clinical trial."</em> Pain Physician. 2018;21(3):E223-E232.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/29871377/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 29871377</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/29871377/" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">PMID: 29871377</a>
                 </li>
                 <li>
                   <span className="font-medium">5.</span> Rabago D, et al. <em>"Dextrose prolotherapy for knee osteoarthritis: a randomized controlled trial."</em> Ann Fam Med. 2013;11(3):229-37.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/23690322/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 23690322</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/23690322/" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">PMID: 23690322</a>
                 </li>
               </ol>
               
               {/* Expandable References */}
               <details className="mt-4">
-                <summary className="cursor-pointer text-blue-600 font-medium hover:text-blue-800 flex items-center gap-2">
+                <summary className="cursor-pointer text-[#01CAB8] font-medium hover:text-[#01867A] flex items-center gap-2">
                   <span>📖 Daha Fazla Kaynak Göster (5 ek referans)</span>
                 </summary>
                 <ol start={6} className="space-y-3 text-sm text-gray-700 mt-4 pt-4 border-t">
                   <li>
                     <span className="font-medium">6.</span> Patel S, et al. <em>"Treatment with platelet-rich plasma is more effective than placebo for knee osteoarthritis: a prospective, double-blind, randomized trial."</em> Am J Sports Med. 2013;41(2):356-64.{' '}
-                    <a href="https://pubmed.ncbi.nlm.nih.gov/23299850/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 23299850</a>
+                    <a href="https://pubmed.ncbi.nlm.nih.gov/23299850/" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">PMID: 23299850</a>
                   </li>
                   <li>
                     <span className="font-medium">7.</span> Laudy AB, et al. <em>"Efficacy of platelet-rich plasma injections in osteoarthritis of the knee: a systematic review and meta-analysis."</em> Br J Sports Med. 2015;49(10):657-72.{' '}
-                    <a href="https://pubmed.ncbi.nlm.nih.gov/25416198/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 25416198</a>
+                    <a href="https://pubmed.ncbi.nlm.nih.gov/25416198/" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">PMID: 25416198</a>
                   </li>
                   <li>
                     <span className="font-medium">8.</span> Strebel RT, et al. <em>"Efficacy of intradiscal oxygen-ozone therapy compared with surgery for lumbar disc herniation: systematic review and meta-analysis."</em> Spine J. 2019;19(6):1033-1044.{' '}
-                    <a href="https://pubmed.ncbi.nlm.nih.gov/30639658/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 30639658</a>
+                    <a href="https://pubmed.ncbi.nlm.nih.gov/30639658/" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">PMID: 30639658</a>
                   </li>
                   <li>
                     <span className="font-medium">9.</span> Sit RW, et al. <em>"Efficacy of hyaluronic acid plus platelet-rich plasma combination for knee osteoarthritis: systematic review and meta-analysis."</em> BMJ Open. 2020;10(2):e033955.{' '}
-                    <a href="https://pubmed.ncbi.nlm.nih.gov/32060160/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 32060160</a>
+                    <a href="https://pubmed.ncbi.nlm.nih.gov/32060160/" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">PMID: 32060160</a>
                   </li>
                   <li>
                     <span className="font-medium">10.</span> Dallari D, et al. <em>"In vivo study on the healing of bone defects treated with bone marrow stromal cells, platelet-rich plasma, and freeze-dried bone allografts."</em> J Orthop Res. 2006;24(5):877-88.{' '}
-                    <a href="https://pubmed.ncbi.nlm.nih.gov/16609976/" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">PMID: 16609976</a>
+                    <a href="https://pubmed.ncbi.nlm.nih.gov/16609976/" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">PMID: 16609976</a>
                   </li>
                 </ol>
               </details>
@@ -451,7 +451,7 @@ export default function AmeliyatsizCozumlerPage() {
           </section>
 
           {/* ADIM 7: CTA */}
-          <section className="bg-blue-600 text-white rounded-2xl p-8 text-center">
+          <section className="bg-[#01CAB8] text-white rounded-2xl p-8 text-center">
             <h2 className="text-2xl font-bold mb-2">Ameliyatsız Tedavi Sizin İçin Uygun mu?</h2>
             <p className="text-blue-100 mb-2">📍 Nilüfer, Bursa</p>
             <p className="text-blue-100 mb-6">
@@ -467,7 +467,7 @@ export default function AmeliyatsizCozumlerPage() {
               </a>
               <a
                 href="tel:+905522493909"
-                className="bg-white text-blue-600 px-8 py-3 rounded-lg font-semibold hover:bg-blue-50 transition"
+                className="bg-white text-[#01CAB8] px-8 py-3 rounded-lg font-semibold hover:bg-[#E6FAF8] transition"
               >
                 📞 0552 249 39 09
               </a>

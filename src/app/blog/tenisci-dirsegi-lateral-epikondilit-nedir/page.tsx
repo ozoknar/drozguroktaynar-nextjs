@@ -71,9 +71,9 @@ export default function BlogPage() {
       <article className="max-w-4xl mx-auto px-4 py-8">
         {/* Breadcrumb */}
         <nav className="text-sm text-gray-500 mb-6">
-          <Link href="/" className="hover:text-blue-600">Ana Sayfa</Link>
+          <Link href="/" className="hover:text-[#01CAB8]">Ana Sayfa</Link>
           <span className="mx-2">/</span>
-          <Link href="/blog" className="hover:text-blue-600">Blog</Link>
+          <Link href="/blog" className="hover:text-[#01CAB8]">Blog</Link>
           <span className="mx-2">/</span>
           <span className="text-gray-700">Tenisçi Dirseği (Lateral Epikondilit)</span>
         </nav>
@@ -127,7 +127,7 @@ export default function BlogPage() {
               kollajen dejenerasyonu ve yetersiz iyileşmeye yol açar. Sonuçta kronik ağrı ve 
               fonksiyon kaybı gelişir.
             </p>
-            <div className="bg-blue-50 p-6 rounded-lg">
+            <div className="bg-[#E6FAF8] p-6 rounded-lg">
               <p className="text-gray-800 font-semibold mb-2">📌 Önemli Not:</p>
               <p className="text-gray-700">
                 "Tenisçi dirseği" adına rağmen, hastaların yalnızca %5-10'u tenisçidir. 
@@ -181,35 +181,35 @@ export default function BlogPage() {
             </p>
             <ul className="space-y-2 mb-6">
               <li className="flex items-start">
-                <span className="text-blue-500 mr-2">•</span>
+                <span className="text-[#1AD2C4] mr-2">•</span>
                 <span><strong>Dinlenme ve aktivite modifikasyonu:</strong> Ağrıyı artıran tekrarlayan hareketlerden kaçınma (4-6 hafta)</span>
               </li>
               <li className="flex items-start">
-                <span className="text-blue-500 mr-2">•</span>
+                <span className="text-[#1AD2C4] mr-2">•</span>
                 <span><strong>Buz uygulaması:</strong> Günde 3-4 kez 15-20 dakika soğuk kompres</span>
               </li>
               <li className="flex items-start">
-                <span className="text-blue-500 mr-2">•</span>
+                <span className="text-[#1AD2C4] mr-2">•</span>
                 <span><strong>Antiinflamatuar ilaçlar (NSAİD):</strong> Ağrı ve inflamasyonu azaltır</span>
               </li>
               <li className="flex items-start">
-                <span className="text-blue-500 mr-2">•</span>
+                <span className="text-[#1AD2C4] mr-2">•</span>
                 <span><strong>Fizik tedavi:</strong> Eksentrik güçlendirme egzersizleri, ultrason, TENS, laser tedavisi</span>
               </li>
               <li className="flex items-start">
-                <span className="text-blue-500 mr-2">•</span>
+                <span className="text-[#1AD2C4] mr-2">•</span>
                 <span><strong>Counterforce brace:</strong> Ön kol bandı (tennis elbow strap) tendon üzerindeki basıncı azaltır</span>
               </li>
               <li className="flex items-start">
-                <span className="text-blue-500 mr-2">•</span>
+                <span className="text-[#1AD2C4] mr-2">•</span>
                 <span><strong>Kortikosteroid enjeksiyonu:</strong> Kısa vadede ağrıyı azaltabilir ancak uzun dönem sonuçları tartışmalıdır</span>
               </li>
               <li className="flex items-start">
-                <span className="text-blue-500 mr-2">•</span>
+                <span className="text-[#1AD2C4] mr-2">•</span>
                 <span><strong>PRP (Platelet-Rich Plasma) tedavisi:</strong> Tendon rejenerasyonunu destekleyen etkili modern yöntem</span>
               </li>
               <li className="flex items-start">
-                <span className="text-blue-500 mr-2">•</span>
+                <span className="text-[#1AD2C4] mr-2">•</span>
                 <span><strong>Ekstrakorporeal Şok Dalga Tedavisi (ESWT):</strong> Kronik vakalarda tendon iyileşmesini uyarır</span>
               </li>
             </ul>
@@ -277,7 +277,7 @@ export default function BlogPage() {
                   href="https://pubmed.ncbi.nlm.nih.gov/?term=lateral+epicondylitis+corticosteroid+injection" 
                   target="_blank" 
                   rel="noopener noreferrer" 
-                  className="text-blue-600 hover:underline ml-1"
+                  className="text-[#01CAB8] hover:underline ml-1"
                 >
                   [PubMed Ara]
                 </a>
@@ -288,7 +288,7 @@ export default function BlogPage() {
                   href="https://pubmed.ncbi.nlm.nih.gov/?term=PRP+lateral+epicondylitis+treatment" 
                   target="_blank" 
                   rel="noopener noreferrer" 
-                  className="text-blue-600 hover:underline ml-1"
+                  className="text-[#01CAB8] hover:underline ml-1"
                 >
                   [PubMed Ara]
                 </a>
@@ -299,7 +299,7 @@ export default function BlogPage() {
                   href="https://pubmed.ncbi.nlm.nih.gov/?term=tennis+elbow+exercise+corticosteroid" 
                   target="_blank" 
                   rel="noopener noreferrer" 
-                  className="text-blue-600 hover:underline ml-1"
+                  className="text-[#01CAB8] hover:underline ml-1"
                 >
                   [PubMed Ara]
                 </a>
@@ -309,12 +309,12 @@ export default function BlogPage() {
 
           {/* Section 7: Internal Link - ZORUNLU! */}
           <section className="mb-12">
-            <div className="bg-blue-50 border-l-4 border-blue-500 p-6 rounded-r-lg">
+            <div className="bg-[#E6FAF8] border-l-4 border-[#1AD2C4] p-6 rounded-r-lg">
               <p className="text-gray-700">
                 <strong>İlgili İçerik:</strong> Ameliyatsız tedavi seçenekleri hakkında daha fazla bilgi için{' '}
                 <Link 
                   href="/ameliyatsiz-cozumler" 
-                  className="text-blue-600 hover:text-blue-800 font-semibold hover:underline"
+                  className="text-[#01CAB8] hover:text-[#01867A] font-semibold hover:underline"
                 >
                   ameliyatsız çözümler sayfamızı
                 </Link>{' '}
@@ -342,12 +342,12 @@ export default function BlogPage() {
         </div>
 
         {/* CTA */}
-        <div className="bg-gradient-to-r from-blue-600 to-blue-700 rounded-xl p-8 text-center text-white mt-12">
+        <div className="bg-gradient-to-r from-[#01CAB8] to-[#01A899] rounded-xl p-8 text-center text-white mt-12">
           <h2 className="text-2xl font-bold mb-4">Randevu Almak İster misiniz?</h2>
           <p className="mb-6">Uzman değerlendirmesi için hemen iletişime geçin.</p>
           <Link 
             href="/iletisim" 
-            className="inline-block bg-white text-blue-600 px-8 py-3 rounded-lg font-semibold hover:bg-gray-100 transition"
+            className="inline-block bg-white text-[#01CAB8] px-8 py-3 rounded-lg font-semibold hover:bg-gray-100 transition"
           >
             Randevu Al
           </Link>

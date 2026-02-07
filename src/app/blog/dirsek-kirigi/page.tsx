@@ -116,9 +116,9 @@ export default function DirsekKirigiPage() {
       <article className="max-w-4xl mx-auto px-4 py-12">
         {/* Breadcrumb */}
         <nav className="text-sm text-gray-500 mb-6">
-          <Link href="/" className="hover:text-blue-600">Ana Sayfa</Link>
+          <Link href="/" className="hover:text-[#01CAB8]">Ana Sayfa</Link>
           <span className="mx-2">/</span>
-          <Link href="/blog" className="hover:text-blue-600">Blog</Link>
+          <Link href="/blog" className="hover:text-[#01CAB8]">Blog</Link>
           <span className="mx-2">/</span>
           <span className="text-gray-700">Dirsek Kırığı</span>
         </nav>
@@ -145,7 +145,7 @@ export default function DirsekKirigiPage() {
           <span className="mx-2">•</span>
           <span>Ortopedi ve Travmatoloji Uzmanı</span>
           <span className="mx-2">•</span>
-          <span className="text-blue-600">📍 Nilüfer, Bursa</span>
+          <span className="text-[#01CAB8]">📍 Nilüfer, Bursa</span>
         </div>
 
         <div className="prose prose-lg max-w-none">
@@ -195,13 +195,13 @@ export default function DirsekKirigiPage() {
           <div className="bg-gray-50 rounded-xl p-6 mb-10">
             <h2 className="text-xl font-semibold text-gray-900 mb-4">📑 İçindekiler</h2>
             <ul className="space-y-2">
-              <li><a href="#nedir" className="text-blue-600 hover:underline">Dirsek Kırığı Nedir?</a></li>
-              <li><a href="#tipler" className="text-blue-600 hover:underline">Kırık Tipleri</a></li>
-              <li><a href="#belirtiler" className="text-blue-600 hover:underline">Belirtiler</a></li>
-              <li><a href="#tani" className="text-blue-600 hover:underline">Tanı Yöntemleri</a></li>
-              <li><a href="#tedavi" className="text-blue-600 hover:underline">Tedavi Seçenekleri</a></li>
-              <li><a href="#rehabilitasyon" className="text-blue-600 hover:underline">Rehabilitasyon</a></li>
-              <li><a href="#komplikasyonlar" className="text-blue-600 hover:underline">Komplikasyonlar</a></li>
+              <li><a href="#nedir" className="text-[#01CAB8] hover:underline">Dirsek Kırığı Nedir?</a></li>
+              <li><a href="#tipler" className="text-[#01CAB8] hover:underline">Kırık Tipleri</a></li>
+              <li><a href="#belirtiler" className="text-[#01CAB8] hover:underline">Belirtiler</a></li>
+              <li><a href="#tani" className="text-[#01CAB8] hover:underline">Tanı Yöntemleri</a></li>
+              <li><a href="#tedavi" className="text-[#01CAB8] hover:underline">Tedavi Seçenekleri</a></li>
+              <li><a href="#rehabilitasyon" className="text-[#01CAB8] hover:underline">Rehabilitasyon</a></li>
+              <li><a href="#komplikasyonlar" className="text-[#01CAB8] hover:underline">Komplikasyonlar</a></li>
             </ul>
           </div>
 
@@ -231,12 +231,12 @@ export default function DirsekKirigiPage() {
             <h2 className="text-2xl font-bold text-gray-900 mb-4">Dirsek Kırığı Tipleri</h2>
             
             <div className="grid md:grid-cols-3 gap-4">
-              <div className="bg-blue-50 rounded-lg p-4">
+              <div className="bg-[#E6FAF8] rounded-lg p-4">
                 <h3 className="font-semibold text-blue-900 mb-2">1. Humerus Suprakondiler Kırığı</h3>
-                <p className="text-blue-700 text-sm mb-2">
+                <p className="text-[#01A899] text-sm mb-2">
                   Kol kemiğinin dirsek üstü kırığı. <strong>Çocuklarda çok sık.</strong>
                 </p>
-                <ul className="text-blue-600 text-xs space-y-1">
+                <ul className="text-[#01CAB8] text-xs space-y-1">
                   <li>• Sinir/damar yaralanma riski yüksek</li>
                   <li>• Acil değerlendirme gerekir</li>
                 </ul>
@@ -358,7 +358,7 @@ export default function DirsekKirigiPage() {
             
             <div className="space-y-4">
               <div className="flex items-start">
-                <div className="bg-blue-600 text-white rounded-full w-10 h-10 flex items-center justify-center font-bold mr-4 flex-shrink-0">1</div>
+                <div className="bg-[#01CAB8] text-white rounded-full w-10 h-10 flex items-center justify-center font-bold mr-4 flex-shrink-0">1</div>
                 <div>
                   <h3 className="font-semibold text-gray-900">Fizik Muayene</h3>
                   <p className="text-gray-600 mb-2">
@@ -374,7 +374,7 @@ export default function DirsekKirigiPage() {
               </div>
               
               <div className="flex items-start">
-                <div className="bg-blue-600 text-white rounded-full w-10 h-10 flex items-center justify-center font-bold mr-4 flex-shrink-0">2</div>
+                <div className="bg-[#01CAB8] text-white rounded-full w-10 h-10 flex items-center justify-center font-bold mr-4 flex-shrink-0">2</div>
                 <div>
                   <h3 className="font-semibold text-gray-900">Röntgen (En Önemli Tetkik)</h3>
                   <p className="text-gray-600">
@@ -384,7 +384,7 @@ export default function DirsekKirigiPage() {
               </div>
               
               <div className="flex items-start">
-                <div className="bg-blue-600 text-white rounded-full w-10 h-10 flex items-center justify-center font-bold mr-4 flex-shrink-0">3</div>
+                <div className="bg-[#01CAB8] text-white rounded-full w-10 h-10 flex items-center justify-center font-bold mr-4 flex-shrink-0">3</div>
                 <div>
                   <h3 className="font-semibold text-gray-900">BT (Bilgisayarlı Tomografi)</h3>
                   <p className="text-gray-600">
@@ -394,7 +394,7 @@ export default function DirsekKirigiPage() {
               </div>
               
               <div className="flex items-start">
-                <div className="bg-blue-600 text-white rounded-full w-10 h-10 flex items-center justify-center font-bold mr-4 flex-shrink-0">4</div>
+                <div className="bg-[#01CAB8] text-white rounded-full w-10 h-10 flex items-center justify-center font-bold mr-4 flex-shrink-0">4</div>
                 <div>
                   <h3 className="font-semibold text-gray-900">MR (Gerekirse)</h3>
                   <p className="text-gray-600">
@@ -484,9 +484,9 @@ export default function DirsekKirigiPage() {
               </div>
             </div>
 
-            <div className="bg-blue-50 rounded-lg p-4">
+            <div className="bg-[#E6FAF8] rounded-lg p-4">
               <p className="text-blue-900 font-semibold mb-2">⏱️ Ameliyat Sonrası</p>
-              <ul className="text-blue-800 text-sm space-y-1">
+              <ul className="text-[#01867A] text-sm space-y-1">
                 <li>• Hastanede kalış: <strong>1-3 gün</strong></li>
                 <li>• Atel/splint: <strong>1-2 hafta</strong></li>
                 <li>• <strong>Erken hareket başlar</strong> (2-3. gün pasif, 2-3. hafta aktif)</li>
@@ -575,9 +575,9 @@ export default function DirsekKirigiPage() {
               </div>
             </div>
 
-            <div className="bg-blue-50 rounded-lg p-4 mt-4">
+            <div className="bg-[#E6FAF8] rounded-lg p-4 mt-4">
               <p className="text-blue-900 font-semibold mb-2">💡 Sert Dirsek Nasıl Önlenir?</p>
-              <ul className="text-blue-800 text-sm space-y-1">
+              <ul className="text-[#01867A] text-sm space-y-1">
                 <li>• <strong>Erken mobilizasyon</strong> (en geç 3. hafta)</li>
                 <li>• <strong>Düzenli fizyoterapi</strong> (en az 6 hafta)</li>
                 <li>• <strong>Evde egzersiz disiplini</strong> (günde 3-4 kez)</li>
@@ -632,60 +632,60 @@ export default function DirsekKirigiPage() {
               <ol className="space-y-3 text-sm text-gray-700">
                 <li>
                   <span className="font-medium">1.</span> Ring D, et al. <em>"Treatment of unstable elbow fracture dislocations."</em> J Bone Joint Surg Am. 2002;84(10):1823-8.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=elbow+fracture+treatment" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=elbow+fracture+treatment" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
                 </li>
                 <li>
                   <span className="font-medium">2.</span> Doornberg J, et al. <em>"Surgical treatment of intra-articular fractures of the distal part of the humerus."</em> J Bone Joint Surg Am. 2007;89(5):1524-32.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=elbow+fracture+treatment" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=elbow+fracture+treatment" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
                 </li>
                 <li>
                   <span className="font-medium">3.</span> Garrigues GE, et al. <em>"Fixation of the olecranon fracture: a biomechanical comparison of plate and screw constructs."</em> J Orthop Trauma. 2011;25(9):545-50.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=elbow+fracture+treatment" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=elbow+fracture+treatment" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
                 </li>
                 <li>
                   <span className="font-medium">4.</span> Pike JM, et al. <em>"Radial head fractures - An update."</em> J Hand Surg Am. 2009;34(3):557-65.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=elbow+fracture+treatment" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=elbow+fracture+treatment" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
                 </li>
                 <li>
                   <span className="font-medium">5.</span> Myderrizi N, et al. <em>"Complications following operative fixation of distal humerus fractures."</em> Injury. 2014;45(2):421-6.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=elbow+fracture+treatment" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=elbow+fracture+treatment" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
                 </li>
               </ol>
               
               <details className="mt-4">
-                <summary className="cursor-pointer text-blue-600 font-medium hover:text-blue-800 flex items-center gap-2">
+                <summary className="cursor-pointer text-[#01CAB8] font-medium hover:text-[#01867A] flex items-center gap-2">
                   <span>📖 Daha Fazla Kaynak Göster (5 ek referans)</span>
                 </summary>
                 <ol start={6} className="space-y-3 text-sm text-gray-700 mt-4 pt-4 border-t">
                   <li>
                     <span className="font-medium">6.</span> Sanchez-Sotelo J. <em>"Distal humeral fractures: role of internal fixation and elbow arthroplasty."</em> J Bone Joint Surg Am. 2012;94(6):555-68.{' '}
-                    <a href="https://pubmed.ncbi.nlm.nih.gov/?term=elbow+fracture+treatment" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                    <a href="https://pubmed.ncbi.nlm.nih.gov/?term=elbow+fracture+treatment" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
                   </li>
                   <li>
                     <span className="font-medium">7.</span> Nauth A, et al. <em>"Management of terrible triad injuries of the elbow."</em> J Orthop Trauma. 2011;25 Suppl 1:S78-86.{' '}
-                    <a href="https://pubmed.ncbi.nlm.nih.gov/?term=elbow+fracture+treatment" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                    <a href="https://pubmed.ncbi.nlm.nih.gov/?term=elbow+fracture+treatment" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
                   </li>
                   <li>
                     <span className="font-medium">8.</span> Foruria AM, et al. <em>"Heterotopic ossification after surgery for fractures and dislocations involving the radial head and proximal ulna."</em> J Hand Surg Am. 2010;35(12):1928-34.{' '}
-                    <a href="https://pubmed.ncbi.nlm.nih.gov/?term=elbow+fracture+treatment" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                    <a href="https://pubmed.ncbi.nlm.nih.gov/?term=elbow+fracture+treatment" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
                   </li>
                   <li>
                     <span className="font-medium">9.</span> Bailey CS, et al. <em>"Outcome of plate fixation of olecranon fractures."</em> J Orthop Trauma. 2001;15(8):542-8.{' '}
-                    <a href="https://pubmed.ncbi.nlm.nih.gov/?term=elbow+fracture+treatment" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                    <a href="https://pubmed.ncbi.nlm.nih.gov/?term=elbow+fracture+treatment" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
                   </li>
                   <li>
                     <span className="font-medium">10.</span> Morrey BF. <em>"Current concepts in the treatment of fractures of the radial head, the olecranon, and the coronoid."</em> J Bone Joint Surg Am. 1995;77(2):316-27.{' '}
-                    <a href="https://pubmed.ncbi.nlm.nih.gov/?term=elbow+fracture+treatment" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                    <a href="https://pubmed.ncbi.nlm.nih.gov/?term=elbow+fracture+treatment" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
                   </li>
                 </ol>
               </details>
             </div>
           </section>
           {/* Ameliyatsız Tedavi Internal Link */}
-          <div className="bg-blue-50 border-l-4 border-blue-700 p-6 my-8 rounded-r-lg">
+          <div className="bg-[#E6FAF8] border-l-4 border-blue-700 p-6 my-8 rounded-r-lg">
             <p className="text-gray-700">
               <strong>İlgili İçerik:</strong> Ameliyatsız tedavi seçenekleri hakkında daha fazla bilgi için{' '}
-              <a href="/ameliyatsiz-cozumler" className="text-blue-700 hover:text-blue-900 font-semibold hover:underline">
+              <a href="/ameliyatsiz-cozumler" className="text-[#01A899] hover:text-blue-900 font-semibold hover:underline">
                 ameliyatsız çözümler sayfamızı
               </a>{' '}
               ziyaret edebilirsiniz.

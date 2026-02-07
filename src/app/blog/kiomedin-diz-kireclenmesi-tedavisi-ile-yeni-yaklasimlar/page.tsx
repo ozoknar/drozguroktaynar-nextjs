@@ -89,7 +89,7 @@ export default function KiomedinDizKireclenmesiPage() {
             Bu makalede, kiomedin gibi araştırma aşamasındaki moleküller, kıkırdak biyolojisi ve güncel tedavi yöntemleri hakkında bilimsel temelli bilgiler sunulacaktır.
           </p>
 
-          <div className="bg-blue-50 border-l-4 border-blue-500 p-6 mb-6">
+          <div className="bg-[#E6FAF8] border-l-4 border-[#1AD2C4] p-6 mb-6">
             <h3 className="text-lg font-semibold text-gray-800 mb-2">🔬 Kiomedin Nedir?</h3>
             <p className="text-gray-700 leading-relaxed">
               <strong>Kiomedin (Chondromodulin-I benzeri proteinler)</strong>, kıkırdak doku gelişimi ve homeostazında rol oynayan, damar oluşumunu düzenleyen endojen proteinlerdir. Araştırmalar, kıkırdak dokusunun avasküler (damarsız) yapısını korumada kiomedin benzeri faktörlerin önemli olduğunu göstermektedir. Ancak, kiomedin'in diz osteoartriti tedavisinde klinik kullanımı henüz deneysel aşamadadır ve onaylanmış bir tedavi seçeneği değildir.
@@ -332,7 +332,7 @@ export default function KiomedinDizKireclenmesiPage() {
         <section className="prose prose-lg max-w-none mb-12">
           <h2 className="text-3xl font-bold text-gray-900 mb-6">Kanıt Düzeyleri ve Klinik Kararlar</h2>
           
-          <div className="bg-blue-50 border-l-4 border-blue-500 p-6 mb-6">
+          <div className="bg-[#E6FAF8] border-l-4 border-[#1AD2C4] p-6 mb-6">
             <h3 className="text-lg font-semibold text-gray-800 mb-3">📊 Tedavi Piramidi (Kanıt Bazlı)</h3>
             <ol className="text-gray-700 space-y-2">
               <li><strong>1. Basamak (Kesin Kanıt):</strong> Kilo kontrolü, egzersiz, fizik tedavi, NSAİİ'ler</li>
@@ -376,7 +376,7 @@ export default function KiomedinDizKireclenmesiPage() {
                   href="https://pubmed.ncbi.nlm.nih.gov/?term=chondromodulin+cartilage" 
                   target="_blank" 
                   rel="nofollow noopener"
-                  className="text-blue-600 hover:text-blue-800"
+                  className="text-[#01CAB8] hover:text-[#01867A]"
                 >
                   Chondromodulin ve Kıkırdak Biyolojisi - PubMed Ara
                 </a>
@@ -386,7 +386,7 @@ export default function KiomedinDizKireclenmesiPage() {
                   href="https://pubmed.ncbi.nlm.nih.gov/?term=PRP+knee+osteoarthritis+meta-analysis" 
                   target="_blank" 
                   rel="nofollow noopener"
-                  className="text-blue-600 hover:text-blue-800"
+                  className="text-[#01CAB8] hover:text-[#01867A]"
                 >
                   PRP Diz Osteoartriti Meta-Analiz - PubMed Ara
                 </a>
@@ -396,7 +396,7 @@ export default function KiomedinDizKireclenmesiPage() {
                   href="https://pubmed.ncbi.nlm.nih.gov/?term=mesenchymal+stem+cell+knee+osteoarthritis" 
                   target="_blank" 
                   rel="nofollow noopener"
-                  className="text-blue-600 hover:text-blue-800"
+                  className="text-[#01CAB8] hover:text-[#01867A]"
                 >
                   Mezenkimal Kök Hücre Diz Osteoartriti - PubMed Ara
                 </a>
@@ -406,7 +406,7 @@ export default function KiomedinDizKireclenmesiPage() {
                   href="https://pubmed.ncbi.nlm.nih.gov/?term=autologous+chondrocyte+implantation" 
                   target="_blank" 
                   rel="nofollow noopener"
-                  className="text-blue-600 hover:text-blue-800"
+                  className="text-[#01CAB8] hover:text-[#01867A]"
                 >
                   Otolog Kondrosit İmplantasyonu - PubMed Ara
                 </a>
@@ -416,7 +416,7 @@ export default function KiomedinDizKireclenmesiPage() {
                   href="https://pubmed.ncbi.nlm.nih.gov/?term=cartilage+regeneration+biomaterials" 
                   target="_blank" 
                   rel="nofollow noopener"
-                  className="text-blue-600 hover:text-blue-800"
+                  className="text-[#01CAB8] hover:text-[#01867A]"
                 >
                   Kıkırdak Rejenerasyonu ve Biyomalzemeler - PubMed Ara
                 </a>
@@ -426,7 +426,7 @@ export default function KiomedinDizKireclenmesiPage() {
                   href="https://pubmed.ncbi.nlm.nih.gov/?term=gene+therapy+osteoarthritis" 
                   target="_blank" 
                   rel="nofollow noopener"
-                  className="text-blue-600 hover:text-blue-800"
+                  className="text-[#01CAB8] hover:text-[#01867A]"
                 >
                   Gen Terapisi ve Osteoartrit - PubMed Ara
                 </a>
@@ -436,7 +436,7 @@ export default function KiomedinDizKireclenmesiPage() {
                   href="https://pubmed.ncbi.nlm.nih.gov/?term=hyaluronic+acid+viscosupplementation" 
                   target="_blank" 
                   rel="nofollow noopener"
-                  className="text-blue-600 hover:text-blue-800"
+                  className="text-[#01CAB8] hover:text-[#01867A]"
                 >
                   Hyalüronik Asit Viskosüplemasyon - PubMed Ara
                 </a>
@@ -446,7 +446,7 @@ export default function KiomedinDizKireclenmesiPage() {
                   href="https://pubmed.ncbi.nlm.nih.gov/?term=exosome+therapy+cartilage" 
                   target="_blank" 
                   rel="nofollow noopener"
-                  className="text-blue-600 hover:text-blue-800"
+                  className="text-[#01CAB8] hover:text-[#01867A]"
                 >
                   Ekzozom Tedavisi ve Kıkırdak - PubMed Ara
                 </a>
@@ -456,7 +456,7 @@ export default function KiomedinDizKireclenmesiPage() {
                   href="https://pubmed.ncbi.nlm.nih.gov/?term=MMP+inhibitors+osteoarthritis" 
                   target="_blank" 
                   rel="nofollow noopener"
-                  className="text-blue-600 hover:text-blue-800"
+                  className="text-[#01CAB8] hover:text-[#01867A]"
                 >
                   MMP İnhibitörleri ve Osteoartrit - PubMed Ara
                 </a>
@@ -466,7 +466,7 @@ export default function KiomedinDizKireclenmesiPage() {
                   href="https://pubmed.ncbi.nlm.nih.gov/?term=tissue+engineering+cartilage+3D+printing" 
                   target="_blank" 
                   rel="nofollow noopener"
-                  className="text-blue-600 hover:text-blue-800"
+                  className="text-[#01CAB8] hover:text-[#01867A]"
                 >
                   Doku Mühendisliği ve 3D Biyobaskı Kıkırdak - PubMed Ara
                 </a>
@@ -475,10 +475,10 @@ export default function KiomedinDizKireclenmesiPage() {
           </div>
         </section>
           {/* Ameliyatsız Tedavi Internal Link */}
-          <div className="bg-blue-50 border-l-4 border-blue-700 p-6 my-8 rounded-r-lg">
+          <div className="bg-[#E6FAF8] border-l-4 border-blue-700 p-6 my-8 rounded-r-lg">
             <p className="text-gray-700">
               <strong>İlgili İçerik:</strong> Ameliyatsız tedavi seçenekleri hakkında daha fazla bilgi için{' '}
-              <a href="/ameliyatsiz-cozumler" className="text-blue-700 hover:text-blue-900 font-semibold hover:underline">
+              <a href="/ameliyatsiz-cozumler" className="text-[#01A899] hover:text-blue-900 font-semibold hover:underline">
                 ameliyatsız çözümler sayfamızı
               </a>{' '}
               ziyaret edebilirsiniz.

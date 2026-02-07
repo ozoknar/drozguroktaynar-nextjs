@@ -71,9 +71,9 @@ export default function DupuytrenKonkrakturuPage() {
       <article className="max-w-4xl mx-auto px-4 py-8">
         {/* Breadcrumb */}
         <nav className="text-sm text-gray-500 mb-6">
-          <Link href="/" className="hover:text-blue-600">Ana Sayfa</Link>
+          <Link href="/" className="hover:text-[#01CAB8]">Ana Sayfa</Link>
           <span className="mx-2">/</span>
-          <Link href="/blog" className="hover:text-blue-600">Blog</Link>
+          <Link href="/blog" className="hover:text-[#01CAB8]">Blog</Link>
           <span className="mx-2">/</span>
           <span className="text-gray-700">Dupuytren Kontraktürü Nedir</span>
         </nav>
@@ -124,19 +124,19 @@ export default function DupuytrenKonkrakturuPage() {
             </p>
             <ul className="space-y-2 mb-4">
               <li className="flex items-start">
-                <span className="text-blue-500 mr-2">•</span>
+                <span className="text-[#1AD2C4] mr-2">•</span>
                 <span><strong>Nodül oluşumu:</strong> El ayasında sert düğümcükler</span>
               </li>
               <li className="flex items-start">
-                <span className="text-blue-500 mr-2">•</span>
+                <span className="text-[#1AD2C4] mr-2">•</span>
                 <span><strong>Kord gelişimi:</strong> Nodüllerden parmak eklemlerine uzanan sert bantlar</span>
               </li>
               <li className="flex items-start">
-                <span className="text-blue-500 mr-2">•</span>
+                <span className="text-[#1AD2C4] mr-2">•</span>
                 <span><strong>Kontraktür:</strong> Parmakların büzülmesi ve düzleşmemesi</span>
               </li>
               <li className="flex items-start">
-                <span className="text-blue-500 mr-2">•</span>
+                <span className="text-[#1AD2C4] mr-2">•</span>
                 <span><strong>Fonksiyon kaybı:</strong> El tutuş ve kavrama bozuklukları</span>
               </li>
             </ul>
@@ -211,7 +211,7 @@ export default function DupuytrenKonkrakturuPage() {
           <section className="mb-12">
             <h2 className="text-3xl font-bold text-gray-900 mb-4">Belirtiler ve Klinik Bulgular</h2>
             
-            <div className="bg-blue-50 p-6 rounded-lg mb-6">
+            <div className="bg-[#E6FAF8] p-6 rounded-lg mb-6">
               <h3 className="text-xl font-semibold text-gray-900 mb-3">Erken Evre Belirtileri</h3>
               <ul className="space-y-3">
                 <li className="flex items-start">
@@ -312,14 +312,14 @@ export default function DupuytrenKonkrakturuPage() {
             </p>
 
             <div className="space-y-4">
-              <div className="bg-blue-50 p-5 rounded-lg">
+              <div className="bg-[#E6FAF8] p-5 rounded-lg">
                 <h3 className="font-semibold text-gray-900 mb-2">📋 Anamnez</h3>
                 <p className="text-gray-700">
                   Aile öyküsü, mesleki maruziyetler, diabetes mellitus varlığı, alkol-sigara kullanımı sorgulanır.
                 </p>
               </div>
 
-              <div className="bg-blue-50 p-5 rounded-lg">
+              <div className="bg-[#E6FAF8] p-5 rounded-lg">
                 <h3 className="font-semibold text-gray-900 mb-2">👐 Fizik Muayene</h3>
                 <ul className="text-gray-700 space-y-2">
                   <li><strong>İnspeksiyon:</strong> Nodül, kord, cilt değişiklikleri</li>
@@ -329,7 +329,7 @@ export default function DupuytrenKonkrakturuPage() {
                 </ul>
               </div>
 
-              <div className="bg-blue-50 p-5 rounded-lg">
+              <div className="bg-[#E6FAF8] p-5 rounded-lg">
                 <h3 className="font-semibold text-gray-900 mb-2">🔬 Ayırıcı Tanı</h3>
                 <p className="text-gray-700">
                   Trigger parmak, kapsülitis, tendon yaralanması, tümörler gibi durumlardan ayırt edilmelidir.
@@ -368,7 +368,7 @@ export default function DupuytrenKonkrakturuPage() {
 
             <h3 className="text-2xl font-semibold text-gray-900 mb-3">Minimal İnvaziv Tedaviler</h3>
             
-            <div className="bg-blue-50 p-6 rounded-lg mb-4">
+            <div className="bg-[#E6FAF8] p-6 rounded-lg mb-4">
               <h4 className="text-lg font-semibold text-gray-900 mb-2">1. Kolajenaz Enjeksiyonu (Xiapex/Xiaflex)</h4>
               <p className="text-gray-700 mb-2">
                 Korda enjekte edilen kollajenaz enzimi, fibrozik bant dokusunu eritir.
@@ -381,7 +381,7 @@ export default function DupuytrenKonkrakturuPage() {
               </ul>
             </div>
 
-            <div className="bg-blue-50 p-6 rounded-lg mb-6">
+            <div className="bg-[#E6FAF8] p-6 rounded-lg mb-6">
               <h4 className="text-lg font-semibold text-gray-900 mb-2">2. Perkütan İğne Aponeurotomisi (Needle Fasciotomy)</h4>
               <p className="text-gray-700 mb-2">
                 İğne ile kontraktüre dokuyu perkütan olarak keserek açma.
@@ -503,7 +503,7 @@ export default function DupuytrenKonkrakturuPage() {
                   href="https://pubmed.ncbi.nlm.nih.gov/?term=dupuytren+contracture+pathogenesis+luck" 
                   target="_blank" 
                   rel="noopener noreferrer" 
-                  className="text-blue-600 hover:underline ml-1"
+                  className="text-[#01CAB8] hover:underline ml-1"
                 >
                   [PubMed Ara]
                 </a>
@@ -515,7 +515,7 @@ export default function DupuytrenKonkrakturuPage() {
                   href="https://pubmed.ncbi.nlm.nih.gov/?term=collagenase+dupuytren+hurst+nejm" 
                   target="_blank" 
                   rel="noopener noreferrer" 
-                  className="text-blue-600 hover:underline ml-1"
+                  className="text-[#01CAB8] hover:underline ml-1"
                 >
                   [PubMed Ara]
                 </a>
@@ -527,7 +527,7 @@ export default function DupuytrenKonkrakturuPage() {
                   href="https://pubmed.ncbi.nlm.nih.gov/?term=dupuytren+surgery+cochrane" 
                   target="_blank" 
                   rel="noopener noreferrer" 
-                  className="text-blue-600 hover:underline ml-1"
+                  className="text-[#01CAB8] hover:underline ml-1"
                 >
                   [PubMed Ara]
                 </a>
@@ -537,12 +537,12 @@ export default function DupuytrenKonkrakturuPage() {
 
           {/* Section 9: Internal Link - ZORUNLU! */}
           <section className="mb-12">
-            <div className="bg-blue-50 border-l-4 border-blue-500 p-6 rounded-r-lg">
+            <div className="bg-[#E6FAF8] border-l-4 border-[#1AD2C4] p-6 rounded-r-lg">
               <p className="text-gray-700">
                 <strong>İlgili İçerik:</strong> Ameliyatsız tedavi seçenekleri hakkında daha fazla bilgi için{' '}
                 <Link 
                   href="/ameliyatsiz-cozumler" 
-                  className="text-blue-600 hover:text-blue-800 font-semibold hover:underline"
+                  className="text-[#01CAB8] hover:text-[#01867A] font-semibold hover:underline"
                 >
                   ameliyatsız çözümler sayfamızı
                 </Link>{' '}
@@ -567,12 +567,12 @@ export default function DupuytrenKonkrakturuPage() {
         </div>
 
         {/* CTA */}
-        <div className="bg-gradient-to-r from-blue-600 to-blue-700 rounded-xl p-8 text-center text-white mt-12">
+        <div className="bg-gradient-to-r from-[#01CAB8] to-[#01A899] rounded-xl p-8 text-center text-white mt-12">
           <h2 className="text-2xl font-bold mb-4">El Sağlığınız İçin Uzman Değerlendirmesi</h2>
           <p className="mb-6">Dupuytren kontraktürü veya el problemleriniz için detaylı muayene ve tedavi planlaması.</p>
           <Link 
             href="/iletisim" 
-            className="inline-block bg-white text-blue-600 px-8 py-3 rounded-lg font-semibold hover:bg-gray-100 transition"
+            className="inline-block bg-white text-[#01CAB8] px-8 py-3 rounded-lg font-semibold hover:bg-gray-100 transition"
           >
             Randevu Al
           </Link>

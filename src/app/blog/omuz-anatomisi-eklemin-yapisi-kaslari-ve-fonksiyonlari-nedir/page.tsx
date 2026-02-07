@@ -77,7 +77,7 @@ export default function OmuzAnatomisiPage() {
             bir komplekstir. Bu yapı, hem geniş hareket açıklığı hem de stabilite sağlar.
           </p>
 
-          <div className="bg-blue-50 border-l-4 border-blue-500 p-6 mb-6">
+          <div className="bg-[#E6FAF8] border-l-4 border-[#1AD2C4] p-6 mb-6">
             <h4 className="font-semibold text-lg mb-3">Omuz Kompleksini Oluşturan 4 Eklem:</h4>
             <ul className="space-y-2">
               <li>• <strong>Glenohumeral eklem:</strong> Asıl omuz eklemi (küre-çukur tipi)</li>
@@ -234,7 +234,7 @@ export default function OmuzAnatomisiPage() {
             Bursalar, sürtünmeyi azaltmak için eklem çevresinde bulunan sıvı dolu keseleridir.
           </p>
 
-          <div className="bg-blue-50 p-6 rounded-lg mb-8">
+          <div className="bg-[#E6FAF8] p-6 rounded-lg mb-8">
             <h4 className="font-semibold text-lg mb-3">Omuz Bölgesindeki Başlıca Bursalar:</h4>
             <ul className="space-y-2 text-gray-700">
               <li>• <strong>Subakromiyal bursa:</strong> Akromion ve rotator kılıf arasında (en önemli)</li>
@@ -348,23 +348,23 @@ export default function OmuzAnatomisiPage() {
         <section className="mb-12 p-6 bg-gray-50 rounded-lg">
           <h2 className="text-2xl font-bold text-gray-900 mb-4">Kaynaklar</h2>
           <ol className="space-y-2 text-sm text-gray-700">
-            <li>1. Neumann DA. "Kinesiology of the musculoskeletal system: foundations for rehabilitation." Mosby Elsevier. 2010. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=shoulder+kinesiology+biomechanics" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a></li>
-            <li>2. Lugo R, et al. "Shoulder biomechanics." Eur J Radiol. 2008. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=shoulder+anatomy+biomechanics" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a></li>
-            <li>3. Hansen ML, et al. "Anatomy and biomechanics of the shoulder in throwing, swimming, gymnastics, and tennis." Clin Sports Med. 2001. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=shoulder+anatomy+sports" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a></li>
-            <li>4. Halder AM, et al. "Passive capsular restraints to anterior-inferior translation of the glenohumeral joint." J Shoulder Elbow Surg. 2001. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=glenohumeral+ligaments+stability" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a></li>
-            <li>5. Yamaguchi K, et al. "The demographics and morphological features of rotator cuff disease." J Bone Joint Surg Am. 2006. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=rotator+cuff+anatomy+pathology" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a></li>
-            <li>6. Burkhart SS. "Arthroscopic treatment of massive rotator cuff tears." Clin Orthop Relat Res. 2001. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=rotator+cuff+functional+anatomy" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a></li>
-            <li>7. Cools AM, et al. "Scapular muscle recruitment patterns: trapezius muscle latency with and without impingement symptoms." Am J Sports Med. 2003. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=scapular+muscle+function" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a></li>
-            <li>8. Terry GC, Chopp TM. "Functional anatomy of the shoulder." J Athl Train. 2000. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=shoulder+functional+anatomy" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a></li>
-            <li>9. Ellenbecker TS, Cools A. "Rehabilitation of shoulder impingement syndrome and rotator cuff injuries." World J Orthop. 2010. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=shoulder+rehabilitation+anatomy" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a></li>
-            <li>10. Matsen FA, et al. "The Shoulder." 4th ed. Saunders. 2009. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=shoulder+comprehensive+anatomy" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a></li>
+            <li>1. Neumann DA. "Kinesiology of the musculoskeletal system: foundations for rehabilitation." Mosby Elsevier. 2010. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=shoulder+kinesiology+biomechanics" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a></li>
+            <li>2. Lugo R, et al. "Shoulder biomechanics." Eur J Radiol. 2008. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=shoulder+anatomy+biomechanics" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a></li>
+            <li>3. Hansen ML, et al. "Anatomy and biomechanics of the shoulder in throwing, swimming, gymnastics, and tennis." Clin Sports Med. 2001. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=shoulder+anatomy+sports" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a></li>
+            <li>4. Halder AM, et al. "Passive capsular restraints to anterior-inferior translation of the glenohumeral joint." J Shoulder Elbow Surg. 2001. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=glenohumeral+ligaments+stability" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a></li>
+            <li>5. Yamaguchi K, et al. "The demographics and morphological features of rotator cuff disease." J Bone Joint Surg Am. 2006. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=rotator+cuff+anatomy+pathology" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a></li>
+            <li>6. Burkhart SS. "Arthroscopic treatment of massive rotator cuff tears." Clin Orthop Relat Res. 2001. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=rotator+cuff+functional+anatomy" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a></li>
+            <li>7. Cools AM, et al. "Scapular muscle recruitment patterns: trapezius muscle latency with and without impingement symptoms." Am J Sports Med. 2003. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=scapular+muscle+function" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a></li>
+            <li>8. Terry GC, Chopp TM. "Functional anatomy of the shoulder." J Athl Train. 2000. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=shoulder+functional+anatomy" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a></li>
+            <li>9. Ellenbecker TS, Cools A. "Rehabilitation of shoulder impingement syndrome and rotator cuff injuries." World J Orthop. 2010. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=shoulder+rehabilitation+anatomy" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a></li>
+            <li>10. Matsen FA, et al. "The Shoulder." 4th ed. Saunders. 2009. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=shoulder+comprehensive+anatomy" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a></li>
           </ol>
         </section>
           {/* Ameliyatsız Tedavi Internal Link */}
-          <div className="bg-blue-50 border-l-4 border-blue-700 p-6 my-8 rounded-r-lg">
+          <div className="bg-[#E6FAF8] border-l-4 border-blue-700 p-6 my-8 rounded-r-lg">
             <p className="text-gray-700">
               <strong>İlgili İçerik:</strong> Ameliyatsız tedavi seçenekleri hakkında daha fazla bilgi için{' '}
-              <a href="/ameliyatsiz-cozumler" className="text-blue-700 hover:text-blue-900 font-semibold hover:underline">
+              <a href="/ameliyatsiz-cozumler" className="text-[#01A899] hover:text-blue-900 font-semibold hover:underline">
                 ameliyatsız çözümler sayfamızı
               </a>{' '}
               ziyaret edebilirsiniz.
@@ -373,14 +373,14 @@ export default function OmuzAnatomisiPage() {
 
 
         {/* CTA Section */}
-        <section className="mt-12 p-8 bg-gradient-to-r from-blue-600 to-blue-700 rounded-2xl text-white">
+        <section className="mt-12 p-8 bg-gradient-to-r from-[#01CAB8] to-[#01A899] rounded-2xl text-white">
           <h2 className="text-3xl font-bold mb-4">Omuz Problemleriniz için Uzman Değerlendirme</h2>
           <p className="text-lg mb-6 text-blue-50">
             Omuz ağrısı veya hareket kısıtlılığı için detaylı muayene randevusu alabilirsiniz.
           </p>
           <Link
             href="/randevu"
-            className="inline-block bg-white text-blue-600 px-8 py-3 rounded-lg font-semibold hover:bg-blue-50 transition-colors"
+            className="inline-block bg-white text-[#01CAB8] px-8 py-3 rounded-lg font-semibold hover:bg-[#E6FAF8] transition-colors"
           >
             Randevu Al
           </Link>

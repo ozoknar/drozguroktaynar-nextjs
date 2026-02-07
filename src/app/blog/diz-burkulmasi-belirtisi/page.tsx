@@ -137,7 +137,7 @@ export default function DizBurkulmasiBelirtisiPage() {
           </section>
 
           {/* Anatomy Section */}
-          <section className="mb-12 bg-blue-50 p-8 rounded-xl">
+          <section className="mb-12 bg-[#E6FAF8] p-8 rounded-xl">
             <h2 className="text-2xl font-bold text-gray-800 mb-4">
               Diz Bağları (Ligamentler)
             </h2>
@@ -146,28 +146,28 @@ export default function DizBurkulmasiBelirtisiPage() {
             </p>
             <div className="grid md:grid-cols-2 gap-4">
               <div className="bg-white p-4 rounded-lg">
-                <h3 className="font-semibold text-blue-800 mb-2">🔴 ACL (Anterior Cruciate Ligament)</h3>
+                <h3 className="font-semibold text-[#01867A] mb-2">🔴 ACL (Anterior Cruciate Ligament)</h3>
                 <p className="text-sm text-gray-600">
                   <strong>Ön Çapraz Bağ.</strong> Tibia'nın öne kaymasını önler. 
                   En sık yaralanan bağ (spor yaralanmaları).
                 </p>
               </div>
               <div className="bg-white p-4 rounded-lg">
-                <h3 className="font-semibold text-blue-800 mb-2">🟠 PCL (Posterior Cruciate Ligament)</h3>
+                <h3 className="font-semibold text-[#01867A] mb-2">🟠 PCL (Posterior Cruciate Ligament)</h3>
                 <p className="text-sm text-gray-600">
                   <strong>Arka Çapraz Bağ.</strong> Tibia'nın geriye kaymasını önler. 
                   Dashboard yaralanması (araç kazası).
                 </p>
               </div>
               <div className="bg-white p-4 rounded-lg">
-                <h3 className="font-semibold text-blue-800 mb-2">🟡 MCL (Medial Collateral Ligament)</h3>
+                <h3 className="font-semibold text-[#01867A] mb-2">🟡 MCL (Medial Collateral Ligament)</h3>
                 <p className="text-sm text-gray-600">
                   <strong>İç Yan Bağ.</strong> Dizin içe doğru açılmasını (valgus) önler. 
                   Dıştan darbe ile yaralanır.
                 </p>
               </div>
               <div className="bg-white p-4 rounded-lg">
-                <h3 className="font-semibold text-blue-800 mb-2">🟢 LCL (Lateral Collateral Ligament)</h3>
+                <h3 className="font-semibold text-[#01867A] mb-2">🟢 LCL (Lateral Collateral Ligament)</h3>
                 <p className="text-sm text-gray-600">
                   <strong>Dış Yan Bağ.</strong> Dizin dışa doğru açılmasını (varus) önler. 
                   İçten darbe ile yaralanır (nadir).
@@ -192,8 +192,8 @@ export default function DizBurkulmasiBelirtisiPage() {
                 </p>
               </div>
 
-              <div className="bg-blue-50 p-6 rounded-xl">
-                <h3 className="font-semibold text-blue-800 mb-3 flex items-center gap-2">
+              <div className="bg-[#E6FAF8] p-6 rounded-xl">
+                <h3 className="font-semibold text-[#01867A] mb-3 flex items-center gap-2">
                   <span>💧</span> Şişlik (Efüzyon)
                 </h3>
                 <p className="text-gray-700">
@@ -300,8 +300,8 @@ export default function DizBurkulmasiBelirtisiPage() {
                 </div>
               </div>
 
-              <div className="bg-blue-50 p-6 rounded-xl">
-                <h3 className="font-semibold text-blue-800 mb-3">📷 Direkt Röntgen</h3>
+              <div className="bg-[#E6FAF8] p-6 rounded-xl">
+                <h3 className="font-semibold text-[#01867A] mb-3">📷 Direkt Röntgen</h3>
                 <p className="text-gray-700">
                   Kırık ve çıkığı değerlendirmek için. Bağları göstermez ama 
                   <strong> avulsiyon kırığı</strong> (bağın kemikle birlikte kopması) tespit edilebilir.
@@ -415,13 +415,13 @@ export default function DizBurkulmasiBelirtisiPage() {
           </section>
 
           {/* Recovery Section */}
-          <section className="mb-12 bg-blue-50 p-8 rounded-xl">
+          <section className="mb-12 bg-[#E6FAF8] p-8 rounded-xl">
             <h2 className="text-2xl font-bold text-gray-800 mb-6">
               İyileşme Süreci ve Spora Dönüş
             </h2>
             <div className="space-y-3">
               <div className="bg-white p-4 rounded-lg">
-                <h3 className="font-semibold text-blue-800 mb-2">📅 Konservatif Tedavi (Grade 1-2)</h3>
+                <h3 className="font-semibold text-[#01867A] mb-2">📅 Konservatif Tedavi (Grade 1-2)</h3>
                 <ul className="text-sm text-gray-700 space-y-1">
                   <li>• <strong>2-4 hafta:</strong> Normal aktiviteler</li>
                   <li>• <strong>4-6 hafta:</strong> Hafif spor (bisiklet, yüzme)</li>
@@ -430,7 +430,7 @@ export default function DizBurkulmasiBelirtisiPage() {
               </div>
 
               <div className="bg-white p-4 rounded-lg">
-                <h3 className="font-semibold text-blue-800 mb-2">📅 Cerrahi Sonrası (ACL Rekonstrüksiyon)</h3>
+                <h3 className="font-semibold text-[#01867A] mb-2">📅 Cerrahi Sonrası (ACL Rekonstrüksiyon)</h3>
                 <ul className="text-sm text-gray-700 space-y-1">
                   <li>• <strong>0-2 hafta:</strong> Buz, elevatasyon, ROM egzersizleri</li>
                   <li>• <strong>2-6 hafta:</strong> Yük verme, quadriceps güçlendirme</li>
@@ -512,10 +512,10 @@ export default function DizBurkulmasiBelirtisiPage() {
             </div>
           </section>
           {/* Ameliyatsız Tedavi Internal Link */}
-          <div className="bg-blue-50 border-l-4 border-blue-700 p-6 my-8 rounded-r-lg">
+          <div className="bg-[#E6FAF8] border-l-4 border-blue-700 p-6 my-8 rounded-r-lg">
             <p className="text-gray-700">
               <strong>İlgili İçerik:</strong> Ameliyatsız tedavi seçenekleri hakkında daha fazla bilgi için{' '}
-              <a href="/ameliyatsiz-cozumler" className="text-blue-700 hover:text-blue-900 font-semibold hover:underline">
+              <a href="/ameliyatsiz-cozumler" className="text-[#01A899] hover:text-blue-900 font-semibold hover:underline">
                 ameliyatsız çözümler sayfamızı
               </a>{' '}
               ziyaret edebilirsiniz.
@@ -555,50 +555,50 @@ export default function DizBurkulmasiBelirtisiPage() {
             <ol className="space-y-3 text-sm text-gray-700">
               <li>
                 <span className="font-medium">1.</span> Raines BT, et al. <em>"Management of anterior cruciate ligament injury: what's in and what's out?"</em> Indian J Orthop. 2017;51(5):563-75.{' '}
-                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=ACL+injury+treatment" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=ACL+injury+treatment" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <span className="font-medium">2.</span> Sanders TL, et al. <em>"Incidence of anterior cruciate ligament tears and reconstruction: a 21-year population-based study."</em> Am J Sports Med. 2016;44(6):1502-7.{' '}
-                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=ACL+injury+treatment" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=ACL+injury+treatment" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <span className="font-medium">3.</span> Filbay SR, Grindem H. <em>"Evidence-based recommendations for the management of anterior cruciate ligament (ACL) rupture."</em> Best Pract Res Clin Rheumatol. 2019;33(1):33-47.{' '}
-                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=ACL+injury+treatment" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=ACL+injury+treatment" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <span className="font-medium">4.</span> Smith TO, et al. <em>"Early versus delayed surgery for anterior cruciate ligament reconstruction: a systematic review and meta-analysis."</em> Knee Surg Sports Traumatol Arthrosc. 2010;18(3):304-11.{' '}
-                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=ACL+injury+treatment" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=ACL+injury+treatment" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <span className="font-medium">5.</span> Wright RW, et al. <em>"Meniscal and articular cartilage predictors of outcome after reconstruction of the anterior cruciate ligament."</em> Am J Sports Med. 2007;35(10):1630-4.{' '}
-                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=ACL+injury+treatment" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=ACL+injury+treatment" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
             </ol>
             
             <details className="mt-4">
-              <summary className="cursor-pointer text-blue-600 font-medium hover:text-blue-800 flex items-center gap-2">
+              <summary className="cursor-pointer text-[#01CAB8] font-medium hover:text-[#01867A] flex items-center gap-2">
                 <span>📖 Daha Fazla Kaynak Göster (5 ek referans)</span>
               </summary>
               <ol start={6} className="space-y-3 text-sm text-gray-700 mt-4 pt-4 border-t">
                 <li>
                   <span className="font-medium">6.</span> Ardern CL, et al. <em>"2016 Consensus statement on return to sport from the First World Congress in Sports Physical Therapy, Bern."</em> Br J Sports Med. 2016;50(14):853-64.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=ACL+injury+treatment" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=ACL+injury+treatment" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
                 </li>
                 <li>
                   <span className="font-medium">7.</span> Frobell RB, et al. <em>"A randomized trial of treatment for acute anterior cruciate ligament tears."</em> N Engl J Med. 2010;363(4):331-42.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=ACL+injury+treatment" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=ACL+injury+treatment" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
                 </li>
                 <li>
                   <span className="font-medium">8.</span> Paulos L, et al. <em>"Infrapatellar contracture syndrome: an unrecognized cause of knee stiffness with patella entrapment and patella infera."</em> Am J Sports Med. 1987;15(4):331-41.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=ACL+injury+treatment" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=ACL+injury+treatment" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
                 </li>
                 <li>
                   <span className="font-medium">9.</span> Shelbourne KD, et al. <em>"Long-term evaluation of posterior cruciate ligament injuries."</em> Am J Sports Med. 1999;27(2):127-34.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=PCL+injury+treatment" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=PCL+injury+treatment" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
                 </li>
                 <li>
                   <span className="font-medium">10.</span> LaPrade RF, et al. <em>"The MCL injury: outcomes and treatment."</em> J Am Acad Orthop Surg. 2007;15(6):368-77.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=MCL+injury+treatment" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=MCL+injury+treatment" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
                 </li>
               </ol>
             </details>

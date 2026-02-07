@@ -185,8 +185,8 @@ export default function DizKireclenmesineNeIyiGelirPage() {
             </p>
 
             <div className="space-y-4">
-              <div className="bg-blue-50 p-6 rounded-xl">
-                <h3 className="font-semibold text-blue-800 mb-3">🏊 Düşük Etkili Egzersizler (Önerilen)</h3>
+              <div className="bg-[#E6FAF8] p-6 rounded-xl">
+                <h3 className="font-semibold text-[#01867A] mb-3">🏊 Düşük Etkili Egzersizler (Önerilen)</h3>
                 <div className="grid md:grid-cols-2 gap-4">
                   <div className="bg-white p-4 rounded-lg">
                     <h4 className="font-medium text-gray-800 mb-2">🏊‍♂️ Yüzme & Su Jimnastiği</h4>
@@ -283,8 +283,8 @@ export default function DizKireclenmesineNeIyiGelirPage() {
             </p>
 
             <div className="space-y-4">
-              <div className="bg-blue-50 p-6 rounded-xl">
-                <h3 className="font-semibold text-blue-800 mb-3">🐟 Omega-3 Yağ Asitleri</h3>
+              <div className="bg-[#E6FAF8] p-6 rounded-xl">
+                <h3 className="font-semibold text-[#01867A] mb-3">🐟 Omega-3 Yağ Asitleri</h3>
                 <p className="text-gray-700 mb-3">
                   <strong>EPA ve DHA</strong> anti-enflamatuar sitokinleri artırır, COX-2'yi (iltihabı tetikleyen enzim) inhibe eder.
                 </p>
@@ -417,31 +417,31 @@ export default function DizKireclenmesineNeIyiGelirPage() {
           </section>
 
           {/* Physical Therapy Section */}
-          <section className="mb-12 bg-blue-50 p-8 rounded-xl">
+          <section className="mb-12 bg-[#E6FAF8] p-8 rounded-xl">
             <h2 className="text-2xl font-bold text-gray-800 mb-4">
               5️⃣ Fizik Tedavi Modaliteleri
             </h2>
             <div className="grid md:grid-cols-2 gap-4">
               <div className="bg-white p-4 rounded-lg">
-                <h3 className="font-semibold text-blue-800 mb-2">🧊 Buz Tedavisi</h3>
+                <h3 className="font-semibold text-[#01867A] mb-2">🧊 Buz Tedavisi</h3>
                 <p className="text-sm text-gray-600">
                   Akut ağrı ve şişlikte. 15-20 dk, günde 3-4 kez. İltihabı azaltır.
                 </p>
               </div>
               <div className="bg-white p-4 rounded-lg">
-                <h3 className="font-semibold text-blue-800 mb-2">🔥 Isı Tedavisi</h3>
+                <h3 className="font-semibold text-[#01867A] mb-2">🔥 Isı Tedavisi</h3>
                 <p className="text-sm text-gray-600">
                   Kronik ağrı ve sertlikte. Sıcak kompres, kaplıca. Kan akımını artırır.
                 </p>
               </div>
               <div className="bg-white p-4 rounded-lg">
-                <h3 className="font-semibold text-blue-800 mb-2">⚡ TENS</h3>
+                <h3 className="font-semibold text-[#01867A] mb-2">⚡ TENS</h3>
                 <p className="text-sm text-gray-600">
                   Transkütanöz elektriksel sinir stimülasyonu. Ağrı sinyallerini bloke eder.
                 </p>
               </div>
               <div className="bg-white p-4 rounded-lg">
-                <h3 className="font-semibold text-blue-800 mb-2">🌊 Ultrason</h3>
+                <h3 className="font-semibold text-[#01867A] mb-2">🌊 Ultrason</h3>
                 <p className="text-sm text-gray-600">
                   Derin ısıtma. Doku iyileşmesini hızlandırır, kas gevşemesi sağlar.
                 </p>
@@ -484,10 +484,10 @@ export default function DizKireclenmesineNeIyiGelirPage() {
             </div>
           </section>
           {/* Ameliyatsız Tedavi Internal Link */}
-          <div className="bg-blue-50 border-l-4 border-blue-700 p-6 my-8 rounded-r-lg">
+          <div className="bg-[#E6FAF8] border-l-4 border-blue-700 p-6 my-8 rounded-r-lg">
             <p className="text-gray-700">
               <strong>İlgili İçerik:</strong> Ameliyatsız tedavi seçenekleri hakkında daha fazla bilgi için{' '}
-              <a href="/ameliyatsiz-cozumler" className="text-blue-700 hover:text-blue-900 font-semibold hover:underline">
+              <a href="/ameliyatsiz-cozumler" className="text-[#01A899] hover:text-blue-900 font-semibold hover:underline">
                 ameliyatsız çözümler sayfamızı
               </a>{' '}
               ziyaret edebilirsiniz.
@@ -527,50 +527,50 @@ export default function DizKireclenmesineNeIyiGelirPage() {
             <ol className="space-y-3 text-sm text-gray-700">
               <li>
                 <span className="font-medium">1.</span> Messier SP, et al. <em>"Effects of intensive diet and exercise on knee joint loads, inflammation, and clinical outcomes among overweight and obese adults with knee osteoarthritis: the IDEA randomized clinical trial."</em> JAMA. 2013;310(12):1263-73.{' '}
-                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=knee+osteoarthritis+weight+loss" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=knee+osteoarthritis+weight+loss" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <span className="font-medium">2.</span> Fransen M, et al. <em>"Exercise for osteoarthritis of the knee."</em> Cochrane Database Syst Rev. 2015;(1):CD004376.{' '}
-                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=knee+osteoarthritis+exercise" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=knee+osteoarthritis+exercise" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <span className="font-medium">3.</span> Daily JW, et al. <em>"Efficacy of turmeric extracts and curcumin for alleviating the symptoms of joint arthritis: a systematic review and meta-analysis of randomized clinical trials."</em> J Med Food. 2016;19(8):717-29.{' '}
-                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=knee+osteoarthritis+curcumin" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=knee+osteoarthritis+curcumin" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <span className="font-medium">4.</span> Senftleber NK, et al. <em>"Marine oil supplements for arthritis pain: a systematic review and meta-analysis of randomized trials."</em> Nutrients. 2017;9(1):42.{' '}
-                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=knee+osteoarthritis+omega3" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=knee+osteoarthritis+omega3" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <span className="font-medium">5.</span> Brosseau L, et al. <em>"Efficacy of aerobic exercises for osteoarthritis (part II): a meta-analysis."</em> Phys Ther Rev. 2004;9(3):125-45.{' '}
-                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=knee+osteoarthritis+exercise" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=knee+osteoarthritis+exercise" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
             </ol>
             
             <details className="mt-4">
-              <summary className="cursor-pointer text-blue-600 font-medium hover:text-blue-800 flex items-center gap-2">
+              <summary className="cursor-pointer text-[#01CAB8] font-medium hover:text-[#01867A] flex items-center gap-2">
                 <span>📖 Daha Fazla Kaynak Göster (5 ek referans)</span>
               </summary>
               <ol start={6} className="space-y-3 text-sm text-gray-700 mt-4 pt-4 border-t">
                 <li>
                   <span className="font-medium">6.</span> Christensen R, et al. <em>"Weight loss: the treatment of choice for knee osteoarthritis? A randomized trial."</em> Osteoarthritis Cartilage. 2005;13(1):20-7.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=knee+osteoarthritis+weight+loss" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=knee+osteoarthritis+weight+loss" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
                 </li>
                 <li>
                   <span className="font-medium">7.</span> Thomas S, et al. <em>"What is the evidence for a role for diet and nutrition in osteoarthritis?"</em> Rheumatology (Oxford). 2018;57(suppl_4):iv61-iv74.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=knee+osteoarthritis+nutrition" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=knee+osteoarthritis+nutrition" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
                 </li>
                 <li>
                   <span className="font-medium">8.</span> Uthman OA, et al. <em>"Exercise for lower limb osteoarthritis: systematic review incorporating trial sequential analysis and network meta-analysis."</em> BMJ. 2013;347:f5555.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=knee+osteoarthritis+exercise" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=knee+osteoarthritis+exercise" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
                 </li>
                 <li>
                   <span className="font-medium">9.</span> Ghalandary-Shamami M, et al. <em>"Beneficial effects of omega-3 and vitamin D co-supplementation on clinical symptoms and metabolic profiles in patients with rheumatoid arthritis."</em> J Nutr Biochem. 2018;56:141-7.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=knee+osteoarthritis+vitamin+d" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=knee+osteoarthritis+vitamin+d" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
                 </li>
                 <li>
                   <span className="font-medium">10.</span> Bartels EM, et al. <em>"Aquatic exercise for the treatment of knee and hip osteoarthritis."</em> Cochrane Database Syst Rev. 2016;(3):CD005523.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=knee+osteoarthritis+aquatic+exercise" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=knee+osteoarthritis+aquatic+exercise" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
                 </li>
               </ol>
             </details>

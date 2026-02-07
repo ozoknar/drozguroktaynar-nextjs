@@ -79,7 +79,7 @@ export default function OmuzProteziPage() {
           </p>
 
           <div className="grid md:grid-cols-2 gap-6 mb-8">
-            <div className="bg-blue-50 p-6 rounded-lg border-l-4 border-blue-500">
+            <div className="bg-[#E6FAF8] p-6 rounded-lg border-l-4 border-[#1AD2C4]">
               <h4 className="font-semibold text-lg mb-3">1. Anatomik (Konvansiyonel) Total Omuz Protezi:</h4>
               <ul className="space-y-2 text-gray-700">
                 <li>• Humerus başı: Metal baş komponenti</li>
@@ -158,7 +158,7 @@ export default function OmuzProteziPage() {
             Omuz protezi ameliyatı genellikle 2-3 saat sürer ve genel anestezi altında yapılır.
           </p>
 
-          <div className="bg-blue-50 p-6 rounded-lg mb-6">
+          <div className="bg-[#E6FAF8] p-6 rounded-lg mb-6">
             <h4 className="font-semibold text-lg mb-3">Cerrahi Adımlar (Anatomik Protez):</h4>
             <ul className="space-y-2">
               <li>• <strong>1. Anestezi:</strong> Genel anestezi + interskalen blok (ağrı kontrolü)</li>
@@ -289,7 +289,7 @@ export default function OmuzProteziPage() {
             </ul>
           </div>
 
-          <div className="bg-blue-50 p-6 rounded-lg mb-8">
+          <div className="bg-[#E6FAF8] p-6 rounded-lg mb-8">
             <h4 className="font-semibold text-lg mb-3">Aktivite Kısıtlamaları:</h4>
             <ul className="space-y-2 text-gray-700">
               <li>• <strong>İzin verilen:</strong> Yüzme, golf, tenis (rekreasyonel), bisiklet, yürüyüş</li>
@@ -349,23 +349,23 @@ export default function OmuzProteziPage() {
         <section className="mb-12 p-6 bg-gray-50 rounded-lg">
           <h2 className="text-2xl font-bold text-gray-900 mb-4">Kaynaklar</h2>
           <ol className="space-y-2 text-sm text-gray-700">
-            <li>1. Boileau P, et al. "Grammont reverse prosthesis: design, rationale, and biomechanics." J Shoulder Elbow Surg. 2005. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=reverse+shoulder+arthroplasty+biomechanics" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a></li>
-            <li>2. Rasmussen JV, et al. "Anatomical total shoulder arthroplasty." Acta Orthop. 2014. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=anatomic+total+shoulder+arthroplasty+outcomes" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a></li>
-            <li>3. Schairer WW, et al. "National utilization of reverse total shoulder arthroplasty in the United States." J Shoulder Elbow Surg. 2015. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=reverse+shoulder+arthroplasty+epidemiology" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a></li>
-            <li>4. Frankle M, et al. "The Reverse Shoulder Prosthesis for glenohumeral arthritis." J Bone Joint Surg Am. 2005. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=reverse+shoulder+prosthesis+arthritis" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a></li>
-            <li>5. Norris TR, Iannotti JP. "Functional outcome after shoulder arthroplasty for primary osteoarthritis." J Shoulder Elbow Surg. 2002. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=shoulder+arthroplasty+functional+outcomes" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a></li>
-            <li>6. Zumstein MA, et al. "Problems, complications, reoperations, and revisions in reverse total shoulder arthroplasty." J Shoulder Elbow Surg. 2011. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=reverse+shoulder+arthroplasty+complications" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a></li>
-            <li>7. Young AA, et al. "Complications of reverse shoulder arthroplasty." J Am Acad Orthop Surg. 2012. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=reverse+shoulder+complications+review" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a></li>
-            <li>8. Flurin PH, et al. "Comparison of outcomes using anatomic and reverse total shoulder arthroplasty." Bull Hosp Jt Dis. 2013. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=anatomic+vs+reverse+shoulder+arthroplasty" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a></li>
-            <li>9. Cuff D, Levy JC. "Reverse shoulder arthroplasty for the treatment of rotator cuff deficiency." J Am Acad Orthop Surg. 2008. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=reverse+shoulder+rotator+cuff+deficiency" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a></li>
-            <li>10. Bacle G, et al. "Long-term outcomes of reverse total shoulder arthroplasty." Orthop Traumatol Surg Res. 2017. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=reverse+shoulder+arthroplasty+long+term" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a></li>
+            <li>1. Boileau P, et al. "Grammont reverse prosthesis: design, rationale, and biomechanics." J Shoulder Elbow Surg. 2005. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=reverse+shoulder+arthroplasty+biomechanics" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a></li>
+            <li>2. Rasmussen JV, et al. "Anatomical total shoulder arthroplasty." Acta Orthop. 2014. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=anatomic+total+shoulder+arthroplasty+outcomes" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a></li>
+            <li>3. Schairer WW, et al. "National utilization of reverse total shoulder arthroplasty in the United States." J Shoulder Elbow Surg. 2015. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=reverse+shoulder+arthroplasty+epidemiology" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a></li>
+            <li>4. Frankle M, et al. "The Reverse Shoulder Prosthesis for glenohumeral arthritis." J Bone Joint Surg Am. 2005. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=reverse+shoulder+prosthesis+arthritis" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a></li>
+            <li>5. Norris TR, Iannotti JP. "Functional outcome after shoulder arthroplasty for primary osteoarthritis." J Shoulder Elbow Surg. 2002. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=shoulder+arthroplasty+functional+outcomes" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a></li>
+            <li>6. Zumstein MA, et al. "Problems, complications, reoperations, and revisions in reverse total shoulder arthroplasty." J Shoulder Elbow Surg. 2011. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=reverse+shoulder+arthroplasty+complications" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a></li>
+            <li>7. Young AA, et al. "Complications of reverse shoulder arthroplasty." J Am Acad Orthop Surg. 2012. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=reverse+shoulder+complications+review" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a></li>
+            <li>8. Flurin PH, et al. "Comparison of outcomes using anatomic and reverse total shoulder arthroplasty." Bull Hosp Jt Dis. 2013. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=anatomic+vs+reverse+shoulder+arthroplasty" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a></li>
+            <li>9. Cuff D, Levy JC. "Reverse shoulder arthroplasty for the treatment of rotator cuff deficiency." J Am Acad Orthop Surg. 2008. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=reverse+shoulder+rotator+cuff+deficiency" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a></li>
+            <li>10. Bacle G, et al. "Long-term outcomes of reverse total shoulder arthroplasty." Orthop Traumatol Surg Res. 2017. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=reverse+shoulder+arthroplasty+long+term" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a></li>
           </ol>
         </section>
           {/* Ameliyatsız Tedavi Internal Link */}
-          <div className="bg-blue-50 border-l-4 border-blue-700 p-6 my-8 rounded-r-lg">
+          <div className="bg-[#E6FAF8] border-l-4 border-blue-700 p-6 my-8 rounded-r-lg">
             <p className="text-gray-700">
               <strong>İlgili İçerik:</strong> Ameliyatsız tedavi seçenekleri hakkında daha fazla bilgi için{' '}
-              <a href="/ameliyatsiz-cozumler" className="text-blue-700 hover:text-blue-900 font-semibold hover:underline">
+              <a href="/ameliyatsiz-cozumler" className="text-[#01A899] hover:text-blue-900 font-semibold hover:underline">
                 ameliyatsız çözümler sayfamızı
               </a>{' '}
               ziyaret edebilirsiniz.
@@ -374,7 +374,7 @@ export default function OmuzProteziPage() {
 
 
         {/* CTA Section */}
-        <section className="mt-12 p-8 bg-gradient-to-r from-blue-600 to-blue-700 rounded-2xl text-white">
+        <section className="mt-12 p-8 bg-gradient-to-r from-[#01CAB8] to-[#01A899] rounded-2xl text-white">
           <h2 className="text-3xl font-bold mb-4">Omuz Protezi Değerlendirmesi</h2>
           <p className="text-lg mb-6 text-blue-50">
             Omuz artriti veya rotator kılıf probleminiz için protez uygunluğu değerlendirmesi randevusu 
@@ -382,7 +382,7 @@ export default function OmuzProteziPage() {
           </p>
           <Link
             href="/randevu"
-            className="inline-block bg-white text-blue-600 px-8 py-3 rounded-lg font-semibold hover:bg-blue-50 transition-colors"
+            className="inline-block bg-white text-[#01CAB8] px-8 py-3 rounded-lg font-semibold hover:bg-[#E6FAF8] transition-colors"
           >
             Randevu Al
           </Link>

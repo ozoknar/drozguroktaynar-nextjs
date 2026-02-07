@@ -283,8 +283,8 @@ export default function KalcaSikismasiPage() {
                 </div>
               </div>
 
-              <div className="bg-blue-50 p-6 rounded-xl">
-                <h3 className="font-semibold text-blue-800 mb-3">📷 Görüntüleme Yöntemleri</h3>
+              <div className="bg-[#E6FAF8] p-6 rounded-xl">
+                <h3 className="font-semibold text-[#01867A] mb-3">📷 Görüntüleme Yöntemleri</h3>
                 <ul className="space-y-2 text-gray-700 text-sm">
                   <li>• <strong>Direkt Röntgen (Kalça Grafisi):</strong> AP Pelvis, Cross-table lateral, False profile, Dunn görüntüleri. Kemik çıkıntıları (CAM/Pincer) gösterir.</li>
                   <li>• <strong>MRI (Manyetik Rezonans Görüntüleme):</strong> Labrum yırtığı, kıkırdak hasarı, kemik iliği ödemi. Altın standart.</li>
@@ -481,10 +481,10 @@ export default function KalcaSikismasiPage() {
             </div>
           </section>
           {/* Ameliyatsız Tedavi Internal Link */}
-          <div className="bg-blue-50 border-l-4 border-blue-700 p-6 my-8 rounded-r-lg">
+          <div className="bg-[#E6FAF8] border-l-4 border-blue-700 p-6 my-8 rounded-r-lg">
             <p className="text-gray-700">
               <strong>İlgili İçerik:</strong> Ameliyatsız tedavi seçenekleri hakkında daha fazla bilgi için{' '}
-              <a href="/ameliyatsiz-cozumler" className="text-blue-700 hover:text-blue-900 font-semibold hover:underline">
+              <a href="/ameliyatsiz-cozumler" className="text-[#01A899] hover:text-blue-900 font-semibold hover:underline">
                 ameliyatsız çözümler sayfamızı
               </a>{' '}
               ziyaret edebilirsiniz.
@@ -524,50 +524,50 @@ export default function KalcaSikismasiPage() {
             <ol className="space-y-3 text-sm text-gray-700">
               <li>
                 <span className="font-medium">1.</span> Ganz R, et al. <em>"Femoroacetabular impingement: a cause of osteoarthritis of the hip."</em> Clin Orthop Relat Res. 2003;(417):112-20.{' '}
-                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=femoroacetabular+impingement" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=femoroacetabular+impingement" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <span className="font-medium">2.</span> Beck M, et al. <em>"Head-neck offset in femoroacetabular impingement. Cam type impingement of the hip."</em> J Bone Joint Surg Br. 2005;87(7):1012-7.{' '}
-                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=femoroacetabular+impingement" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=femoroacetabular+impingement" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <span className="font-medium">3.</span> Philippon MJ, et al. <em>"Outcomes of hip arthroscopy for femoroacetabular impingement: a minimum 2-year follow-up."</em> Arthroscopy. 2009;25(8):905-11.{' '}
-                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=hip+arthroscopy+FAI" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=hip+arthroscopy+FAI" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <span className="font-medium">4.</span> Byrd JW, Jones KS. <em>"Hip arthroscopy for femoroacetabular impingement: a prospective study of 100 consecutive patients with minimum 2-year follow-up."</em> Arthroscopy. 2009;25(4):369-82.{' '}
-                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=hip+arthroscopy+FAI" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=hip+arthroscopy+FAI" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <span className="font-medium">5.</span> Nwachukwu BU, et al. <em>"Predictors of clinical outcomes after hip arthroscopy for femoroacetabular impingement: a systematic review."</em> Am J Sports Med. 2016;44(6):1594-602.{' '}
-                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=hip+arthroscopy+FAI" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=hip+arthroscopy+FAI" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
             </ol>
             
             <details className="mt-4">
-              <summary className="cursor-pointer text-blue-600 font-medium hover:text-blue-800 flex items-center gap-2">
+              <summary className="cursor-pointer text-[#01CAB8] font-medium hover:text-[#01867A] flex items-center gap-2">
                 <span>📖 Daha Fazla Kaynak Göster (5 ek referans)</span>
               </summary>
               <ol start={6} className="space-y-3 text-sm text-gray-700 mt-4 pt-4 border-t">
                 <li>
                   <span className="font-medium">6.</span> Reiman MP, et al. <em>"Physical therapy for femoroacetabular impingement: a critical review and clinical synthesis."</em> Sports Health. 2012;4(4):348-55.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=FAI+physical+therapy" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=FAI+physical+therapy" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
                 </li>
                 <li>
                   <span className="font-medium">7.</span> Clohisy JC, et al. <em>"Femoroacetabular impingement: current concepts in diagnosis and treatment."</em> Instr Course Lect. 2010;59:151-60.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=femoroacetabular+impingement" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=femoroacetabular+impingement" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
                 </li>
                 <li>
                   <span className="font-medium">8.</span> Safran MR, et al. <em>"Arthroscopic treatment of femoroacetabular impingement: indications, technique, and results."</em> J Am Acad Orthop Surg. 2009;17(4):255-65.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=hip+arthroscopy+FAI" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=hip+arthroscopy+FAI" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
                 </li>
                 <li>
                   <span className="font-medium">9.</span> Sutter R, et al. <em>"Diagnostic accuracy of MRI for femoroacetabular impingement."</em> AJR Am J Roentgenol. 2012;198(1):151-8.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=FAI+MRI+diagnosis" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=FAI+MRI+diagnosis" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
                 </li>
                 <li>
                   <span className="font-medium">10.</span> Domb BG, et al. <em>"Effect of labral tears on outcomes of hip arthroscopy for femoroacetabular impingement."</em> Orthop J Sports Med. 2015;3(2):2325967115570081.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=hip+labral+tear" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=hip+labral+tear" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
                 </li>
               </ol>
             </details>

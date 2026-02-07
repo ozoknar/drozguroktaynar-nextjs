@@ -78,7 +78,7 @@ export default function BankartLezyonuPage() {
             stabilizasyonuna katkıda bulunur.
           </p>
 
-          <div className="bg-blue-50 border-l-4 border-blue-500 p-6 mb-6">
+          <div className="bg-[#E6FAF8] border-l-4 border-[#1AD2C4] p-6 mb-6">
             <h4 className="font-semibold text-lg mb-3">Labrumun Fonksiyonları:</h4>
             <ul className="space-y-2">
               <li>• <strong>Eklem derinliğini artırma:</strong> Glenoid kaviteyi %50 daha derin yapar</li>
@@ -182,7 +182,7 @@ export default function BankartLezyonuPage() {
             instabilite ile kötüleşir.
           </p>
 
-          <div className="bg-blue-50 border-l-4 border-blue-500 p-6 mb-6">
+          <div className="bg-[#E6FAF8] border-l-4 border-[#1AD2C4] p-6 mb-6">
             <h4 className="font-semibold text-lg mb-3">Tipik Belirtiler:</h4>
             <ul className="space-y-2">
               <li>• <strong>Omuzda "çıktı" hissi veya gerçek çıkık:</strong> Özellikle kol abduksiyon ve dış rotasyondayken</li>
@@ -289,7 +289,7 @@ export default function BankartLezyonuPage() {
 
           <h3 className="text-2xl font-semibold text-gray-800 mb-4">Konservatif Tedavi</h3>
 
-          <div className="bg-blue-50 border-l-4 border-blue-500 p-6 mb-6">
+          <div className="bg-[#E6FAF8] border-l-4 border-[#1AD2C4] p-6 mb-6">
             <h4 className="font-semibold text-lg mb-3">Endikasyonlar:</h4>
             <ul className="space-y-2">
               <li>• İlk dislokasyon (özellikle yaşlı, düşük talep hastalarında)</li>
@@ -449,7 +449,7 @@ export default function BankartLezyonuPage() {
             </ul>
           </div>
 
-          <div className="bg-blue-50 p-6 rounded-lg mb-8">
+          <div className="bg-[#E6FAF8] p-6 rounded-lg mb-8">
             <h4 className="font-semibold text-lg mb-3">Kötü Prognostik Faktörler:</h4>
             <ul className="space-y-2 text-gray-700">
               <li>• {'<'}25 yaş</li>
@@ -468,23 +468,23 @@ export default function BankartLezyonuPage() {
         <section className="mb-12 p-6 bg-gray-50 rounded-lg">
           <h2 className="text-2xl font-bold text-gray-900 mb-4">Kaynaklar</h2>
           <ol className="space-y-2 text-sm text-gray-700">
-            <li>1. Bankart ASB. "Recurrent or habitual dislocation of the shoulder-joint." Br Med J. 1923. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=Bankart+lesion+original" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a></li>
-            <li>2. Rowe CR, et al. "The Bankart procedure: a long-term end-result study." J Bone Joint Surg Am. 1978. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=Bankart+procedure+long+term" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a></li>
-            <li>3. Burkhart SS, De Beer JF. "Traumatic glenohumeral bone defects and their relationship to failure of arthroscopic Bankart repairs." Arthroscopy. 2000. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=glenoid+bone+loss+Bankart+failure" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a></li>
-            <li>4. Latarjet M. "Apropos of the treatment of recurrent dislocation of the shoulder (author's transl)." J Chir (Paris). 1954. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=Latarjet+procedure+shoulder" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a></li>
-            <li>5. Boileau P, et al. "Risk factors for recurrence of shoulder instability after arthroscopic Bankart repair." J Bone Joint Surg Am. 2006. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=shoulder+instability+recurrence+risk+factors" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a></li>
-            <li>6. Hovelius L, et al. "The Bankart procedure for recurrent dislocation of the shoulder: a long-term follow-up." J Bone Joint Surg Am. 1982. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=Bankart+long+term+followup" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a></li>
-            <li>7. Cutts S, et al. "Anterior shoulder dislocation." BMJ. 2009. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=anterior+shoulder+dislocation+review" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a></li>
-            <li>8. Itoi E, et al. "The effect of a Bankart lesion on anterior glenohumeral stability: a cadaveric study." J Shoulder Elbow Surg. 2000. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=Bankart+lesion+stability+biomechanics" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a></li>
-            <li>9. Garcia GH, et al. "Biomechanical comparison of two surgical techniques for addressing the engaging Hill-Sachs lesion." J Shoulder Elbow Surg. 2016. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=Hill+Sachs+Bankart+biomechanics" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a></li>
-            <li>10. Arciero RA, et al. "Recurrent anterior shoulder instability: a prospective study of glenoid bone loss and the Bankart repair." Am J Sports Med. 2020. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=glenoid+bone+loss+Bankart+repair+prospective" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a></li>
+            <li>1. Bankart ASB. "Recurrent or habitual dislocation of the shoulder-joint." Br Med J. 1923. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=Bankart+lesion+original" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a></li>
+            <li>2. Rowe CR, et al. "The Bankart procedure: a long-term end-result study." J Bone Joint Surg Am. 1978. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=Bankart+procedure+long+term" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a></li>
+            <li>3. Burkhart SS, De Beer JF. "Traumatic glenohumeral bone defects and their relationship to failure of arthroscopic Bankart repairs." Arthroscopy. 2000. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=glenoid+bone+loss+Bankart+failure" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a></li>
+            <li>4. Latarjet M. "Apropos of the treatment of recurrent dislocation of the shoulder (author's transl)." J Chir (Paris). 1954. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=Latarjet+procedure+shoulder" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a></li>
+            <li>5. Boileau P, et al. "Risk factors for recurrence of shoulder instability after arthroscopic Bankart repair." J Bone Joint Surg Am. 2006. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=shoulder+instability+recurrence+risk+factors" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a></li>
+            <li>6. Hovelius L, et al. "The Bankart procedure for recurrent dislocation of the shoulder: a long-term follow-up." J Bone Joint Surg Am. 1982. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=Bankart+long+term+followup" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a></li>
+            <li>7. Cutts S, et al. "Anterior shoulder dislocation." BMJ. 2009. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=anterior+shoulder+dislocation+review" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a></li>
+            <li>8. Itoi E, et al. "The effect of a Bankart lesion on anterior glenohumeral stability: a cadaveric study." J Shoulder Elbow Surg. 2000. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=Bankart+lesion+stability+biomechanics" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a></li>
+            <li>9. Garcia GH, et al. "Biomechanical comparison of two surgical techniques for addressing the engaging Hill-Sachs lesion." J Shoulder Elbow Surg. 2016. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=Hill+Sachs+Bankart+biomechanics" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a></li>
+            <li>10. Arciero RA, et al. "Recurrent anterior shoulder instability: a prospective study of glenoid bone loss and the Bankart repair." Am J Sports Med. 2020. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=glenoid+bone+loss+Bankart+repair+prospective" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a></li>
           </ol>
         </section>
           {/* Ameliyatsız Tedavi Internal Link */}
-          <div className="bg-blue-50 border-l-4 border-blue-700 p-6 my-8 rounded-r-lg">
+          <div className="bg-[#E6FAF8] border-l-4 border-blue-700 p-6 my-8 rounded-r-lg">
             <p className="text-gray-700">
               <strong>İlgili İçerik:</strong> Ameliyatsız tedavi seçenekleri hakkında daha fazla bilgi için{' '}
-              <a href="/ameliyatsiz-cozumler" className="text-blue-700 hover:text-blue-900 font-semibold hover:underline">
+              <a href="/ameliyatsiz-cozumler" className="text-[#01A899] hover:text-blue-900 font-semibold hover:underline">
                 ameliyatsız çözümler sayfamızı
               </a>{' '}
               ziyaret edebilirsiniz.
@@ -493,7 +493,7 @@ export default function BankartLezyonuPage() {
 
 
         {/* CTA Section */}
-        <section className="mt-12 p-8 bg-gradient-to-r from-blue-600 to-blue-700 rounded-2xl text-white">
+        <section className="mt-12 p-8 bg-gradient-to-r from-[#01CAB8] to-[#01A899] rounded-2xl text-white">
           <h2 className="text-3xl font-bold mb-4">Omuzunuzda Güvensizlik mi Hissediyorsunuz?</h2>
           <p className="text-lg mb-6 text-blue-50">
             Tekrarlayan omuz çıkığı veya Bankart lezyonu tanısı için uzman muayenesi randevusu 
@@ -501,7 +501,7 @@ export default function BankartLezyonuPage() {
           </p>
           <Link
             href="/randevu"
-            className="inline-block bg-white text-blue-600 px-8 py-3 rounded-lg font-semibold hover:bg-blue-50 transition-colors"
+            className="inline-block bg-white text-[#01CAB8] px-8 py-3 rounded-lg font-semibold hover:bg-[#E6FAF8] transition-colors"
           >
             Randevu Al
           </Link>

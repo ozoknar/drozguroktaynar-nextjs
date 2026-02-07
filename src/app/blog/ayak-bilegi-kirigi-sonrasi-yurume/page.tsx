@@ -135,7 +135,7 @@ export default function AyakBilegiKirigiSonrasiYurumePage() {
             <div className="flex flex-wrap justify-center gap-4">
               <Link
                 href="tel:+905525627769"
-                className="inline-flex items-center px-6 py-3 bg-blue-600 text-white font-semibold rounded-lg hover:bg-blue-700 transition-colors"
+                className="inline-flex items-center px-6 py-3 bg-[#01CAB8] text-white font-semibold rounded-lg hover:bg-[#01A899] transition-colors"
               >
                 <svg className="w-5 h-5 mr-2" fill="currentColor" viewBox="0 0 20 20">
                   <path d="M2 3a1 1 0 011-1h2.153a1 1 0 01.986.836l.74 4.435a1 1 0 01-.54 1.06l-1.548.773a11.037 11.037 0 006.105 6.105l.774-1.548a1 1 0 011.059-.54l4.435.74a1 1 0 01.836.986V17a1 1 0 01-1 1h-2C7.82 18 2 12.18 2 5V3z" />
@@ -163,16 +163,16 @@ export default function AyakBilegiKirigiSonrasiYurumePage() {
         <div className="container mx-auto px-4">
           <div className="max-w-4xl mx-auto">
             {/* Table of Contents */}
-            <div className="bg-blue-50 border-l-4 border-blue-600 p-6 mb-8 rounded-r-lg">
+            <div className="bg-[#E6FAF8] border-l-4 border-[#01CAB8] p-6 mb-8 rounded-r-lg">
               <h2 className="text-2xl font-bold text-gray-900 mb-4">İçindekiler</h2>
               <ul className="space-y-2">
-                <li><a href="#ayak-bilegi-kirigi-nedir" className="text-blue-600 hover:text-blue-800 hover:underline">Ayak Bileği Kırığı Nedir?</a></li>
-                <li><a href="#iyilesme-sureci" className="text-blue-600 hover:text-blue-800 hover:underline">Ayak Bileği Kırığı Sonrası İyileşme Süreci</a></li>
-                <li><a href="#alci-sonrasi" className="text-blue-600 hover:text-blue-800 hover:underline">Ayak Bileği Kırığı Alçı Sonrası Yürüme</a></li>
-                <li><a href="#ameliyat-sonrasi" className="text-blue-600 hover:text-blue-800 hover:underline">Ayak Bileği Kırığı Ameliyatı Sonrası Yürüme</a></li>
-                <li><a href="#fizik-tedavi" className="text-blue-600 hover:text-blue-800 hover:underline">Ayak Bileği Kırığı Sonrası Fizik Tedavi ve Egzersizler</a></li>
-                <li><a href="#komplikasyonlar" className="text-blue-600 hover:text-blue-800 hover:underline">Ayak Bileği Kırığı Sonrası Karşılaşılan Komplikasyonlar</a></li>
-                <li><a href="#sss" className="text-blue-600 hover:text-blue-800 hover:underline">Sıkça Sorulan Sorular</a></li>
+                <li><a href="#ayak-bilegi-kirigi-nedir" className="text-[#01CAB8] hover:text-[#01867A] hover:underline">Ayak Bileği Kırığı Nedir?</a></li>
+                <li><a href="#iyilesme-sureci" className="text-[#01CAB8] hover:text-[#01867A] hover:underline">Ayak Bileği Kırığı Sonrası İyileşme Süreci</a></li>
+                <li><a href="#alci-sonrasi" className="text-[#01CAB8] hover:text-[#01867A] hover:underline">Ayak Bileği Kırığı Alçı Sonrası Yürüme</a></li>
+                <li><a href="#ameliyat-sonrasi" className="text-[#01CAB8] hover:text-[#01867A] hover:underline">Ayak Bileği Kırığı Ameliyatı Sonrası Yürüme</a></li>
+                <li><a href="#fizik-tedavi" className="text-[#01CAB8] hover:text-[#01867A] hover:underline">Ayak Bileği Kırığı Sonrası Fizik Tedavi ve Egzersizler</a></li>
+                <li><a href="#komplikasyonlar" className="text-[#01CAB8] hover:text-[#01867A] hover:underline">Ayak Bileği Kırığı Sonrası Karşılaşılan Komplikasyonlar</a></li>
+                <li><a href="#sss" className="text-[#01CAB8] hover:text-[#01867A] hover:underline">Sıkça Sorulan Sorular</a></li>
               </ul>
             </div>
 
@@ -326,25 +326,25 @@ export default function AyakBilegiKirigiSonrasiYurumePage() {
               <h2 className="text-2xl font-bold text-gray-900 mb-4">Kaynaklar</h2>
               <ol className="list-decimal pl-6 space-y-3 text-sm text-gray-700">
                 <li>
-                  Michelson JD, et al. "Ankle Fractures Resulting from Rotational Injuries" Journal of the American Academy of Orthopaedic Surgeons. 2001. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=ankle+fracture+rotational+injuries" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                  Michelson JD, et al. "Ankle Fractures Resulting from Rotational Injuries" Journal of the American Academy of Orthopaedic Surgeons. 2001. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=ankle+fracture+rotational+injuries" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
                 </li>
                 <li>
-                  SooHoo NF, et al. "Evaluation of the Validity of the AOFAS Clinical Rating Systems" Foot & Ankle International. 2003. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=AOFAS+clinical+rating+ankle" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                  SooHoo NF, et al. "Evaluation of the Validity of the AOFAS Clinical Rating Systems" Foot & Ankle International. 2003. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=AOFAS+clinical+rating+ankle" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
                 </li>
                 <li>
-                  Lin CW, et al. "Rehabilitation for ankle fractures in adults" Cochrane Database of Systematic Reviews. 2012. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=rehabilitation+ankle+fractures+adults" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                  Lin CW, et al. "Rehabilitation for ankle fractures in adults" Cochrane Database of Systematic Reviews. 2012. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=rehabilitation+ankle+fractures+adults" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
                 </li>
                 <li>
-                  Moseley AM, et al. "Progressive resistance training after ankle fracture" Clinical Rehabilitation. 2008. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=progressive+resistance+training+ankle+fracture" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                  Moseley AM, et al. "Progressive resistance training after ankle fracture" Clinical Rehabilitation. 2008. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=progressive+resistance+training+ankle+fracture" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
                 </li>
                 <li>
-                  Handoll HH, et al. "Interventions for treating ankle fractures in adults" Cochrane Database of Systematic Reviews. 2012. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=interventions+treating+ankle+fractures" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                  Handoll HH, et al. "Interventions for treating ankle fractures in adults" Cochrane Database of Systematic Reviews. 2012. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=interventions+treating+ankle+fractures" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
                 </li>
                 
               </ol>
               
               <details className="mt-4">
-                <summary className="text-blue-600 hover:text-blue-800 font-semibold cursor-pointer flex items-center gap-2">
+                <summary className="text-[#01CAB8] hover:text-[#01867A] font-semibold cursor-pointer flex items-center gap-2">
                   <svg className="w-5 h-5" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                     <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M19 9l-7 7-7-7" />
                   </svg>
@@ -352,19 +352,19 @@ export default function AyakBilegiKirigiSonrasiYurumePage() {
                 </summary>
                 <ol className="list-decimal list-inside space-y-2 text-gray-700 mt-4" start={6}>
                   <li>
-                    Stufkens SA, et al. "Long-term outcome after 1822 operatively treated ankle fractures" Injury. 2011. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=long+term+outcome+operatively+treated+ankle+fractures" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                    Stufkens SA, et al. "Long-term outcome after 1822 operatively treated ankle fractures" Injury. 2011. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=long+term+outcome+operatively+treated+ankle+fractures" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
                   </li>
                   <li>
-                    Petrisor BA, et al. "Management of displaced ankle fractures" Journal of Orthopaedic Trauma. 2006. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=management+displaced+ankle+fractures" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                    Petrisor BA, et al. "Management of displaced ankle fractures" Journal of Orthopaedic Trauma. 2006. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=management+displaced+ankle+fractures" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
                   </li>
                   <li>
-                    Egol KA, et al. "Functional outcome of surgery for displaced ankle fractures" Journal of Bone and Joint Surgery. 2000. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=functional+outcome+surgery+ankle+fractures" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                    Egol KA, et al. "Functional outcome of surgery for displaced ankle fractures" Journal of Bone and Joint Surgery. 2000. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=functional+outcome+surgery+ankle+fractures" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
                   </li>
                   <li>
-                    van der Sluis CK, et al. "Long-term physical, psychological and social consequences of ankle fracture" Injury. 2011. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=long+term+consequences+ankle+fracture" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                    van der Sluis CK, et al. "Long-term physical, psychological and social consequences of ankle fracture" Injury. 2011. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=long+term+consequences+ankle+fracture" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
                   </li>
                   <li>
-                    Shah NH, et al. "Complications of ankle fracture fixation" Foot and Ankle Clinics. 2017. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=complications+ankle+fracture+fixation" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                    Shah NH, et al. "Complications of ankle fracture fixation" Foot and Ankle Clinics. 2017. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=complications+ankle+fracture+fixation" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
                   </li>
                 </ol>
               </details>
@@ -384,10 +384,10 @@ export default function AyakBilegiKirigiSonrasiYurumePage() {
             </section>
 
             {/* Internal Link */}
-            <div className="bg-blue-50 border-l-4 border-blue-600 p-6 mb-8 rounded-r-lg">
+            <div className="bg-[#E6FAF8] border-l-4 border-[#01CAB8] p-6 mb-8 rounded-r-lg">
               <p className="text-gray-700 mb-2">
                 <strong>İlgili İçerik:</strong> Ameliyatsız tedavi seçenekleri hakkında daha fazla bilgi için{' '}
-                <Link href="/ameliyatsiz-cozumler" className="text-blue-600 hover:text-blue-800 font-semibold hover:underline">
+                <Link href="/ameliyatsiz-cozumler" className="text-[#01CAB8] hover:text-[#01867A] font-semibold hover:underline">
                   ameliyatsız çözümler sayfamızı
                 </Link>{' '}
                 ziyaret edebilirsiniz.
@@ -395,7 +395,7 @@ export default function AyakBilegiKirigiSonrasiYurumePage() {
             </div>
 
             {/* CTA Section */}
-            <div className="bg-gradient-to-r from-blue-600 to-blue-800 rounded-lg p-8 text-center text-white">
+            <div className="bg-gradient-to-r from-[#01CAB8] to-[#01867A] rounded-lg p-8 text-center text-white">
               <h2 className="text-3xl font-bold mb-4">Uzman Desteği İçin Bizimle İletişime Geçin</h2>
               <p className="text-xl mb-6 text-blue-100">
                 Ayak bileği kırığı sonrası iyileşme sürecinde profesyonel destek ve danışmanlık için bize ulaşın.
@@ -403,7 +403,7 @@ export default function AyakBilegiKirigiSonrasiYurumePage() {
               <div className="flex flex-wrap justify-center gap-4">
                 <Link
                   href="tel:+905525627769"
-                  className="inline-flex items-center px-8 py-4 bg-white text-blue-600 font-bold rounded-lg hover:bg-blue-50 transition-colors"
+                  className="inline-flex items-center px-8 py-4 bg-white text-[#01CAB8] font-bold rounded-lg hover:bg-[#E6FAF8] transition-colors"
                 >
                   <svg className="w-6 h-6 mr-2" fill="currentColor" viewBox="0 0 20 20">
                     <path d="M2 3a1 1 0 011-1h2.153a1 1 0 01.986.836l.74 4.435a1 1 0 01-.54 1.06l-1.548.773a11.037 11.037 0 006.105 6.105l.774-1.548a1 1 0 011.059-.54l4.435.74a1 1 0 01.836.986V17a1 1 0 01-1 1h-2C7.82 18 2 12.18 2 5V3z" />

@@ -69,7 +69,7 @@ export default function AyakBilegiArtroskopisiPage() {
           <div className="mb-6">
             <Link 
               href="/blog"
-              className="text-blue-600 hover:text-blue-800 text-sm font-medium"
+              className="text-[#01CAB8] hover:text-[#01867A] text-sm font-medium"
             >
               ← Blog'a Dön
             </Link>
@@ -115,7 +115,7 @@ export default function AyakBilegiArtroskopisiPage() {
             <li><strong>Özel aletler:</strong> Küçük kesilerden tanı ve tedavi amaçlı aletler girilir</li>
           </ul>
 
-          <div className="bg-blue-50 border-l-4 border-blue-500 p-6 my-8">
+          <div className="bg-[#E6FAF8] border-l-4 border-[#1AD2C4] p-6 my-8">
             <p className="text-gray-800">
               <strong>İlginç Bilgi:</strong> Ayak bileği artroskopisi ilk kez 1970'lerde denendi, ancak 1980'lerin sonlarında teknik gelişmelerle birlikte yaygınlaştı. Günümüzde birçok ayak bileği sorununun tedavisinde ilk tercih edilen yöntemdir.
             </p>
@@ -456,51 +456,51 @@ export default function AyakBilegiArtroskopisiPage() {
           <ol className="list-decimal pl-6 mb-6 text-gray-700 space-y-2">
             <li>
               Ferkel RD, Chams RN. "Chronic lateral instability: arthroscopic findings and long-term results." Foot & Ankle International. 2007.
-              {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=ankle+arthroscopy+lateral+instability" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+              {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=ankle+arthroscopy+lateral+instability" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
             </li>
             <li>
               Zengerink M, Struijs PA, Tol JL, van Dijk CN. "Treatment of osteochondral lesions of the talus: a systematic review." Knee Surgery, Sports Traumatology, Arthroscopy. 2010.
-              {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=osteochondral+lesion+talus+treatment" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+              {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=osteochondral+lesion+talus+treatment" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
             </li>
             <li>
               van Dijk CN, Scholte D. "Arthroscopy of the ankle joint." Arthroscopy. 1997.
-              {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=ankle+arthroscopy+technique" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+              {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=ankle+arthroscopy+technique" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
             </li>
             <li>
               Scranton PE Jr, McDermott JE. "Anterior tibiotalar spurs: a comparison of open versus arthroscopic debridement." Foot & Ankle. 1992.
-              {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=anterior+ankle+impingement+arthroscopic" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+              {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=anterior+ankle+impingement+arthroscopic" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
             </li>
             <li>
               Ferkel RD, Karzel RP, Del Pizzo W, Friedman MJ, Fischer SP. "Arthroscopic treatment of anterolateral impingement of the ankle." American Journal of Sports Medicine. 1991.
-              {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=anterolateral+impingement+ankle+arthroscopy" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+              {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=anterolateral+impingement+ankle+arthroscopy" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
             </li>
             <li>
               Tol JL, Verhagen RA, Krips R, et al. "The anterior ankle impingement syndrome: diagnostic value of oblique radiographs." Foot & Ankle International. 2004.
-              {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=anterior+ankle+impingement+diagnosis" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+              {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=anterior+ankle+impingement+diagnosis" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
             </li>
             <li>
               Nihal A, Trepman E, Nag D. "First metatarsophalangeal arthrodesis." Foot & Ankle Clinics. 2005.
-              {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=ankle+arthroscopy+complications" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+              {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=ankle+arthroscopy+complications" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
             </li>
             <li>
               Deng DF, Hamilton GA, Lee M, Rush S, Ford LA, Patel S. "Complications associated with foot and ankle arthroscopy." Journal of Foot and Ankle Surgery. 2012.
-              {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=foot+ankle+arthroscopy+complications" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+              {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=foot+ankle+arthroscopy+complications" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
             </li>
             <li>
               Vega J, Golano P, Pellegrino A, Rabat E, Pena F. "All-inside arthroscopic lateral collateral ligament repair for ankle instability with a knotless suture anchor technique." Foot & Ankle International. 2013.
-              {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=arthroscopic+lateral+ligament+repair+ankle" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+              {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=arthroscopic+lateral+ligament+repair+ankle" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
             </li>
             <li>
               Urgüden M, Soyuncu Y, Ozdemir H, et al. "Arthroscopic treatment of anterolateral soft tissue impingement of the ankle." Arthroscopy. 2005.
-              {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=soft+tissue+impingement+ankle+arthroscopy" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+              {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=soft+tissue+impingement+ankle+arthroscopy" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
             </li>
           </ol>
         </div>
           {/* Ameliyatsız Tedavi Internal Link */}
-          <div className="bg-blue-50 border-l-4 border-blue-700 p-6 my-8 rounded-r-lg">
+          <div className="bg-[#E6FAF8] border-l-4 border-blue-700 p-6 my-8 rounded-r-lg">
             <p className="text-gray-700">
               <strong>İlgili İçerik:</strong> Ameliyatsız tedavi seçenekleri hakkında daha fazla bilgi için{' '}
-              <a href="/ameliyatsiz-cozumler" className="text-blue-700 hover:text-blue-900 font-semibold hover:underline">
+              <a href="/ameliyatsiz-cozumler" className="text-[#01A899] hover:text-blue-900 font-semibold hover:underline">
                 ameliyatsız çözümler sayfamızı
               </a>{' '}
               ziyaret edebilirsiniz.
@@ -509,7 +509,7 @@ export default function AyakBilegiArtroskopisiPage() {
 
 
         {/* CTA Section */}
-        <div className="mt-16 bg-gradient-to-r from-blue-600 to-blue-800 rounded-2xl p-8 text-white">
+        <div className="mt-16 bg-gradient-to-r from-[#01CAB8] to-[#01867A] rounded-2xl p-8 text-white">
           <h2 className="text-3xl font-bold mb-4">Ayak Bileği Sorununuz mu Var?</h2>
           <p className="text-lg mb-6 text-blue-100">
             Kronik ayak bileği ağrısı, burkulma veya hareket kısıtlılığı için minimal invaziv tedavi seçeneklerini öğrenin. 
@@ -518,13 +518,13 @@ export default function AyakBilegiArtroskopisiPage() {
           <div className="flex flex-col sm:flex-row gap-4">
             <Link
               href="/iletisim"
-              className="bg-white text-blue-600 px-8 py-3 rounded-lg font-semibold hover:bg-blue-50 transition text-center"
+              className="bg-white text-[#01CAB8] px-8 py-3 rounded-lg font-semibold hover:bg-[#E6FAF8] transition text-center"
             >
               Randevu Alın
             </Link>
             <Link
               href="/hizmetler/ayak-bilegi-cerrahisi"
-              className="border-2 border-white text-white px-8 py-3 rounded-lg font-semibold hover:bg-blue-700 transition text-center"
+              className="border-2 border-white text-white px-8 py-3 rounded-lg font-semibold hover:bg-[#01A899] transition text-center"
             >
               Ayak Bileği Cerrahisi Hakkında
             </Link>
@@ -538,7 +538,7 @@ export default function AyakBilegiArtroskopisiPage() {
             <Link href="/blog/kaval-kemigi" className="group">
               <div className="border rounded-lg overflow-hidden hover:shadow-lg transition">
                 <div className="p-6">
-                  <h3 className="font-semibold text-gray-900 group-hover:text-blue-600 mb-2">
+                  <h3 className="font-semibold text-gray-900 group-hover:text-[#01CAB8] mb-2">
                     Kaval Kemiği
                   </h3>
                   <p className="text-gray-600 text-sm">
@@ -551,7 +551,7 @@ export default function AyakBilegiArtroskopisiPage() {
             <Link href="/blog/el-bilegi-artroskopisi" className="group">
               <div className="border rounded-lg overflow-hidden hover:shadow-lg transition">
                 <div className="p-6">
-                  <h3 className="font-semibold text-gray-900 group-hover:text-blue-600 mb-2">
+                  <h3 className="font-semibold text-gray-900 group-hover:text-[#01CAB8] mb-2">
                     El Bileği Artroskopisi
                   </h3>
                   <p className="text-gray-600 text-sm">
@@ -564,7 +564,7 @@ export default function AyakBilegiArtroskopisiPage() {
             <Link href="/blog/eklem-agrisi-bursa-dr-ozgur-oktay-nar-ortopedi-bursa" className="group">
               <div className="border rounded-lg overflow-hidden hover:shadow-lg transition">
                 <div className="p-6">
-                  <h3 className="font-semibold text-gray-900 group-hover:text-blue-600 mb-2">
+                  <h3 className="font-semibold text-gray-900 group-hover:text-[#01CAB8] mb-2">
                     Eklem Ağrısı ve Tedavisi
                   </h3>
                   <p className="text-gray-600 text-sm">

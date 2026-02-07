@@ -71,9 +71,9 @@ export default function BlogPage() {
       <article className="max-w-4xl mx-auto px-4 py-8">
         {/* Breadcrumb */}
         <nav className="text-sm text-gray-500 mb-6">
-          <Link href="/" className="hover:text-blue-600">Ana Sayfa</Link>
+          <Link href="/" className="hover:text-[#01CAB8]">Ana Sayfa</Link>
           <span className="mx-2">/</span>
-          <Link href="/blog" className="hover:text-blue-600">Blog</Link>
+          <Link href="/blog" className="hover:text-[#01CAB8]">Blog</Link>
           <span className="mx-2">/</span>
           <span className="text-gray-700">Omuz Kireçlenmesi Tedavisi</span>
         </nav>
@@ -114,7 +114,7 @@ export default function BlogPage() {
               Kalsifik tendinit kendine özgü doğal bir seyir izler. Tedavi yaklaşımı hangi evrede olduğunuza bağlı olarak değişir.
             </p>
 
-            <div className="bg-blue-50 p-6 rounded-lg mb-6">
+            <div className="bg-[#E6FAF8] p-6 rounded-lg mb-6">
               <h3 className="text-xl font-semibold text-gray-900 mb-3">Uhthoff Sınıflaması (3 Evre)</h3>
               
               <div className="space-y-4">
@@ -233,7 +233,7 @@ export default function BlogPage() {
             <h2 className="text-3xl font-bold text-gray-900 mb-4">İnvaziv Minimal Tedaviler</h2>
             
             <div className="space-y-6">
-              <div className="bg-blue-50 p-6 rounded-lg border-l-4 border-blue-500">
+              <div className="bg-[#E6FAF8] p-6 rounded-lg border-l-4 border-[#1AD2C4]">
                 <h3 className="text-xl font-bold text-gray-900 mb-3">1. ESWT (Extracorporeal Shock Wave Therapy - Şok Dalga Tedavisi)</h3>
                 
                 <h4 className="text-lg font-semibold text-gray-900 mt-4 mb-2">Mekanizma</h4>
@@ -272,7 +272,7 @@ export default function BlogPage() {
                 </ul>
               </div>
 
-              <div className="bg-blue-50 p-6 rounded-lg border-l-4 border-blue-500">
+              <div className="bg-[#E6FAF8] p-6 rounded-lg border-l-4 border-[#1AD2C4]">
                 <h3 className="text-xl font-bold text-gray-900 mb-3">2. Ultrason Eşliğinde Aspirasyon + Lavaj (Needling)</h3>
                 
                 <h4 className="text-lg font-semibold text-gray-900 mb-2">Prosedür</h4>
@@ -405,7 +405,7 @@ export default function BlogPage() {
                   href="https://pubmed.ncbi.nlm.nih.gov/?term=speed+hazleman+calcific+tendinitis+shoulder" 
                   target="_blank" 
                   rel="noopener noreferrer" 
-                  className="text-blue-600 hover:underline ml-1"
+                  className="text-[#01CAB8] hover:underline ml-1"
                 >
                   [PubMed Ara]
                 </a>
@@ -416,7 +416,7 @@ export default function BlogPage() {
                   href="https://pubmed.ncbi.nlm.nih.gov/?term=uhthoff+loehr+calcific+tendinopathy+rotator+cuff" 
                   target="_blank" 
                   rel="noopener noreferrer" 
-                  className="text-blue-600 hover:underline ml-1"
+                  className="text-[#01CAB8] hover:underline ml-1"
                 >
                   [PubMed Ara]
                 </a>
@@ -427,7 +427,7 @@ export default function BlogPage() {
                   href="https://pubmed.ncbi.nlm.nih.gov/?term=gerdesmeyer+extracorporeal+shock+wave+calcifying+tendonitis" 
                   target="_blank" 
                   rel="noopener noreferrer" 
-                  className="text-blue-600 hover:underline ml-1"
+                  className="text-[#01CAB8] hover:underline ml-1"
                 >
                   [PubMed Ara]
                 </a>
@@ -438,7 +438,7 @@ export default function BlogPage() {
                   href="https://pubmed.ncbi.nlm.nih.gov/?term=de+witte+calcific+tendinitis+ultrasound+needling+lavage" 
                   target="_blank" 
                   rel="noopener noreferrer" 
-                  className="text-blue-600 hover:underline ml-1"
+                  className="text-[#01CAB8] hover:underline ml-1"
                 >
                   [PubMed Ara]
                 </a>
@@ -448,12 +448,12 @@ export default function BlogPage() {
 
           {/* Section 8: Internal Link - ZORUNLU! */}
           <section className="mb-12">
-            <div className="bg-blue-50 border-l-4 border-blue-500 p-6 rounded-r-lg">
+            <div className="bg-[#E6FAF8] border-l-4 border-[#1AD2C4] p-6 rounded-r-lg">
               <p className="text-gray-700">
                 <strong>İlgili İçerik:</strong> Omuz kireçlenmesi için ameliyatsız tedavi seçenekleri hakkında daha fazla bilgi almak isterseniz{' '}
                 <Link 
                   href="/ameliyatsiz-cozumler" 
-                  className="text-blue-600 hover:text-blue-800 font-semibold hover:underline"
+                  className="text-[#01CAB8] hover:text-[#01867A] font-semibold hover:underline"
                 >
                   ameliyatsız çözümler sayfamızı
                 </Link>{' '}
@@ -476,12 +476,12 @@ export default function BlogPage() {
         </div>
 
         {/* CTA */}
-        <div className="bg-gradient-to-r from-blue-600 to-blue-700 rounded-xl p-8 text-center text-white mt-12">
+        <div className="bg-gradient-to-r from-[#01CAB8] to-[#01A899] rounded-xl p-8 text-center text-white mt-12">
           <h2 className="text-2xl font-bold mb-4">Omuz Kireçlenmesi Tedavisi</h2>
           <p className="mb-6">Size özel tedavi planı için uzman değerlendirmesi alın.</p>
           <Link 
             href="/iletisim" 
-            className="inline-block bg-white text-blue-600 px-8 py-3 rounded-lg font-semibold hover:bg-gray-100 transition"
+            className="inline-block bg-white text-[#01CAB8] px-8 py-3 rounded-lg font-semibold hover:bg-gray-100 transition"
           >
             Hemen Randevu Al
           </Link>

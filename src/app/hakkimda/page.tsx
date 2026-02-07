@@ -60,7 +60,7 @@ export default function HakkimdaPage() {
       <div className="max-w-6xl mx-auto px-4 py-12">
         {/* Breadcrumb */}
         <nav className="text-sm text-gray-500 mb-6">
-          <Link href="/" className="hover:text-blue-600">Ana Sayfa</Link>
+          <Link href="/" className="hover:text-[#01CAB8]">Ana Sayfa</Link>
           <span className="mx-2">/</span>
           <span className="text-gray-700">Hakkımda</span>
         </nav>
@@ -71,7 +71,7 @@ export default function HakkimdaPage() {
             <h1 className="text-3xl md:text-4xl font-bold text-gray-900 mb-4">
               Op. Dr. Özgür Oktay Nar
             </h1>
-            <p className="text-xl text-blue-600 font-medium mb-4">
+            <p className="text-xl text-[#01CAB8] font-medium mb-4">
               Ortopedi ve Travmatoloji Uzmanı
             </p>
             <p className="text-lg text-gray-600 mb-6">
@@ -80,8 +80,8 @@ export default function HakkimdaPage() {
             
             {/* Quick Stats */}
             <div className="grid grid-cols-3 gap-4 mb-6">
-              <div className="text-center p-4 bg-blue-50 rounded-lg">
-                <div className="text-2xl font-bold text-blue-600">20+</div>
+              <div className="text-center p-4 bg-[#E6FAF8] rounded-lg">
+                <div className="text-2xl font-bold text-[#01CAB8]">20+</div>
                 <div className="text-sm text-gray-600">Yıl Deneyim</div>
               </div>
               <div className="text-center p-4 bg-green-50 rounded-lg">
@@ -131,7 +131,7 @@ export default function HakkimdaPage() {
         </section>
 
         {/* Treatment Philosophy - Dr. Nar Yaklaşımı */}
-        <section className="bg-blue-50 rounded-2xl p-8 mb-16">
+        <section className="bg-[#E6FAF8] rounded-2xl p-8 mb-16">
           <h2 className="text-2xl font-bold text-gray-900 mb-6">🩺 Tedavi Felsefem</h2>
           
           <div className="bg-amber-50 border-l-4 border-amber-500 p-6 mb-6">
@@ -166,7 +166,7 @@ export default function HakkimdaPage() {
           
           <div className="space-y-6">
             <div className="flex items-start">
-              <div className="bg-blue-600 text-white rounded-full w-10 h-10 flex items-center justify-center font-bold mr-4 flex-shrink-0">1</div>
+              <div className="bg-[#01CAB8] text-white rounded-full w-10 h-10 flex items-center justify-center font-bold mr-4 flex-shrink-0">1</div>
               <div>
                 <h3 className="font-semibold text-gray-900">Tıp Eğitimi</h3>
                 <p className="text-gray-600">19 Mayıs Üniversitesi Tıp Fakültesi, Samsun</p>
@@ -175,7 +175,7 @@ export default function HakkimdaPage() {
             </div>
             
             <div className="flex items-start">
-              <div className="bg-blue-600 text-white rounded-full w-10 h-10 flex items-center justify-center font-bold mr-4 flex-shrink-0">2</div>
+              <div className="bg-[#01CAB8] text-white rounded-full w-10 h-10 flex items-center justify-center font-bold mr-4 flex-shrink-0">2</div>
               <div>
                 <h3 className="font-semibold text-gray-900">Uzmanlık Eğitimi</h3>
                 <p className="text-gray-600">Kahramanmaraş Sütçü İmam Üniversitesi – Ortopedi ve Travmatoloji</p>
@@ -184,7 +184,7 @@ export default function HakkimdaPage() {
             </div>
             
             <div className="flex items-start">
-              <div className="bg-blue-600 text-white rounded-full w-10 h-10 flex items-center justify-center font-bold mr-4 flex-shrink-0">3</div>
+              <div className="bg-[#01CAB8] text-white rounded-full w-10 h-10 flex items-center justify-center font-bold mr-4 flex-shrink-0">3</div>
               <div>
                 <h3 className="font-semibold text-gray-900">Nazilli Devlet Hastanesi</h3>
                 <p className="text-gray-600">Uzman Hekim – Aydın</p>
@@ -208,39 +208,39 @@ export default function HakkimdaPage() {
           <h2 className="text-2xl font-bold text-gray-900 mb-6">🏥 Uzmanlık Alanlarım</h2>
           
           <div className="grid md:grid-cols-3 gap-6">
-            <Link href="/ayak-ve-ayak-bilegi" className="bg-gray-50 rounded-xl p-6 hover:bg-blue-50 transition group">
+            <Link href="/ayak-ve-ayak-bilegi" className="bg-gray-50 rounded-xl p-6 hover:bg-[#E6FAF8] transition group">
               <div className="text-3xl mb-3">🦶</div>
-              <h3 className="font-semibold text-gray-900 group-hover:text-blue-600">Ayak ve Ayak Bileği</h3>
+              <h3 className="font-semibold text-gray-900 group-hover:text-[#01CAB8]">Ayak ve Ayak Bileği</h3>
               <p className="text-gray-600 text-sm mt-2">Halluks valgus, topuk dikeni, ayak bileği cerrahisi</p>
             </Link>
             
-            <Link href="/diz" className="bg-gray-50 rounded-xl p-6 hover:bg-blue-50 transition group">
+            <Link href="/diz" className="bg-gray-50 rounded-xl p-6 hover:bg-[#E6FAF8] transition group">
               <div className="text-3xl mb-3">🦵</div>
-              <h3 className="font-semibold text-gray-900 group-hover:text-blue-600">Diz</h3>
+              <h3 className="font-semibold text-gray-900 group-hover:text-[#01CAB8]">Diz</h3>
               <p className="text-gray-600 text-sm mt-2">Menisküs, çapraz bağ, kireçlenme, hidrojel tedavisi</p>
             </Link>
             
-            <Link href="/omuz" className="bg-gray-50 rounded-xl p-6 hover:bg-blue-50 transition group">
+            <Link href="/omuz" className="bg-gray-50 rounded-xl p-6 hover:bg-[#E6FAF8] transition group">
               <div className="text-3xl mb-3">💪</div>
-              <h3 className="font-semibold text-gray-900 group-hover:text-blue-600">Omuz</h3>
+              <h3 className="font-semibold text-gray-900 group-hover:text-[#01CAB8]">Omuz</h3>
               <p className="text-gray-600 text-sm mt-2">Donuk omuz, rotator cuff yırtığı, omuz instabilitesi</p>
             </Link>
             
-            <Link href="/boyun-sirt-bel" className="bg-gray-50 rounded-xl p-6 hover:bg-blue-50 transition group">
+            <Link href="/boyun-sirt-bel" className="bg-gray-50 rounded-xl p-6 hover:bg-[#E6FAF8] transition group">
               <div className="text-3xl mb-3">🔙</div>
-              <h3 className="font-semibold text-gray-900 group-hover:text-blue-600">Boyun – Sırt – Bel</h3>
+              <h3 className="font-semibold text-gray-900 group-hover:text-[#01CAB8]">Boyun – Sırt – Bel</h3>
               <p className="text-gray-600 text-sm mt-2">Bel fıtığı, boyun fıtığı, skolyoz</p>
             </Link>
             
-            <Link href="/kalca" className="bg-gray-50 rounded-xl p-6 hover:bg-blue-50 transition group">
+            <Link href="/kalca" className="bg-gray-50 rounded-xl p-6 hover:bg-[#E6FAF8] transition group">
               <div className="text-3xl mb-3">🦴</div>
-              <h3 className="font-semibold text-gray-900 group-hover:text-blue-600">Kalça</h3>
+              <h3 className="font-semibold text-gray-900 group-hover:text-[#01CAB8]">Kalça</h3>
               <p className="text-gray-600 text-sm mt-2">Kalça kireçlenmesi, kalça protezi</p>
             </Link>
             
-            <Link href="/sporcu-sorunlari" className="bg-gray-50 rounded-xl p-6 hover:bg-blue-50 transition group">
+            <Link href="/sporcu-sorunlari" className="bg-gray-50 rounded-xl p-6 hover:bg-[#E6FAF8] transition group">
               <div className="text-3xl mb-3">⚽</div>
-              <h3 className="font-semibold text-gray-900 group-hover:text-blue-600">Spor Yaralanmaları</h3>
+              <h3 className="font-semibold text-gray-900 group-hover:text-[#01CAB8]">Spor Yaralanmaları</h3>
               <p className="text-gray-600 text-sm mt-2">Sporcu sağlığı, sakatlık tedavisi, performans</p>
             </Link>
           </div>
@@ -316,7 +316,7 @@ export default function HakkimdaPage() {
           </div>
           
           <div className="text-center mt-6">
-            <Link href="/sertifikalarim" className="text-blue-600 hover:underline">
+            <Link href="/sertifikalarim" className="text-[#01CAB8] hover:underline">
               Tüm sertifikalarımı görüntüle →
             </Link>
           </div>
@@ -331,7 +331,7 @@ export default function HakkimdaPage() {
         </section>
 
         {/* CTA */}
-        <section className="bg-blue-600 text-white rounded-2xl p-8 text-center">
+        <section className="bg-[#01CAB8] text-white rounded-2xl p-8 text-center">
           <h2 className="text-2xl font-bold mb-2">Randevu Almak İster Misiniz?</h2>
           <p className="text-blue-100 mb-2">📍 Nilüfer, Bursa</p>
           <p className="text-blue-100 mb-6">Ameliyatsız tedavi seçenekleri için beni arayın.</p>
@@ -345,7 +345,7 @@ export default function HakkimdaPage() {
             </a>
             <a
               href="tel:+905522493909"
-              className="bg-white text-blue-600 px-8 py-3 rounded-lg font-semibold hover:bg-blue-50 transition"
+              className="bg-white text-[#01CAB8] px-8 py-3 rounded-lg font-semibold hover:bg-[#E6FAF8] transition"
             >
               📞 0552 249 39 09
             </a>

@@ -89,7 +89,7 @@ export default function OdemKremiPage() {
         <section className="mb-12">
           <h2 className="text-3xl font-bold text-gray-900 mb-6">Ödem Nasıl Oluşur?</h2>
           
-          <div className="bg-blue-50 border-l-4 border-blue-500 p-6 mb-6">
+          <div className="bg-[#E6FAF8] border-l-4 border-[#1AD2C4] p-6 mb-6">
             <h3 className="text-xl font-semibold text-gray-900 mb-3">Fizyolojik Mekanizma</h3>
             <div className="space-y-3 text-gray-700">
               <div>
@@ -139,7 +139,7 @@ export default function OdemKremiPage() {
               </div>
             </div>
 
-            <div className="bg-blue-50 border border-blue-200 rounded-lg p-6">
+            <div className="bg-[#E6FAF8] border border-blue-200 rounded-lg p-6">
               <h3 className="text-xl font-semibold text-gray-900 mb-3">💊 Sentetik/Farmakolojik Bileşenler</h3>
               <div className="grid md:grid-cols-2 gap-4 text-sm text-gray-700">
                 <div>
@@ -221,7 +221,7 @@ export default function OdemKremiPage() {
             <h3 className="text-xl font-semibold text-gray-900 mb-4">📋 Kullanım Kılavuzu</h3>
             <div className="space-y-3">
               <div className="flex items-start gap-3">
-                <div className="bg-blue-600 text-white w-8 h-8 rounded-full flex items-center justify-center font-bold flex-shrink-0">1</div>
+                <div className="bg-[#01CAB8] text-white w-8 h-8 rounded-full flex items-center justify-center font-bold flex-shrink-0">1</div>
                 <div>
                   <strong className="text-gray-900">Yaralanma Sonrası İlk 48 Saat:</strong>
                   <p className="text-gray-700 text-sm">Topikal NSAİİ jel (diklofenak) günde 3-4 kez uygulayın. Hafif masaj ile sürün.</p>
@@ -229,7 +229,7 @@ export default function OdemKremiPage() {
               </div>
 
               <div className="flex items-start gap-3">
-                <div className="bg-blue-600 text-white w-8 h-8 rounded-full flex items-center justify-center font-bold flex-shrink-0">2</div>
+                <div className="bg-[#01CAB8] text-white w-8 h-8 rounded-full flex items-center justify-center font-bold flex-shrink-0">2</div>
                 <div>
                   <strong className="text-gray-900">Açık Yara Varsa:</strong>
                   <p className="text-gray-700 text-sm">Krem KULLANMAYIN. Enfeksiyon riski artar.</p>
@@ -237,7 +237,7 @@ export default function OdemKremiPage() {
               </div>
 
               <div className="flex items-start gap-3">
-                <div className="bg-blue-600 text-white w-8 h-8 rounded-full flex items-center justify-center font-bold flex-shrink-0">3</div>
+                <div className="bg-[#01CAB8] text-white w-8 h-8 rounded-full flex items-center justify-center font-bold flex-shrink-0">3</div>
                 <div>
                   <strong className="text-gray-900">Kompresyon ve Elevasyonla Kombine Edin:</strong>
                   <p className="text-gray-700 text-sm">Krem tek başına yeterli değil → RICE protokolü (Rest, Ice, Compression, Elevation)</p>
@@ -245,7 +245,7 @@ export default function OdemKremiPage() {
               </div>
 
               <div className="flex items-start gap-3">
-                <div className="bg-blue-600 text-white w-8 h-8 rounded-full flex items-center justify-center font-bold flex-shrink-0">4</div>
+                <div className="bg-[#01CAB8] text-white w-8 h-8 rounded-full flex items-center justify-center font-bold flex-shrink-0">4</div>
                 <div>
                   <strong className="text-gray-900">Süre Sınırı:</strong>
                   <p className="text-gray-700 text-sm">7-10 günden uzun kullanmayın. Ödem devam ederse doktora başvurun.</p>
@@ -281,7 +281,7 @@ export default function OdemKremiPage() {
               </ul>
             </div>
 
-            <div className="bg-blue-50 border border-blue-200 rounded-lg p-6">
+            <div className="bg-[#E6FAF8] border border-blue-200 rounded-lg p-6">
               <h3 className="text-xl font-semibold text-gray-900 mb-3">💊 Oral NSAİİ'ler</h3>
               <p className="text-gray-700 text-sm mb-2">
                 Topikal formlardan daha güçlü sistemik etki:
@@ -343,52 +343,52 @@ export default function OdemKremiPage() {
             <ol className="space-y-3 text-sm text-gray-700">
               <li>
                 <strong>1.</strong> Massey T, et al. "Topical NSAIDs for acute musculoskeletal pain in adults" Cochrane Database Syst Rev. 2016;4:CD007402. 
-                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=topical+NSAID+acute+musculoskeletal+pain+cochrane" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=topical+NSAID+acute+musculoskeletal+pain+cochrane" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <strong>2.</strong> Pittler MH, Ernst E. "Horse chestnut seed extract for chronic venous insufficiency" Cochrane Database Syst Rev. 2012;11:CD003230. 
-                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=horse+chestnut+chronic+venous+insufficiency+cochrane" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=horse+chestnut+chronic+venous+insufficiency+cochrane" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <strong>3.</strong> Pumpa KL, et al. "The effects of topical Arnica on performance, pain and muscle damage after intense eccentric exercise" Eur J Sport Sci. 2014;14(3):294-300. 
-                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=topical+arnica+muscle+damage+exercise" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=topical+arnica+muscle+damage+exercise" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <strong>4.</strong> Iannitti T, et al. "Effectiveness and safety of Arnica montana in post-surgical setting, pain and inflammation" Am J Ther. 2016;23(1):e184-e197. 
-                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=arnica+montana+post+surgical+pain+inflammation" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=arnica+montana+post+surgical+pain+inflammation" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <strong>5.</strong> Predel HG, et al. "Efficacy of a comfrey root extract ointment in comparison to a diclofenac gel in the treatment of ankle distortions" Arzneimittelforschung. 2005;55(11):665-674. 
-                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=comfrey+diclofenac+ankle+distortion" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=comfrey+diclofenac+ankle+distortion" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <strong>6.</strong> Derry S, et al. "Topical NSAIDs for chronic musculoskeletal pain in adults" Cochrane Database Syst Rev. 2016;4:CD007400. 
-                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=topical+NSAID+chronic+musculoskeletal+pain+cochrane" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=topical+NSAID+chronic+musculoskeletal+pain+cochrane" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <strong>7.</strong> Brien S, et al. "Bromelain as a treatment for osteoarthritis: a review of clinical studies" Evid Based Complement Alternat Med. 2004;1(3):251-257. 
-                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=bromelain+osteoarthritis+clinical+studies" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=bromelain+osteoarthritis+clinical+studies" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <strong>8.</strong> Tugwell PS, et al. "Assessing the efficacy of topical treatments: guidelines for reviewers" J Rheumatol. 2004;31(9):1841-1844. 
-                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=topical+treatment+efficacy+guidelines" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=topical+treatment+efficacy+guidelines" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <strong>9.</strong> Baumann LS. "Less-known botanical cosmeceuticals" Dermatol Ther. 2007;20(5):330-342. 
-                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=botanical+cosmeceuticals+topical" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=botanical+cosmeceuticals+topical" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <strong>10.</strong> Rosenbloom M, et al. "Treatment of edema" Am Fam Physician. 2012;85(4):393-399. 
-                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=treatment+of+edema+family+physician" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=treatment+of+edema+family+physician" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
             </ol>
           </div>
         </section>
           {/* Ameliyatsız Tedavi Internal Link */}
-          <div className="bg-blue-50 border-l-4 border-blue-700 p-6 my-8 rounded-r-lg">
+          <div className="bg-[#E6FAF8] border-l-4 border-blue-700 p-6 my-8 rounded-r-lg">
             <p className="text-gray-700">
               <strong>İlgili İçerik:</strong> Ameliyatsız tedavi seçenekleri hakkında daha fazla bilgi için{' '}
-              <a href="/ameliyatsiz-cozumler" className="text-blue-700 hover:text-blue-900 font-semibold hover:underline">
+              <a href="/ameliyatsiz-cozumler" className="text-[#01A899] hover:text-blue-900 font-semibold hover:underline">
                 ameliyatsız çözümler sayfamızı
               </a>{' '}
               ziyaret edebilirsiniz.

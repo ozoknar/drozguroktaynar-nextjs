@@ -69,7 +69,7 @@ export default function SkafoidKirigiBelirtileriPage() {
           <div className="mb-6">
             <Link 
               href="/blog"
-              className="text-blue-600 hover:text-blue-800 text-sm font-medium"
+              className="text-[#01CAB8] hover:text-[#01867A] text-sm font-medium"
             >
               ← Blog'a Dön
             </Link>
@@ -176,7 +176,7 @@ export default function SkafoidKirigiBelirtileriPage() {
             <li><strong>Scaphoid shift testi:</strong> El bileği hareketlerinde anormal ses veya kayma hissi</li>
           </ul>
 
-          <div className="bg-blue-50 border-l-4 border-blue-500 p-6 my-8">
+          <div className="bg-[#E6FAF8] border-l-4 border-[#1AD2C4] p-6 my-8">
             <p className="text-gray-800">
               <strong>Önemli Not:</strong> Skafoid kırığı semptomları genellikle hafiftir ve hasta "sadece burkulma" olduğunu düşünebilir. Bu nedenle tanı gecikmesi sıktır. Düşme sonrası snuffbox bölgesinde hassasiyet varsa, mutlaka röntgen çekilmelidir.
             </p>
@@ -438,51 +438,51 @@ export default function SkafoidKirigiBelirtileriPage() {
           <ol className="list-decimal pl-6 mb-6 text-gray-700 space-y-2">
             <li>
               Gelberman RH, Menon J. "The vascularity of the scaphoid bone." Journal of Hand Surgery. 1980.
-              {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=scaphoid+vascularity" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+              {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=scaphoid+vascularity" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
             </li>
             <li>
               Herbert TJ, Fisher WE. "Management of the fractured scaphoid using a new bone screw." Journal of Bone and Joint Surgery. 1984.
-              {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=Herbert+screw+scaphoid+fracture" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+              {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=Herbert+screw+scaphoid+fracture" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
             </li>
             <li>
               Hove LM. "Epidemiology of scaphoid fractures in Bergen, Norway." Scandinavian Journal of Plastic and Reconstructive Surgery and Hand Surgery. 1999.
-              {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=scaphoid+fracture+epidemiology" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+              {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=scaphoid+fracture+epidemiology" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
             </li>
             <li>
               Buijze GA, Ochtman L, Ring D. "Management of scaphoid nonunion." Journal of Hand Surgery. 2012.
-              {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=scaphoid+nonunion+management" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+              {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=scaphoid+nonunion+management" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
             </li>
             <li>
               Dias JJ, Wildin CJ, Bhowal B, Thompson JR. "Should acute scaphoid fractures be fixed?" Journal of Bone and Joint Surgery. 2005.
-              {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=acute+scaphoid+fracture+fixation" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+              {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=acute+scaphoid+fracture+fixation" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
             </li>
             <li>
               Memarsadeghi M, Breitenseher MJ, Schaefer-Prokop C, et al. "Occult scaphoid fractures: comparison of multidetector CT and MR imaging." Radiology. 2006.
-              {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=occult+scaphoid+fracture+MRI+CT" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+              {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=occult+scaphoid+fracture+MRI+CT" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
             </li>
             <li>
               Mack GR, Bosse MJ, Gelberman RH, Yu E. "The natural history of scaphoid non-union." Journal of Bone and Joint Surgery. 1984.
-              {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=scaphoid+nonunion+natural+history" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+              {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=scaphoid+nonunion+natural+history" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
             </li>
             <li>
               Garala K, Taub NA, Dias JJ. "The epidemiology of fractures of the scaphoid." Journal of Bone and Joint Surgery. 2016.
-              {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=scaphoid+fracture+epidemiology+2016" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+              {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=scaphoid+fracture+epidemiology+2016" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
             </li>
             <li>
               Slade JF 3rd, Grauer JN, Mahoney JD. "Arthroscopic reduction and percutaneous fixation of scaphoid fractures with a novel dorsal technique." Orthopedic Clinics of North America. 2001.
-              {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=arthroscopic+scaphoid+fracture+fixation" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+              {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=arthroscopic+scaphoid+fracture+fixation" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
             </li>
             <li>
               Zaidemberg C, Siebert JW, Angrigiani C. "A new vascularized bone graft for scaphoid nonunion." Journal of Hand Surgery. 1991.
-              {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=vascularized+bone+graft+scaphoid" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+              {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=vascularized+bone+graft+scaphoid" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
             </li>
           </ol>
         </div>
           {/* Ameliyatsız Tedavi Internal Link */}
-          <div className="bg-blue-50 border-l-4 border-blue-700 p-6 my-8 rounded-r-lg">
+          <div className="bg-[#E6FAF8] border-l-4 border-blue-700 p-6 my-8 rounded-r-lg">
             <p className="text-gray-700">
               <strong>İlgili İçerik:</strong> Ameliyatsız tedavi seçenekleri hakkında daha fazla bilgi için{' '}
-              <a href="/ameliyatsiz-cozumler" className="text-blue-700 hover:text-blue-900 font-semibold hover:underline">
+              <a href="/ameliyatsiz-cozumler" className="text-[#01A899] hover:text-blue-900 font-semibold hover:underline">
                 ameliyatsız çözümler sayfamızı
               </a>{' '}
               ziyaret edebilirsiniz.
@@ -491,7 +491,7 @@ export default function SkafoidKirigiBelirtileriPage() {
 
 
         {/* CTA Section */}
-        <div className="mt-16 bg-gradient-to-r from-blue-600 to-blue-800 rounded-2xl p-8 text-white">
+        <div className="mt-16 bg-gradient-to-r from-[#01CAB8] to-[#01867A] rounded-2xl p-8 text-white">
           <h2 className="text-3xl font-bold mb-4">El Bileği Yaralanmanız mı Var?</h2>
           <p className="text-lg mb-6 text-blue-100">
             Düşme sonrası el bileğinde ağrı mı hissediyorsunuz? Skafoid kırığı şüphesi için erken tanı ve uygun tedavi önemlidir. 
@@ -500,13 +500,13 @@ export default function SkafoidKirigiBelirtileriPage() {
           <div className="flex flex-col sm:flex-row gap-4">
             <Link
               href="/iletisim"
-              className="bg-white text-blue-600 px-8 py-3 rounded-lg font-semibold hover:bg-blue-50 transition text-center"
+              className="bg-white text-[#01CAB8] px-8 py-3 rounded-lg font-semibold hover:bg-[#E6FAF8] transition text-center"
             >
               Randevu Alın
             </Link>
             <Link
               href="/hizmetler/el-bilegi-cerrahisi"
-              className="border-2 border-white text-white px-8 py-3 rounded-lg font-semibold hover:bg-blue-700 transition text-center"
+              className="border-2 border-white text-white px-8 py-3 rounded-lg font-semibold hover:bg-[#01A899] transition text-center"
             >
               El Bileği Cerrahisi Hakkında
             </Link>
@@ -520,7 +520,7 @@ export default function SkafoidKirigiBelirtileriPage() {
             <Link href="/blog/el-bilegi-artroskopisi" className="group">
               <div className="border rounded-lg overflow-hidden hover:shadow-lg transition">
                 <div className="p-6">
-                  <h3 className="font-semibold text-gray-900 group-hover:text-blue-600 mb-2">
+                  <h3 className="font-semibold text-gray-900 group-hover:text-[#01CAB8] mb-2">
                     El Bileği Artroskopisi
                   </h3>
                   <p className="text-gray-600 text-sm">
@@ -533,7 +533,7 @@ export default function SkafoidKirigiBelirtileriPage() {
             <Link href="/blog/tfcc-lezyonu" className="group">
               <div className="border rounded-lg overflow-hidden hover:shadow-lg transition">
                 <div className="p-6">
-                  <h3 className="font-semibold text-gray-900 group-hover:text-blue-600 mb-2">
+                  <h3 className="font-semibold text-gray-900 group-hover:text-[#01CAB8] mb-2">
                     TFCC Lezyonu
                   </h3>
                   <p className="text-gray-600 text-sm">
@@ -546,7 +546,7 @@ export default function SkafoidKirigiBelirtileriPage() {
             <Link href="/blog/karpal-tunel-sendromu-2" className="group">
               <div className="border rounded-lg overflow-hidden hover:shadow-lg transition">
                 <div className="p-6">
-                  <h3 className="font-semibold text-gray-900 group-hover:text-blue-600 mb-2">
+                  <h3 className="font-semibold text-gray-900 group-hover:text-[#01CAB8] mb-2">
                     Karpal Tünel Sendromu
                   </h3>
                   <p className="text-gray-600 text-sm">

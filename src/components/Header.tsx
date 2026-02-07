@@ -12,7 +12,7 @@ export default function Header() {
         <div className="flex justify-between h-16">
           <div className="flex items-center">
             <Link href="/" className="flex-shrink-0 flex items-center">
-              <span className="text-xl font-bold text-blue-600">
+              <span className="text-xl font-bold text-[#01CAB8]">
                 Op. Dr. Özgür Oktay Nar
               </span>
             </Link>
@@ -20,25 +20,25 @@ export default function Header() {
 
           {/* Desktop Menu */}
           <div className="hidden md:flex items-center space-x-8">
-            <Link href="/" className="text-gray-700 hover:text-blue-600 transition">
+            <Link href="/" className="text-gray-700 hover:text-[#01CAB8] transition">
               Ana Sayfa
             </Link>
-            <Link href="/#hakkimda" className="text-gray-700 hover:text-blue-600 transition">
+            <Link href="/#hakkimda" className="text-gray-700 hover:text-[#01CAB8] transition">
               Hakkımda
             </Link>
-            <Link href="/#uzmanlik" className="text-gray-700 hover:text-blue-600 transition">
+            <Link href="/#uzmanlik" className="text-gray-700 hover:text-[#01CAB8] transition">
               Uzmanlık Alanları
             </Link>
-            <Link href="/blog" className="text-gray-700 hover:text-blue-600 transition">
+            <Link href="/blog" className="text-gray-700 hover:text-[#01CAB8] transition">
               Blog
             </Link>
-            <Link href="/iletisim" className="text-gray-700 hover:text-blue-600 transition">
+            <Link href="/iletisim" className="text-gray-700 hover:text-[#01CAB8] transition">
               İletişim
             </Link>
             <Link
               href="https://wa.me/905522493909"
               target="_blank"
-              className="bg-green-600 text-white px-4 py-2 rounded-lg hover:bg-green-700 transition"
+              className="bg-[#01CAB8] text-white px-4 py-2 rounded-lg hover:bg-[#01A899] transition"
             >
               WhatsApp Randevu
             </Link>
@@ -48,7 +48,7 @@ export default function Header() {
           <div className="md:hidden flex items-center">
             <button
               onClick={() => setIsOpen(!isOpen)}
-              className="text-gray-700 hover:text-blue-600"
+              className="text-gray-700 hover:text-[#01CAB8]"
             >
               <svg className="h-6 w-6" fill="none" viewBox="0 0 24 24" stroke="currentColor">
                 {isOpen ? (
@@ -65,25 +65,25 @@ export default function Header() {
         {isOpen && (
           <div className="md:hidden pb-4">
             <div className="flex flex-col space-y-3">
-              <Link href="/" className="text-gray-700 hover:text-blue-600 transition">
+              <Link href="/" className="text-gray-700 hover:text-[#01CAB8] transition">
                 Ana Sayfa
               </Link>
-              <Link href="/#hakkimda" className="text-gray-700 hover:text-blue-600 transition">
+              <Link href="/#hakkimda" className="text-gray-700 hover:text-[#01CAB8] transition">
                 Hakkımda
               </Link>
-              <Link href="/#uzmanlik" className="text-gray-700 hover:text-blue-600 transition">
+              <Link href="/#uzmanlik" className="text-gray-700 hover:text-[#01CAB8] transition">
                 Uzmanlık Alanları
               </Link>
-              <Link href="/blog" className="text-gray-700 hover:text-blue-600 transition">
+              <Link href="/blog" className="text-gray-700 hover:text-[#01CAB8] transition">
                 Blog
               </Link>
-              <Link href="/iletisim" className="text-gray-700 hover:text-blue-600 transition">
+              <Link href="/iletisim" className="text-gray-700 hover:text-[#01CAB8] transition">
                 İletişim
               </Link>
               <Link
                 href="https://wa.me/905522493909"
                 target="_blank"
-                className="bg-green-600 text-white px-4 py-2 rounded-lg text-center hover:bg-green-700 transition"
+                className="bg-[#01CAB8] text-white px-4 py-2 rounded-lg text-center hover:bg-[#01A899] transition"
               >
                 WhatsApp Randevu
               </Link>

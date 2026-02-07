@@ -24,7 +24,7 @@ export default function KVKKPage() {
 
           <section>
             <h2 className="text-2xl font-semibold text-gray-900 mb-4">İletişim Bilgileri</h2>
-            <div className="bg-blue-50 border-l-4 border-blue-500 p-4">
+            <div className="bg-[#E6FAF8] border-l-4 border-[#1AD2C4] p-4">
               <p className="text-gray-700">
                 <strong>Veri Sorumlusu:</strong> Op. Dr. Özgür Oktay Nar<br />
                 <strong>E-posta:</strong> ozguroktaynar@gmail.com<br />

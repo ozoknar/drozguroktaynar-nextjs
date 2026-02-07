@@ -71,9 +71,9 @@ export default function BelFitigiAmeliyatiYuruyusPage() {
       <article className="max-w-4xl mx-auto px-4 py-8">
         {/* Breadcrumb */}
         <nav className="text-sm text-gray-500 mb-6">
-          <Link href="/" className="hover:text-blue-600">Ana Sayfa</Link>
+          <Link href="/" className="hover:text-[#01CAB8]">Ana Sayfa</Link>
           <span className="mx-2">/</span>
-          <Link href="/blog" className="hover:text-blue-600">Blog</Link>
+          <Link href="/blog" className="hover:text-[#01CAB8]">Blog</Link>
           <span className="mx-2">/</span>
           <span className="text-gray-700">Bel Fıtığı Ameliyatı Sonrası Yürüyüş Programı</span>
         </nav>
@@ -117,23 +117,23 @@ export default function BelFitigiAmeliyatiYuruyusPage() {
             </p>
             <ul className="space-y-2 mt-3">
               <li className="flex items-start">
-                <span className="text-blue-500 mr-2">•</span>
+                <span className="text-[#1AD2C4] mr-2">•</span>
                 <span><strong>Kan dolaşımını artırır:</strong> İyileşme için gerekli besinlerin ameliyat bölgesine taşınmasını destekler</span>
               </li>
               <li className="flex items-start">
-                <span className="text-blue-500 mr-2">•</span>
+                <span className="text-[#1AD2C4] mr-2">•</span>
                 <span><strong>Kas gücünü korur:</strong> Uzun süreli hareketsizliğin neden olduğu kas kaybını önler</span>
               </li>
               <li className="flex items-start">
-                <span className="text-blue-500 mr-2">•</span>
+                <span className="text-[#1AD2C4] mr-2">•</span>
                 <span><strong>Esnekliği artırır:</strong> Omurga ve çevre kasların esnekliğini geri kazandırır</span>
               </li>
               <li className="flex items-start">
-                <span className="text-blue-500 mr-2">•</span>
+                <span className="text-[#1AD2C4] mr-2">•</span>
                 <span><strong>Skar dokusu oluşumunu minimize eder:</strong> Erken mobilizasyon yapışıklıkları azaltır</span>
               </li>
               <li className="flex items-start">
-                <span className="text-blue-500 mr-2">•</span>
+                <span className="text-[#1AD2C4] mr-2">•</span>
                 <span><strong>Psikolojik iyileşme:</strong> Hareket etmek motivasyonu ve iyimserliği artırır</span>
               </li>
             </ul>
@@ -190,7 +190,7 @@ export default function BelFitigiAmeliyatiYuruyusPage() {
           <section className="mb-12">
             <h2 className="text-3xl font-bold text-gray-900 mb-4">Haftalar Bazında Yürüyüş Programı</h2>
             
-            <div className="bg-blue-50 border-l-4 border-blue-600 p-6 rounded-r-lg mb-6">
+            <div className="bg-[#E6FAF8] border-l-4 border-[#01CAB8] p-6 rounded-r-lg mb-6">
               <p className="text-gray-700">
                 <strong>⚠️ ÖNEMLİ:</strong> Bu program genel bir rehberdir. Kendi programınız için mutlaka cerrahınıza danışın. 
                 Her hastanın iyileşme süreci farklıdır.
@@ -200,19 +200,19 @@ export default function BelFitigiAmeliyatiYuruyusPage() {
             <h3 className="text-2xl font-semibold text-gray-900 mb-3 mt-6">📅 1. Hafta: Erken Mobilizasyon</h3>
             <ul className="space-y-2">
               <li className="flex items-start">
-                <span className="text-blue-500 mr-2">•</span>
+                <span className="text-[#1AD2C4] mr-2">•</span>
                 <span><strong>Hedef:</strong> Yataktan çıkmak, kısa mesafeli ev içi yürüyüşler</span>
               </li>
               <li className="flex items-start">
-                <span className="text-blue-500 mr-2">•</span>
+                <span className="text-[#1AD2C4] mr-2">•</span>
                 <span><strong>Süre:</strong> 5-10 dakika, günde 3-4 kez</span>
               </li>
               <li className="flex items-start">
-                <span className="text-blue-500 mr-2">•</span>
+                <span className="text-[#1AD2C4] mr-2">•</span>
                 <span><strong>Tempo:</strong> Çok yavaş, rahat adımlar</span>
               </li>
               <li className="flex items-start">
-                <span className="text-blue-500 mr-2">•</span>
+                <span className="text-[#1AD2C4] mr-2">•</span>
                 <span><strong>Dikkat:</strong> Bükülme, dönme ve ağır kaldırma yasak!</span>
               </li>
             </ul>
@@ -220,19 +220,19 @@ export default function BelFitigiAmeliyatiYuruyusPage() {
             <h3 className="text-2xl font-semibold text-gray-900 mb-3 mt-8">📅 2-4. Hafta: Kademeli Artış</h3>
             <ul className="space-y-2">
               <li className="flex items-start">
-                <span className="text-blue-500 mr-2">•</span>
+                <span className="text-[#1AD2C4] mr-2">•</span>
                 <span><strong>Hedef:</strong> Ev dışı düz yüzeyde yürüyüşler</span>
               </li>
               <li className="flex items-start">
-                <span className="text-blue-500 mr-2">•</span>
+                <span className="text-[#1AD2C4] mr-2">•</span>
                 <span><strong>Süre:</strong> 10-15 dakika, günde 2-3 kez</span>
               </li>
               <li className="flex items-start">
-                <span className="text-blue-500 mr-2">•</span>
+                <span className="text-[#1AD2C4] mr-2">•</span>
                 <span><strong>Tempo:</strong> Yavaş-orta tempo, dik duruş</span>
               </li>
               <li className="flex items-start">
-                <span className="text-blue-500 mr-2">•</span>
+                <span className="text-[#1AD2C4] mr-2">•</span>
                 <span><strong>Dikkat:</strong> Uzun süreli oturma yerine sık sık yürüyüş molası verin</span>
               </li>
             </ul>
@@ -240,19 +240,19 @@ export default function BelFitigiAmeliyatiYuruyusPage() {
             <h3 className="text-2xl font-semibold text-gray-900 mb-3 mt-8">📅 4-8. Hafta: Dayanıklılık Arttırma</h3>
             <ul className="space-y-2">
               <li className="flex items-start">
-                <span className="text-blue-500 mr-2">•</span>
+                <span className="text-[#1AD2C4] mr-2">•</span>
                 <span><strong>Hedef:</strong> Sürekli yürüyüş, hafif eğimli araziler</span>
               </li>
               <li className="flex items-start">
-                <span className="text-blue-500 mr-2">•</span>
+                <span className="text-[#1AD2C4] mr-2">•</span>
                 <span><strong>Süre:</strong> 20-30 dakika, günde 1-2 kez</span>
               </li>
               <li className="flex items-start">
-                <span className="text-blue-500 mr-2">•</span>
+                <span className="text-[#1AD2C4] mr-2">•</span>
                 <span><strong>Tempo:</strong> Orta tempo, doğal adım uzunluğu</span>
               </li>
               <li className="flex items-start">
-                <span className="text-blue-500 mr-2">•</span>
+                <span className="text-[#1AD2C4] mr-2">•</span>
                 <span><strong>Dikkat:</strong> Ağrı hissederseniz dinlenin, zorlamayın</span>
               </li>
             </ul>
@@ -260,19 +260,19 @@ export default function BelFitigiAmeliyatiYuruyusPage() {
             <h3 className="text-2xl font-semibold text-gray-900 mb-3 mt-8">📅 8-12. Hafta: Tam Fonksiyonel Hareket</h3>
             <ul className="space-y-2">
               <li className="flex items-start">
-                <span className="text-blue-500 mr-2">•</span>
+                <span className="text-[#1AD2C4] mr-2">•</span>
                 <span><strong>Hedef:</strong> Normal günlük aktivite seviyesi</span>
               </li>
               <li className="flex items-start">
-                <span className="text-blue-500 mr-2">•</span>
+                <span className="text-[#1AD2C4] mr-2">•</span>
                 <span><strong>Süre:</strong> 30-45 dakika, günde 1 kez veya daha fazla</span>
               </li>
               <li className="flex items-start">
-                <span className="text-blue-500 mr-2">•</span>
+                <span className="text-[#1AD2C4] mr-2">•</span>
                 <span><strong>Tempo:</strong> Normal yürüyüş hızı</span>
               </li>
               <li className="flex items-start">
-                <span className="text-blue-500 mr-2">•</span>
+                <span className="text-[#1AD2C4] mr-2">•</span>
                 <span><strong>Dikkat:</strong> Hafif koşu için 3-4 ay sonra doktor onayı alın</span>
               </li>
             </ul>
@@ -351,7 +351,7 @@ export default function BelFitigiAmeliyatiYuruyusPage() {
                   href="https://pubmed.ncbi.nlm.nih.gov/?term=lumbar+surgery+rehabilitation+walking" 
                   target="_blank" 
                   rel="noopener noreferrer" 
-                  className="text-blue-600 hover:underline ml-1"
+                  className="text-[#01CAB8] hover:underline ml-1"
                 >
                   [PubMed Ara]
                 </a>
@@ -362,7 +362,7 @@ export default function BelFitigiAmeliyatiYuruyusPage() {
                   href="https://pubmed.ncbi.nlm.nih.gov/?term=early+rehabilitation+lumbar+disc" 
                   target="_blank" 
                   rel="noopener noreferrer" 
-                  className="text-blue-600 hover:underline ml-1"
+                  className="text-[#01CAB8] hover:underline ml-1"
                 >
                   [PubMed Ara]
                 </a>
@@ -373,7 +373,7 @@ export default function BelFitigiAmeliyatiYuruyusPage() {
                   href="https://pubmed.ncbi.nlm.nih.gov/?term=walking+lumbar+disc+surgery" 
                   target="_blank" 
                   rel="noopener noreferrer" 
-                  className="text-blue-600 hover:underline ml-1"
+                  className="text-[#01CAB8] hover:underline ml-1"
                 >
                   [PubMed Ara]
                 </a>
@@ -383,12 +383,12 @@ export default function BelFitigiAmeliyatiYuruyusPage() {
 
           {/* Section 7: Internal Link - ZORUNLU! */}
           <section className="mb-12">
-            <div className="bg-blue-50 border-l-4 border-blue-500 p-6 rounded-r-lg">
+            <div className="bg-[#E6FAF8] border-l-4 border-[#1AD2C4] p-6 rounded-r-lg">
               <p className="text-gray-700">
                 <strong>İlgili İçerik:</strong> Ameliyatsız tedavi seçenekleri hakkında daha fazla bilgi için{' '}
                 <Link 
                   href="/ameliyatsiz-cozumler" 
-                  className="text-blue-600 hover:text-blue-800 font-semibold hover:underline"
+                  className="text-[#01CAB8] hover:text-[#01867A] font-semibold hover:underline"
                 >
                   ameliyatsız çözümler sayfamızı
                 </Link>{' '}
@@ -415,12 +415,12 @@ export default function BelFitigiAmeliyatiYuruyusPage() {
         </div>
 
         {/* CTA */}
-        <div className="bg-gradient-to-r from-blue-600 to-blue-700 rounded-xl p-8 text-center text-white mt-12">
+        <div className="bg-gradient-to-r from-[#01CAB8] to-[#01A899] rounded-xl p-8 text-center text-white mt-12">
           <h2 className="text-2xl font-bold mb-4">Randevu Almak İster misiniz?</h2>
           <p className="mb-6">Uzman değerlendirmesi için hemen iletişime geçin.</p>
           <Link 
             href="/iletisim" 
-            className="inline-block bg-white text-blue-600 px-8 py-3 rounded-lg font-semibold hover:bg-gray-100 transition"
+            className="inline-block bg-white text-[#01CAB8] px-8 py-3 rounded-lg font-semibold hover:bg-gray-100 transition"
           >
             Randevu Al
           </Link>

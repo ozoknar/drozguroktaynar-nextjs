@@ -116,9 +116,9 @@ export default function ElBilegiKirigiPage() {
       <article className="max-w-4xl mx-auto px-4 py-12">
         {/* Breadcrumb */}
         <nav className="text-sm text-gray-500 mb-6">
-          <Link href="/" className="hover:text-blue-600">Ana Sayfa</Link>
+          <Link href="/" className="hover:text-[#01CAB8]">Ana Sayfa</Link>
           <span className="mx-2">/</span>
-          <Link href="/blog" className="hover:text-blue-600">Blog</Link>
+          <Link href="/blog" className="hover:text-[#01CAB8]">Blog</Link>
           <span className="mx-2">/</span>
           <span className="text-gray-700">El Bileği Kırığı</span>
         </nav>
@@ -145,7 +145,7 @@ export default function ElBilegiKirigiPage() {
           <span className="mx-2">•</span>
           <span>Ortopedi ve Travmatoloji Uzmanı</span>
           <span className="mx-2">•</span>
-          <span className="text-blue-600">📍 Nilüfer, Bursa</span>
+          <span className="text-[#01CAB8]">📍 Nilüfer, Bursa</span>
         </div>
 
         <div className="prose prose-lg max-w-none">
@@ -195,13 +195,13 @@ export default function ElBilegiKirigiPage() {
           <div className="bg-gray-50 rounded-xl p-6 mb-10">
             <h2 className="text-xl font-semibold text-gray-900 mb-4">📑 İçindekiler</h2>
             <ul className="space-y-2">
-              <li><a href="#nedir" className="text-blue-600 hover:underline">El Bileği Kırığı Nedir?</a></li>
-              <li><a href="#tipler" className="text-blue-600 hover:underline">Kırık Tipleri</a></li>
-              <li><a href="#belirtiler" className="text-blue-600 hover:underline">Belirtiler</a></li>
-              <li><a href="#tani" className="text-blue-600 hover:underline">Tanı Yöntemleri</a></li>
-              <li><a href="#tedavi" className="text-blue-600 hover:underline">Tedavi Seçenekleri</a></li>
-              <li><a href="#rehabilitasyon" className="text-blue-600 hover:underline">Rehabilitasyon</a></li>
-              <li><a href="#onleme" className="text-blue-600 hover:underline">Önleme</a></li>
+              <li><a href="#nedir" className="text-[#01CAB8] hover:underline">El Bileği Kırığı Nedir?</a></li>
+              <li><a href="#tipler" className="text-[#01CAB8] hover:underline">Kırık Tipleri</a></li>
+              <li><a href="#belirtiler" className="text-[#01CAB8] hover:underline">Belirtiler</a></li>
+              <li><a href="#tani" className="text-[#01CAB8] hover:underline">Tanı Yöntemleri</a></li>
+              <li><a href="#tedavi" className="text-[#01CAB8] hover:underline">Tedavi Seçenekleri</a></li>
+              <li><a href="#rehabilitasyon" className="text-[#01CAB8] hover:underline">Rehabilitasyon</a></li>
+              <li><a href="#onleme" className="text-[#01CAB8] hover:underline">Önleme</a></li>
             </ul>
           </div>
 
@@ -241,12 +241,12 @@ export default function ElBilegiKirigiPage() {
             <h2 className="text-2xl font-bold text-gray-900 mb-4">El Bileği Kırığı Tipleri</h2>
             
             <div className="grid md:grid-cols-2 gap-4">
-              <div className="bg-blue-50 rounded-lg p-4">
+              <div className="bg-[#E6FAF8] rounded-lg p-4">
                 <h3 className="font-semibold text-blue-900 mb-2">1. Colles Kırığı (EN SIK!)</h3>
-                <p className="text-blue-700 text-sm mb-2">
+                <p className="text-[#01A899] text-sm mb-2">
                   Radius kemiğinin ucu <strong>sırt tarafına doğru kırılır</strong>. "Çatal sırtı deformitesi" tipik görünüm.
                 </p>
-                <ul className="text-blue-600 text-xs space-y-1">
+                <ul className="text-[#01CAB8] text-xs space-y-1">
                   <li>• El üzerine düşme sonucu</li>
                   <li>• Yaşlılarda çok sık</li>
                   <li>• %90 el bileği kırığı bu tiptir</li>
@@ -362,7 +362,7 @@ export default function ElBilegiKirigiPage() {
             
             <div className="space-y-4">
               <div className="flex items-start">
-                <div className="bg-blue-600 text-white rounded-full w-10 h-10 flex items-center justify-center font-bold mr-4 flex-shrink-0">1</div>
+                <div className="bg-[#01CAB8] text-white rounded-full w-10 h-10 flex items-center justify-center font-bold mr-4 flex-shrink-0">1</div>
                 <div>
                   <h3 className="font-semibold text-gray-900">Fizik Muayene</h3>
                   <p className="text-gray-600 mb-2">
@@ -378,7 +378,7 @@ export default function ElBilegiKirigiPage() {
               </div>
               
               <div className="flex items-start">
-                <div className="bg-blue-600 text-white rounded-full w-10 h-10 flex items-center justify-center font-bold mr-4 flex-shrink-0">2</div>
+                <div className="bg-[#01CAB8] text-white rounded-full w-10 h-10 flex items-center justify-center font-bold mr-4 flex-shrink-0">2</div>
                 <div>
                   <h3 className="font-semibold text-gray-900">Röntgen (En Önemli Tetkik)</h3>
                   <p className="text-gray-600">
@@ -388,7 +388,7 @@ export default function ElBilegiKirigiPage() {
               </div>
               
               <div className="flex items-start">
-                <div className="bg-blue-600 text-white rounded-full w-10 h-10 flex items-center justify-center font-bold mr-4 flex-shrink-0">3</div>
+                <div className="bg-[#01CAB8] text-white rounded-full w-10 h-10 flex items-center justify-center font-bold mr-4 flex-shrink-0">3</div>
                 <div>
                   <h3 className="font-semibold text-gray-900">BT (Bilgisayarlı Tomografi)</h3>
                   <p className="text-gray-600">
@@ -398,7 +398,7 @@ export default function ElBilegiKirigiPage() {
               </div>
               
               <div className="flex items-start">
-                <div className="bg-blue-600 text-white rounded-full w-10 h-10 flex items-center justify-center font-bold mr-4 flex-shrink-0">4</div>
+                <div className="bg-[#01CAB8] text-white rounded-full w-10 h-10 flex items-center justify-center font-bold mr-4 flex-shrink-0">4</div>
                 <div>
                   <h3 className="font-semibold text-gray-900">MR (Skafoid Kırığı Şüphesinde)</h3>
                   <p className="text-gray-600">
@@ -488,9 +488,9 @@ export default function ElBilegiKirigiPage() {
               </div>
             </div>
 
-            <div className="bg-blue-50 rounded-lg p-4">
+            <div className="bg-[#E6FAF8] rounded-lg p-4">
               <p className="text-blue-900 font-semibold mb-2">⏱️ Ameliyat Sonrası</p>
-              <ul className="text-blue-800 text-sm space-y-1">
+              <ul className="text-[#01867A] text-sm space-y-1">
                 <li>• Hastanede kalış: <strong>1-2 gün</strong></li>
                 <li>• Atel/splint: <strong>2 hafta</strong></li>
                 <li>• <strong>Erken hareket başlar</strong> (2-3. gün parmak, 2. hafta bilek)</li>
@@ -570,9 +570,9 @@ export default function ElBilegiKirigiPage() {
                 </ul>
               </div>
               
-              <div className="bg-blue-50 rounded-lg p-4">
+              <div className="bg-[#E6FAF8] rounded-lg p-4">
                 <h3 className="font-semibold text-blue-900 mb-2">✅ Gençler/Sporcular İçin</h3>
-                <ul className="text-blue-700 space-y-1 text-sm">
+                <ul className="text-[#01A899] space-y-1 text-sm">
                   <li>• <strong>Koruyucu ekipman:</strong> Bilek bandı, korumalık</li>
                   <li>• <strong>Doğru düşme tekniği</strong> (spor eğitimi)</li>
                   <li>• <strong>Güçlendirme egzersizleri</strong> (bilek ve ön kol)</li>
@@ -628,60 +628,60 @@ export default function ElBilegiKirigiPage() {
               <ol className="space-y-3 text-sm text-gray-700">
                 <li>
                   <span className="font-medium">1.</span> Chung KC, Spilson SV. <em>"The frequency and epidemiology of hand and forearm fractures in the United States."</em> J Hand Surg Am. 2001;26(5):908-15.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=wrist+fracture+distal+radius" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=wrist+fracture+distal+radius" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
                 </li>
                 <li>
                   <span className="font-medium">2.</span> Orbay JL, Fernandez DL. <em>"Volar fixation for dorsally displaced fractures of the distal radius: a preliminary report."</em> J Hand Surg Am. 2002;27(2):205-15.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=wrist+fracture+distal+radius" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=wrist+fracture+distal+radius" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
                 </li>
                 <li>
                   <span className="font-medium">3.</span> Handoll HH, et al. <em>"Interventions for treating distal radial fractures in adults."</em> Cochrane Database Syst Rev. 2003;(3):CD003209.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=wrist+fracture+distal+radius" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=wrist+fracture+distal+radius" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
                 </li>
                 <li>
                   <span className="font-medium">4.</span> Arora R, et al. <em>"A prospective randomized trial comparing nonoperative treatment with volar locking plate fixation for displaced and unstable distal radial fractures in patients sixty-five years of age and older."</em> J Bone Joint Surg Am. 2011;93(23):2146-53.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=wrist+fracture+distal+radius" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=wrist+fracture+distal+radius" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
                 </li>
                 <li>
                   <span className="font-medium">5.</span> Herbert TJ, Fisher WE. <em>"Management of the fractured scaphoid using a new bone screw."</em> J Bone Joint Surg Br. 1984;66(1):114-23.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=wrist+fracture+distal+radius" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=wrist+fracture+distal+radius" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
                 </li>
               </ol>
               
               <details className="mt-4">
-                <summary className="cursor-pointer text-blue-600 font-medium hover:text-blue-800 flex items-center gap-2">
+                <summary className="cursor-pointer text-[#01CAB8] font-medium hover:text-[#01867A] flex items-center gap-2">
                   <span>📖 Daha Fazla Kaynak Göster (5 ek referans)</span>
                 </summary>
                 <ol start={6} className="space-y-3 text-sm text-gray-700 mt-4 pt-4 border-t">
                   <li>
                     <span className="font-medium">6.</span> Mellstrand-Navarro C, et al. <em>"Treatment of radius or ulna fractures in the elderly: a systematic review covering effectiveness, safety, economic aspects and current practice."</em> PLoS One. 2019;14(3):e0214362.{' '}
-                    <a href="https://pubmed.ncbi.nlm.nih.gov/?term=wrist+fracture+distal+radius" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                    <a href="https://pubmed.ncbi.nlm.nih.gov/?term=wrist+fracture+distal+radius" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
                   </li>
                   <li>
                     <span className="font-medium">7.</span> Diaz-Garcia RJ, et al. <em>"A systematic review of outcomes and complications of treating unstable distal radius fractures in the elderly."</em> J Hand Surg Am. 2011;36(5):824-35.{' '}
-                    <a href="https://pubmed.ncbi.nlm.nih.gov/?term=wrist+fracture+distal+radius" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                    <a href="https://pubmed.ncbi.nlm.nih.gov/?term=wrist+fracture+distal+radius" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
                   </li>
                   <li>
                     <span className="font-medium">8.</span> Slutsky DJ. <em>"Predicting the outcome of distal radius fractures."</em> Hand Clin. 2005;21(3):289-94.{' '}
-                    <a href="https://pubmed.ncbi.nlm.nih.gov/?term=wrist+fracture+distal+radius" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                    <a href="https://pubmed.ncbi.nlm.nih.gov/?term=wrist+fracture+distal+radius" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
                   </li>
                   <li>
                     <span className="font-medium">9.</span> Wei DH, et al. <em>"Unstable distal radial fractures treated with external fixation, a radial column plate, or a volar plate. A prospective randomized trial."</em> J Bone Joint Surg Am. 2009;91(7):1568-77.{' '}
-                    <a href="https://pubmed.ncbi.nlm.nih.gov/?term=wrist+fracture+distal+radius" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                    <a href="https://pubmed.ncbi.nlm.nih.gov/?term=wrist+fracture+distal+radius" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
                   </li>
                   <li>
                     <span className="font-medium">10.</span> Koval KJ, et al. <em>"Distal radial fractures in the elderly: indications for open reduction and internal fixation."</em> Bull Hosp Jt Dis. 1999;58(1):12-8.{' '}
-                    <a href="https://pubmed.ncbi.nlm.nih.gov/?term=wrist+fracture+distal+radius" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                    <a href="https://pubmed.ncbi.nlm.nih.gov/?term=wrist+fracture+distal+radius" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
                   </li>
                 </ol>
               </details>
             </div>
           </section>
           {/* Ameliyatsız Tedavi Internal Link */}
-          <div className="bg-blue-50 border-l-4 border-blue-700 p-6 my-8 rounded-r-lg">
+          <div className="bg-[#E6FAF8] border-l-4 border-blue-700 p-6 my-8 rounded-r-lg">
             <p className="text-gray-700">
               <strong>İlgili İçerik:</strong> Ameliyatsız tedavi seçenekleri hakkında daha fazla bilgi için{' '}
-              <a href="/ameliyatsiz-cozumler" className="text-blue-700 hover:text-blue-900 font-semibold hover:underline">
+              <a href="/ameliyatsiz-cozumler" className="text-[#01A899] hover:text-blue-900 font-semibold hover:underline">
                 ameliyatsız çözümler sayfamızı
               </a>{' '}
               ziyaret edebilirsiniz.

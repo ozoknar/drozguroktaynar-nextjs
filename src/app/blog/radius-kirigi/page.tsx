@@ -86,11 +86,11 @@ export default function RadiusKirigiPage() {
       />
 
       {/* Hero Section */}
-      <section className="relative bg-gradient-to-r from-blue-900 to-blue-700 text-white py-20">
+      <section className="relative bg-gradient-to-r from-blue-900 to-[#01A899] text-white py-20">
         <div className="container mx-auto px-4">
           <div className="grid md:grid-cols-2 gap-8 items-center">
             <div>
-              <span className="inline-block bg-blue-500 text-sm px-3 py-1 rounded-full mb-4">
+              <span className="inline-block bg-[#1AD2C4] text-sm px-3 py-1 rounded-full mb-4">
                 El Bileği Travması
               </span>
               <h1 className="text-4xl md:text-5xl font-bold mb-4">
@@ -101,7 +101,7 @@ export default function RadiusKirigiPage() {
               </p>
               <a
                 href="tel:+905398416801"
-                className="inline-block bg-white text-blue-900 px-8 py-3 rounded-lg font-semibold hover:bg-blue-50 transition"
+                className="inline-block bg-white text-blue-900 px-8 py-3 rounded-lg font-semibold hover:bg-[#E6FAF8] transition"
               >
                 Randevu Al: 0539 841 68 01
               </a>
@@ -137,7 +137,7 @@ export default function RadiusKirigiPage() {
           </section>
 
           {/* Anatomy Section */}
-          <section className="mb-12 bg-blue-50 p-8 rounded-xl">
+          <section className="mb-12 bg-[#E6FAF8] p-8 rounded-xl">
             <h2 className="text-2xl font-bold text-gray-800 mb-4">
               Radius Kemiği Anatomisi
             </h2>
@@ -147,15 +147,15 @@ export default function RadiusKirigiPage() {
             </p>
             <ul className="space-y-2 text-gray-700">
               <li className="flex gap-2">
-                <span className="text-blue-600">•</span>
+                <span className="text-[#01CAB8]">•</span>
                 <span><strong>Proksimal uç:</strong> Dirsek eklemi ile eklem yapar</span>
               </li>
               <li className="flex gap-2">
-                <span className="text-blue-600">•</span>
+                <span className="text-[#01CAB8]">•</span>
                 <span><strong>Distal uç:</strong> El bileği eklemini oluşturur (Colles kırığı bölgesi)</span>
               </li>
               <li className="flex gap-2">
-                <span className="text-blue-600">•</span>
+                <span className="text-[#01CAB8]">•</span>
                 <span><strong>Gövde:</strong> Ulna ile membran ile bağlanır</span>
               </li>
             </ul>
@@ -257,8 +257,8 @@ export default function RadiusKirigiPage() {
                 </p>
               </div>
 
-              <div className="bg-blue-50 p-6 rounded-xl">
-                <h3 className="font-semibold text-blue-800 mb-3">📷 Direkt Röntgen</h3>
+              <div className="bg-[#E6FAF8] p-6 rounded-xl">
+                <h3 className="font-semibold text-[#01867A] mb-3">📷 Direkt Röntgen</h3>
                 <p className="text-gray-700">
                   AP ve lateral grafiler kırık tipini, deplasmanı ve eklem tutulumunu gösterir. 
                   Tanı için yeterlidir.
@@ -338,8 +338,8 @@ export default function RadiusKirigiPage() {
               </div>
             </div>
 
-            <div className="bg-blue-50 p-6 rounded-xl">
-              <h3 className="font-semibold text-blue-800 mb-3">🤸 Fizik Tedavi ve Rehabilitasyon</h3>
+            <div className="bg-[#E6FAF8] p-6 rounded-xl">
+              <h3 className="font-semibold text-[#01867A] mb-3">🤸 Fizik Tedavi ve Rehabilitasyon</h3>
               <p className="text-gray-700 mb-3">
                 Alçı/telleme sonrası el bileği sertliği önlemek için:
               </p>
@@ -451,7 +451,7 @@ export default function RadiusKirigiPage() {
                 <details key={i} className="bg-gray-50 rounded-lg p-4 group">
                   <summary className="font-semibold text-gray-800 cursor-pointer list-none flex justify-between items-center">
                     {faq.q}
-                    <span className="text-blue-500 group-open:rotate-180 transition-transform">▼</span>
+                    <span className="text-[#1AD2C4] group-open:rotate-180 transition-transform">▼</span>
                   </summary>
                   <p className="mt-3 text-gray-600">{faq.a}</p>
                 </details>
@@ -459,10 +459,10 @@ export default function RadiusKirigiPage() {
             </div>
           </section>
           {/* Ameliyatsız Tedavi Internal Link */}
-          <div className="bg-blue-50 border-l-4 border-blue-700 p-6 my-8 rounded-r-lg">
+          <div className="bg-[#E6FAF8] border-l-4 border-blue-700 p-6 my-8 rounded-r-lg">
             <p className="text-gray-700">
               <strong>İlgili İçerik:</strong> Ameliyatsız tedavi seçenekleri hakkında daha fazla bilgi için{' '}
-              <a href="/ameliyatsiz-cozumler" className="text-blue-700 hover:text-blue-900 font-semibold hover:underline">
+              <a href="/ameliyatsiz-cozumler" className="text-[#01A899] hover:text-blue-900 font-semibold hover:underline">
                 ameliyatsız çözümler sayfamızı
               </a>{' '}
               ziyaret edebilirsiniz.
@@ -471,7 +471,7 @@ export default function RadiusKirigiPage() {
 
 
           {/* CTA Section */}
-          <section className="bg-gradient-to-r from-blue-600 to-blue-800 text-white p-8 rounded-2xl text-center">
+          <section className="bg-gradient-to-r from-[#01CAB8] to-[#01867A] text-white p-8 rounded-2xl text-center">
             <h2 className="text-2xl font-bold mb-4">
               El Bileğiniz mi Kırıldı?
             </h2>
@@ -481,7 +481,7 @@ export default function RadiusKirigiPage() {
             <div className="flex flex-col sm:flex-row gap-4 justify-center">
               <a
                 href="tel:+905398416801"
-                className="bg-white text-blue-700 px-8 py-3 rounded-lg font-semibold hover:bg-blue-50 transition"
+                className="bg-white text-[#01A899] px-8 py-3 rounded-lg font-semibold hover:bg-[#E6FAF8] transition"
               >
                 📞 0539 841 68 01
               </a>
@@ -502,50 +502,50 @@ export default function RadiusKirigiPage() {
             <ol className="space-y-3 text-sm text-gray-700">
               <li>
                 <span className="font-medium">1.</span> Nellans KW, et al. <em>"The epidemiology of distal radius fractures."</em> Hand Clin. 2012;28(2):113-25.{' '}
-                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=distal+radius+fracture+treatment" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=distal+radius+fracture+treatment" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <span className="font-medium">2.</span> Chung KC, Spilson SV. <em>"The frequency and epidemiology of hand and forearm fractures in the United States."</em> J Hand Surg Am. 2001;26(5):908-15.{' '}
-                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=distal+radius+fracture+treatment" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=distal+radius+fracture+treatment" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <span className="font-medium">3.</span> Handoll HH, Madhok R. <em>"Closed reduction methods for treating distal radial fractures in adults."</em> Cochrane Database Syst Rev. 2003;(1):CD003763.{' '}
-                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=distal+radius+fracture+treatment" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=distal+radius+fracture+treatment" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <span className="font-medium">4.</span> Arora R, et al. <em>"A prospective randomized trial comparing nonoperative treatment with volar locking plate fixation for displaced and unstable distal radial fractures in patients sixty-five years of age and older."</em> J Bone Joint Surg Am. 2011;93(23):2146-53.{' '}
-                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=distal+radius+fracture+treatment" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=distal+radius+fracture+treatment" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <span className="font-medium">5.</span> Diaz-Garcia RJ, et al. <em>"A systematic review of outcomes and complications of treating unstable distal radius fractures in the elderly."</em> J Hand Surg Am. 2011;36(5):824-35.{' '}
-                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=distal+radius+fracture+treatment" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=distal+radius+fracture+treatment" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
             </ol>
             
             <details className="mt-4">
-              <summary className="cursor-pointer text-blue-600 font-medium hover:text-blue-800 flex items-center gap-2">
+              <summary className="cursor-pointer text-[#01CAB8] font-medium hover:text-[#01867A] flex items-center gap-2">
                 <span>📖 Daha Fazla Kaynak Göster (5 ek referans)</span>
               </summary>
               <ol start={6} className="space-y-3 text-sm text-gray-700 mt-4 pt-4 border-t">
                 <li>
                   <span className="font-medium">6.</span> Orbay JL, Fernandez DL. <em>"Volar fixation for dorsally displaced fractures of the distal radius: a preliminary report."</em> J Hand Surg Am. 2002;27(2):205-15.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=distal+radius+fracture+treatment" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=distal+radius+fracture+treatment" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
                 </li>
                 <li>
                   <span className="font-medium">7.</span> Chung KC, et al. <em>"Variations in the use of internal fixation for distal radial fracture in the United States medicare population."</em> J Bone Joint Surg Am. 2011;93(23):2154-62.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=distal+radius+fracture+treatment" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=distal+radius+fracture+treatment" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
                 </li>
                 <li>
                   <span className="font-medium">8.</span> Mellstrand Navarro C, et al. <em>"Treatment of radius or ulna fractures in the elderly: a systematic review covering effectiveness, safety, economic aspects and current practice."</em> PLoS One. 2019;14(3):e0214362.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=distal+radius+fracture+treatment" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=distal+radius+fracture+treatment" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
                 </li>
                 <li>
                   <span className="font-medium">9.</span> MacDermid JC, et al. <em>"Patient rating of wrist pain and disability: a reliable and valid measurement tool."</em> J Orthop Trauma. 1998;12(8):577-86.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=distal+radius+fracture+treatment" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=distal+radius+fracture+treatment" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
                 </li>
                 <li>
                   <span className="font-medium">10.</span> Costa ML, et al. <em>"UK DRAFFT: a randomised controlled trial of percutaneous fixation with Kirschner wires versus volar locking-plate fixation in the treatment of adult patients with a dorsally displaced fracture of the distal radius."</em> Health Technol Assess. 2015;19(17):1-124.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=distal+radius+fracture+treatment" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=distal+radius+fracture+treatment" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
                 </li>
               </ol>
             </details>
@@ -565,7 +565,7 @@ export default function RadiusKirigiPage() {
                   href={link.href}
                   className="block p-4 bg-gray-50 rounded-lg hover:bg-gray-100 transition"
                 >
-                  <span className="text-blue-600 font-medium">{link.title} →</span>
+                  <span className="text-[#01CAB8] font-medium">{link.title} →</span>
                 </a>
               ))}
             </div>

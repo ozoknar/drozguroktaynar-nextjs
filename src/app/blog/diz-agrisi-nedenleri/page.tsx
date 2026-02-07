@@ -71,9 +71,9 @@ export default function DizAgrisiNedenleriPage() {
       <article className="max-w-4xl mx-auto px-4 py-8">
         {/* Breadcrumb */}
         <nav className="text-sm text-gray-500 mb-6">
-          <Link href="/" className="hover:text-blue-600">Ana Sayfa</Link>
+          <Link href="/" className="hover:text-[#01CAB8]">Ana Sayfa</Link>
           <span className="mx-2">/</span>
-          <Link href="/blog" className="hover:text-blue-600">Blog</Link>
+          <Link href="/blog" className="hover:text-[#01CAB8]">Blog</Link>
           <span className="mx-2">/</span>
           <span className="text-gray-700">Diz Ağrısı Nedenleri</span>
         </nav>
@@ -124,23 +124,23 @@ export default function DizAgrisiNedenleriPage() {
             </p>
             <ul className="space-y-2 mb-4">
               <li className="flex items-start">
-                <span className="text-blue-500 mr-2">•</span>
+                <span className="text-[#1AD2C4] mr-2">•</span>
                 <span><strong>Kemikler:</strong> Femur (uyluk kemiği), tibia (kaval kemiği), patella (diz kapağı)</span>
               </li>
               <li className="flex items-start">
-                <span className="text-blue-500 mr-2">•</span>
+                <span className="text-[#1AD2C4] mr-2">•</span>
                 <span><strong>Kıkırdak:</strong> Eklem yüzeylerini kaplayan kaygan doku</span>
               </li>
               <li className="flex items-start">
-                <span className="text-blue-500 mr-2">•</span>
+                <span className="text-[#1AD2C4] mr-2">•</span>
                 <span><strong>Menisküsler:</strong> C şeklinde amortisör görevi gören fibrokartilaj yapılar</span>
               </li>
               <li className="flex items-start">
-                <span className="text-blue-500 mr-2">•</span>
+                <span className="text-[#1AD2C4] mr-2">•</span>
                 <span><strong>Bağlar:</strong> Eklemi stabilize eden güçlü bağ dokuları (ACL, PCL, MCL, LCL)</span>
               </li>
               <li className="flex items-start">
-                <span className="text-blue-500 mr-2">•</span>
+                <span className="text-[#1AD2C4] mr-2">•</span>
                 <span><strong>Kaslar ve tendonlar:</strong> Hareketi sağlayan ve destekleyen yapılar</span>
               </li>
             </ul>
@@ -246,21 +246,21 @@ export default function DizAgrisiNedenleriPage() {
             </p>
             
             <div className="space-y-4">
-              <div className="bg-blue-50 p-5 rounded-lg">
+              <div className="bg-[#E6FAF8] p-5 rounded-lg">
                 <h3 className="font-semibold text-gray-900 mb-2">📋 Anamnez (Öykü Alma)</h3>
                 <p className="text-gray-700">
                   Ağrının başlangıcı, süresi, karakteri, tetikleyen faktörler, geçmiş travmalar değerlendirilir.
                 </p>
               </div>
 
-              <div className="bg-blue-50 p-5 rounded-lg">
+              <div className="bg-[#E6FAF8] p-5 rounded-lg">
                 <h3 className="font-semibold text-gray-900 mb-2">🔍 Fizik Muayene</h3>
                 <p className="text-gray-700">
                   İnspeksiyon, palpasyon, hareket açıklığı, özel testler (McMurray, Lachman, varus-valgus stress) uygulanır.
                 </p>
               </div>
 
-              <div className="bg-blue-50 p-5 rounded-lg">
+              <div className="bg-[#E6FAF8] p-5 rounded-lg">
                 <h3 className="font-semibold text-gray-900 mb-2">📸 Görüntüleme Yöntemleri</h3>
                 <ul className="text-gray-700 space-y-1 mt-2">
                   <li>• <strong>Röntgen:</strong> Kemik yapıları, eklem aralığı, kireçlenmeler</li>
@@ -270,7 +270,7 @@ export default function DizAgrisiNedenleriPage() {
                 </ul>
               </div>
 
-              <div className="bg-blue-50 p-5 rounded-lg">
+              <div className="bg-[#E6FAF8] p-5 rounded-lg">
                 <h3 className="font-semibold text-gray-900 mb-2">🔬 Laboratuvar Testleri</h3>
                 <p className="text-gray-700">
                   Enfeksiyon, gut, romatoid artrit gibi sistemik hastalıkları ekarte etmek için kan testleri, 
@@ -325,19 +325,19 @@ export default function DizAgrisiNedenleriPage() {
             </p>
             <ul className="space-y-2 mb-4">
               <li className="flex items-start">
-                <span className="text-blue-500 mr-2">•</span>
+                <span className="text-[#1AD2C4] mr-2">•</span>
                 <span><strong>Artroskopik cerrahi:</strong> Meniskus tamiri/rezeksiyonu, kıkırdak düzeltme</span>
               </li>
               <li className="flex items-start">
-                <span className="text-blue-500 mr-2">•</span>
+                <span className="text-[#1AD2C4] mr-2">•</span>
                 <span><strong>Bağ rekonstrüksiyonu:</strong> ACL/PCL onarımı</span>
               </li>
               <li className="flex items-start">
-                <span className="text-blue-500 mr-2">•</span>
+                <span className="text-[#1AD2C4] mr-2">•</span>
                 <span><strong>Osteotomi:</strong> Kemik kesisi ile yük dağılımını düzenleme</span>
               </li>
               <li className="flex items-start">
-                <span className="text-blue-500 mr-2">•</span>
+                <span className="text-[#1AD2C4] mr-2">•</span>
                 <span><strong>Diz protezi:</strong> İleri evre artroz için eklem replasmanı</span>
               </li>
             </ul>
@@ -392,7 +392,7 @@ export default function DizAgrisiNedenleriPage() {
                   href="https://pubmed.ncbi.nlm.nih.gov/?term=anterior+cruciate+ligament+meniscus+injuries+osteoarthritis" 
                   target="_blank" 
                   rel="noopener noreferrer" 
-                  className="text-blue-600 hover:underline ml-1"
+                  className="text-[#01CAB8] hover:underline ml-1"
                 >
                   [PubMed Ara]
                 </a>
@@ -403,7 +403,7 @@ export default function DizAgrisiNedenleriPage() {
                   href="https://pubmed.ncbi.nlm.nih.gov/?term=osteoarthritis+knee+felson" 
                   target="_blank" 
                   rel="noopener noreferrer" 
-                  className="text-blue-600 hover:underline ml-1"
+                  className="text-[#01CAB8] hover:underline ml-1"
                 >
                   [PubMed Ara]
                 </a>
@@ -414,7 +414,7 @@ export default function DizAgrisiNedenleriPage() {
                   href="https://pubmed.ncbi.nlm.nih.gov/?term=epidemiology+knee+injuries+diagnosis+triage" 
                   target="_blank" 
                   rel="noopener noreferrer" 
-                  className="text-blue-600 hover:underline ml-1"
+                  className="text-[#01CAB8] hover:underline ml-1"
                 >
                   [PubMed Ara]
                 </a>
@@ -424,12 +424,12 @@ export default function DizAgrisiNedenleriPage() {
 
           {/* Section 9: Internal Link - ZORUNLU! */}
           <section className="mb-12">
-            <div className="bg-blue-50 border-l-4 border-blue-500 p-6 rounded-r-lg">
+            <div className="bg-[#E6FAF8] border-l-4 border-[#1AD2C4] p-6 rounded-r-lg">
               <p className="text-gray-700">
                 <strong>İlgili İçerik:</strong> Ameliyatsız tedavi seçenekleri hakkında daha fazla bilgi için{' '}
                 <Link 
                   href="/ameliyatsiz-cozumler" 
-                  className="text-blue-600 hover:text-blue-800 font-semibold hover:underline"
+                  className="text-[#01CAB8] hover:text-[#01867A] font-semibold hover:underline"
                 >
                   ameliyatsız çözümler sayfamızı
                 </Link>{' '}
@@ -454,12 +454,12 @@ export default function DizAgrisiNedenleriPage() {
         </div>
 
         {/* CTA */}
-        <div className="bg-gradient-to-r from-blue-600 to-blue-700 rounded-xl p-8 text-center text-white mt-12">
+        <div className="bg-gradient-to-r from-[#01CAB8] to-[#01A899] rounded-xl p-8 text-center text-white mt-12">
           <h2 className="text-2xl font-bold mb-4">Diz Ağrınız İçin Uzman Değerlendirmesi</h2>
           <p className="mb-6">Diz ağrınızın nedenini öğrenmek ve en uygun tedavi planını oluşturmak için randevu alın.</p>
           <Link 
             href="/iletisim" 
-            className="inline-block bg-white text-blue-600 px-8 py-3 rounded-lg font-semibold hover:bg-gray-100 transition"
+            className="inline-block bg-white text-[#01CAB8] px-8 py-3 rounded-lg font-semibold hover:bg-gray-100 transition"
           >
             Randevu Al
           </Link>

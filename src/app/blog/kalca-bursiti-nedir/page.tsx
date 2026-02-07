@@ -79,7 +79,7 @@ export default function KalcaBursitiPage() {
             Kalçada yaklaşık 20 bursa bulunur, ancak en sık etkilenen trokanterik bursadır.
           </p>
 
-          <div className="bg-blue-50 border-l-4 border-blue-500 p-6 mb-6">
+          <div className="bg-[#E6FAF8] border-l-4 border-[#1AD2C4] p-6 mb-6">
             <h4 className="font-semibold text-lg mb-3">Kalça Bölgesindeki Başlıca Bursalar:</h4>
             <ul className="space-y-2">
               <li>• <strong>Trokanterik bursa:</strong> Kalça kemiğinin dış çıkıntısı üzerinde</li>
@@ -146,7 +146,7 @@ export default function KalcaBursitiPage() {
             için kullanılır.
           </p>
 
-          <div className="bg-blue-50 p-6 rounded-lg mb-8">
+          <div className="bg-[#E6FAF8] p-6 rounded-lg mb-8">
             <h4 className="font-semibold text-lg mb-3">Tanı Testleri:</h4>
             <ul className="space-y-3 text-gray-700">
               <li>
@@ -199,7 +199,7 @@ export default function KalcaBursitiPage() {
               </ul>
             </div>
 
-            <div className="bg-blue-50 p-6 rounded-lg">
+            <div className="bg-[#E6FAF8] p-6 rounded-lg">
               <h4 className="font-semibold text-lg mb-3">İleri Tedavi Seçenekleri:</h4>
               <ul className="space-y-2 text-gray-700">
                 <li>• <strong>Kortikosteroid enjeksiyonu:</strong> Hızlı ağrı kesici etki</li>
@@ -263,23 +263,23 @@ export default function KalcaBursitiPage() {
         <section className="mb-12 p-6 bg-gray-50 rounded-lg">
           <h2 className="text-2xl font-bold text-gray-900 mb-4">Kaynaklar</h2>
           <ol className="space-y-2 text-sm text-gray-700">
-            <li>1. Williams BS, Cohen SP. "Greater trochanteric pain syndrome: a review of anatomy, diagnosis and treatment." Anesth Analg. 2009. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=greater+trochanteric+pain+syndrome" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a></li>
-            <li>2. Seidman AJ, et al. "Review of Greater Trochanteric Pain Syndrome." Curr Sports Med Rep. 2016. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=trochanteric+bursitis+review" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a></li>
-            <li>3. Reid D. "The management of greater trochanteric pain syndrome: A systematic literature review." J Orthop. 2016. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=trochanteric+pain+management" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a></li>
-            <li>4. Lievense A, et al. "Prognosis of trochanteric pain in primary care." Br J Gen Pract. 2005. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=trochanteric+bursitis+prognosis" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a></li>
-            <li>5. Rompe JD, et al. "Home training, local corticosteroid injection, or radial shock wave therapy for greater trochanter pain syndrome." Am J Sports Med. 2009. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=shock+wave+therapy+trochanteric+pain" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a></li>
-            <li>6. Lustenberger DP, et al. "Efficacy of treatment of trochanteric bursitis: a systematic review." Clin J Sport Med. 2011. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=trochanteric+bursitis+treatment+efficacy" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a></li>
-            <li>7. Cvitanic O, et al. "Snapping hip syndrome." Semin Musculoskelet Radiol. 2013. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=hip+bursitis+imaging" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a></li>
-            <li>8. Fearon AM, et al. "Greater trochanteric pain syndrome negatively affects work, physical activity and quality of life." Int J Sports Phys Ther. 2014. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=trochanteric+pain+quality+of+life" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a></li>
-            <li>9. Shbeeb MI, et al. "Trochanteric bursitis (greater trochanter pain syndrome)." Mayo Clin Proc. 1996. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=trochanteric+bursitis+epidemiology" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a></li>
-            <li>10. Walker P, et al. "Platelet-rich plasma for the treatment of greater trochanteric pain syndrome: a review." BMJ Open Sport Exerc Med. 2018. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=PRP+trochanteric+bursitis" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a></li>
+            <li>1. Williams BS, Cohen SP. "Greater trochanteric pain syndrome: a review of anatomy, diagnosis and treatment." Anesth Analg. 2009. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=greater+trochanteric+pain+syndrome" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a></li>
+            <li>2. Seidman AJ, et al. "Review of Greater Trochanteric Pain Syndrome." Curr Sports Med Rep. 2016. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=trochanteric+bursitis+review" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a></li>
+            <li>3. Reid D. "The management of greater trochanteric pain syndrome: A systematic literature review." J Orthop. 2016. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=trochanteric+pain+management" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a></li>
+            <li>4. Lievense A, et al. "Prognosis of trochanteric pain in primary care." Br J Gen Pract. 2005. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=trochanteric+bursitis+prognosis" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a></li>
+            <li>5. Rompe JD, et al. "Home training, local corticosteroid injection, or radial shock wave therapy for greater trochanter pain syndrome." Am J Sports Med. 2009. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=shock+wave+therapy+trochanteric+pain" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a></li>
+            <li>6. Lustenberger DP, et al. "Efficacy of treatment of trochanteric bursitis: a systematic review." Clin J Sport Med. 2011. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=trochanteric+bursitis+treatment+efficacy" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a></li>
+            <li>7. Cvitanic O, et al. "Snapping hip syndrome." Semin Musculoskelet Radiol. 2013. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=hip+bursitis+imaging" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a></li>
+            <li>8. Fearon AM, et al. "Greater trochanteric pain syndrome negatively affects work, physical activity and quality of life." Int J Sports Phys Ther. 2014. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=trochanteric+pain+quality+of+life" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a></li>
+            <li>9. Shbeeb MI, et al. "Trochanteric bursitis (greater trochanter pain syndrome)." Mayo Clin Proc. 1996. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=trochanteric+bursitis+epidemiology" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a></li>
+            <li>10. Walker P, et al. "Platelet-rich plasma for the treatment of greater trochanteric pain syndrome: a review." BMJ Open Sport Exerc Med. 2018. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=PRP+trochanteric+bursitis" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a></li>
           </ol>
         </section>
           {/* Ameliyatsız Tedavi Internal Link */}
-          <div className="bg-blue-50 border-l-4 border-blue-700 p-6 my-8 rounded-r-lg">
+          <div className="bg-[#E6FAF8] border-l-4 border-blue-700 p-6 my-8 rounded-r-lg">
             <p className="text-gray-700">
               <strong>İlgili İçerik:</strong> Ameliyatsız tedavi seçenekleri hakkında daha fazla bilgi için{' '}
-              <a href="/ameliyatsiz-cozumler" className="text-blue-700 hover:text-blue-900 font-semibold hover:underline">
+              <a href="/ameliyatsiz-cozumler" className="text-[#01A899] hover:text-blue-900 font-semibold hover:underline">
                 ameliyatsız çözümler sayfamızı
               </a>{' '}
               ziyaret edebilirsiniz.
@@ -288,14 +288,14 @@ export default function KalcaBursitiPage() {
 
 
         {/* CTA Section */}
-        <section className="mt-12 p-8 bg-gradient-to-r from-blue-600 to-blue-700 rounded-2xl text-white">
+        <section className="mt-12 p-8 bg-gradient-to-r from-[#01CAB8] to-[#01A899] rounded-2xl text-white">
           <h2 className="text-3xl font-bold mb-4">Kalça Ağrınız mı Var?</h2>
           <p className="text-lg mb-6 text-blue-50">
             Kalça bursiti tanı ve tedavisi için uzman değerlendirme randevusu alabilirsiniz.
           </p>
           <Link
             href="/randevu"
-            className="inline-block bg-white text-blue-600 px-8 py-3 rounded-lg font-semibold hover:bg-blue-50 transition-colors"
+            className="inline-block bg-white text-[#01CAB8] px-8 py-3 rounded-lg font-semibold hover:bg-[#E6FAF8] transition-colors"
           >
             Randevu Al
           </Link>

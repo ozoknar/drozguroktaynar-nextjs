@@ -90,7 +90,7 @@ export default function IsiatKongresiPage() {
           <h2 className="text-3xl font-bold text-gray-900 mb-6">İSİAT 2025 Kongresi Odak Alanları</h2>
           
           <div className="grid md:grid-cols-2 gap-6 mb-6">
-            <div className="bg-blue-50 border border-blue-200 rounded-lg p-6">
+            <div className="bg-[#E6FAF8] border border-blue-200 rounded-lg p-6">
               <h3 className="text-xl font-semibold text-gray-800 mb-3">🦴 Artroplasti (Protez Cerrahisi)</h3>
               <ul className="text-gray-700 space-y-2 text-sm">
                 <li>• Total diz protezi güncel teknikler</li>
@@ -252,28 +252,28 @@ export default function IsiatKongresiPage() {
           </p>
 
           <div className="grid md:grid-cols-2 gap-6 mb-6">
-            <div className="bg-blue-50 border border-blue-200 rounded-lg p-4">
+            <div className="bg-[#E6FAF8] border border-blue-200 rounded-lg p-4">
               <h4 className="font-semibold text-gray-800 mb-2">🤖 Yapay Zeka ve Makine Öğrenmesi</h4>
               <p className="text-gray-700 text-sm">
                 AI destekli preoperatif planlama, görüntü analizi ve sonuç tahmin modelleri geliştirilmektedir.
               </p>
             </div>
 
-            <div className="bg-blue-50 border border-blue-200 rounded-lg p-4">
+            <div className="bg-[#E6FAF8] border border-blue-200 rounded-lg p-4">
               <h4 className="font-semibold text-gray-800 mb-2">🧬 Kişiselleştirilmiş İmplantlar</h4>
               <p className="text-gray-700 text-sm">
                 3D baskı teknolojisi ile hasta anatomisine tam uyumlu implantlar üretilmektedir.
               </p>
             </div>
 
-            <div className="bg-blue-50 border border-blue-200 rounded-lg p-4">
+            <div className="bg-[#E6FAF8] border border-blue-200 rounded-lg p-4">
               <h4 className="font-semibold text-gray-800 mb-2">🔬 Biyomateryal İnovasyonu</h4>
               <p className="text-gray-700 text-sm">
                 Daha dayanıklı, biyouyumlu ve antibakteriyel özellikli yeni materyaller araştırılmaktadır.
               </p>
             </div>
 
-            <div className="bg-blue-50 border border-blue-200 rounded-lg p-4">
+            <div className="bg-[#E6FAF8] border border-blue-200 rounded-lg p-4">
               <h4 className="font-semibold text-gray-800 mb-2">📱 Dijital Sağlık</h4>
               <p className="text-gray-700 text-sm">
                 Wearable cihazlar, mobil uygulamalar ve uzaktan hasta takibi sistemleri gelişmektedir.
@@ -300,7 +300,7 @@ export default function IsiatKongresiPage() {
                   href="https://pubmed.ncbi.nlm.nih.gov/?term=total+knee+arthroplasty+outcomes" 
                   target="_blank" 
                   rel="nofollow noopener"
-                  className="text-blue-600 hover:text-blue-800"
+                  className="text-[#01CAB8] hover:text-[#01867A]"
                 >
                   Total Diz Protezi Sonuçları - PubMed Ara
                 </a>
@@ -310,7 +310,7 @@ export default function IsiatKongresiPage() {
                   href="https://pubmed.ncbi.nlm.nih.gov/?term=hip+arthroplasty+minimally+invasive" 
                   target="_blank" 
                   rel="nofollow noopener"
-                  className="text-blue-600 hover:text-blue-800"
+                  className="text-[#01CAB8] hover:text-[#01867A]"
                 >
                   Minimal İnvaziv Kalça Protezi - PubMed Ara
                 </a>
@@ -320,7 +320,7 @@ export default function IsiatKongresiPage() {
                   href="https://pubmed.ncbi.nlm.nih.gov/?term=knee+arthroscopy+current+concepts" 
                   target="_blank" 
                   rel="nofollow noopener"
-                  className="text-blue-600 hover:text-blue-800"
+                  className="text-[#01CAB8] hover:text-[#01867A]"
                 >
                   Diz Artroskopisi Güncel Kavramlar - PubMed Ara
                 </a>
@@ -330,7 +330,7 @@ export default function IsiatKongresiPage() {
                   href="https://pubmed.ncbi.nlm.nih.gov/?term=ACL+reconstruction+techniques" 
                   target="_blank" 
                   rel="nofollow noopener"
-                  className="text-blue-600 hover:text-blue-800"
+                  className="text-[#01CAB8] hover:text-[#01867A]"
                 >
                   ACL Rekonstrüksiyon Teknikleri - PubMed Ara
                 </a>
@@ -340,7 +340,7 @@ export default function IsiatKongresiPage() {
                   href="https://pubmed.ncbi.nlm.nih.gov/?term=robotic+assisted+knee+arthroplasty" 
                   target="_blank" 
                   rel="nofollow noopener"
-                  className="text-blue-600 hover:text-blue-800"
+                  className="text-[#01CAB8] hover:text-[#01867A]"
                 >
                   Robotik Destekli Diz Protezi - PubMed Ara
                 </a>
@@ -350,7 +350,7 @@ export default function IsiatKongresiPage() {
                   href="https://pubmed.ncbi.nlm.nih.gov/?term=enhanced+recovery+after+surgery+orthopedics" 
                   target="_blank" 
                   rel="nofollow noopener"
-                  className="text-blue-600 hover:text-blue-800"
+                  className="text-[#01CAB8] hover:text-[#01867A]"
                 >
                   ERAS Protokolleri Ortopedi - PubMed Ara
                 </a>
@@ -360,7 +360,7 @@ export default function IsiatKongresiPage() {
                   href="https://pubmed.ncbi.nlm.nih.gov/?term=meniscus+preservation+repair" 
                   target="_blank" 
                   rel="nofollow noopener"
-                  className="text-blue-600 hover:text-blue-800"
+                  className="text-[#01CAB8] hover:text-[#01867A]"
                 >
                   Menisküs Koruma ve Onarım - PubMed Ara
                 </a>
@@ -370,7 +370,7 @@ export default function IsiatKongresiPage() {
                   href="https://pubmed.ncbi.nlm.nih.gov/?term=cartilage+repair+techniques" 
                   target="_blank" 
                   rel="nofollow noopener"
-                  className="text-blue-600 hover:text-blue-800"
+                  className="text-[#01CAB8] hover:text-[#01867A]"
                 >
                   Kıkırdak Onarım Teknikleri - PubMed Ara
                 </a>
@@ -380,7 +380,7 @@ export default function IsiatKongresiPage() {
                   href="https://pubmed.ncbi.nlm.nih.gov/?term=hip+arthroplasty+dual+mobility" 
                   target="_blank" 
                   rel="nofollow noopener"
-                  className="text-blue-600 hover:text-blue-800"
+                  className="text-[#01CAB8] hover:text-[#01867A]"
                 >
                   Dual Mobilite Kalça Protezi - PubMed Ara
                 </a>
@@ -390,7 +390,7 @@ export default function IsiatKongresiPage() {
                   href="https://pubmed.ncbi.nlm.nih.gov/?term=patient+specific+instrumentation+arthroplasty" 
                   target="_blank" 
                   rel="nofollow noopener"
-                  className="text-blue-600 hover:text-blue-800"
+                  className="text-[#01CAB8] hover:text-[#01867A]"
                 >
                   Hasta Spesifik Enstrümantasyon - PubMed Ara
                 </a>
@@ -399,10 +399,10 @@ export default function IsiatKongresiPage() {
           </div>
         </section>
           {/* Ameliyatsız Tedavi Internal Link */}
-          <div className="bg-blue-50 border-l-4 border-blue-700 p-6 my-8 rounded-r-lg">
+          <div className="bg-[#E6FAF8] border-l-4 border-blue-700 p-6 my-8 rounded-r-lg">
             <p className="text-gray-700">
               <strong>İlgili İçerik:</strong> Ameliyatsız tedavi seçenekleri hakkında daha fazla bilgi için{' '}
-              <a href="/ameliyatsiz-cozumler" className="text-blue-700 hover:text-blue-900 font-semibold hover:underline">
+              <a href="/ameliyatsiz-cozumler" className="text-[#01A899] hover:text-blue-900 font-semibold hover:underline">
                 ameliyatsız çözümler sayfamızı
               </a>{' '}
               ziyaret edebilirsiniz.

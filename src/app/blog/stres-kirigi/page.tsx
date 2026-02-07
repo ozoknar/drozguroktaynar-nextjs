@@ -217,7 +217,7 @@ export default function StresKirigiPage() {
           </section>
 
           {/* Diagnosis */}
-          <section className="mb-12 bg-blue-50 p-8 rounded-xl">
+          <section className="mb-12 bg-[#E6FAF8] p-8 rounded-xl">
             <h2 className="text-2xl font-bold text-gray-800 mb-4">
               Tanı Yöntemi
             </h2>
@@ -280,10 +280,10 @@ export default function StresKirigiPage() {
             </div>
           </section>
           {/* Ameliyatsız Tedavi Internal Link */}
-          <div className="bg-blue-50 border-l-4 border-blue-700 p-6 my-8 rounded-r-lg">
+          <div className="bg-[#E6FAF8] border-l-4 border-blue-700 p-6 my-8 rounded-r-lg">
             <p className="text-gray-700">
               <strong>İlgili İçerik:</strong> Ameliyatsız tedavi seçenekleri hakkında daha fazla bilgi için{' '}
-              <a href="/ameliyatsiz-cozumler" className="text-blue-700 hover:text-blue-900 font-semibold hover:underline">
+              <a href="/ameliyatsiz-cozumler" className="text-[#01A899] hover:text-blue-900 font-semibold hover:underline">
                 ameliyatsız çözümler sayfamızı
               </a>{' '}
               ziyaret edebilirsiniz.
@@ -323,23 +323,23 @@ export default function StresKirigiPage() {
             <ol className="space-y-3 text-sm text-gray-700">
               <li>
                 <span className="font-medium">1.</span> Mayer SW, et al. <em>"Stress fractures of the foot and ankle in athletes."</em> Sports Health. 2014;6(6):481-91.{' '}
-                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=stress+fracture+bone" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=stress+fracture+bone" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <span className="font-medium">2.</span> Wentz L, et al. <em>"Risk factors for stress fractures in female athletes: a prospective study."</em> J Sports Sci. 2011;29(11):1179-88.{' '}
-                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=stress+fracture+bone" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=stress+fracture+bone" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <span className="font-medium">3.</span> Matcuk GR Jr, et al. <em>"Stress fractures: pathophysiology, clinical presentation, imaging features, and treatment options."</em> Emerg Radiol. 2016;23(4):365-75.{' '}
-                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=stress+fracture+bone" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=stress+fracture+bone" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <span className="font-medium">4.</span> Fredericson M, et al. <em>"Stress fractures in athletes."</em> Top Magn Reson Imaging. 2006;17(5):309-25.{' '}
-                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=stress+fracture+bone" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=stress+fracture+bone" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <span className="font-medium">5.</span> Bennell KL, et al. <em>"Risk factors for stress fractures in track and field athletes."</em> Am J Sports Med. 1996;24(6):810-8.{' '}
-                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=stress+fracture+bone" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=stress+fracture+bone" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
             </ol>
             
@@ -351,23 +351,23 @@ export default function StresKirigiPage() {
               <ol start={6} className="space-y-3 text-sm text-gray-700 mt-4 pt-4 border-t">
                 <li>
                   <span className="font-medium">6.</span> Arendt E, et al. <em>"Stress injuries to bone in college athletes: a retrospective review of experience at a single institution."</em> Am J Sports Med. 2003;31(6):959-68.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=stress+fracture+bone" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=stress+fracture+bone" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
                 </li>
                 <li>
                   <span className="font-medium">7.</span> Nattiv A, et al. <em>"Stress fracture risk factors, incidence and distribution: a 3-year prospective study."</em> Ann Sports Med Res. 2013;1:1-7.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=stress+fracture+bone" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=stress+fracture+bone" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
                 </li>
                 <li>
                   <span className="font-medium">8.</span> Matheson GO, et al. <em>"Stress fractures in athletes: a study of 320 cases."</em> Am J Sports Med. 1987;15(1):46-58.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=stress+fracture+bone" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=stress+fracture+bone" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
                 </li>
                 <li>
                   <span className="font-medium">9.</span> Brukner P, et al. <em>"Stress fractures: a review of 180 cases."</em> Clin J Sport Med. 1996;6(2):85-9.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=stress+fracture+bone" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=stress+fracture+bone" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
                 </li>
                 <li>
                   <span className="font-medium">10.</span> Pegrum J, et al. <em>"The pathophysiology and management of stress fractures of the foot."</em> Foot (Edinb). 2012;22(3):206-11.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=stress+fracture+bone" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=stress+fracture+bone" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
                 </li>
               </ol>
             </details>

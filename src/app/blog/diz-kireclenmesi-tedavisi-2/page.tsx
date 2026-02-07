@@ -196,8 +196,8 @@ export default function DizKireclenmesiTedavisi2Page() {
                 </p>
               </div>
 
-              <div className="bg-blue-50 p-6 rounded-xl">
-                <h3 className="font-semibold text-blue-800 mb-3">🚴 Egzersiz ve Fizik Tedavi</h3>
+              <div className="bg-[#E6FAF8] p-6 rounded-xl">
+                <h3 className="font-semibold text-[#01867A] mb-3">🚴 Egzersiz ve Fizik Tedavi</h3>
                 <p className="text-gray-700 mb-3">
                   <strong>Düşük etkili egzersizler:</strong> Yüzme, su jimnastiği, bisiklet, yürüyüş
                 </p>
@@ -306,8 +306,8 @@ export default function DizKireclenmesiTedavisi2Page() {
             </h2>
 
             <div className="space-y-4">
-              <div className="bg-blue-50 border-l-4 border-blue-500 p-6 rounded-r-lg">
-                <h3 className="font-semibold text-blue-800 mb-3">🔬 Diz Artroskopisi</h3>
+              <div className="bg-[#E6FAF8] border-l-4 border-[#1AD2C4] p-6 rounded-r-lg">
+                <h3 className="font-semibold text-[#01867A] mb-3">🔬 Diz Artroskopisi</h3>
                 <p className="text-gray-700 mb-3">
                   <strong>Minimal invaziv</strong> yöntem. Erken evre osteoartrit, mekanik semptomlar 
                   (menisküs yırtığı, gevşek cisim) için.
@@ -457,10 +457,10 @@ export default function DizKireclenmesiTedavisi2Page() {
             </div>
           </section>
           {/* Ameliyatsız Tedavi Internal Link */}
-          <div className="bg-blue-50 border-l-4 border-blue-700 p-6 my-8 rounded-r-lg">
+          <div className="bg-[#E6FAF8] border-l-4 border-blue-700 p-6 my-8 rounded-r-lg">
             <p className="text-gray-700">
               <strong>İlgili İçerik:</strong> Ameliyatsız tedavi seçenekleri hakkında daha fazla bilgi için{' '}
-              <a href="/ameliyatsiz-cozumler" className="text-blue-700 hover:text-blue-900 font-semibold hover:underline">
+              <a href="/ameliyatsiz-cozumler" className="text-[#01A899] hover:text-blue-900 font-semibold hover:underline">
                 ameliyatsız çözümler sayfamızı
               </a>{' '}
               ziyaret edebilirsiniz.
@@ -500,50 +500,50 @@ export default function DizKireclenmesiTedavisi2Page() {
             <ol className="space-y-3 text-sm text-gray-700">
               <li>
                 <span className="font-medium">1.</span> Zhang W, et al. <em>"OARSI recommendations for the management of hip and knee osteoarthritis, Part II: OARSI evidence-based, expert consensus guidelines."</em> Osteoarthritis Cartilage. 2008;16(2):137-62.{' '}
-                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=knee+osteoarthritis+treatment" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=knee+osteoarthritis+treatment" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <span className="font-medium">2.</span> McAlindon TE, et al. <em>"OARSI guidelines for the non-surgical management of knee osteoarthritis."</em> Osteoarthritis Cartilage. 2014;22(3):363-88.{' '}
-                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=knee+osteoarthritis+treatment" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=knee+osteoarthritis+treatment" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <span className="font-medium">3.</span> Bannuru RR, et al. <em>"Comparative effectiveness of pharmacologic interventions for knee osteoarthritis: a systematic review and network meta-analysis."</em> Ann Intern Med. 2015;162(1):46-54.{' '}
-                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=knee+osteoarthritis+treatment" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=knee+osteoarthritis+treatment" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <span className="font-medium">4.</span> Meheux CJ, et al. <em>"Efficacy of intra-articular platelet-rich plasma injections in knee osteoarthritis: a systematic review."</em> Arthroscopy. 2016;32(3):495-505.{' '}
-                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=knee+osteoarthritis+treatment" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=knee+osteoarthritis+treatment" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <span className="font-medium">5.</span> Huang Y, et al. <em>"Platelet-rich plasma versus hyaluronic acid in the treatment of knee osteoarthritis: a meta-analysis."</em> Am J Sports Med. 2022;50(14):3971-81.{' '}
-                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=knee+osteoarthritis+treatment" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=knee+osteoarthritis+treatment" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
             </ol>
             
             <details className="mt-4">
-              <summary className="cursor-pointer text-blue-600 font-medium hover:text-blue-800 flex items-center gap-2">
+              <summary className="cursor-pointer text-[#01CAB8] font-medium hover:text-[#01867A] flex items-center gap-2">
                 <span>📖 Daha Fazla Kaynak Göster (5 ek referans)</span>
               </summary>
               <ol start={6} className="space-y-3 text-sm text-gray-700 mt-4 pt-4 border-t">
                 <li>
                   <span className="font-medium">6.</span> Carr AJ, et al. <em>"Knee replacement."</em> Lancet. 2012;379(9823):1331-40.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=knee+osteoarthritis+treatment" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=knee+osteoarthritis+treatment" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
                 </li>
                 <li>
                   <span className="font-medium">7.</span> Bellamy N, et al. <em>"Viscosupplementation for the treatment of osteoarthritis of the knee."</em> Cochrane Database Syst Rev. 2006;(2):CD005321.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=knee+osteoarthritis+treatment" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=knee+osteoarthritis+treatment" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
                 </li>
                 <li>
                   <span className="font-medium">8.</span> Glyn-Jones S, et al. <em>"Osteoarthritis."</em> Lancet. 2015;386(9991):376-87.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=knee+osteoarthritis+treatment" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=knee+osteoarthritis+treatment" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
                 </li>
                 <li>
                   <span className="font-medium">9.</span> Bruyère O, et al. <em>"An updated algorithm recommendation for the management of knee osteoarthritis from the European Society for Clinical and Economic Aspects of Osteoporosis, Osteoarthritis and Musculoskeletal Diseases (ESCEO)."</em> Semin Arthritis Rheum. 2019;49(3):337-50.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=knee+osteoarthritis+treatment" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=knee+osteoarthritis+treatment" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
                 </li>
                 <li>
                   <span className="font-medium">10.</span> Jüni P, et al. <em>"Intra-articular corticosteroid for knee osteoarthritis."</em> Cochrane Database Syst Rev. 2015;(10):CD005328.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=knee+osteoarthritis+treatment" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=knee+osteoarthritis+treatment" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
                 </li>
               </ol>
             </details>

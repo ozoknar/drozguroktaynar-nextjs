@@ -192,8 +192,8 @@ export default function PiriformisSendromuPage() {
                 </ul>
               </div>
 
-              <div className="bg-blue-50 p-6 rounded-xl">
-                <h3 className="font-semibold text-blue-800 mb-3">💧 Enflamasyon ve Şişlik</h3>
+              <div className="bg-[#E6FAF8] p-6 rounded-xl">
+                <h3 className="font-semibold text-[#01867A] mb-3">💧 Enflamasyon ve Şişlik</h3>
                 <ul className="space-y-2 text-gray-700 text-sm">
                   <li>• Kas yırtığı veya kontüzyon sonrası ödem</li>
                   <li>• Bursit (kalça bursalarının iltihabı)</li>
@@ -275,7 +275,7 @@ export default function PiriformisSendromuPage() {
           </section>
 
           {/* Diagnosis Section */}
-          <section className="mb-12 bg-blue-50 p-8 rounded-xl">
+          <section className="mb-12 bg-[#E6FAF8] p-8 rounded-xl">
             <h2 className="text-2xl font-bold text-gray-800 mb-6">
               Tanı Yöntemleri
             </h2>
@@ -285,7 +285,7 @@ export default function PiriformisSendromuPage() {
             </p>
             <div className="space-y-4">
               <div className="bg-white p-5 rounded-lg">
-                <h3 className="font-semibold text-blue-800 mb-3">📋 Fizik Muayene</h3>
+                <h3 className="font-semibold text-[#01867A] mb-3">📋 Fizik Muayene</h3>
                 <div className="space-y-2 text-sm text-gray-700">
                   <p><strong>1. Freiberg Testi:</strong> Pasif kalça iç rotasyonu sırasında ağrı → pozitif.</p>
                   <p><strong>2. Pace Testi:</strong> Dirençli kalça abduksiyon ve dış rotasyon sırasında ağrı → pozitif.</p>
@@ -297,7 +297,7 @@ export default function PiriformisSendromuPage() {
               </div>
 
               <div className="bg-white p-5 rounded-lg">
-                <h3 className="font-semibold text-blue-800 mb-3">📷 Görüntüleme Yöntemleri</h3>
+                <h3 className="font-semibold text-[#01867A] mb-3">📷 Görüntüleme Yöntemleri</h3>
                 <p className="text-sm text-gray-700 mb-2">
                   Görüntüleme yöntemleri genellikle <strong>diğer nedenleri (bel fıtığı, kalça patolojileri) dışlamak</strong> için kullanılır.
                 </p>
@@ -310,7 +310,7 @@ export default function PiriformisSendromuPage() {
               </div>
 
               <div className="bg-white p-5 rounded-lg">
-                <h3 className="font-semibold text-blue-800 mb-3">⚡ EMG (Elektromiyografi) / Sinir İletim Çalışması</h3>
+                <h3 className="font-semibold text-[#01867A] mb-3">⚡ EMG (Elektromiyografi) / Sinir İletim Çalışması</h3>
                 <p className="text-sm text-gray-700">
                   Siyatik sinirde kronik bası varsa EMG anormallik gösterebilir. Ancak tanı için 
                   spesifik değildir, bel fıtığı ile ayrımına yardımcı olur.
@@ -484,10 +484,10 @@ export default function PiriformisSendromuPage() {
             </div>
           </section>
           {/* Ameliyatsız Tedavi Internal Link */}
-          <div className="bg-blue-50 border-l-4 border-blue-700 p-6 my-8 rounded-r-lg">
+          <div className="bg-[#E6FAF8] border-l-4 border-blue-700 p-6 my-8 rounded-r-lg">
             <p className="text-gray-700">
               <strong>İlgili İçerik:</strong> Ameliyatsız tedavi seçenekleri hakkında daha fazla bilgi için{' '}
-              <a href="/ameliyatsiz-cozumler" className="text-blue-700 hover:text-blue-900 font-semibold hover:underline">
+              <a href="/ameliyatsiz-cozumler" className="text-[#01A899] hover:text-blue-900 font-semibold hover:underline">
                 ameliyatsız çözümler sayfamızı
               </a>{' '}
               ziyaret edebilirsiniz.
@@ -527,50 +527,50 @@ export default function PiriformisSendromuPage() {
             <ol className="space-y-3 text-sm text-gray-700">
               <li>
                 <span className="font-medium">1.</span> Boyajian-O'Neill LA, et al. <em>"Diagnosis and management of piriformis syndrome: an osteopathic approach."</em> J Am Osteopath Assoc. 2008;108(11):657-64.{' '}
-                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=piriformis+syndrome+treatment" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=piriformis+syndrome+treatment" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <span className="font-medium">2.</span> Pecina M, et al. <em>"Piriformis syndrome: a neuropathic entrapment syndrome."</em> Adv Clin Neurosci Rehabil. 2008;8(5):20-2.{' '}
-                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=piriformis+syndrome+diagnosis" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=piriformis+syndrome+diagnosis" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <span className="font-medium">3.</span> Han SK, et al. <em>"Piriformis syndrome: current update on an old problem."</em> Asian Spine J. 2021;15(4):460-72.{' '}
-                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=piriformis+syndrome+etiology" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=piriformis+syndrome+etiology" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <span className="font-medium">4.</span> Kirschner JS, et al. <em>"Piriformis syndrome diagnosis and treatment."</em> Muscle Nerve. 2009;40(1):10-5.{' '}
-                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=piriformis+syndrome+treatment" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=piriformis+syndrome+treatment" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <span className="font-medium">5.</span> Tonley JC, et al. <em>"Treatment of piriformis syndrome with ultrasound-guided injection of corticosteroid and local anesthetic."</em> J Manipulative Physiol Ther. 2010;33(1):1-7.{' '}
-                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=piriformis+syndrome+injection" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=piriformis+syndrome+injection" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
             </ol>
             
             <details className="mt-4">
-              <summary className="cursor-pointer text-blue-600 font-medium hover:text-blue-800 flex items-center gap-2">
+              <summary className="cursor-pointer text-[#01CAB8] font-medium hover:text-[#01867A] flex items-center gap-2">
                 <span>📖 Daha Fazla Kaynak Göster (5 ek referans)</span>
               </summary>
               <ol start={6} className="space-y-3 text-sm text-gray-700 mt-4 pt-4 border-t">
                 <li>
                   <span className="font-medium">6.</span> Bernard TN Jr, Haddad RJ Jr. <em>"Piriformis syndrome: pathophysiology, diagnosis, and treatment."</em> Instr Course Lect. 1990;39:395-403.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=piriformis+syndrome" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=piriformis+syndrome" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
                 </li>
                 <li>
                   <span className="font-medium">7.</span> Fishman LM, et al. <em>"Piriformis syndrome: a diagnosis with many challenges."</em> Phys Med Rehabil Clin N Am. 2011;22(2):339-56.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=piriformis+syndrome" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=piriformis+syndrome" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
                 </li>
                 <li>
                   <span className="font-medium">8.</span> Miller TA, et al. <em>"Sciatica caused by piriformis syndrome: diagnosis and management."</em> Curr Rev Musculoskelet Med. 2012;5(3):203-12.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=piriformis+syndrome" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=piriformis+syndrome" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
                 </li>
                 <li>
                   <span className="font-medium">9.</span> Probst D, et al. <em>"Piriformis syndrome: an often forgotten cause of buttock pain."</em> J Am Osteopath Assoc. 2007;107(7):299-303.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=piriformis+syndrome" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=piriformis+syndrome" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
                 </li>
                 <li>
                   <span className="font-medium">10.</span> Lee S, et al. <em>"Efficacy of botulinum toxin type A for piriformis syndrome: a systematic review and meta-analysis."</em> Pain Physician. 2018;21(3):273-83.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=piriformis+syndrome+botox" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=piriformis+syndrome+botox" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
                 </li>
               </ol>
             </details>

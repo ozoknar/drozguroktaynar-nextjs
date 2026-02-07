@@ -71,9 +71,9 @@ export default function BlogPage() {
       <article className="max-w-4xl mx-auto px-4 py-8">
         {/* Breadcrumb */}
         <nav className="text-sm text-gray-500 mb-6">
-          <Link href="/" className="hover:text-blue-600">Ana Sayfa</Link>
+          <Link href="/" className="hover:text-[#01CAB8]">Ana Sayfa</Link>
           <span className="mx-2">/</span>
-          <Link href="/blog" className="hover:text-blue-600">Blog</Link>
+          <Link href="/blog" className="hover:text-[#01CAB8]">Blog</Link>
           <span className="mx-2">/</span>
           <span className="text-gray-700">El-Bilek Artroskopisi</span>
         </nav>
@@ -124,7 +124,7 @@ export default function BlogPage() {
               görüntülenebilir, kıkırdak yüzeyler, ligamentler, diskler (TFCC) ve kemik yüzeyler 
               incelenebilir. Aynı seansta tanı konulduktan sonra gerekli onarımlar yapılabilir.
             </p>
-            <div className="bg-blue-50 p-6 rounded-lg">
+            <div className="bg-[#E6FAF8] p-6 rounded-lg">
               <p className="text-gray-800 font-semibold mb-2">📌 Önemli Not:</p>
               <p className="text-gray-700">
                 El-bilek artroskopisi hem tanısal hem de terapötik bir prosedürdür. MRG ve diğer 
@@ -181,19 +181,19 @@ export default function BlogPage() {
             <h3 className="text-2xl font-semibold text-gray-800 mb-3 mt-6">Ameliyat Sırasında</h3>
             <ul className="space-y-2 mb-6">
               <li className="flex items-start">
-                <span className="text-blue-500 mr-2">•</span>
+                <span className="text-[#1AD2C4] mr-2">•</span>
                 <span>2-3 adet küçük (3-4 mm) portal kesisi yapılır</span>
               </li>
               <li className="flex items-start">
-                <span className="text-blue-500 mr-2">•</span>
+                <span className="text-[#1AD2C4] mr-2">•</span>
                 <span>Artroskopik kamera ile eklem içi görüntülenir</span>
               </li>
               <li className="flex items-start">
-                <span className="text-blue-500 mr-2">•</span>
+                <span className="text-[#1AD2C4] mr-2">•</span>
                 <span>Hasarlı kıkırdak temizlenir, ligament onarımı yapılır veya kist çıkarılır</span>
               </li>
               <li className="flex items-start">
-                <span className="text-blue-500 mr-2">•</span>
+                <span className="text-[#1AD2C4] mr-2">•</span>
                 <span>Ameliyat süresi ortalama 45-90 dakikadır</span>
               </li>
             </ul>
@@ -201,19 +201,19 @@ export default function BlogPage() {
             <h3 className="text-2xl font-semibold text-gray-800 mb-3 mt-6">Ameliyat Sonrası İyileşme</h3>
             <ul className="space-y-2 mb-6">
               <li className="flex items-start">
-                <span className="text-blue-500 mr-2">•</span>
+                <span className="text-[#1AD2C4] mr-2">•</span>
                 <span><strong>İlk 1-2 hafta:</strong> Atel veya splint kullanımı, hafif şişlik ve ağrı beklenir</span>
               </li>
               <li className="flex items-start">
-                <span className="text-blue-500 mr-2">•</span>
+                <span className="text-[#1AD2C4] mr-2">•</span>
                 <span><strong>2-4 hafta:</strong> Fizik tedavi başlar, hareket açıklığı egzersizleri</span>
               </li>
               <li className="flex items-start">
-                <span className="text-blue-500 mr-2">•</span>
+                <span className="text-[#1AD2C4] mr-2">•</span>
                 <span><strong>6-8 hafta:</strong> Hafif aktivitelere dönüş</span>
               </li>
               <li className="flex items-start">
-                <span className="text-blue-500 mr-2">•</span>
+                <span className="text-[#1AD2C4] mr-2">•</span>
                 <span><strong>3-4 ay:</strong> Tam fonksiyonel iyileşme ve ağır işlere dönüş</span>
               </li>
             </ul>
@@ -270,7 +270,7 @@ export default function BlogPage() {
                   href="https://pubmed.ncbi.nlm.nih.gov/?term=wrist+arthroscopy+TFCC+treatment" 
                   target="_blank" 
                   rel="noopener noreferrer" 
-                  className="text-blue-600 hover:underline ml-1"
+                  className="text-[#01CAB8] hover:underline ml-1"
                 >
                   [PubMed Ara]
                 </a>
@@ -281,7 +281,7 @@ export default function BlogPage() {
                   href="https://pubmed.ncbi.nlm.nih.gov/?term=wrist+arthroscopy+indications+results" 
                   target="_blank" 
                   rel="noopener noreferrer" 
-                  className="text-blue-600 hover:underline ml-1"
+                  className="text-[#01CAB8] hover:underline ml-1"
                 >
                   [PubMed Ara]
                 </a>
@@ -292,7 +292,7 @@ export default function BlogPage() {
                   href="https://pubmed.ncbi.nlm.nih.gov/?term=wrist+arthroscopy+portal+techniques" 
                   target="_blank" 
                   rel="noopener noreferrer" 
-                  className="text-blue-600 hover:underline ml-1"
+                  className="text-[#01CAB8] hover:underline ml-1"
                 >
                   [PubMed Ara]
                 </a>
@@ -302,12 +302,12 @@ export default function BlogPage() {
 
           {/* Section 7: Internal Link - ZORUNLU! */}
           <section className="mb-12">
-            <div className="bg-blue-50 border-l-4 border-blue-500 p-6 rounded-r-lg">
+            <div className="bg-[#E6FAF8] border-l-4 border-[#1AD2C4] p-6 rounded-r-lg">
               <p className="text-gray-700">
                 <strong>İlgili İçerik:</strong> Ameliyatsız tedavi seçenekleri hakkında daha fazla bilgi için{' '}
                 <Link 
                   href="/ameliyatsiz-cozumler" 
-                  className="text-blue-600 hover:text-blue-800 font-semibold hover:underline"
+                  className="text-[#01CAB8] hover:text-[#01867A] font-semibold hover:underline"
                 >
                   ameliyatsız çözümler sayfamızı
                 </Link>{' '}
@@ -334,12 +334,12 @@ export default function BlogPage() {
         </div>
 
         {/* CTA */}
-        <div className="bg-gradient-to-r from-blue-600 to-blue-700 rounded-xl p-8 text-center text-white mt-12">
+        <div className="bg-gradient-to-r from-[#01CAB8] to-[#01A899] rounded-xl p-8 text-center text-white mt-12">
           <h2 className="text-2xl font-bold mb-4">Randevu Almak İster misiniz?</h2>
           <p className="mb-6">Uzman değerlendirmesi için hemen iletişime geçin.</p>
           <Link 
             href="/iletisim" 
-            className="inline-block bg-white text-blue-600 px-8 py-3 rounded-lg font-semibold hover:bg-gray-100 transition"
+            className="inline-block bg-white text-[#01CAB8] px-8 py-3 rounded-lg font-semibold hover:bg-gray-100 transition"
           >
             Randevu Al
           </Link>

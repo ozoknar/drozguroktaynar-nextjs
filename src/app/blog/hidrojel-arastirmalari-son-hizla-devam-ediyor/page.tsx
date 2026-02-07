@@ -69,7 +69,7 @@ export default function HidrojelArastirmalariPage() {
           <div className="mb-6">
             <Link 
               href="/blog"
-              className="text-blue-600 hover:text-blue-800 text-sm font-medium"
+              className="text-[#01CAB8] hover:text-[#01867A] text-sm font-medium"
             >
               ← Blog'a Dön
             </Link>
@@ -115,7 +115,7 @@ export default function HidrojelArastirmalariPage() {
             <li><strong>Gözenekli yapı:</strong> İlaç, besin ve hücre geçişine izin verir</li>
           </ul>
 
-          <div className="bg-blue-50 border-l-4 border-blue-500 p-6 my-8">
+          <div className="bg-[#E6FAF8] border-l-4 border-[#1AD2C4] p-6 my-8">
             <p className="text-gray-800">
               <strong>Biyo-ilham:</strong> Hidrojeller, insan vücudundaki kıkırdak, gözün vitreus sıvısı gibi doğal jel benzeri dokulardan ilham alınarak geliştirilmiştir. Bu benzerlik, vücut içindeki uygulamalar için onları ideal kılar.
             </p>
@@ -286,51 +286,51 @@ export default function HidrojelArastirmalariPage() {
           <ol className="list-decimal pl-6 mb-6 text-gray-700 space-y-2">
             <li>
               Gong JP, Katsuyama Y, Kurokawa T, Osada Y. "Double-network hydrogels with extremely high mechanical strength." Advanced Materials. 2003.
-              {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=double+network+hydrogels" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+              {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=double+network+hydrogels" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
             </li>
             <li>
               Zhao X. "Multi-scale multi-mechanism design of tough hydrogels." Soft Matter. 2014.
-              {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=tough+hydrogels+design" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+              {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=tough+hydrogels+design" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
             </li>
             <li>
               Peppas NA, Hilt RS, Khademhosseini A, Langer R. "Hydrogels in biology and medicine: From molecular principles to bionanotechnology." Advanced Materials. 2006.
-              {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=hydrogels+biology+medicine" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+              {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=hydrogels+biology+medicine" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
             </li>
             <li>
               Hoffman AS. "Hydrogels for biomedical applications." Advanced Drug Delivery Reviews. 2012.
-              {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=hydrogels+biomedical+applications" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+              {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=hydrogels+biomedical+applications" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
             </li>
             <li>
               Tan H, Marra KG. "Injectable hydrogels for tissue engineering applications." Materials. 2010.
-              {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=injectable+hydrogels+tissue+engineering" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+              {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=injectable+hydrogels+tissue+engineering" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
             </li>
             <li>
               Amsden BG, Sukhorukov GB. "Advances in stimuli-responsive hydrogels for drug delivery." Drug Discovery Today. 2011.
-              {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=stimuli-responsive+hydrogels+drug+delivery" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+              {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=stimuli-responsive+hydrogels+drug+delivery" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
             </li>
             <li>
               Burkard M, Scheibel M, Gerlach U, Imhoff AB, Minzlaff P. "The NUsurface® meniscal implant: Clinical outcome after 2 to 5 years of follow-up." Knee Surgery, Sports Traumatology, Arthroscopy. 2021.
-              {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=NUsurface+meniscal+implant+outcome" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+              {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=NUsurface+meniscal+implant+outcome" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
             </li>
             <li>
               Mandrycky C, Wang Z, Kim K, Khan Y. "3D bioprinting for engineering vascularized tissues." Biotechnology Advances. 2016.
-              {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=3D+bioprinting+vascularized+tissues" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+              {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=3D+bioprinting+vascularized+tissues" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
             </li>
             <li>
               Annabi N, Tamayol A, Uquillas JA, et al. "25th anniversary of advanced materials: biofabrication of vascularized 3D tissues for regenerative engineering." Advanced Materials. 2014.
-              {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=biofabrication+vascularized+tissues" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+              {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=biofabrication+vascularized+tissues" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
             </li>
             <li>
               Gao G, Lee H, Bhaduri F, et al. "Injectable and mechanically robust hydrogels for long-term cell delivery and bone regeneration." Biomaterials. 2017.
-              {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=injectable+hydrogels+bone+regeneration" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+              {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=injectable+hydrogels+bone+regeneration" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
             </li>
           </ol>
         </div>
           {/* Ameliyatsız Tedavi Internal Link */}
-          <div className="bg-blue-50 border-l-4 border-blue-700 p-6 my-8 rounded-r-lg">
+          <div className="bg-[#E6FAF8] border-l-4 border-blue-700 p-6 my-8 rounded-r-lg">
             <p className="text-gray-700">
               <strong>İlgili İçerik:</strong> Ameliyatsız tedavi seçenekleri hakkında daha fazla bilgi için{' '}
-              <a href="/ameliyatsiz-cozumler" className="text-blue-700 hover:text-blue-900 font-semibold hover:underline">
+              <a href="/ameliyatsiz-cozumler" className="text-[#01A899] hover:text-blue-900 font-semibold hover:underline">
                 ameliyatsız çözümler sayfamızı
               </a>{' '}
               ziyaret edebilirsiniz.
@@ -339,7 +339,7 @@ export default function HidrojelArastirmalariPage() {
 
 
         {/* CTA Section */}
-        <div className="mt-16 bg-gradient-to-r from-blue-600 to-blue-800 rounded-2xl p-8 text-white">
+        <div className="mt-16 bg-gradient-to-r from-[#01CAB8] to-[#01867A] rounded-2xl p-8 text-white">
           <h2 className="text-3xl font-bold mb-4">Ortopedik Teknolojilerdeki Yenilikleri Merak Ediyor musunuz?</h2>
           <p className="text-lg mb-6 text-blue-100">
             Doku mühendisliği, rejeneratif tıp ve biyomühendislik alanındaki son gelişmeler hakkında bilgi alın. 
@@ -348,13 +348,13 @@ export default function HidrojelArastirmalariPage() {
           <div className="flex flex-col sm:flex-row gap-4">
             <Link
               href="/iletisim"
-              className="bg-white text-blue-600 px-8 py-3 rounded-lg font-semibold hover:bg-blue-50 transition text-center"
+              className="bg-white text-[#01CAB8] px-8 py-3 rounded-lg font-semibold hover:bg-[#E6FAF8] transition text-center"
             >
               Randevu Alın
             </Link>
             <Link
               href="/blog/hidrojel-sivi-diz-protezi-nedir-2"
-              className="border-2 border-white text-white px-8 py-3 rounded-lg font-semibold hover:bg-blue-700 transition text-center"
+              className="border-2 border-white text-white px-8 py-3 rounded-lg font-semibold hover:bg-[#01A899] transition text-center"
             >
               Hidrojel Diz Protezi Hakkında
             </Link>
@@ -368,7 +368,7 @@ export default function HidrojelArastirmalariPage() {
             <Link href="/blog/hidrojel-sivi-diz-protezi-nedir-2" className="group">
               <div className="border rounded-lg overflow-hidden hover:shadow-lg transition">
                 <div className="p-6">
-                  <h3 className="font-semibold text-gray-900 group-hover:text-blue-600 mb-2">
+                  <h3 className="font-semibold text-gray-900 group-hover:text-[#01CAB8] mb-2">
                     Hidrojel Sıvı Diz Protezi
                   </h3>
                   <p className="text-gray-600 text-sm">
@@ -381,7 +381,7 @@ export default function HidrojelArastirmalariPage() {
             <Link href="/blog/eklem-agrisi-bursa-dr-ozgur-oktay-nar-ortopedi-bursa" className="group">
               <div className="border rounded-lg overflow-hidden hover:shadow-lg transition">
                 <div className="p-6">
-                  <h3 className="font-semibold text-gray-900 group-hover:text-blue-600 mb-2">
+                  <h3 className="font-semibold text-gray-900 group-hover:text-[#01CAB8] mb-2">
                     Eklem Ağrısı ve Tedavisi
                   </h3>
                   <p className="text-gray-600 text-sm">
@@ -394,7 +394,7 @@ export default function HidrojelArastirmalariPage() {
             <Link href="/blog/kaval-kemigi" className="group">
               <div className="border rounded-lg overflow-hidden hover:shadow-lg transition">
                 <div className="p-6">
-                  <h3 className="font-semibold text-gray-900 group-hover:text-blue-600 mb-2">
+                  <h3 className="font-semibold text-gray-900 group-hover:text-[#01CAB8] mb-2">
                     Kaval Kemiği
                   </h3>
                   <p className="text-gray-600 text-sm">

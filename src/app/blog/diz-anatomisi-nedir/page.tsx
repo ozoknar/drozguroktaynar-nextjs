@@ -156,8 +156,8 @@ export default function DizAnatonisiNedirPage() {
                 </ul>
               </div>
 
-              <div className="bg-blue-50 p-6 rounded-xl">
-                <h3 className="font-semibold text-blue-800 mb-3 flex items-center gap-2">
+              <div className="bg-[#E6FAF8] p-6 rounded-xl">
+                <h3 className="font-semibold text-[#01867A] mb-3 flex items-center gap-2">
                   <span>🦴</span> Tibia (Kaval Kemiği)
                 </h3>
                 <p className="text-gray-700 mb-3">
@@ -241,8 +241,8 @@ export default function DizAnatonisiNedirPage() {
                 </ul>
               </div>
 
-              <div className="bg-blue-50 p-6 rounded-xl border-l-4 border-blue-500">
-                <h3 className="font-semibold text-blue-800 mb-3">
+              <div className="bg-[#E6FAF8] p-6 rounded-xl border-l-4 border-[#1AD2C4]">
+                <h3 className="font-semibold text-[#01867A] mb-3">
                   🔵 LCL (Lateral Collateral Ligament - Dış Yan Bağ)
                 </h3>
                 <ul className="space-y-2 text-gray-700 text-sm">
@@ -323,8 +323,8 @@ export default function DizAnatonisiNedirPage() {
             <h2 className="text-2xl font-bold text-gray-800 mb-6">
               4️⃣ Kıkırdak (Kartilaj)
             </h2>
-            <div className="bg-blue-50 p-6 rounded-xl">
-              <h3 className="font-semibold text-blue-800 mb-3">🔷 Hyaline (Artiküler) Kıkırdak</h3>
+            <div className="bg-[#E6FAF8] p-6 rounded-xl">
+              <h3 className="font-semibold text-[#01867A] mb-3">🔷 Hyaline (Artiküler) Kıkırdak</h3>
               <p className="text-gray-700 mb-4">
                 Eklem yüzeylerini (femoral kondiller, tibial plato, patella arka yüzü) kaplayan 
                 <strong> pürüzsüz, beyaz, kaygan</strong> dokudur.
@@ -396,8 +396,8 @@ export default function DizAnatonisiNedirPage() {
                 </p>
               </div>
 
-              <div className="bg-blue-50 p-6 rounded-xl">
-                <h3 className="font-semibold text-blue-800 mb-3">📌 Pes Anserinus</h3>
+              <div className="bg-[#E6FAF8] p-6 rounded-xl">
+                <h3 className="font-semibold text-[#01867A] mb-3">📌 Pes Anserinus</h3>
                 <p className="text-gray-700 text-sm">
                   <strong>Üç tendonun (sartorius, gracilis, semitendinosus)</strong> tibia proksimal mediale yapıştığı bölge. 
                   "Kaz ayağı" şeklinde. <strong>Pes anserinus bursiti</strong> (tendiniti) - iç diz ağrısı nedenidir.
@@ -516,10 +516,10 @@ export default function DizAnatonisiNedirPage() {
             </div>
           </section>
           {/* Ameliyatsız Tedavi Internal Link */}
-          <div className="bg-blue-50 border-l-4 border-blue-700 p-6 my-8 rounded-r-lg">
+          <div className="bg-[#E6FAF8] border-l-4 border-blue-700 p-6 my-8 rounded-r-lg">
             <p className="text-gray-700">
               <strong>İlgili İçerik:</strong> Ameliyatsız tedavi seçenekleri hakkında daha fazla bilgi için{' '}
-              <a href="/ameliyatsiz-cozumler" className="text-blue-700 hover:text-blue-900 font-semibold hover:underline">
+              <a href="/ameliyatsiz-cozumler" className="text-[#01A899] hover:text-blue-900 font-semibold hover:underline">
                 ameliyatsız çözümler sayfamızı
               </a>{' '}
               ziyaret edebilirsiniz.
@@ -559,50 +559,50 @@ export default function DizAnatonisiNedirPage() {
             <ol className="space-y-3 text-sm text-gray-700">
               <li>
                 <span className="font-medium">1.</span> Gray H, Standring S. <em>"Gray's Anatomy: The Anatomical Basis of Clinical Practice."</em> 41st ed. Elsevier; 2016.{' '}
-                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=knee+anatomy" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=knee+anatomy" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <span className="font-medium">2.</span> Flandry F, Hommel G. <em>"Normal anatomy and biomechanics of the knee."</em> Sports Med Arthrosc Rev. 2011;19(2):82-92.{' '}
-                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=knee+anatomy" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=knee+anatomy" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <span className="font-medium">3.</span> Fox AJ, et al. <em>"The basic science of the patella: structure, composition, and function."</em> J Knee Surg. 2012;25(2):127-41.{' '}
-                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=patella+anatomy" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=patella+anatomy" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <span className="font-medium">4.</span> Makris EA, et al. <em>"The knee meniscus: structure-function, pathophysiology, current repair techniques, and prospects for regeneration."</em> Biomaterials. 2011;32(30):7411-31.{' '}
-                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=meniscus+anatomy" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=meniscus+anatomy" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <span className="font-medium">5.</span> Petersen W, Tillmann B. <em>"Collagenous fibril texture of the human knee joint menisci."</em> Anat Embryol (Berl). 1998;197(4):317-24.{' '}
-                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=meniscus+anatomy" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=meniscus+anatomy" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
             </ol>
             
             <details className="mt-4">
-              <summary className="cursor-pointer text-blue-600 font-medium hover:text-blue-800 flex items-center gap-2">
+              <summary className="cursor-pointer text-[#01CAB8] font-medium hover:text-[#01867A] flex items-center gap-2">
                 <span>📖 Daha Fazla Kaynak Göster (5 ek referans)</span>
               </summary>
               <ol start={6} className="space-y-3 text-sm text-gray-700 mt-4 pt-4 border-t">
                 <li>
                   <span className="font-medium">6.</span> Arnoczky SP, Warren RF. <em>"Microvasculature of the human meniscus."</em> Am J Sports Med. 1982;10(2):90-5.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=meniscus+blood+supply" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=meniscus+blood+supply" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
                 </li>
                 <li>
                   <span className="font-medium">7.</span> Girgis FG, et al. <em>"The cruciate ligaments of the knee joint: anatomical, functional and experimental analysis."</em> Clin Orthop Relat Res. 1975;(106):216-31.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=ACL+anatomy" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=ACL+anatomy" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
                 </li>
                 <li>
                   <span className="font-medium">8.</span> Mow VC, et al. <em>"Biphasic creep and stress relaxation of articular cartilage in compression: theory and experiments."</em> J Biomech Eng. 1980;102(1):73-84.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=cartilage+biomechanics" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=cartilage+biomechanics" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
                 </li>
                 <li>
                   <span className="font-medium">9.</span> Goodfellow J, et al. <em>"Patellofemoral joint mechanics and pathology. 1. Functional anatomy of the patellofemoral joint."</em> J Bone Joint Surg Br. 1976;58(3):287-90.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=patellofemoral+joint+anatomy" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=patellofemoral+joint+anatomy" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
                 </li>
                 <li>
                   <span className="font-medium">10.</span> Kennedy JC, et al. <em>"Nerve supply of the human knee and its functional importance."</em> Am J Sports Med. 1982;10(6):329-35.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=knee+nerve+supply" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=knee+nerve+supply" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
                 </li>
               </ol>
             </details>

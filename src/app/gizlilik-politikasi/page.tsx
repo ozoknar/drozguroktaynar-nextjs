@@ -81,7 +81,7 @@ export default function GizlilikPolitikasiPage() {
               Web sitemiz, kullanıcı deneyimini iyileştirmek ve site performansını analiz etmek için çerezler kullanmaktadır.
             </p>
             
-            <div className="bg-blue-50 border-l-4 border-blue-500 p-4 my-4">
+            <div className="bg-[#E6FAF8] border-l-4 border-[#1AD2C4] p-4 my-4">
               <h4 className="font-semibold text-gray-800 mb-2">Çerez Nedir?</h4>
               <p className="text-gray-700 text-sm">
                 Çerezler, web sitesini ziyaret ettiğinizde cihazınıza kaydedilen küçük metin dosyalarıdır. Bu dosyalar, sonraki ziyaretlerinizde sizi tanımamıza ve tercihlerinizi hatırlamamıza yardımcı olur.
@@ -202,7 +202,7 @@ export default function GizlilikPolitikasiPage() {
             <p className="text-gray-700 leading-relaxed mb-3">
               Gizlilik politikamız hakkında sorularınız veya talepleriniz için bizimle iletişime geçebilirsiniz:
             </p>
-            <div className="bg-blue-50 border-l-4 border-blue-500 p-4">
+            <div className="bg-[#E6FAF8] border-l-4 border-[#1AD2C4] p-4">
               <p className="text-gray-700">
                 <strong>Op. Dr. Özgür Oktay Nar</strong><br />
                 <strong>E-posta:</strong> ozguroktaynar@gmail.com<br />

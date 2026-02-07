@@ -81,7 +81,7 @@ export default function TotalEklemDegistirmeCerrahisiPage() {
 
           <h3 className="text-2xl font-semibold text-gray-800 mb-4">Ameliyat Prosedürü</h3>
           
-          <div className="bg-blue-50 border-l-4 border-blue-500 p-6 mb-6">
+          <div className="bg-[#E6FAF8] border-l-4 border-[#1AD2C4] p-6 mb-6">
             <h4 className="font-semibold text-lg mb-3">Cerrahi Adımlar:</h4>
             <ul className="space-y-2">
               <li>• Genel veya rejyonel anestezi uygulaması</li>
@@ -167,7 +167,7 @@ export default function TotalEklemDegistirmeCerrahisiPage() {
             gereksinimi daha yüksek olabilir. Düzenli takip ve uygun kullanım protez ömrünü uzatır.
           </p>
 
-          <div className="bg-blue-50 p-6 rounded-lg mb-8">
+          <div className="bg-[#E6FAF8] p-6 rounded-lg mb-8">
             <h4 className="font-semibold text-lg mb-3">Protez Ömrünü Uzatan Faktörler:</h4>
             <ul className="space-y-2 text-gray-700">
               <li>• Uygun kilo kontrolü</li>
@@ -183,23 +183,23 @@ export default function TotalEklemDegistirmeCerrahisiPage() {
         <section className="mb-12 p-6 bg-gray-50 rounded-lg">
           <h2 className="text-2xl font-bold text-gray-900 mb-4">Kaynaklar</h2>
           <ol className="space-y-2 text-sm text-gray-700">
-            <li>1. Carr AJ, et al. "Knee replacement." The Lancet. 2012. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=total+joint+replacement+arthroplasty" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a></li>
-            <li>2. Ferguson RJ, et al. "Hip replacement." The Lancet. 2018. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=hip+replacement+outcomes" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a></li>
-            <li>3. Kurtz SM, et al. "Projections of primary and revision hip and knee arthroplasty in the United States." J Bone Joint Surg Am. 2007. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=arthroplasty+projections" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a></li>
-            <li>4. Bozic KJ, et al. "The epidemiology of revision total knee arthroplasty." Clin Orthop Relat Res. 2010. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=revision+arthroplasty+epidemiology" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a></li>
-            <li>5. Skou ST, et al. "Total knee replacement and non-surgical treatment of knee osteoarthritis." BMJ. 2015. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=knee+osteoarthritis+treatment+comparison" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a></li>
-            <li>6. Learmonth ID, et al. "The operation of the century: total hip replacement." The Lancet. 2007. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=total+hip+replacement+history" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a></li>
-            <li>7. Patel A, et al. "Complications of total hip arthroplasty." World J Orthop. 2015. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=hip+arthroplasty+complications" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a></li>
-            <li>8. Ethgen O, et al. "Health-related quality of life in total hip and total knee arthroplasty." J Bone Joint Surg Am. 2004. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=arthroplasty+quality+of+life" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a></li>
-            <li>9. Pivec R, et al. "Hip arthroplasty." The Lancet. 2012. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=hip+arthroplasty+review" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a></li>
-            <li>10. Troelsen A, et al. "What is the role of clinical tests and ultrasound in acetabular labral tear diagnostics?" Acta Orthop. 2009. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=joint+replacement+imaging" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a></li>
+            <li>1. Carr AJ, et al. "Knee replacement." The Lancet. 2012. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=total+joint+replacement+arthroplasty" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a></li>
+            <li>2. Ferguson RJ, et al. "Hip replacement." The Lancet. 2018. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=hip+replacement+outcomes" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a></li>
+            <li>3. Kurtz SM, et al. "Projections of primary and revision hip and knee arthroplasty in the United States." J Bone Joint Surg Am. 2007. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=arthroplasty+projections" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a></li>
+            <li>4. Bozic KJ, et al. "The epidemiology of revision total knee arthroplasty." Clin Orthop Relat Res. 2010. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=revision+arthroplasty+epidemiology" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a></li>
+            <li>5. Skou ST, et al. "Total knee replacement and non-surgical treatment of knee osteoarthritis." BMJ. 2015. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=knee+osteoarthritis+treatment+comparison" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a></li>
+            <li>6. Learmonth ID, et al. "The operation of the century: total hip replacement." The Lancet. 2007. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=total+hip+replacement+history" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a></li>
+            <li>7. Patel A, et al. "Complications of total hip arthroplasty." World J Orthop. 2015. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=hip+arthroplasty+complications" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a></li>
+            <li>8. Ethgen O, et al. "Health-related quality of life in total hip and total knee arthroplasty." J Bone Joint Surg Am. 2004. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=arthroplasty+quality+of+life" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a></li>
+            <li>9. Pivec R, et al. "Hip arthroplasty." The Lancet. 2012. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=hip+arthroplasty+review" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a></li>
+            <li>10. Troelsen A, et al. "What is the role of clinical tests and ultrasound in acetabular labral tear diagnostics?" Acta Orthop. 2009. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=joint+replacement+imaging" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a></li>
           </ol>
         </section>
           {/* Ameliyatsız Tedavi Internal Link */}
-          <div className="bg-blue-50 border-l-4 border-blue-700 p-6 my-8 rounded-r-lg">
+          <div className="bg-[#E6FAF8] border-l-4 border-blue-700 p-6 my-8 rounded-r-lg">
             <p className="text-gray-700">
               <strong>İlgili İçerik:</strong> Ameliyatsız tedavi seçenekleri hakkında daha fazla bilgi için{' '}
-              <a href="/ameliyatsiz-cozumler" className="text-blue-700 hover:text-blue-900 font-semibold hover:underline">
+              <a href="/ameliyatsiz-cozumler" className="text-[#01A899] hover:text-blue-900 font-semibold hover:underline">
                 ameliyatsız çözümler sayfamızı
               </a>{' '}
               ziyaret edebilirsiniz.
@@ -208,7 +208,7 @@ export default function TotalEklemDegistirmeCerrahisiPage() {
 
 
         {/* CTA Section */}
-        <section className="mt-12 p-8 bg-gradient-to-r from-blue-600 to-blue-700 rounded-2xl text-white">
+        <section className="mt-12 p-8 bg-gradient-to-r from-[#01CAB8] to-[#01A899] rounded-2xl text-white">
           <h2 className="text-3xl font-bold mb-4">Eklem Ağrılarınız mı Var?</h2>
           <p className="text-lg mb-6 text-blue-50">
             Total eklem değiştirme cerrahisi hakkında detaylı bilgi almak ve durumunuzu değerlendirmek 
@@ -216,7 +216,7 @@ export default function TotalEklemDegistirmeCerrahisiPage() {
           </p>
           <Link
             href="/randevu"
-            className="inline-block bg-white text-blue-600 px-8 py-3 rounded-lg font-semibold hover:bg-blue-50 transition-colors"
+            className="inline-block bg-white text-[#01CAB8] px-8 py-3 rounded-lg font-semibold hover:bg-[#E6FAF8] transition-colors"
           >
             Randevu Al
           </Link>

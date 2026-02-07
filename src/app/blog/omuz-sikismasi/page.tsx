@@ -212,8 +212,8 @@ export default function OmuzSikismasiPage() {
                   <span>Mutlaka bir doktor kontrolünde kullanılmalıdır</span>
                 </li>
               </ul>
-              <div className="mt-4 p-4 bg-blue-100 rounded-lg">
-                <p className="text-sm text-blue-800">
+              <div className="mt-4 p-4 bg-[#B3F0EB] rounded-lg">
+                <p className="text-sm text-[#01867A]">
                   <strong>Kortizon Enjeksiyonu:</strong> İlk basamak tedaviye yanıt alınamazsa, doktor 
                   kortizon enjeksiyonu önerebilir. Güçlü iltihap kurutucudur ancak aşırı kullanımda tendon 
                   zayıflamasına yol açabilir.
@@ -222,8 +222,8 @@ export default function OmuzSikismasiPage() {
             </div>
 
             {/* Physical Therapy */}
-            <div className="mb-6 bg-blue-50 p-6 rounded-xl">
-              <h3 className="text-xl font-semibold text-blue-800 mb-4 flex items-center gap-2">
+            <div className="mb-6 bg-[#E6FAF8] p-6 rounded-xl">
+              <h3 className="text-xl font-semibold text-[#01867A] mb-4 flex items-center gap-2">
                 <span>🏃</span> 2. Fizik Tedavi ve Egzersizler
               </h3>
               <p className="text-gray-700 mb-4">
@@ -233,15 +233,15 @@ export default function OmuzSikismasiPage() {
               <h4 className="font-semibold text-gray-800 mb-2">Evde Uygulanabilecek Egzersizler:</h4>
               <ul className="space-y-2 text-gray-700">
                 <li className="flex gap-2">
-                  <span className="text-blue-600">✓</span>
+                  <span className="text-[#01CAB8]">✓</span>
                   <span>Başparmak ile sırta dokunma hareketleri</span>
                 </li>
                 <li className="flex gap-2">
-                  <span className="text-blue-600">✓</span>
+                  <span className="text-[#01CAB8]">✓</span>
                   <span>Kol açma ve geriye çekme esneme hareketleri</span>
                 </li>
                 <li className="flex gap-2">
-                  <span className="text-blue-600">✓</span>
+                  <span className="text-[#01CAB8]">✓</span>
                   <span>Sıcak duş uygulamaları ile tendon ve kaslarda gevşeme</span>
                 </li>
               </ul>
@@ -370,50 +370,50 @@ export default function OmuzSikismasiPage() {
             <ol className="space-y-3 text-sm text-gray-700">
               <li>
                 <span className="font-medium">1.</span> Neer CS. <em>"Impingement lesions."</em> Clin Orthop Relat Res. 1983;(173):70-7.{' '}
-                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=shoulder+impingement+syndrome" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=shoulder+impingement+syndrome" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <span className="font-medium">2.</span> Michener LA, et al. <em>"Anatomical and biomechanical mechanisms of subacromial impingement syndrome."</em> Clin Biomech (Bristol, Avon). 2003;18(5):369-79.{' '}
-                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=shoulder+impingement+syndrome" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=shoulder+impingement+syndrome" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <span className="font-medium">3.</span> Diercks R, et al. <em>"Guideline for diagnosis and treatment of subacromial pain syndrome."</em> Acta Orthop. 2014;85(3):314-22.{' '}
-                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=shoulder+impingement+syndrome" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=shoulder+impingement+syndrome" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <span className="font-medium">4.</span> Lewis JS. <em>"Rotator cuff tendinopathy/subacromial impingement syndrome: is it time for a new method of assessment?"</em> Br J Sports Med. 2009;43(4):259-64.{' '}
-                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=shoulder+impingement+syndrome" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=shoulder+impingement+syndrome" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <span className="font-medium">5.</span> Hermans J, et al. <em>"Does this patient with shoulder pain have rotator cuff disease?: The Rational Clinical Examination systematic review."</em> JAMA. 2013;310(8):837-47.{' '}
-                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=shoulder+impingement+syndrome" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=shoulder+impingement+syndrome" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
             </ol>
             
             <details className="mt-4">
-              <summary className="cursor-pointer text-blue-600 font-medium hover:text-blue-800 flex items-center gap-2">
+              <summary className="cursor-pointer text-[#01CAB8] font-medium hover:text-[#01867A] flex items-center gap-2">
                 <span>📖 Daha Fazla Kaynak Göster (5 ek referans)</span>
               </summary>
               <ol start={6} className="space-y-3 text-sm text-gray-700 mt-4 pt-4 border-t">
                 <li>
                   <span className="font-medium">6.</span> Steuri R, et al. <em>"Effectiveness of conservative interventions including exercise, manual therapy and medical management in adults with shoulder impingement."</em> Br J Sports Med. 2017;51(18):1340-1347.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=shoulder+impingement+syndrome" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=shoulder+impingement+syndrome" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
                 </li>
                 <li>
                   <span className="font-medium">7.</span> Ketola S, et al. <em>"No evidence of long-term benefits of arthroscopic acromioplasty in the treatment of shoulder impingement syndrome."</em> Bone Joint Res. 2013;2(7):132-9.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=shoulder+impingement+syndrome" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=shoulder+impingement+syndrome" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
                 </li>
                 <li>
                   <span className="font-medium">8.</span> Hanratty CE, et al. <em>"The effectiveness of physiotherapy exercises in subacromial impingement syndrome: a systematic review and meta-analysis."</em> Semin Arthritis Rheum. 2012;42(3):297-316.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=shoulder+impingement+syndrome" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=shoulder+impingement+syndrome" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
                 </li>
                 <li>
                   <span className="font-medium">9.</span> Dong W, et al. <em>"Treatments for shoulder impingement syndrome: a PRISMA systematic review and network meta-analysis."</em> Medicine (Baltimore). 2015;94(10):e510.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=shoulder+impingement+syndrome" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=shoulder+impingement+syndrome" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
                 </li>
                 <li>
                   <span className="font-medium">10.</span> Papadonikolakis A, et al. <em>"Published evidence relevant to the diagnosis of impingement syndrome of the shoulder."</em> J Bone Joint Surg Am. 2011;93(19):1827-32.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=shoulder+impingement+syndrome" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=shoulder+impingement+syndrome" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
                 </li>
               </ol>
             </details>

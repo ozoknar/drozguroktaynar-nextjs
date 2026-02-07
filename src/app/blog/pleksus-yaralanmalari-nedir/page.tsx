@@ -78,7 +78,7 @@ export default function PleksusYaralanmalariPage() {
             organize eder.
           </p>
 
-          <div className="bg-blue-50 border-l-4 border-blue-500 p-6 mb-6">
+          <div className="bg-[#E6FAF8] border-l-4 border-[#1AD2C4] p-6 mb-6">
             <h4 className="font-semibold text-lg mb-3">Vücuttaki Başlıca Pleksuslar:</h4>
             <ul className="space-y-2">
               <li>• <strong>Brakiyal Pleksus (C5-T1):</strong> Kol, ön kol ve el kaslarına innervasyon</li>
@@ -233,7 +233,7 @@ export default function PleksusYaralanmalariPage() {
           </p>
 
           <div className="space-y-6 mb-8">
-            <div className="bg-blue-50 p-6 rounded-lg">
+            <div className="bg-[#E6FAF8] p-6 rounded-lg">
               <h4 className="font-semibold text-lg mb-3">1. Klinik Muayene:</h4>
               <ul className="space-y-2 text-gray-700">
                 <li>• <strong>Anamnez:</strong> Travma mekanizması, semptom başlangıcı</li>
@@ -288,7 +288,7 @@ export default function PleksusYaralanmalariPage() {
           <h3 className="text-2xl font-semibold text-gray-800 mb-4 mt-8">Cerrahi Tedavi</h3>
 
           <div className="space-y-6 mb-8">
-            <div className="bg-blue-50 p-6 rounded-lg">
+            <div className="bg-[#E6FAF8] p-6 rounded-lg">
               <h4 className="font-semibold text-lg mb-3">1. Sinir Tamiri:</h4>
               <ul className="space-y-2 text-gray-700">
                 <li>• <strong>Primer tamir:</strong> Keskin kesiler (ilk 72 saat)</li>
@@ -297,7 +297,7 @@ export default function PleksusYaralanmalariPage() {
               </ul>
             </div>
 
-            <div className="bg-blue-50 p-6 rounded-lg">
+            <div className="bg-[#E6FAF8] p-6 rounded-lg">
               <h4 className="font-semibold text-lg mb-3">2. Sinir Greftleme:</h4>
               <ul className="space-y-2 text-gray-700">
                 <li>• <strong>Endikasyon:</strong> Sinir uçları gerilim altında birleşemiyorsa</li>
@@ -306,7 +306,7 @@ export default function PleksusYaralanmalariPage() {
               </ul>
             </div>
 
-            <div className="bg-blue-50 p-6 rounded-lg">
+            <div className="bg-[#E6FAF8] p-6 rounded-lg">
               <h4 className="font-semibold text-lg mb-3">3. Sinir Transferi (Nörotizasyon):</h4>
               <ul className="space-y-2 text-gray-700">
                 <li>• <strong>Endikasyon:</strong> Proksimal yaralanmalar, avulsiyon</li>
@@ -316,7 +316,7 @@ export default function PleksusYaralanmalariPage() {
               </ul>
             </div>
 
-            <div className="bg-blue-50 p-6 rounded-lg">
+            <div className="bg-[#E6FAF8] p-6 rounded-lg">
               <h4 className="font-semibold text-lg mb-3">4. Tendon Transferi:</h4>
               <ul className="space-y-2 text-gray-700">
                 <li>• <strong>Endikasyon:</strong> Kalıcı paralizi, sinir tamiri başarısız</li>
@@ -325,7 +325,7 @@ export default function PleksusYaralanmalariPage() {
               </ul>
             </div>
 
-            <div className="bg-blue-50 p-6 rounded-lg">
+            <div className="bg-[#E6FAF8] p-6 rounded-lg">
               <h4 className="font-semibold text-lg mb-3">5. Serbest Fonksiyonel Kas Transferi:</h4>
               <ul className="space-y-2 text-gray-700">
                 <li>• <strong>Endikasyon:</strong> Ciddi paralizi, transfer edilecek lokal kas yok</li>
@@ -377,23 +377,23 @@ export default function PleksusYaralanmalariPage() {
         <section className="mb-12 p-6 bg-gray-50 rounded-lg">
           <h2 className="text-2xl font-bold text-gray-900 mb-4">Kaynaklar</h2>
           <ol className="space-y-2 text-sm text-gray-700">
-            <li>1. Midha R. "Epidemiology of brachial plexus injuries in a multitrauma population." Neurosurgery. 1997. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=brachial+plexus+injury+epidemiology" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a></li>
-            <li>2. Moran SL, et al. "Management of adult traumatic brachial plexus injuries." J Am Acad Orthop Surg. 2005. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=brachial+plexus+injury+management" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a></li>
-            <li>3. Seddon HJ. "Three types of nerve injury." Brain. 1943. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=nerve+injury+classification+seddon" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a></li>
-            <li>4. Sunderland S. "A classification of peripheral nerve injuries producing loss of function." Brain. 1951. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=sunderland+nerve+injury+classification" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a></li>
-            <li>5. Narakas AO. "The treatment of brachial plexus injuries." Int Orthop. 1985. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=brachial+plexus+treatment+review" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a></li>
-            <li>6. Bertelli JA, Ghizoni MF. "Nerve transfers for elbow and finger extension reconstruction in midcervical spinal cord injuries." J Neurosurg. 2015. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=nerve+transfer+brachial+plexus" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a></li>
-            <li>7. Chuang DC, et al. "Functioning free muscle transplantation for brachial plexus injury." Clin Orthop Relat Res. 1995. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=free+muscle+transfer+brachial+plexus" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a></li>
-            <li>8. Tung TH, Mackinnon SE. "Nerve transfers: indications, techniques, and outcomes." J Hand Surg Am. 2010. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=nerve+transfer+techniques+outcomes" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a></li>
-            <li>9. Songcharoen P, et al. "Brachial plexus injury in Thailand: a report of 520 cases." Microsurgery. 1995. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=brachial+plexus+injury+outcomes" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a></li>
-            <li>10. Yang LJ, et al. "Avulsed spinal nerve roots: histologic assessment after failed nerve transfers." Neurosurgery. 2008. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=brachial+plexus+avulsion+histology" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a></li>
+            <li>1. Midha R. "Epidemiology of brachial plexus injuries in a multitrauma population." Neurosurgery. 1997. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=brachial+plexus+injury+epidemiology" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a></li>
+            <li>2. Moran SL, et al. "Management of adult traumatic brachial plexus injuries." J Am Acad Orthop Surg. 2005. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=brachial+plexus+injury+management" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a></li>
+            <li>3. Seddon HJ. "Three types of nerve injury." Brain. 1943. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=nerve+injury+classification+seddon" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a></li>
+            <li>4. Sunderland S. "A classification of peripheral nerve injuries producing loss of function." Brain. 1951. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=sunderland+nerve+injury+classification" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a></li>
+            <li>5. Narakas AO. "The treatment of brachial plexus injuries." Int Orthop. 1985. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=brachial+plexus+treatment+review" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a></li>
+            <li>6. Bertelli JA, Ghizoni MF. "Nerve transfers for elbow and finger extension reconstruction in midcervical spinal cord injuries." J Neurosurg. 2015. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=nerve+transfer+brachial+plexus" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a></li>
+            <li>7. Chuang DC, et al. "Functioning free muscle transplantation for brachial plexus injury." Clin Orthop Relat Res. 1995. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=free+muscle+transfer+brachial+plexus" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a></li>
+            <li>8. Tung TH, Mackinnon SE. "Nerve transfers: indications, techniques, and outcomes." J Hand Surg Am. 2010. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=nerve+transfer+techniques+outcomes" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a></li>
+            <li>9. Songcharoen P, et al. "Brachial plexus injury in Thailand: a report of 520 cases." Microsurgery. 1995. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=brachial+plexus+injury+outcomes" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a></li>
+            <li>10. Yang LJ, et al. "Avulsed spinal nerve roots: histologic assessment after failed nerve transfers." Neurosurgery. 2008. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=brachial+plexus+avulsion+histology" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a></li>
           </ol>
         </section>
           {/* Ameliyatsız Tedavi Internal Link */}
-          <div className="bg-blue-50 border-l-4 border-blue-700 p-6 my-8 rounded-r-lg">
+          <div className="bg-[#E6FAF8] border-l-4 border-blue-700 p-6 my-8 rounded-r-lg">
             <p className="text-gray-700">
               <strong>İlgili İçerik:</strong> Ameliyatsız tedavi seçenekleri hakkında daha fazla bilgi için{' '}
-              <a href="/ameliyatsiz-cozumler" className="text-blue-700 hover:text-blue-900 font-semibold hover:underline">
+              <a href="/ameliyatsiz-cozumler" className="text-[#01A899] hover:text-blue-900 font-semibold hover:underline">
                 ameliyatsız çözümler sayfamızı
               </a>{' '}
               ziyaret edebilirsiniz.
@@ -402,7 +402,7 @@ export default function PleksusYaralanmalariPage() {
 
 
         {/* CTA Section */}
-        <section className="mt-12 p-8 bg-gradient-to-r from-blue-600 to-blue-700 rounded-2xl text-white">
+        <section className="mt-12 p-8 bg-gradient-to-r from-[#01CAB8] to-[#01A899] rounded-2xl text-white">
           <h2 className="text-3xl font-bold mb-4">Pleksus Yaralanması Değerlendirmesi</h2>
           <p className="text-lg mb-6 text-blue-50">
             Sinir yaralanması şüphesi veya travma sonrası güçsüzlük için uzman muayenesi randevusu 
@@ -410,7 +410,7 @@ export default function PleksusYaralanmalariPage() {
           </p>
           <Link
             href="/randevu"
-            className="inline-block bg-white text-blue-600 px-8 py-3 rounded-lg font-semibold hover:bg-blue-50 transition-colors"
+            className="inline-block bg-white text-[#01CAB8] px-8 py-3 rounded-lg font-semibold hover:bg-[#E6FAF8] transition-colors"
           >
             Randevu Al
           </Link>

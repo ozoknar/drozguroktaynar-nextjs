@@ -115,7 +115,7 @@ export default function YikanabilirAlciPage() {
               <p className="text-gray-700 text-sm"><strong>Kullanım:</strong> Akut kırıklar, şişliğin azaltılması gereken ilk dönem, ekonomik tercih gereken durumlar</p>
             </div>
 
-            <div className="bg-blue-50 border-l-4 border-blue-500 p-6">
+            <div className="bg-[#E6FAF8] border-l-4 border-[#1AD2C4] p-6">
               <h3 className="text-xl font-semibold text-gray-900 mb-3">🧵 Fiberglas Alçı</h3>
               <div className="grid md:grid-cols-2 gap-4 mb-3">
                 <div>
@@ -173,7 +173,7 @@ export default function YikanabilirAlciPage() {
         <section className="mb-12">
           <h2 className="text-3xl font-bold text-gray-900 mb-6">Yıkanabilir Alçı Nasıl Çalışır?</h2>
           
-          <div className="bg-blue-50 border border-blue-200 rounded-lg p-6 mb-6">
+          <div className="bg-[#E6FAF8] border border-blue-200 rounded-lg p-6 mb-6">
             <h3 className="text-xl font-semibold text-gray-900 mb-4">Teknik Özellikler</h3>
             <div className="space-y-3 text-gray-700">
               <div>
@@ -265,7 +265,7 @@ export default function YikanabilirAlciPage() {
         <section className="mb-12">
           <h2 className="text-3xl font-bold text-gray-900 mb-6">Maliyet ve Sigorta Kapsamı</h2>
           
-          <div className="bg-blue-50 p-6 rounded-lg mb-6">
+          <div className="bg-[#E6FAF8] p-6 rounded-lg mb-6">
             <h3 className="text-xl font-semibold text-gray-900 mb-3">Fiyat Karşılaştırması (Tahmini)</h3>
             <div className="space-y-2 text-gray-700">
               <div className="flex justify-between items-center border-b pb-2">
@@ -348,52 +348,52 @@ export default function YikanabilirAlciPage() {
             <ol className="space-y-3 text-sm text-gray-700">
               <li>
                 <strong>1.</strong> Verma R, et al. "Comparison of plaster of Paris and fibreglass casts for distal radius fractures: a randomized controlled trial" J Orthop Surg Res. 2018;13(1):84. 
-                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=plaster+vs+fiberglass+cast+radius+fracture" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=plaster+vs+fiberglass+cast+radius+fracture" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <strong>2.</strong> Hayter CL, et al. "A prospective randomized study comparing plaster of Paris casts with fibreglass casts for distal radial fractures in adults" J Hand Surg Eur Vol. 2013;38(6):635-642. 
-                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=plaster+fiberglass+cast+randomized+trial" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=plaster+fiberglass+cast+randomized+trial" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <strong>3.</strong> McQueen MM, et al. "Epidemiology of Colles' fracture" J Hand Surg Br. 1986;11(3):393-397. 
-                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=Colles+fracture+epidemiology+cast" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=Colles+fracture+epidemiology+cast" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <strong>4.</strong> Derksen RJ, et al. "Waterproof cast vs conventional cast for acute distal forearm fractures in children" Cochrane Database Syst Rev. 2011;(1):CD007720. 
-                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=waterproof+cast+children+forearm+fracture+cochrane" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=waterproof+cast+children+forearm+fracture+cochrane" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <strong>5.</strong> Kaplan SL, Coulter C. "Fiberglass versus plaster: which is better for closed treatment of fractures in children?" Orthopedics. 1987;10(11):1501-1505. 
-                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=fiberglass+plaster+children+fracture+treatment" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=fiberglass+plaster+children+fracture+treatment" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <strong>6.</strong> Symons S, et al. "Three-dimensional printed custom-made prosthetic buttock" J Surg Case Rep. 2014;2014(4):rju021. 
-                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=3D+printed+orthopedic+device" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=3D+printed+orthopedic+device" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <strong>7.</strong> Everts PA, et al. "Low-intensity ultrasound for fracture healing: a review of the literature" Orthop Rev. 2011;3(2):e13. 
-                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=low+intensity+ultrasound+fracture+healing+review" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=low+intensity+ultrasound+fracture+healing+review" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <strong>8.</strong> Blake T, et al. "Patient satisfaction with waterproof cast liners" J Pediatr Orthop. 2005;25(1):75-78. 
-                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=waterproof+cast+liner+patient+satisfaction" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=waterproof+cast+liner+patient+satisfaction" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <strong>9.</strong> Mooar PA, et al. "Comparison of operative versus nonoperative treatment of displaced distal radius fractures in elderly patients" J Hand Surg Am. 2000;25(3):464-470. 
-                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=distal+radius+fracture+cast+treatment+elderly" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=distal+radius+fracture+cast+treatment+elderly" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <strong>10.</strong> Freeland AE, et al. "Fundamentals of Hand and Wrist Immobilization Orthoses" Hand Clin. 1997;13(1):109-132. 
-                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=hand+wrist+immobilization+orthosis" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=hand+wrist+immobilization+orthosis" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
             </ol>
           </div>
         </section>
           {/* Ameliyatsız Tedavi Internal Link */}
-          <div className="bg-blue-50 border-l-4 border-blue-700 p-6 my-8 rounded-r-lg">
+          <div className="bg-[#E6FAF8] border-l-4 border-blue-700 p-6 my-8 rounded-r-lg">
             <p className="text-gray-700">
               <strong>İlgili İçerik:</strong> Ameliyatsız tedavi seçenekleri hakkında daha fazla bilgi için{' '}
-              <a href="/ameliyatsiz-cozumler" className="text-blue-700 hover:text-blue-900 font-semibold hover:underline">
+              <a href="/ameliyatsiz-cozumler" className="text-[#01A899] hover:text-blue-900 font-semibold hover:underline">
                 ameliyatsız çözümler sayfamızı
               </a>{' '}
               ziyaret edebilirsiniz.

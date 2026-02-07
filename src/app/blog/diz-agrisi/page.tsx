@@ -181,7 +181,7 @@ export default function DizAgrisiPage() {
           </section>
 
           {/* Diagnosis Section */}
-          <section className="mb-12 bg-blue-50 p-8 rounded-xl">
+          <section className="mb-12 bg-[#E6FAF8] p-8 rounded-xl">
             <h2 className="text-2xl font-bold text-gray-800 mb-6">
               Diz Ağrısı Tanısı
             </h2>
@@ -191,23 +191,23 @@ export default function DizAgrisiPage() {
             </p>
             <div className="grid md:grid-cols-2 gap-4 mt-6">
               <div className="bg-white p-4 rounded-lg">
-                <h3 className="font-semibold text-blue-800 mb-2">📋 Fizik Muayene</h3>
+                <h3 className="font-semibold text-[#01867A] mb-2">📋 Fizik Muayene</h3>
                 <p className="text-sm text-gray-600">Hareket testi, stabilite ve hassasiyet değerlendirmesi</p>
               </div>
               <div className="bg-white p-4 rounded-lg">
-                <h3 className="font-semibold text-blue-800 mb-2">📷 Röntgen</h3>
+                <h3 className="font-semibold text-[#01867A] mb-2">📷 Röntgen</h3>
                 <p className="text-sm text-gray-600">Kemik yapısı ve eklem boşluğu değerlendirmesi</p>
               </div>
               <div className="bg-white p-4 rounded-lg">
-                <h3 className="font-semibold text-blue-800 mb-2">🧲 MRI</h3>
+                <h3 className="font-semibold text-[#01867A] mb-2">🧲 MRI</h3>
                 <p className="text-sm text-gray-600">Kıkırdak, bağ, tendon ve menisküs hasarları</p>
               </div>
               <div className="bg-white p-4 rounded-lg">
-                <h3 className="font-semibold text-blue-800 mb-2">🖥️ BT & Ultrason</h3>
+                <h3 className="font-semibold text-[#01867A] mb-2">🖥️ BT & Ultrason</h3>
                 <p className="text-sm text-gray-600">Detaylı görüntüleme ve yumuşak doku incelemesi</p>
               </div>
               <div className="bg-white p-4 rounded-lg">
-                <h3 className="font-semibold text-blue-800 mb-2">🔬 Kan Testleri</h3>
+                <h3 className="font-semibold text-[#01867A] mb-2">🔬 Kan Testleri</h3>
                 <p className="text-sm text-gray-600">Enfeksiyon, gut veya psödogut tanısı</p>
               </div>
             </div>
@@ -227,8 +227,8 @@ export default function DizAgrisiPage() {
                 <p className="text-gray-700">Ağrıyı tetikleyen aktivitelerden kaçınma ve eklem dinlendirme</p>
               </div>
 
-              <div className="bg-blue-50 p-6 rounded-xl">
-                <h3 className="font-semibold text-blue-800 mb-3">🧊 Buz ve Isı Uygulaması</h3>
+              <div className="bg-[#E6FAF8] p-6 rounded-xl">
+                <h3 className="font-semibold text-[#01867A] mb-3">🧊 Buz ve Isı Uygulaması</h3>
                 <p className="text-gray-700">Akut ağrıda buz (15dk, 3-4 kez/gün), kronik ağrıda sıcak kompres</p>
               </div>
 
@@ -349,50 +349,50 @@ export default function DizAgrisiPage() {
             <ol className="space-y-3 text-sm text-gray-700">
               <li>
                 <span className="font-medium">1.</span> Nguyen U-S, et al. <em>"Increasing prevalence of knee pain and symptomatic knee osteoarthritis."</em> Ann Intern Med. 2011;155(11):725-32.{' '}
-                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=knee+pain+diagnosis" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=knee+pain+diagnosis" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <span className="font-medium">2.</span> Arden N, Nevitt MC. <em>"Osteoarthritis: epidemiology."</em> Best Pract Res Clin Rheumatol. 2006;20(1):3-25.{' '}
-                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=knee+pain+diagnosis" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=knee+pain+diagnosis" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <span className="font-medium">3.</span> Sharma L, et al. <em>"The role of knee alignment in disease progression and functional decline in knee osteoarthritis."</em> JAMA. 2001;286(2):188-95.{' '}
-                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=knee+pain+diagnosis" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=knee+pain+diagnosis" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <span className="font-medium">4.</span> Englund M, et al. <em>"Incidental meniscal findings on knee MRI in middle-aged and elderly persons."</em> N Engl J Med. 2008;359(11):1108-15.{' '}
-                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=knee+pain+diagnosis" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=knee+pain+diagnosis" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <span className="font-medium">5.</span> Toivanen AT, et al. <em>"Obesity, physically demanding work and traumatic knee injury are major risk factors for knee osteoarthritis."</em> Acta Orthop. 2010;81(4):511-8.{' '}
-                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=knee+pain+diagnosis" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=knee+pain+diagnosis" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
             </ol>
             
             <details className="mt-4">
-              <summary className="cursor-pointer text-blue-600 font-medium hover:text-blue-800 flex items-center gap-2">
+              <summary className="cursor-pointer text-[#01CAB8] font-medium hover:text-[#01867A] flex items-center gap-2">
                 <span>📖 Daha Fazla Kaynak Göster (5 ek referans)</span>
               </summary>
               <ol start={6} className="space-y-3 text-sm text-gray-700 mt-4 pt-4 border-t">
                 <li>
                   <span className="font-medium">6.</span> Felson DT, et al. <em>"Weight loss reduces the risk for symptomatic knee osteoarthritis in women."</em> Ann Intern Med. 1992;116(7):535-9.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=knee+pain+diagnosis" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=knee+pain+diagnosis" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
                 </li>
                 <li>
                   <span className="font-medium">7.</span> Hochberg MC, et al. <em>"American College of Rheumatology 2012 recommendations for the use of nonpharmacologic and pharmacologic therapies in osteoarthritis."</em> Arthritis Care Res (Hoboken). 2012;64(4):465-74.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=knee+pain+diagnosis" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=knee+pain+diagnosis" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
                 </li>
                 <li>
                   <span className="font-medium">8.</span> McAlindon TE, et al. <em>"OARSI guidelines for the non-surgical management of knee osteoarthritis."</em> Osteoarthritis Cartilage. 2014;22(3):363-88.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=knee+pain+diagnosis" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=knee+pain+diagnosis" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
                 </li>
                 <li>
                   <span className="font-medium">9.</span> Zhang W, et al. <em>"OARSI recommendations for the management of hip and knee osteoarthritis, Part II: OARSI evidence-based, expert consensus guidelines."</em> Osteoarthritis Cartilage. 2008;16(2):137-62.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=knee+pain+diagnosis" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=knee+pain+diagnosis" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
                 </li>
                 <li>
                   <span className="font-medium">10.</span> Silverwood V, et al. <em>"Current evidence on risk factors for knee osteoarthritis in older adults: a systematic review and meta-analysis."</em> Osteoarthritis Cartilage. 2015;23(4):507-15.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=knee+pain+diagnosis" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=knee+pain+diagnosis" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
                 </li>
               </ol>
             </details>

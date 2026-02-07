@@ -69,7 +69,7 @@ export default function EklemAgrisiPage() {
           <div className="mb-6">
             <Link 
               href="/blog"
-              className="text-blue-600 hover:text-blue-800 text-sm font-medium"
+              className="text-[#01CAB8] hover:text-[#01867A] text-sm font-medium"
             >
               ← Blog'a Dön
             </Link>
@@ -123,7 +123,7 @@ export default function EklemAgrisiPage() {
             <li><strong>Tendonlar:</strong> Kasları kemiğe bağlayan yapılar</li>
           </ul>
 
-          <div className="bg-blue-50 border-l-4 border-blue-500 p-6 my-8">
+          <div className="bg-[#E6FAF8] border-l-4 border-[#1AD2C4] p-6 my-8">
             <p className="text-gray-800">
               <strong>İstatistik:</strong> Dünya genelinde 40 yaş üstü nüfusun yaklaşık %30'u kronik eklem ağrısından şikayetçidir. Türkiye'de osteoartrit prevalansı %18-20 civarındadır.
             </p>
@@ -414,51 +414,51 @@ export default function EklemAgrisiPage() {
           <ol className="list-decimal pl-6 mb-6 text-gray-700 space-y-2">
             <li>
               Felson DT. "Osteoarthritis: new insights." Annals of Internal Medicine. 2000.
-              {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=osteoarthritis+insights" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+              {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=osteoarthritis+insights" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
             </li>
             <li>
               Smolen JS, Aletaha D, McInnes IB. "Rheumatoid arthritis." Lancet. 2016.
-              {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=rheumatoid+arthritis+lancet" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+              {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=rheumatoid+arthritis+lancet" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
             </li>
             <li>
               Zhang W, Doherty M, Arden N, et al. "EULAR evidence based recommendations for the management of hip osteoarthritis." Annals of the Rheumatic Diseases. 2005.
-              {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=EULAR+hip+osteoarthritis" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+              {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=EULAR+hip+osteoarthritis" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
             </li>
             <li>
               Neogi T. "The epidemiology and impact of pain in osteoarthritis." Osteoarthritis and Cartilage. 2013.
-              {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=osteoarthritis+pain+epidemiology" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+              {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=osteoarthritis+pain+epidemiology" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
             </li>
             <li>
               Hochberg MC, Altman RD, April KT, et al. "American College of Rheumatology 2012 recommendations for the use of nonpharmacologic and pharmacologic therapies in osteoarthritis." Arthritis Care & Research. 2012.
-              {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=ACR+osteoarthritis+recommendations" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+              {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=ACR+osteoarthritis+recommendations" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
             </li>
             <li>
               Messier SP, Gutekunst DJ, Davis C, DeVita P. "Weight loss reduces knee-joint loads in overweight and obese older adults with knee osteoarthritis." Arthritis & Rheumatism. 2005.
-              {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=weight+loss+knee+osteoarthritis" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+              {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=weight+loss+knee+osteoarthritis" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
             </li>
             <li>
               Bellamy N, Campbell J, Robinson V, et al. "Intraarticular corticosteroid for treatment of osteoarthritis of the knee." Cochrane Database of Systematic Reviews. 2006.
-              {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=intraarticular+corticosteroid+knee+osteoarthritis" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+              {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=intraarticular+corticosteroid+knee+osteoarthritis" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
             </li>
             <li>
               Bannuru RR, Natov NS, Obadan IE, Price LL, Schmid CH, McAlindon TE. "Therapeutic trajectory of hyaluronic acid versus corticosteroids in the treatment of knee osteoarthritis." Arthritis & Rheumatism. 2009.
-              {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=hyaluronic+acid+corticosteroid+knee" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+              {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=hyaluronic+acid+corticosteroid+knee" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
             </li>
             <li>
               Foster NE, Thomas E, Barlas P, et al. "Acupuncture as an adjunct to exercise based physiotherapy for osteoarthritis of the knee." BMJ. 2007.
-              {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=acupuncture+knee+osteoarthritis" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+              {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=acupuncture+knee+osteoarthritis" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
             </li>
             <li>
               Kurtz SM, Lau E, Ong K, Zhao K, Kelly M, Bozic KJ. "Future young patient demand for primary and revision joint replacement." Journal of Bone and Joint Surgery. 2009.
-              {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=joint+replacement+demand+young" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+              {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=joint+replacement+demand+young" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
             </li>
           </ol>
         </div>
           {/* Ameliyatsız Tedavi Internal Link */}
-          <div className="bg-blue-50 border-l-4 border-blue-700 p-6 my-8 rounded-r-lg">
+          <div className="bg-[#E6FAF8] border-l-4 border-blue-700 p-6 my-8 rounded-r-lg">
             <p className="text-gray-700">
               <strong>İlgili İçerik:</strong> Ameliyatsız tedavi seçenekleri hakkında daha fazla bilgi için{' '}
-              <a href="/ameliyatsiz-cozumler" className="text-blue-700 hover:text-blue-900 font-semibold hover:underline">
+              <a href="/ameliyatsiz-cozumler" className="text-[#01A899] hover:text-blue-900 font-semibold hover:underline">
                 ameliyatsız çözümler sayfamızı
               </a>{' '}
               ziyaret edebilirsiniz.
@@ -467,7 +467,7 @@ export default function EklemAgrisiPage() {
 
 
         {/* CTA Section */}
-        <div className="mt-16 bg-gradient-to-r from-blue-600 to-blue-800 rounded-2xl p-8 text-white">
+        <div className="mt-16 bg-gradient-to-r from-[#01CAB8] to-[#01867A] rounded-2xl p-8 text-white">
           <h2 className="text-3xl font-bold mb-4">Eklem Ağrınız İçin Uzman Değerlendirmesi</h2>
           <p className="text-lg mb-6 text-blue-100">
             Bursa'da modern ortopedi kliniğimizde eklem ağrılarınız için kapsamlı tanı ve tedavi hizmetleri sunuyoruz. 
@@ -476,13 +476,13 @@ export default function EklemAgrisiPage() {
           <div className="flex flex-col sm:flex-row gap-4">
             <Link
               href="/iletisim"
-              className="bg-white text-blue-600 px-8 py-3 rounded-lg font-semibold hover:bg-blue-50 transition text-center"
+              className="bg-white text-[#01CAB8] px-8 py-3 rounded-lg font-semibold hover:bg-[#E6FAF8] transition text-center"
             >
               Randevu Alın
             </Link>
             <Link
               href="/hizmetler"
-              className="border-2 border-white text-white px-8 py-3 rounded-lg font-semibold hover:bg-blue-700 transition text-center"
+              className="border-2 border-white text-white px-8 py-3 rounded-lg font-semibold hover:bg-[#01A899] transition text-center"
             >
               Hizmetlerimiz
             </Link>
@@ -496,7 +496,7 @@ export default function EklemAgrisiPage() {
             <Link href="/blog/hidrojel-sivi-diz-protezi-nedir-2" className="group">
               <div className="border rounded-lg overflow-hidden hover:shadow-lg transition">
                 <div className="p-6">
-                  <h3 className="font-semibold text-gray-900 group-hover:text-blue-600 mb-2">
+                  <h3 className="font-semibold text-gray-900 group-hover:text-[#01CAB8] mb-2">
                     Hidrojel Sıvı Diz Protezi
                   </h3>
                   <p className="text-gray-600 text-sm">
@@ -509,7 +509,7 @@ export default function EklemAgrisiPage() {
             <Link href="/blog/ayak-bilegi-artroskopisi-nedir" className="group">
               <div className="border rounded-lg overflow-hidden hover:shadow-lg transition">
                 <div className="p-6">
-                  <h3 className="font-semibold text-gray-900 group-hover:text-blue-600 mb-2">
+                  <h3 className="font-semibold text-gray-900 group-hover:text-[#01CAB8] mb-2">
                     Ayak Bileği Artroskopisi
                   </h3>
                   <p className="text-gray-600 text-sm">
@@ -522,7 +522,7 @@ export default function EklemAgrisiPage() {
             <Link href="/blog/el-bilegi-artroskopisi" className="group">
               <div className="border rounded-lg overflow-hidden hover:shadow-lg transition">
                 <div className="p-6">
-                  <h3 className="font-semibold text-gray-900 group-hover:text-blue-600 mb-2">
+                  <h3 className="font-semibold text-gray-900 group-hover:text-[#01CAB8] mb-2">
                     El Bileği Artroskopisi
                   </h3>
                   <p className="text-gray-600 text-sm">

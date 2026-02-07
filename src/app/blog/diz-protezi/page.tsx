@@ -253,8 +253,8 @@ export default function DizProteziPage() {
                   <li>• Diz immobilizörleri ile stabilizasyon</li>
                 </ul>
               </div>
-              <div className="bg-blue-50 p-6 rounded-xl">
-                <h3 className="font-semibold text-blue-800 mb-3">🔄 CPM Makinesi</h3>
+              <div className="bg-[#E6FAF8] p-6 rounded-xl">
+                <h3 className="font-semibold text-[#01867A] mb-3">🔄 CPM Makinesi</h3>
                 <p className="text-sm text-gray-700">
                   Sürekli Pasif Hareket (CPM) makinesi, hasta rahatlarken eklemi kontrollü bir hareket aralığında 
                   sürekli hareket ettiren tedavi cihazıdır.
@@ -338,38 +338,38 @@ export default function DizProteziPage() {
             <ol className="space-y-3 text-sm text-gray-700">
               <li>
                 <span className="font-medium">1.</span> Price AJ, et al. <em>"Knee replacement."</em> Lancet. 2018;392(10158):1672-1682.{' '}
-                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=total+knee+arthroplasty" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=total+knee+arthroplasty" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <span className="font-medium">2.</span> Carr AJ, et al. <em>"Knee replacement."</em> Lancet. 2012;379(9823):1331-40.{' '}
-                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=total+knee+arthroplasty" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=total+knee+arthroplasty" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <span className="font-medium">3.</span> Kurtz S, et al. <em>"Projections of primary and revision hip and knee arthroplasty in the United States from 2005 to 2030."</em> J Bone Joint Surg Am. 2007;89(4):780-5.{' '}
-                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=total+knee+arthroplasty" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=total+knee+arthroplasty" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <span className="font-medium">4.</span> Skou ST, et al. <em>"Total knee replacement and non-surgical treatment of knee osteoarthritis."</em> Osteoarthritis Cartilage. 2015;23(8):1276-83.{' '}
-                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=total+knee+arthroplasty" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=total+knee+arthroplasty" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <span className="font-medium">5.</span> Ethgen O, et al. <em>"Health-related quality of life in total hip and total knee arthroplasty."</em> J Bone Joint Surg Am. 2004;86(5):963-74.{' '}
-                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=total+knee+arthroplasty" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=total+knee+arthroplasty" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
             </ol>
             
             <details className="mt-4">
-              <summary className="cursor-pointer text-blue-600 font-medium hover:text-blue-800 flex items-center gap-2">
+              <summary className="cursor-pointer text-[#01CAB8] font-medium hover:text-[#01867A] flex items-center gap-2">
                 <span>📖 Daha Fazla Kaynak Göster (5 ek referans)</span>
               </summary>
               <ol start={6} className="space-y-3 text-sm text-gray-700 mt-4 pt-4 border-t">
                 <li>
                   <span className="font-medium">6.</span> Jones CA, et al. <em>"Total joint arthroplasties: current concepts of patient outcomes after surgery."</em> Rheum Dis Clin North Am. 2007;33(1):71-86.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=total+knee+arthroplasty" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=total+knee+arthroplasty" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
                 </li>
                 <li>
                   <span className="font-medium">7.</span> Losina E, et al. <em>"Cost-effectiveness of total knee arthroplasty in the United States."</em> Arch Intern Med. 2009;169(12):1113-21.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=total+knee+arthroplasty" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=total+knee+arthroplasty" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
                 </li>
                 <li>
                   <span className="font-medium">8.</span> Insall JN, et al. <em>"Total knee arthroplasty."</em> Clin Orthop Relat Res. 1985;(192):13-22.{' '}
@@ -377,11 +377,11 @@ export default function DizProteziPage() {
                 </li>
                 <li>
                   <span className="font-medium">9.</span> Ranawat CS, et al. <em>"Total condylar knee arthroplasty."</em> Clin Orthop Relat Res. 1976;(120):76-82.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=total+knee+arthroplasty" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=total+knee+arthroplasty" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
                 </li>
                 <li>
                   <span className="font-medium">10.</span> Maradit Kremers H, et al. <em>"Prevalence of Total Hip and Knee Replacement in the United States."</em> J Bone Joint Surg Am. 2015;97(17):1386-97.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=total+knee+arthroplasty" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=total+knee+arthroplasty" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
                 </li>
               </ol>
             </details>

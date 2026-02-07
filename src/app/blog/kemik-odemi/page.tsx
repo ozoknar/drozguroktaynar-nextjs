@@ -110,7 +110,7 @@ export default function KemikOdemiPage() {
               </ul>
             </div>
 
-            <div className="bg-blue-50 border-l-4 border-blue-500 p-6">
+            <div className="bg-[#E6FAF8] border-l-4 border-[#1AD2C4] p-6">
               <h3 className="text-xl font-semibold text-gray-900 mb-3">3️⃣ Avasküler Nekroz (AVN)</h3>
               <ul className="space-y-2 text-gray-700">
                 <li><strong>• Erken evre AVN:</strong> Kemik ödemi ilk bulgudur (henüz nekroz yok)</li>
@@ -237,7 +237,7 @@ export default function KemikOdemiPage() {
               </ul>
             </div>
 
-            <div className="bg-blue-50 border-l-4 border-blue-500 p-6 mb-4">
+            <div className="bg-[#E6FAF8] border-l-4 border-[#1AD2C4] p-6 mb-4">
               <h4 className="font-semibold text-gray-900 mb-3">2. Medikal Tedavi</h4>
               <ul className="space-y-2 text-gray-700 text-sm">
                 <li>• <strong>NSAİİ ilaçlar:</strong> Ağrı ve iltihabı azaltır (ibuprofen, naproxen)</li>
@@ -351,52 +351,52 @@ export default function KemikOdemiPage() {
             <ol className="space-y-3 text-sm text-gray-700">
               <li>
                 <strong>1.</strong> Eriksen EF. "Treatment of bone marrow lesions (bone marrow edema)" BoneKEy Rep. 2015;4:755. 
-                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=bone+marrow+edema+treatment" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=bone+marrow+edema+treatment" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <strong>2.</strong> Patel S. "Primary bone marrow oedema syndromes" Rheumatology (Oxford). 2014;53(5):785-792. 
-                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=primary+bone+marrow+edema+syndrome" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=primary+bone+marrow+edema+syndrome" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <strong>3.</strong> Zanetti M, et al. "Bone marrow edema pattern in osteoarthritic knees: correlation between MR imaging and histologic findings" Radiology. 2000;215(3):835-840. 
-                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=bone+marrow+edema+osteoarthritis+MRI+histology" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=bone+marrow+edema+osteoarthritis+MRI+histology" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <strong>4.</strong> Felson DT, et al. "Bone marrow edema and its relation to progression of knee osteoarthritis" Ann Intern Med. 2003;139(5 Pt 1):330-336. 
-                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=bone+marrow+edema+knee+osteoarthritis+progression" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=bone+marrow+edema+knee+osteoarthritis+progression" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <strong>5.</strong> Mandalia V, Henson JH. "Traumatic bone bruising - a review article" Eur J Radiol. 2008;67(1):54-61. 
-                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=traumatic+bone+bruising+review" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=traumatic+bone+bruising+review" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <strong>6.</strong> Mayerhoefer ME, et al. "Are signal intensity and homogeneity useful parameters for distinguishing between benign and malignant soft tissue masses on MR images?" Magn Reson Imaging. 2008;26(9):1316-1322. 
-                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=bone+marrow+MRI+signal+intensity" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=bone+marrow+MRI+signal+intensity" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <strong>7.</strong> Laslett LL, et al. "Effect of bisphosphonate use in patients with symptomatic and radiographic knee osteoarthritis: data from the Osteoarthritis Initiative" Ann Rheum Dis. 2014;73(5):824-830. 
-                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=bisphosphonate+knee+osteoarthritis+bone+marrow+lesions" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=bisphosphonate+knee+osteoarthritis+bone+marrow+lesions" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <strong>8.</strong> Kornaat PR, et al. "MRI assessment of knee osteoarthritis: Knee Osteoarthritis Scoring System (KOSS) - inter-observer and intra-observer reproducibility of a compartment-based scoring system" Skeletal Radiol. 2005;34(2):95-102. 
-                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=KOSS+MRI+knee+osteoarthritis+bone+marrow" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=KOSS+MRI+knee+osteoarthritis+bone+marrow" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <strong>9.</strong> Roemer FW, et al. "The role of imaging in osteoarthritis" Best Pract Res Clin Rheumatol. 2014;28(1):31-60. 
-                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=imaging+osteoarthritis+bone+marrow+lesions" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=imaging+osteoarthritis+bone+marrow+lesions" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <strong>10.</strong> Yao L, Lee JK. "Occult intraosseous fracture: detection with MR imaging" Radiology. 1988;167(3):749-751. 
-                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=occult+fracture+MRI+bone+marrow+edema" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=occult+fracture+MRI+bone+marrow+edema" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
             </ol>
           </div>
         </section>
           {/* Ameliyatsız Tedavi Internal Link */}
-          <div className="bg-blue-50 border-l-4 border-blue-700 p-6 my-8 rounded-r-lg">
+          <div className="bg-[#E6FAF8] border-l-4 border-blue-700 p-6 my-8 rounded-r-lg">
             <p className="text-gray-700">
               <strong>İlgili İçerik:</strong> Ameliyatsız tedavi seçenekleri hakkında daha fazla bilgi için{' '}
-              <a href="/ameliyatsiz-cozumler" className="text-blue-700 hover:text-blue-900 font-semibold hover:underline">
+              <a href="/ameliyatsiz-cozumler" className="text-[#01A899] hover:text-blue-900 font-semibold hover:underline">
                 ameliyatsız çözümler sayfamızı
               </a>{' '}
               ziyaret edebilirsiniz.

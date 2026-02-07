@@ -18,7 +18,7 @@ export default function IletisimPage() {
   return (
     <div className="min-h-screen bg-gray-50">
       {/* Hero Section */}
-      <section className="bg-gradient-to-r from-blue-600 to-blue-800 text-white py-16">
+      <section className="bg-gradient-to-r from-[#01CAB8] to-[#01867A] text-white py-16">
         <div className="max-w-7xl mx-auto px-4 sm:px-6 lg:px-8">
           <h1 className="text-4xl md:text-5xl font-bold text-center">
             İletişim
@@ -43,9 +43,9 @@ export default function IletisimPage() {
               <div className="bg-white rounded-xl shadow-md p-6 mb-6">
                 <div className="flex items-start">
                   <div className="flex-shrink-0">
-                    <div className="w-12 h-12 bg-blue-100 rounded-lg flex items-center justify-center">
+                    <div className="w-12 h-12 bg-[#B3F0EB] rounded-lg flex items-center justify-center">
                       <svg
-                        className="w-6 h-6 text-blue-600"
+                        className="w-6 h-6 text-[#01CAB8]"
                         fill="none"
                         stroke="currentColor"
                         viewBox="0 0 24 24"
@@ -105,7 +105,7 @@ export default function IletisimPage() {
                     <p className="mt-2">
                       <a
                         href="tel:+905522493909"
-                        className="text-blue-600 hover:text-blue-800 text-lg font-medium"
+                        className="text-[#01CAB8] hover:text-[#01867A] text-lg font-medium"
                       >
                         0552 249 39 09
                       </a>
@@ -222,7 +222,7 @@ export default function IletisimPage() {
                     href="https://maps.app.goo.gl/roUyhK3y3jNvRzXU7"
                     target="_blank"
                     rel="noopener noreferrer"
-                    className="inline-flex items-center text-blue-600 hover:text-blue-800 font-medium"
+                    className="inline-flex items-center text-[#01CAB8] hover:text-[#01867A] font-medium"
                   >
                     <svg className="w-5 h-5 mr-2" fill="none" stroke="currentColor" viewBox="0 0 24 24">
                       <path strokeLinecap="round" strokeLinejoin="round" strokeWidth={2} d="M17.657 16.657L13.414 20.9a1.998 1.998 0 01-2.827 0l-4.244-4.243a8 8 0 1111.314 0z" />
@@ -241,7 +241,7 @@ export default function IletisimPage() {
                 <div className="space-y-3">
                   <Link
                     href="/hakkimda"
-                    className="flex items-center text-gray-600 hover:text-blue-600 transition"
+                    className="flex items-center text-gray-600 hover:text-[#01CAB8] transition"
                   >
                     <svg
                       className="w-5 h-5 mr-3"
@@ -260,7 +260,7 @@ export default function IletisimPage() {
                   </Link>
                   <Link
                     href="/ameliyatsiz-cozumler"
-                    className="flex items-center text-gray-600 hover:text-blue-600 transition"
+                    className="flex items-center text-gray-600 hover:text-[#01CAB8] transition"
                   >
                     <svg
                       className="w-5 h-5 mr-3"
@@ -279,7 +279,7 @@ export default function IletisimPage() {
                   </Link>
                   <Link
                     href="/blog"
-                    className="flex items-center text-gray-600 hover:text-blue-600 transition"
+                    className="flex items-center text-gray-600 hover:text-[#01CAB8] transition"
                   >
                     <svg
                       className="w-5 h-5 mr-3"
@@ -298,7 +298,7 @@ export default function IletisimPage() {
                   </Link>
                   <Link
                     href="/bursa-ortopedi-doktoru"
-                    className="flex items-center text-gray-600 hover:text-blue-600 transition"
+                    className="flex items-center text-gray-600 hover:text-[#01CAB8] transition"
                   >
                     <svg
                       className="w-5 h-5 mr-3"
@@ -319,7 +319,7 @@ export default function IletisimPage() {
               </div>
 
               {/* CTA Box */}
-              <div className="mt-6 bg-gradient-to-r from-blue-600 to-blue-800 rounded-xl shadow-md p-6 text-white">
+              <div className="mt-6 bg-gradient-to-r from-[#01CAB8] to-[#01867A] rounded-xl shadow-md p-6 text-white">
                 <h3 className="text-xl font-bold mb-3">Hemen Randevu Alın</h3>
                 <p className="text-blue-100 mb-4">
                   Ortopedik şikayetleriniz için en kısa sürede muayene
@@ -329,7 +329,7 @@ export default function IletisimPage() {
                   href="https://wa.me/905522493909"
                   target="_blank"
                   rel="noopener noreferrer"
-                  className="inline-flex items-center bg-white text-blue-600 px-6 py-3 rounded-lg font-semibold hover:bg-blue-50 transition"
+                  className="inline-flex items-center bg-white text-[#01CAB8] px-6 py-3 rounded-lg font-semibold hover:bg-[#E6FAF8] transition"
                 >
                   <svg
                     className="w-5 h-5 mr-2"

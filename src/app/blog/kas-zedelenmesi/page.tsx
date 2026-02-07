@@ -196,7 +196,7 @@ export default function KasZedelenmesiPage() {
         <section className="mb-12">
           <h2 className="text-3xl font-bold text-gray-900 mb-6">Tanı Yöntemleri</h2>
           
-          <div className="bg-blue-50 border-l-4 border-blue-500 p-6 mb-6">
+          <div className="bg-[#E6FAF8] border-l-4 border-[#1AD2C4] p-6 mb-6">
             <h3 className="text-xl font-semibold text-gray-900 mb-3">Klinik Değerlendirme</h3>
             <ul className="space-y-2 text-gray-700">
               <li><strong>• Öykü:</strong> Yaralanma mekanizması ("çat" sesi duyuldu mu?)</li>
@@ -262,7 +262,7 @@ export default function KasZedelenmesiPage() {
             <h3 className="text-2xl font-semibold text-gray-900 mb-4">Rehabilitasyon Fazları</h3>
             
             <div className="space-y-4">
-              <div className="bg-blue-50 p-6 rounded-lg">
+              <div className="bg-[#E6FAF8] p-6 rounded-lg">
                 <h4 className="font-semibold text-gray-900 mb-2">Faz 1: Koruma (0-7 gün)</h4>
                 <p className="text-gray-700 text-sm">• Pasif ROM, hafif izometrik kasılmalar<br />• Ağrı kontrolü, şişlik azaltma</p>
               </div>
@@ -327,52 +327,52 @@ export default function KasZedelenmesiPage() {
             <ol className="space-y-3 text-sm text-gray-700">
               <li>
                 <strong>1.</strong> Mueller-Wohlfahrt HW, et al. "Terminology and classification of muscle injuries in sport: The Munich consensus statement" Br J Sports Med. 2013;47(6):342-350. 
-                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=Munich+consensus+muscle+injury+classification" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=Munich+consensus+muscle+injury+classification" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <strong>2.</strong> Ekstrand J, et al. "Hamstring injuries have increased by 4% annually in men's professional football, since 2001" Br J Sports Med. 2016;50(12):731-737. 
-                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=hamstring+injuries+increase+professional+football" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=hamstring+injuries+increase+professional+football" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <strong>3.</strong> Askling CM, et al. "Acute hamstring injuries in Swedish elite football: a prospective randomised controlled clinical trial comparing two rehabilitation protocols" Br J Sports Med. 2013;47(15):953-959. 
-                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=hamstring+injury+rehabilitation+protocols+RCT" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=hamstring+injury+rehabilitation+protocols+RCT" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <strong>4.</strong> van der Horst N, et al. "The preventive effect of the nordic hamstring exercise on hamstring injuries in amateur soccer players" Am J Sports Med. 2015;43(6):1316-1323. 
-                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=nordic+hamstring+exercise+prevention+soccer" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=nordic+hamstring+exercise+prevention+soccer" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <strong>5.</strong> Järvinen TA, et al. "Muscle injuries: optimising recovery" Best Pract Res Clin Rheumatol. 2007;21(2):317-331. 
-                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=muscle+injuries+optimizing+recovery" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=muscle+injuries+optimizing+recovery" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <strong>6.</strong> Pollock N, et al. "British athletics muscle injury classification: a new grading system" Br J Sports Med. 2014;48(18):1347-1351. 
-                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=British+athletics+muscle+injury+classification" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=British+athletics+muscle+injury+classification" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <strong>7.</strong> Bleakley CM, et al. "PRICE needs updating, should we call the POLICE?" Br J Sports Med. 2012;46(4):220-221. 
-                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=PRICE+POLICE+acute+injury+management" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=PRICE+POLICE+acute+injury+management" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <strong>8.</strong> Hamilton B, et al. "Classification and grading of muscle injuries: a narrative review" Br J Sports Med. 2015;49(5):306. 
-                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=classification+grading+muscle+injuries+narrative+review" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=classification+grading+muscle+injuries+narrative+review" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <strong>9.</strong> Croisier JL, et al. "Hamstring muscle strain recurrence and strength performance disorders" Am J Sports Med. 2002;30(2):199-203. 
-                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=hamstring+strain+recurrence+strength+performance" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=hamstring+strain+recurrence+strength+performance" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <strong>10.</strong> Orchard J, Best TM. "The management of muscle strain injuries: an early return versus the risk of recurrence" Clin J Sport Med. 2002;12(1):3-5. 
-                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=muscle+strain+management+early+return+recurrence" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=muscle+strain+management+early+return+recurrence" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
             </ol>
           </div>
         </section>
           {/* Ameliyatsız Tedavi Internal Link */}
-          <div className="bg-blue-50 border-l-4 border-blue-700 p-6 my-8 rounded-r-lg">
+          <div className="bg-[#E6FAF8] border-l-4 border-blue-700 p-6 my-8 rounded-r-lg">
             <p className="text-gray-700">
               <strong>İlgili İçerik:</strong> Ameliyatsız tedavi seçenekleri hakkında daha fazla bilgi için{' '}
-              <a href="/ameliyatsiz-cozumler" className="text-blue-700 hover:text-blue-900 font-semibold hover:underline">
+              <a href="/ameliyatsiz-cozumler" className="text-[#01A899] hover:text-blue-900 font-semibold hover:underline">
                 ameliyatsız çözümler sayfamızı
               </a>{' '}
               ziyaret edebilirsiniz.

@@ -1,8 +1,24 @@
 @import "tailwindcss";
 
 :root {
+  /* Brand Colors - Dr. Özgür Oktay Nar */
+  --brand-primary: #01CAB8;
+  --brand-secondary: #34C5A1;
+  --brand-highlight: #9D57FF;
+  
+  /* Text Colors */
+  --color-heading: #1A1A1A;
+  --color-body: #4D4D4D;
+  --color-muted: #666666;
+  
+  /* Background */
   --background: #ffffff;
-  --foreground: #171717;
+  --foreground: #1A1A1A;
+  
+  /* Medical Section Backgrounds */
+  --medical-blue: #E3F2FD;
+  --medical-green: #E8F5E9;
+  --medical-orange: #FFF3E0;
 }
 
 @theme inline {
@@ -12,15 +28,46 @@
   --font-mono: var(--font-geist-mono);
 }
 
-@media (prefers-color-scheme: dark) {
-  :root {
-    --background: #0a0a0a;
-    --foreground: #ededed;
-  }
-}
-
 body {
   background: var(--background);
-  color: var(--foreground);
+  color: var(--color-body);
   font-family: Arial, Helvetica, sans-serif;
+}
+
+h1, h2, h3, h4, h5, h6 {
+  color: var(--color-heading);
+}
+
+/* Brand Button Styles */
+.btn-brand {
+  background-color: var(--brand-primary);
+  color: white;
+  transition: all 0.2s ease;
+}
+
+.btn-brand:hover {
+  background-color: #01A899;
+}
+
+/* Link hover effects */
+a {
+  transition: color 0.2s ease;
+}
+
+/* Custom scrollbar */
+::-webkit-scrollbar {
+  width: 8px;
+}
+
+::-webkit-scrollbar-track {
+  background: #f1f1f1;
+}
+
+::-webkit-scrollbar-thumb {
+  background: var(--brand-primary);
+  border-radius: 4px;
+}
+
+::-webkit-scrollbar-thumb:hover {
+  background: #01A899;
 }

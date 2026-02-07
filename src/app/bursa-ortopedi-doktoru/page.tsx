@@ -101,7 +101,7 @@ export default function BursaOrtopediDoktoruPage() {
       <article className="max-w-4xl mx-auto px-4 py-12">
         {/* Breadcrumb */}
         <nav className="text-sm text-gray-500 mb-6">
-          <Link href="/" className="hover:text-blue-600">Ana Sayfa</Link>
+          <Link href="/" className="hover:text-[#01CAB8]">Ana Sayfa</Link>
           <span className="mx-2">/</span>
           <span className="text-gray-700">Bursa Ortopedi Doktoru</span>
         </nav>
@@ -117,7 +117,7 @@ export default function BursaOrtopediDoktoruPage() {
           <span className="mx-2">•</span>
           <span>Ortopedi ve Travmatoloji Uzmanı</span>
           <span className="mx-2">•</span>
-          <span className="text-blue-600">📍 Nilüfer, Bursa</span>
+          <span className="text-[#01CAB8]">📍 Nilüfer, Bursa</span>
         </div>
 
         <div className="prose prose-lg max-w-none">
@@ -136,7 +136,7 @@ export default function BursaOrtopediDoktoruPage() {
           </section>
 
           {/* ADIM 2: FAQ Modülü */}
-          <section className="bg-blue-50 rounded-xl p-6 mb-10">
+          <section className="bg-[#E6FAF8] rounded-xl p-6 mb-10">
             <h2 className="text-xl font-semibold text-gray-900 mb-4">❓ Sık Sorulan Sorular</h2>
             
             <div className="space-y-4">
@@ -225,10 +225,10 @@ export default function BursaOrtopediDoktoruPage() {
                 </p>
               </div>
               
-              <div className="bg-blue-50 rounded-xl p-6 border-l-4 border-blue-500">
+              <div className="bg-[#E6FAF8] rounded-xl p-6 border-l-4 border-[#1AD2C4]">
                 <div className="flex items-center mb-2">
-                  <span className="bg-blue-500 text-white rounded-full w-8 h-8 flex items-center justify-center font-bold mr-3">2</span>
-                  <h3 className="text-lg font-semibold text-blue-800">Enjeksiyon Tedavileri</h3>
+                  <span className="bg-[#1AD2C4] text-white rounded-full w-8 h-8 flex items-center justify-center font-bold mr-3">2</span>
+                  <h3 className="text-lg font-semibold text-[#01867A]">Enjeksiyon Tedavileri</h3>
                 </div>
                 <p className="text-gray-700 ml-11">
                   PRP, hidrojel, hyaluronik asit, proloterapi. Ameliyatsız ama etkili yöntemler. %25 hasta bu aşamada çözüme kavuşur.
@@ -327,7 +327,7 @@ export default function BursaOrtopediDoktoruPage() {
             </p>
             <div className="flex flex-wrap gap-2">
               {['Nilüfer', 'Osmangazi', 'Yıldırım', 'Görükle', 'Mudanya', 'Gemlik', 'İnegöl', 'Kestel', 'Gürsu', 'Karacabey'].map((ilce) => (
-                <span key={ilce} className="bg-blue-100 text-blue-800 px-3 py-1 rounded-full text-sm">
+                <span key={ilce} className="bg-[#B3F0EB] text-[#01867A] px-3 py-1 rounded-full text-sm">
                   {ilce}
                 </span>
               ))}
@@ -335,7 +335,7 @@ export default function BursaOrtopediDoktoruPage() {
           </section>
 
           {/* ADIM 7: CTA */}
-          <section className="bg-blue-600 text-white rounded-2xl p-8 text-center">
+          <section className="bg-[#01CAB8] text-white rounded-2xl p-8 text-center">
             <h2 className="text-2xl font-bold mb-2">Bursa'da Ortopedi Randevusu Alın</h2>
             <p className="text-blue-100 mb-2">📍 Nilüfer, Bursa</p>
             <p className="text-blue-100 mb-6">
@@ -351,7 +351,7 @@ export default function BursaOrtopediDoktoruPage() {
               </a>
               <a
                 href="tel:+905522493909"
-                className="bg-white text-blue-600 px-8 py-3 rounded-lg font-semibold hover:bg-blue-50 transition"
+                className="bg-white text-[#01CAB8] px-8 py-3 rounded-lg font-semibold hover:bg-[#E6FAF8] transition"
               >
                 📞 Hemen Ara
               </a>

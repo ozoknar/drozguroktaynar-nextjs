@@ -137,7 +137,7 @@ export default function CaprazBagAclKopmasiPage() {
             <div className="flex flex-wrap justify-center gap-4">
               <Link
                 href="tel:+905525627769"
-                className="inline-flex items-center px-6 py-3 bg-blue-700 text-white font-semibold rounded-lg hover:bg-blue-800 transition-colors"
+                className="inline-flex items-center px-6 py-3 bg-[#01A899] text-white font-semibold rounded-lg hover:bg-[#01867A] transition-colors"
               >
                 <svg className="w-5 h-5 mr-2" fill="currentColor" viewBox="0 0 20 20">
                   <path d="M2 3a1 1 0 011-1h2.153a1 1 0 01.986.836l.74 4.435a1 1 0 01-.54 1.06l-1.548.773a11.037 11.037 0 006.105 6.105l.774-1.548a1 1 0 011.059-.54l4.435.74a1 1 0 01.836.986V17a1 1 0 01-1 1h-2C7.82 18 2 12.18 2 5V3z" />
@@ -165,17 +165,17 @@ export default function CaprazBagAclKopmasiPage() {
         <div className="container mx-auto px-4">
           <div className="max-w-4xl mx-auto">
             {/* Table of Contents */}
-            <div className="bg-blue-50 border-l-4 border-blue-700 p-6 mb-8 rounded-r-lg">
+            <div className="bg-[#E6FAF8] border-l-4 border-blue-700 p-6 mb-8 rounded-r-lg">
               <h2 className="text-2xl font-bold text-gray-900 mb-4">İçindekiler</h2>
               <ul className="space-y-2">
-                <li><a href="#capraz-bag-nedir" className="text-blue-700 hover:text-blue-900 hover:underline">Çapraz Bağ Kopması Nedir?</a></li>
-                <li><a href="#on-capraz-bag-belirtileri" className="text-blue-700 hover:text-blue-900 hover:underline">Ön Çapraz Bağ Kopması Belirtileri</a></li>
-                <li><a href="#arka-capraz-bag-belirtileri" className="text-blue-700 hover:text-blue-900 hover:underline">Arka Çapraz Bağ Kopması Belirtileri</a></li>
-                <li><a href="#yan-capraz-bag-belirtileri" className="text-blue-700 hover:text-blue-900 hover:underline">Yan Çapraz Bağ Kopması Belirtileri</a></li>
-                <li><a href="#nedenleri" className="text-blue-700 hover:text-blue-900 hover:underline">Çapraz Bağ Kopmasının Nedenleri</a></li>
-                <li><a href="#tedavi" className="text-blue-700 hover:text-blue-900 hover:underline">Çapraz Bağ Kopması Tedavisi</a></li>
-                <li><a href="#rehabilitasyon" className="text-blue-700 hover:text-blue-900 hover:underline">Cerrahi Müdahale ve Sonrası Rehabilitasyon</a></li>
-                <li><a href="#sss" className="text-blue-700 hover:text-blue-900 hover:underline">Sıkça Sorulan Sorular</a></li>
+                <li><a href="#capraz-bag-nedir" className="text-[#01A899] hover:text-blue-900 hover:underline">Çapraz Bağ Kopması Nedir?</a></li>
+                <li><a href="#on-capraz-bag-belirtileri" className="text-[#01A899] hover:text-blue-900 hover:underline">Ön Çapraz Bağ Kopması Belirtileri</a></li>
+                <li><a href="#arka-capraz-bag-belirtileri" className="text-[#01A899] hover:text-blue-900 hover:underline">Arka Çapraz Bağ Kopması Belirtileri</a></li>
+                <li><a href="#yan-capraz-bag-belirtileri" className="text-[#01A899] hover:text-blue-900 hover:underline">Yan Çapraz Bağ Kopması Belirtileri</a></li>
+                <li><a href="#nedenleri" className="text-[#01A899] hover:text-blue-900 hover:underline">Çapraz Bağ Kopmasının Nedenleri</a></li>
+                <li><a href="#tedavi" className="text-[#01A899] hover:text-blue-900 hover:underline">Çapraz Bağ Kopması Tedavisi</a></li>
+                <li><a href="#rehabilitasyon" className="text-[#01A899] hover:text-blue-900 hover:underline">Cerrahi Müdahale ve Sonrası Rehabilitasyon</a></li>
+                <li><a href="#sss" className="text-[#01A899] hover:text-blue-900 hover:underline">Sıkça Sorulan Sorular</a></li>
               </ul>
             </div>
 
@@ -263,7 +263,7 @@ export default function CaprazBagAclKopmasiPage() {
                 <p className="text-gray-700 leading-relaxed mb-4">
                   Çapraz bağlar, diz eklemini sabit tutan ve hareket sırasında dizin doğru eksende çalışmasını sağlayan temel yapılardır. Bu bağlar, belirli travmalar ya da aşırı zorlanmalar sonucunda kopar. Yaralanmalar genellikle ani ve kontrolsüz hareketler sonucunda meydana gelir.
                 </p>
-                <div className="bg-blue-50 border-l-4 border-blue-700 p-6 rounded-r-lg mb-6">
+                <div className="bg-[#E6FAF8] border-l-4 border-blue-700 p-6 rounded-r-lg mb-6">
                   <h3 className="text-xl font-semibold text-gray-900 mb-3">Yaygın Nedenler:</h3>
                   <ul className="list-disc pl-6 space-y-2">
                     <li className="text-gray-700">Ani yön değiştirme hareketleri</li>
@@ -305,7 +305,7 @@ export default function CaprazBagAclKopmasiPage() {
                 <p className="text-gray-700 leading-relaxed mb-4">
                   Çapraz bağ kopmalarında cerrahi müdahale, özellikle tam yırtıkların varlığında veya dizde belirgin instabilite olduğunda tercih edilmektedir. Cerrahi tedavide, kopan bağ özel bir greft kullanılarak yeniden yapılandırılır. Operasyon sonrası iyileşme süreci kadar, rehabilitasyon dönemi de tedavinin başarısı açısından son derece kritiktir.
                 </p>
-                <div className="bg-blue-50 border-l-4 border-blue-700 p-6 rounded-r-lg mb-6">
+                <div className="bg-[#E6FAF8] border-l-4 border-blue-700 p-6 rounded-r-lg mb-6">
                   <h3 className="text-xl font-semibold text-gray-900 mb-3">Rehabilitasyon Aşamaları:</h3>
                   <ul className="list-disc pl-6 space-y-2">
                     <li className="text-gray-700">İlk haftalarda istirahat ve buz uygulaması (ödem ve ağrı kontrolü)</li>
@@ -356,35 +356,35 @@ export default function CaprazBagAclKopmasiPage() {
               <h2 className="text-2xl font-bold text-gray-900 mb-4">Kaynaklar</h2>
               <ol className="list-decimal pl-6 space-y-3 text-sm text-gray-700">
                 <li>
-                  Prodromos CC, et al. "A meta-analysis of anterior cruciate ligament reconstruction" American Journal of Sports Medicine. 2007. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=ACL+reconstruction+meta-analysis" target="_blank" rel="noopener noreferrer" className="text-blue-700 hover:underline">[PubMed Ara]</a>
+                  Prodromos CC, et al. "A meta-analysis of anterior cruciate ligament reconstruction" American Journal of Sports Medicine. 2007. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=ACL+reconstruction+meta-analysis" target="_blank" rel="noopener noreferrer" className="text-[#01A899] hover:underline">[PubMed Ara]</a>
                 </li>
                 <li>
-                  Frank C, et al. "Anterior cruciate ligament injury: diagnosis and treatment" Journal of Orthopaedic & Sports Physical Therapy. 2004. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=ACL+injury+diagnosis+treatment" target="_blank" rel="noopener noreferrer" className="text-blue-700 hover:underline">[PubMed Ara]</a>
+                  Frank C, et al. "Anterior cruciate ligament injury: diagnosis and treatment" Journal of Orthopaedic & Sports Physical Therapy. 2004. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=ACL+injury+diagnosis+treatment" target="_blank" rel="noopener noreferrer" className="text-[#01A899] hover:underline">[PubMed Ara]</a>
                 </li>
                 <li>
-                  Myer GD, et al. "The effect of plyometric versus traditional anterior cruciate ligament injury prevention training on performance and neuromuscular control" American Journal of Sports Medicine. 2009. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=ACL+injury+prevention+training" target="_blank" rel="noopener noreferrer" className="text-blue-700 hover:underline">[PubMed Ara]</a>
+                  Myer GD, et al. "The effect of plyometric versus traditional anterior cruciate ligament injury prevention training on performance and neuromuscular control" American Journal of Sports Medicine. 2009. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=ACL+injury+prevention+training" target="_blank" rel="noopener noreferrer" className="text-[#01A899] hover:underline">[PubMed Ara]</a>
                 </li>
                 <li>
-                  Renström P, et al. "Posterior cruciate ligament injury: treatment and rehabilitation" Sports Medicine. 2003. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=PCL+injury+treatment+rehabilitation" target="_blank" rel="noopener noreferrer" className="text-blue-700 hover:underline">[PubMed Ara]</a>
+                  Renström P, et al. "Posterior cruciate ligament injury: treatment and rehabilitation" Sports Medicine. 2003. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=PCL+injury+treatment+rehabilitation" target="_blank" rel="noopener noreferrer" className="text-[#01A899] hover:underline">[PubMed Ara]</a>
                 </li>
                 <li>
-                  Hewett TE, et al. "Decrease in neuromuscular control and increase in knee abduction moments in females with ACL injury" American Journal of Sports Medicine. 2004. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=ACL+injury+neuromuscular+control+females" target="_blank" rel="noopener noreferrer" className="text-blue-700 hover:underline">[PubMed Ara]</a>
+                  Hewett TE, et al. "Decrease in neuromuscular control and increase in knee abduction moments in females with ACL injury" American Journal of Sports Medicine. 2004. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=ACL+injury+neuromuscular+control+females" target="_blank" rel="noopener noreferrer" className="text-[#01A899] hover:underline">[PubMed Ara]</a>
                 </li>
                 
                 <li>
-                      Shelbourne KD, et al. "Outcomes of anterior cruciate ligament reconstruction with patellar tendon autograft" American Journal of Sports Medicine. 2002. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=ACL+reconstruction+patellar+tendon" target="_blank" rel="noopener noreferrer" className="text-blue-700 hover:underline">[PubMed Ara]</a>
+                      Shelbourne KD, et al. "Outcomes of anterior cruciate ligament reconstruction with patellar tendon autograft" American Journal of Sports Medicine. 2002. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=ACL+reconstruction+patellar+tendon" target="_blank" rel="noopener noreferrer" className="text-[#01A899] hover:underline">[PubMed Ara]</a>
                     </li>
                     <li>
-                      Webster KE, et al. "Return to sport after anterior cruciate ligament reconstruction" Sports Medicine. 2011. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=return+to+sport+ACL+reconstruction" target="_blank" rel="noopener noreferrer" className="text-blue-700 hover:underline">[PubMed Ara]</a>
+                      Webster KE, et al. "Return to sport after anterior cruciate ligament reconstruction" Sports Medicine. 2011. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=return+to+sport+ACL+reconstruction" target="_blank" rel="noopener noreferrer" className="text-[#01A899] hover:underline">[PubMed Ara]</a>
                     </li>
                     <li>
-                      Kaeding CC, et al. "Anterior cruciate ligament reconstruction in skeletally immature patients" American Journal of Sports Medicine. 2013. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=ACL+reconstruction+immature+patients" target="_blank" rel="noopener noreferrer" className="text-blue-700 hover:underline">[PubMed Ara]</a>
+                      Kaeding CC, et al. "Anterior cruciate ligament reconstruction in skeletally immature patients" American Journal of Sports Medicine. 2013. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=ACL+reconstruction+immature+patients" target="_blank" rel="noopener noreferrer" className="text-[#01A899] hover:underline">[PubMed Ara]</a>
                     </li>
                     <li>
-                      Kamath GV, et al. "Revision anterior cruciate ligament reconstruction" American Journal of Sports Medicine. 2011. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=revision+ACL+reconstruction" target="_blank" rel="noopener noreferrer" className="text-blue-700 hover:underline">[PubMed Ara]</a>
+                      Kamath GV, et al. "Revision anterior cruciate ligament reconstruction" American Journal of Sports Medicine. 2011. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=revision+ACL+reconstruction" target="_blank" rel="noopener noreferrer" className="text-[#01A899] hover:underline">[PubMed Ara]</a>
                     </li>
                     <li>
-                      Frobell RB, et al. "Treatment for acute anterior cruciate ligament tear: a randomized trial" New England Journal of Medicine. 2010. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=acute+ACL+tear+randomized+trial" target="_blank" rel="noopener noreferrer" className="text-blue-700 hover:underline">[PubMed Ara]</a>
+                      Frobell RB, et al. "Treatment for acute anterior cruciate ligament tear: a randomized trial" New England Journal of Medicine. 2010. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=acute+ACL+tear+randomized+trial" target="_blank" rel="noopener noreferrer" className="text-[#01A899] hover:underline">[PubMed Ara]</a>
                     </li>
               </ol>
             </section>
@@ -403,10 +403,10 @@ export default function CaprazBagAclKopmasiPage() {
             </section>
 
             {/* Internal Link */}
-            <div className="bg-blue-50 border-l-4 border-blue-700 p-6 mb-8 rounded-r-lg">
+            <div className="bg-[#E6FAF8] border-l-4 border-blue-700 p-6 mb-8 rounded-r-lg">
               <p className="text-gray-700 mb-2">
                 <strong>İlgili İçerik:</strong> Ameliyatsız tedavi seçenekleri hakkında daha fazla bilgi için{' '}
-                <Link href="/ameliyatsiz-cozumler" className="text-blue-700 hover:text-blue-900 font-semibold hover:underline">
+                <Link href="/ameliyatsiz-cozumler" className="text-[#01A899] hover:text-blue-900 font-semibold hover:underline">
                   ameliyatsız çözümler sayfamızı
                 </Link>{' '}
                 ziyaret edebilirsiniz.
@@ -414,7 +414,7 @@ export default function CaprazBagAclKopmasiPage() {
             </div>
 
             {/* CTA Section */}
-            <div className="bg-gradient-to-r from-blue-700 to-indigo-800 rounded-lg p-8 text-center text-white">
+            <div className="bg-gradient-to-r from-[#01A899] to-indigo-800 rounded-lg p-8 text-center text-white">
               <h2 className="text-3xl font-bold mb-4">Çapraz Bağ Kopması Tedavisi İçin Uzman Desteği Alın</h2>
               <p className="text-xl mb-6 text-blue-100">
                 Diz ağrısı ve instabilite yaşıyorsanız, doğru teşhis ve kişiye özel tedavi planı için bizimle iletişime geçin.
@@ -422,7 +422,7 @@ export default function CaprazBagAclKopmasiPage() {
               <div className="flex flex-wrap justify-center gap-4">
                 <Link
                   href="tel:+905525627769"
-                  className="inline-flex items-center px-8 py-4 bg-white text-blue-700 font-bold rounded-lg hover:bg-blue-50 transition-colors"
+                  className="inline-flex items-center px-8 py-4 bg-white text-[#01A899] font-bold rounded-lg hover:bg-[#E6FAF8] transition-colors"
                 >
                   <svg className="w-6 h-6 mr-2" fill="currentColor" viewBox="0 0 20 20">
                     <path d="M2 3a1 1 0 011-1h2.153a1 1 0 01.986.836l.74 4.435a1 1 0 01-.54 1.06l-1.548.773a11.037 11.037 0 006.105 6.105l.774-1.548a1 1 0 011.059-.54l4.435.74a1 1 0 01.836.986V17a1 1 0 01-1 1h-2C7.82 18 2 12.18 2 5V3z" />

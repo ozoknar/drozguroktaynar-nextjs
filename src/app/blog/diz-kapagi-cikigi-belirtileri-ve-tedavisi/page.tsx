@@ -71,9 +71,9 @@ export default function DizKapagiCikigiPage() {
       <article className="max-w-4xl mx-auto px-4 py-8">
         {/* Breadcrumb */}
         <nav className="text-sm text-gray-500 mb-6">
-          <Link href="/" className="hover:text-blue-600">Ana Sayfa</Link>
+          <Link href="/" className="hover:text-[#01CAB8]">Ana Sayfa</Link>
           <span className="mx-2">/</span>
-          <Link href="/blog" className="hover:text-blue-600">Blog</Link>
+          <Link href="/blog" className="hover:text-[#01CAB8]">Blog</Link>
           <span className="mx-2">/</span>
           <span className="text-gray-700">Diz Kapağı Çıkığı Belirtileri ve Tedavisi</span>
         </nav>
@@ -122,15 +122,15 @@ export default function DizKapagiCikigiPage() {
             </p>
             <ul className="space-y-2 mt-3">
               <li className="flex items-start">
-                <span className="text-blue-500 mr-2">•</span>
+                <span className="text-[#1AD2C4] mr-2">•</span>
                 <span><strong>Tam dislokasyon:</strong> Patella tamamen oluktan çıkar, genellikle spontan veya manuel olarak yerine gelir</span>
               </li>
               <li className="flex items-start">
-                <span className="text-blue-500 mr-2">•</span>
+                <span className="text-[#1AD2C4] mr-2">•</span>
                 <span><strong>Subluksasyon:</strong> Kısmi kayma, patella oluktan çıkar gibi olur ama tam çıkmaz</span>
               </li>
               <li className="flex items-start">
-                <span className="text-blue-500 mr-2">•</span>
+                <span className="text-[#1AD2C4] mr-2">•</span>
                 <span><strong>Kronik instabilite:</strong> Tekrarlayan çıkık veya çıkık hissi, yapısal problemlerden kaynaklanır</span>
               </li>
             </ul>
@@ -188,15 +188,15 @@ export default function DizKapagiCikigiPage() {
 
             <ul className="space-y-2">
               <li className="flex items-start">
-                <span className="text-blue-500 mr-2">•</span>
+                <span className="text-[#1AD2C4] mr-2">•</span>
                 <span><strong>Patellanın yerine yerleştirilmesi (redüksiyon):</strong> Doktor tarafından yapılır, analjezi gerekebilir</span>
               </li>
               <li className="flex items-start">
-                <span className="text-blue-500 mr-2">•</span>
+                <span className="text-[#1AD2C4] mr-2">•</span>
                 <span><strong>X-ray ve görüntüleme:</strong> Kırık veya kıkırdak hasarını değerlendirmek için</span>
               </li>
               <li className="flex items-start">
-                <span className="text-blue-500 mr-2">•</span>
+                <span className="text-[#1AD2C4] mr-2">•</span>
                 <span><strong>Immobilizasyon:</strong> Diz ateli veya alçı, 2-6 hafta süreyle</span>
               </li>
             </ul>
@@ -207,19 +207,19 @@ export default function DizKapagiCikigiPage() {
             </p>
             <ul className="space-y-2 mt-3">
               <li className="flex items-start">
-                <span className="text-blue-500 mr-2">•</span>
+                <span className="text-[#1AD2C4] mr-2">•</span>
                 <span><strong>İstirahat ve buz uygulaması:</strong> İlk 48 saat şişliği azaltmak için</span>
               </li>
               <li className="flex items-start">
-                <span className="text-blue-500 mr-2">•</span>
+                <span className="text-[#1AD2C4] mr-2">•</span>
                 <span><strong>Ağrı kontrolü:</strong> NSAİİ ilaçlar (ibuprofen, naproksen)</span>
               </li>
               <li className="flex items-start">
-                <span className="text-blue-500 mr-2">•</span>
+                <span className="text-[#1AD2C4] mr-2">•</span>
                 <span><strong>Fizik tedavi (4-6 hafta sonra):</strong> Kuadriseps kasını güçlendirme, propriyoseptif eğitim</span>
               </li>
               <li className="flex items-start">
-                <span className="text-blue-500 mr-2">•</span>
+                <span className="text-[#1AD2C4] mr-2">•</span>
                 <span><strong>Dizlik kullanımı:</strong> Patellar bandlar veya dizlikler instabiliteyi azaltır</span>
               </li>
             </ul>
@@ -230,19 +230,19 @@ export default function DizKapagiCikigiPage() {
             </p>
             <ul className="space-y-2 mt-3">
               <li className="flex items-start">
-                <span className="text-blue-500 mr-2">•</span>
+                <span className="text-[#1AD2C4] mr-2">•</span>
                 <span>Tekrarlayan çıkıklar (iki veya daha fazla)</span>
               </li>
               <li className="flex items-start">
-                <span className="text-blue-500 mr-2">•</span>
+                <span className="text-[#1AD2C4] mr-2">•</span>
                 <span>Kıkırdak veya kemik kırığı</span>
               </li>
               <li className="flex items-start">
-                <span className="text-blue-500 mr-2">•</span>
+                <span className="text-[#1AD2C4] mr-2">•</span>
                 <span>Yapısal anormallikler (oluk derinliği yetersizliği, patella alta/alta)</span>
               </li>
               <li className="flex items-start">
-                <span className="text-blue-500 mr-2">•</span>
+                <span className="text-[#1AD2C4] mr-2">•</span>
                 <span>Konservatif tedaviye yanıtsızlık ve devam eden instabilite</span>
               </li>
             </ul>
@@ -250,19 +250,19 @@ export default function DizKapagiCikigiPage() {
             <h4 className="text-xl font-semibold text-gray-800 mb-2 mt-4">Cerrahi Seçenekler:</h4>
             <ul className="space-y-2">
               <li className="flex items-start">
-                <span className="text-blue-500 mr-2">•</span>
+                <span className="text-[#1AD2C4] mr-2">•</span>
                 <span><strong>MPFL rekonstrüksiyonu:</strong> Medial patellofemoral ligament onarımı, en yaygın prosedür</span>
               </li>
               <li className="flex items-start">
-                <span className="text-blue-500 mr-2">•</span>
+                <span className="text-[#1AD2C4] mr-2">•</span>
                 <span><strong>Tibial tüberkül osteotomisi:</strong> Patellanın hizalanmasını düzeltmek için kemik kesisi ve kaydırma</span>
               </li>
               <li className="flex items-start">
-                <span className="text-blue-500 mr-2">•</span>
+                <span className="text-[#1AD2C4] mr-2">•</span>
                 <span><strong>Trokleoplasti:</strong> Femur oluğunu derinleştirme (nadir)</span>
               </li>
               <li className="flex items-start">
-                <span className="text-blue-500 mr-2">•</span>
+                <span className="text-[#1AD2C4] mr-2">•</span>
                 <span><strong>Artroskopik onarım:</strong> Kıkırdak veya serbest cisim temizliği</span>
               </li>
             </ul>
@@ -316,7 +316,7 @@ export default function DizKapagiCikigiPage() {
                   href="https://pubmed.ncbi.nlm.nih.gov/?term=patellar+dislocation+epidemiology" 
                   target="_blank" 
                   rel="noopener noreferrer" 
-                  className="text-blue-600 hover:underline ml-1"
+                  className="text-[#01CAB8] hover:underline ml-1"
                 >
                   [PubMed Ara]
                 </a>
@@ -327,7 +327,7 @@ export default function DizKapagiCikigiPage() {
                   href="https://pubmed.ncbi.nlm.nih.gov/?term=patellar+dislocation+surgical+nonsurgical" 
                   target="_blank" 
                   rel="noopener noreferrer" 
-                  className="text-blue-600 hover:underline ml-1"
+                  className="text-[#01CAB8] hover:underline ml-1"
                 >
                   [PubMed Ara]
                 </a>
@@ -338,7 +338,7 @@ export default function DizKapagiCikigiPage() {
                   href="https://pubmed.ncbi.nlm.nih.gov/?term=MPFL+reconstruction+outcomes" 
                   target="_blank" 
                   rel="noopener noreferrer" 
-                  className="text-blue-600 hover:underline ml-1"
+                  className="text-[#01CAB8] hover:underline ml-1"
                 >
                   [PubMed Ara]
                 </a>
@@ -348,12 +348,12 @@ export default function DizKapagiCikigiPage() {
 
           {/* Section 7: Internal Link - ZORUNLU! */}
           <section className="mb-12">
-            <div className="bg-blue-50 border-l-4 border-blue-500 p-6 rounded-r-lg">
+            <div className="bg-[#E6FAF8] border-l-4 border-[#1AD2C4] p-6 rounded-r-lg">
               <p className="text-gray-700">
                 <strong>İlgili İçerik:</strong> Ameliyatsız tedavi seçenekleri hakkında daha fazla bilgi için{' '}
                 <Link 
                   href="/ameliyatsiz-cozumler" 
-                  className="text-blue-600 hover:text-blue-800 font-semibold hover:underline"
+                  className="text-[#01CAB8] hover:text-[#01867A] font-semibold hover:underline"
                 >
                   ameliyatsız çözümler sayfamızı
                 </Link>{' '}
@@ -379,12 +379,12 @@ export default function DizKapagiCikigiPage() {
         </div>
 
         {/* CTA */}
-        <div className="bg-gradient-to-r from-blue-600 to-blue-700 rounded-xl p-8 text-center text-white mt-12">
+        <div className="bg-gradient-to-r from-[#01CAB8] to-[#01A899] rounded-xl p-8 text-center text-white mt-12">
           <h2 className="text-2xl font-bold mb-4">Randevu Almak İster misiniz?</h2>
           <p className="mb-6">Uzman değerlendirmesi için hemen iletişime geçin.</p>
           <Link 
             href="/iletisim" 
-            className="inline-block bg-white text-blue-600 px-8 py-3 rounded-lg font-semibold hover:bg-gray-100 transition"
+            className="inline-block bg-white text-[#01CAB8] px-8 py-3 rounded-lg font-semibold hover:bg-gray-100 transition"
           >
             Randevu Al
           </Link>

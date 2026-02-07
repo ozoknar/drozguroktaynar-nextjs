@@ -89,7 +89,7 @@ export default function EklemFaresiCerrahisiPage() {
             Eklem fareleri, eklemin normal fonksiyonunu bozar, ani kilitlenmelere neden olabilir ve zamanla eklem kıkırdağında hasara yol açarak osteoartrit gelişimini hızlandırabilir. En sık dizde görülmekle birlikte dirsek, omuz, ayak bileği ve kalça eklemlerinde de ortaya çıkabilir.
           </p>
 
-          <div className="bg-blue-50 border-l-4 border-blue-500 p-6 mb-6">
+          <div className="bg-[#E6FAF8] border-l-4 border-[#1AD2C4] p-6 mb-6">
             <h3 className="text-lg font-semibold text-gray-800 mb-2">🔍 Terminoloji</h3>
             <ul className="text-gray-700 space-y-1">
               <li><strong>Loose Body:</strong> İngilizce karşılığı</li>
@@ -297,11 +297,11 @@ export default function EklemFaresiCerrahisiPage() {
         <section className="prose prose-lg max-w-none mb-12">
           <h2 className="text-3xl font-bold text-gray-900 mb-6">Ameliyat Sonrası İyileşme Süreci</h2>
           
-          <div className="bg-blue-50 p-6 rounded-lg mb-6">
+          <div className="bg-[#E6FAF8] p-6 rounded-lg mb-6">
             <h3 className="text-xl font-semibold text-gray-800 mb-4">📅 İyileşme Takvimi</h3>
             
             <div className="space-y-4">
-              <div className="border-l-4 border-blue-600 pl-4">
+              <div className="border-l-4 border-[#01CAB8] pl-4">
                 <h4 className="font-semibold text-gray-800">İlk 24-48 Saat</h4>
                 <ul className="text-gray-700 text-sm space-y-1 mt-2">
                   <li>• Bacak elevasyonu (kalpten yukarı)</li>
@@ -311,7 +311,7 @@ export default function EklemFaresiCerrahisiPage() {
                 </ul>
               </div>
 
-              <div className="border-l-4 border-blue-600 pl-4">
+              <div className="border-l-4 border-[#01CAB8] pl-4">
                 <h4 className="font-semibold text-gray-800">1. Hafta</h4>
                 <ul className="text-gray-700 text-sm space-y-1 mt-2">
                   <li>• Koltuk değneği ile kısmi yük verme</li>
@@ -321,7 +321,7 @@ export default function EklemFaresiCerrahisiPage() {
                 </ul>
               </div>
 
-              <div className="border-l-4 border-blue-600 pl-4">
+              <div className="border-l-4 border-[#01CAB8] pl-4">
                 <h4 className="font-semibold text-gray-800">2-4. Haftalar</h4>
                 <ul className="text-gray-700 text-sm space-y-1 mt-2">
                   <li>• Tam yük verme (tolere edilebildiğinde)</li>
@@ -331,7 +331,7 @@ export default function EklemFaresiCerrahisiPage() {
                 </ul>
               </div>
 
-              <div className="border-l-4 border-blue-600 pl-4">
+              <div className="border-l-4 border-[#01CAB8] pl-4">
                 <h4 className="font-semibold text-gray-800">6-12. Haftalar</h4>
                 <ul className="text-gray-700 text-sm space-y-1 mt-2">
                   <li>• Spora dönüş değerlendirmesi</li>
@@ -384,7 +384,7 @@ export default function EklemFaresiCerrahisiPage() {
                   href="https://pubmed.ncbi.nlm.nih.gov/?term=loose+body+arthroscopy" 
                   target="_blank" 
                   rel="nofollow noopener"
-                  className="text-blue-600 hover:text-blue-800"
+                  className="text-[#01CAB8] hover:text-[#01867A]"
                 >
                   Eklem Faresi Artroskopisi - PubMed Ara
                 </a>
@@ -394,7 +394,7 @@ export default function EklemFaresiCerrahisiPage() {
                   href="https://pubmed.ncbi.nlm.nih.gov/?term=intraarticular+loose+bodies+knee" 
                   target="_blank" 
                   rel="nofollow noopener"
-                  className="text-blue-600 hover:text-blue-800"
+                  className="text-[#01CAB8] hover:text-[#01867A]"
                 >
                   Diz İntraartiküler Serbest Cisimler - PubMed Ara
                 </a>
@@ -404,7 +404,7 @@ export default function EklemFaresiCerrahisiPage() {
                   href="https://pubmed.ncbi.nlm.nih.gov/?term=osteochondritis+dissecans+treatment" 
                   target="_blank" 
                   rel="nofollow noopener"
-                  className="text-blue-600 hover:text-blue-800"
+                  className="text-[#01CAB8] hover:text-[#01867A]"
                 >
                   Osteochondritis Dissecans Tedavisi - PubMed Ara
                 </a>
@@ -414,7 +414,7 @@ export default function EklemFaresiCerrahisiPage() {
                   href="https://pubmed.ncbi.nlm.nih.gov/?term=synovial+chondromatosis" 
                   target="_blank" 
                   rel="nofollow noopener"
-                  className="text-blue-600 hover:text-blue-800"
+                  className="text-[#01CAB8] hover:text-[#01867A]"
                 >
                   Sinovyal Kondromatozis - PubMed Ara
                 </a>
@@ -424,7 +424,7 @@ export default function EklemFaresiCerrahisiPage() {
                   href="https://pubmed.ncbi.nlm.nih.gov/?term=knee+arthroscopy+outcomes" 
                   target="_blank" 
                   rel="nofollow noopener"
-                  className="text-blue-600 hover:text-blue-800"
+                  className="text-[#01CAB8] hover:text-[#01867A]"
                 >
                   Diz Artroskopisi Sonuçları - PubMed Ara
                 </a>
@@ -434,7 +434,7 @@ export default function EklemFaresiCerrahisiPage() {
                   href="https://pubmed.ncbi.nlm.nih.gov/?term=elbow+loose+body+arthroscopy" 
                   target="_blank" 
                   rel="nofollow noopener"
-                  className="text-blue-600 hover:text-blue-800"
+                  className="text-[#01CAB8] hover:text-[#01867A]"
                 >
                   Dirsek Eklem Faresi Artroskopisi - PubMed Ara
                 </a>
@@ -444,7 +444,7 @@ export default function EklemFaresiCerrahisiPage() {
                   href="https://pubmed.ncbi.nlm.nih.gov/?term=knee+locking+mechanism" 
                   target="_blank" 
                   rel="nofollow noopener"
-                  className="text-blue-600 hover:text-blue-800"
+                  className="text-[#01CAB8] hover:text-[#01867A]"
                 >
                   Diz Kilitlenme Mekanizması - PubMed Ara
                 </a>
@@ -454,7 +454,7 @@ export default function EklemFaresiCerrahisiPage() {
                   href="https://pubmed.ncbi.nlm.nih.gov/?term=postoperative+rehabilitation+arthroscopy" 
                   target="_blank" 
                   rel="nofollow noopener"
-                  className="text-blue-600 hover:text-blue-800"
+                  className="text-[#01CAB8] hover:text-[#01867A]"
                 >
                   Artroskopi Sonrası Rehabilitasyon - PubMed Ara
                 </a>
@@ -464,7 +464,7 @@ export default function EklemFaresiCerrahisiPage() {
                   href="https://pubmed.ncbi.nlm.nih.gov/?term=cartilage+damage+loose+body" 
                   target="_blank" 
                   rel="nofollow noopener"
-                  className="text-blue-600 hover:text-blue-800"
+                  className="text-[#01CAB8] hover:text-[#01867A]"
                 >
                   Eklem Faresi ve Kıkırdak Hasarı - PubMed Ara
                 </a>
@@ -474,7 +474,7 @@ export default function EklemFaresiCerrahisiPage() {
                   href="https://pubmed.ncbi.nlm.nih.gov/?term=minimally+invasive+joint+surgery" 
                   target="_blank" 
                   rel="nofollow noopener"
-                  className="text-blue-600 hover:text-blue-800"
+                  className="text-[#01CAB8] hover:text-[#01867A]"
                 >
                   Minimal İnvaziv Eklem Cerrahisi - PubMed Ara
                 </a>
@@ -483,10 +483,10 @@ export default function EklemFaresiCerrahisiPage() {
           </div>
         </section>
           {/* Ameliyatsız Tedavi Internal Link */}
-          <div className="bg-blue-50 border-l-4 border-blue-700 p-6 my-8 rounded-r-lg">
+          <div className="bg-[#E6FAF8] border-l-4 border-blue-700 p-6 my-8 rounded-r-lg">
             <p className="text-gray-700">
               <strong>İlgili İçerik:</strong> Ameliyatsız tedavi seçenekleri hakkında daha fazla bilgi için{' '}
-              <a href="/ameliyatsiz-cozumler" className="text-blue-700 hover:text-blue-900 font-semibold hover:underline">
+              <a href="/ameliyatsiz-cozumler" className="text-[#01A899] hover:text-blue-900 font-semibold hover:underline">
                 ameliyatsız çözümler sayfamızı
               </a>{' '}
               ziyaret edebilirsiniz.

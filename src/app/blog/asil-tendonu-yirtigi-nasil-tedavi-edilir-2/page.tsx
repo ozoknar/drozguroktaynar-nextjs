@@ -71,9 +71,9 @@ export default function BlogPage() {
       <article className="max-w-4xl mx-auto px-4 py-8">
         {/* Breadcrumb */}
         <nav className="text-sm text-gray-500 mb-6">
-          <Link href="/" className="hover:text-blue-600">Ana Sayfa</Link>
+          <Link href="/" className="hover:text-[#01CAB8]">Ana Sayfa</Link>
           <span className="mx-2">/</span>
-          <Link href="/blog" className="hover:text-blue-600">Blog</Link>
+          <Link href="/blog" className="hover:text-[#01CAB8]">Blog</Link>
           <span className="mx-2">/</span>
           <span className="text-gray-700">Aşil Tendonu Yırtığı Nasıl Tedavi Edilir?</span>
         </nav>
@@ -114,7 +114,7 @@ export default function BlogPage() {
               Aşil tendonu, baldır kaslarını (gastroknemius ve soleus) topuk kemiğine (kalkaneus) bağlayan, yaklaşık 15 cm uzunluğunda, güçlü, fibröz bir yapıdır. Yürüme, koşma, zıplama gibi ayak bileği itme (plantar fleksiyon) hareketlerinde kritik rol oynar.
             </p>
 
-            <div className="bg-blue-50 p-6 rounded-lg mb-6">
+            <div className="bg-[#E6FAF8] p-6 rounded-lg mb-6">
               <h3 className="text-xl font-semibold text-gray-900 mb-3">Yırtık Tipleri</h3>
               <ul className="space-y-3 text-gray-700">
                 <li>
@@ -204,7 +204,7 @@ export default function BlogPage() {
               </div>
             </div>
 
-            <div className="bg-blue-100 p-6 rounded-lg">
+            <div className="bg-[#B3F0EB] p-6 rounded-lg">
               <h3 className="text-xl font-semibold text-gray-900 mb-3">Tanı Algoritması</h3>
               <p className="text-gray-700 mb-2">
                 <strong>1. Adım:</strong> Klinik değerlendirme (Thompson testi!) - %95 tanı konulur
@@ -437,7 +437,7 @@ export default function BlogPage() {
                   href="https://pubmed.ncbi.nlm.nih.gov/?term=lantto+conservative+treatment+achilles+tendon+rupture" 
                   target="_blank" 
                   rel="noopener noreferrer" 
-                  className="text-blue-600 hover:underline ml-1"
+                  className="text-[#01CAB8] hover:underline ml-1"
                 >
                   [PubMed Ara]
                 </a>
@@ -448,7 +448,7 @@ export default function BlogPage() {
                   href="https://pubmed.ncbi.nlm.nih.gov/?term=willits+operative+nonoperative+achilles+tendon+ruptures" 
                   target="_blank" 
                   rel="noopener noreferrer" 
-                  className="text-blue-600 hover:underline ml-1"
+                  className="text-[#01CAB8] hover:underline ml-1"
                 >
                   [PubMed Ara]
                 </a>
@@ -459,7 +459,7 @@ export default function BlogPage() {
                   href="https://pubmed.ncbi.nlm.nih.gov/?term=metcalf+achilles+tendon+rupture+diagnosis+management" 
                   target="_blank" 
                   rel="noopener noreferrer" 
-                  className="text-blue-600 hover:underline ml-1"
+                  className="text-[#01CAB8] hover:underline ml-1"
                 >
                   [PubMed Ara]
                 </a>
@@ -470,7 +470,7 @@ export default function BlogPage() {
                   href="https://pubmed.ncbi.nlm.nih.gov/?term=frankel+rehabilitation+achilles+tendon+repair+systematic+review" 
                   target="_blank" 
                   rel="noopener noreferrer" 
-                  className="text-blue-600 hover:underline ml-1"
+                  className="text-[#01CAB8] hover:underline ml-1"
                 >
                   [PubMed Ara]
                 </a>
@@ -480,12 +480,12 @@ export default function BlogPage() {
 
           {/* Section 8: Internal Link - ZORUNLU! */}
           <section className="mb-12">
-            <div className="bg-blue-50 border-l-4 border-blue-500 p-6 rounded-r-lg">
+            <div className="bg-[#E6FAF8] border-l-4 border-[#1AD2C4] p-6 rounded-r-lg">
               <p className="text-gray-700">
                 <strong>İlgili İçerik:</strong> Aşil tendonu yaralanmaları için ameliyatsız tedavi seçenekleri hakkında daha fazla bilgi almak isterseniz{' '}
                 <Link 
                   href="/ameliyatsiz-cozumler" 
-                  className="text-blue-600 hover:text-blue-800 font-semibold hover:underline"
+                  className="text-[#01CAB8] hover:text-[#01867A] font-semibold hover:underline"
                 >
                   ameliyatsız çözümler sayfamızı
                 </Link>{' '}
@@ -508,12 +508,12 @@ export default function BlogPage() {
         </div>
 
         {/* CTA */}
-        <div className="bg-gradient-to-r from-blue-600 to-blue-700 rounded-xl p-8 text-center text-white mt-12">
+        <div className="bg-gradient-to-r from-[#01CAB8] to-[#01A899] rounded-xl p-8 text-center text-white mt-12">
           <h2 className="text-2xl font-bold mb-4">Aşil Tendonu Yırtığı İçin Uzman Değerlendirmesi</h2>
           <p className="mb-6">Tanı ve tedavi için hemen randevu alın.</p>
           <Link 
             href="/iletisim" 
-            className="inline-block bg-white text-blue-600 px-8 py-3 rounded-lg font-semibold hover:bg-gray-100 transition"
+            className="inline-block bg-white text-[#01CAB8] px-8 py-3 rounded-lg font-semibold hover:bg-gray-100 transition"
           >
             Hemen Randevu Al
           </Link>

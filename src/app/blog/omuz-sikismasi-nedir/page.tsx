@@ -71,9 +71,9 @@ export default function BlogPage() {
       <article className="max-w-4xl mx-auto px-4 py-8">
         {/* Breadcrumb */}
         <nav className="text-sm text-gray-500 mb-6">
-          <Link href="/" className="hover:text-blue-600">Ana Sayfa</Link>
+          <Link href="/" className="hover:text-[#01CAB8]">Ana Sayfa</Link>
           <span className="mx-2">/</span>
-          <Link href="/blog" className="hover:text-blue-600">Blog</Link>
+          <Link href="/blog" className="hover:text-[#01CAB8]">Blog</Link>
           <span className="mx-2">/</span>
           <span className="text-gray-700">Omuz Sıkışması Nedir?</span>
         </nav>
@@ -116,7 +116,7 @@ export default function BlogPage() {
             <p className="text-gray-700 leading-relaxed mb-4">
               Normal omuz hareketinde, rotator kılıf kasları kol kemiğini (humerus) omuz çukurunda (glenoid) stabil tutar. Ancak sıkışma durumunda, tendonlar ve bursa (yastıkçık doku) akromion ile kol kemiği arasında sıkışır. Bu sürekli sürtünme, iltihaplanma ve ağrıya yol açar.
             </p>
-            <div className="bg-blue-50 p-6 rounded-lg mb-4">
+            <div className="bg-[#E6FAF8] p-6 rounded-lg mb-4">
               <h3 className="text-xl font-semibold text-gray-900 mb-3">Anatomik Yapılar</h3>
               <ul className="space-y-2 text-gray-700">
                 <li><strong>Akromion:</strong> Kürek kemiğinin omuz eklemini örten çıkıntısı</li>
@@ -194,15 +194,15 @@ export default function BlogPage() {
             </p>
             <ul className="space-y-3 mb-6">
               <li className="flex items-start">
-                <span className="text-blue-500 mr-2 mt-1">•</span>
+                <span className="text-[#1AD2C4] mr-2 mt-1">•</span>
                 <span><strong>Akromion Şekli:</strong> Kancalı (tip III) akromion, düz akromiona göre sıkışma riskini 3 kat artırır</span>
               </li>
               <li className="flex items-start">
-                <span className="text-blue-500 mr-2 mt-1">•</span>
+                <span className="text-[#1AD2C4] mr-2 mt-1">•</span>
                 <span><strong>Akromiyoklaviküler Eklem Artrozu:</strong> Bu eklemdeki kemik mahmuzları subacromial alanı daraltır</span>
               </li>
               <li className="flex items-start">
-                <span className="text-blue-500 mr-2 mt-1">•</span>
+                <span className="text-[#1AD2C4] mr-2 mt-1">•</span>
                 <span><strong>Genetik Yatkınlık:</strong> Ailesel olarak dar subacromial boşluk</span>
               </li>
             </ul>
@@ -210,23 +210,23 @@ export default function BlogPage() {
             <h3 className="text-2xl font-semibold text-gray-900 mb-4">Kazanılmış (Sekonder) Nedenler</h3>
             <ul className="space-y-3 mb-6">
               <li className="flex items-start">
-                <span className="text-blue-500 mr-2 mt-1">•</span>
+                <span className="text-[#1AD2C4] mr-2 mt-1">•</span>
                 <span><strong>Tekrarlayan Baş Üstü Hareketler:</strong> Yüzme, voleybol, tenis, boyacılık gibi aktiviteler</span>
               </li>
               <li className="flex items-start">
-                <span className="text-blue-500 mr-2 mt-1">•</span>
+                <span className="text-[#1AD2C4] mr-2 mt-1">•</span>
                 <span><strong>Kötü Postür:</strong> Öne eğik omuzlar subacromial alanı daraltır</span>
               </li>
               <li className="flex items-start">
-                <span className="text-blue-500 mr-2 mt-1">•</span>
+                <span className="text-[#1AD2C4] mr-2 mt-1">•</span>
                 <span><strong>Rotator Kılıf Zayıflığı:</strong> Kas dengesizliği kol kemiğinin yukarı kaymasına neden olur</span>
               </li>
               <li className="flex items-start">
-                <span className="text-blue-500 mr-2 mt-1">•</span>
+                <span className="text-[#1AD2C4] mr-2 mt-1">•</span>
                 <span><strong>Yaşlanma:</strong> 40 yaş üzeri tendon dejenerasyonu riski artar</span>
               </li>
               <li className="flex items-start">
-                <span className="text-blue-500 mr-2 mt-1">•</span>
+                <span className="text-[#1AD2C4] mr-2 mt-1">•</span>
                 <span><strong>Travma:</strong> Omuz çarpması, düşme sonrası bursa şişmesi</span>
               </li>
             </ul>
@@ -304,7 +304,7 @@ export default function BlogPage() {
                   href="https://pubmed.ncbi.nlm.nih.gov/?term=neer+anterior+acromioplasty+impingement" 
                   target="_blank" 
                   rel="noopener noreferrer" 
-                  className="text-blue-600 hover:underline ml-1"
+                  className="text-[#01CAB8] hover:underline ml-1"
                 >
                   [PubMed Ara]
                 </a>
@@ -315,7 +315,7 @@ export default function BlogPage() {
                   href="https://pubmed.ncbi.nlm.nih.gov/?term=michener+subacromial+impingement+biomechanical" 
                   target="_blank" 
                   rel="noopener noreferrer" 
-                  className="text-blue-600 hover:underline ml-1"
+                  className="text-[#01CAB8] hover:underline ml-1"
                 >
                   [PubMed Ara]
                 </a>
@@ -326,7 +326,7 @@ export default function BlogPage() {
                   href="https://pubmed.ncbi.nlm.nih.gov/?term=bigliani+acromion+morphology+rotator+cuff" 
                   target="_blank" 
                   rel="noopener noreferrer" 
-                  className="text-blue-600 hover:underline ml-1"
+                  className="text-[#01CAB8] hover:underline ml-1"
                 >
                   [PubMed Ara]
                 </a>
@@ -337,7 +337,7 @@ export default function BlogPage() {
                   href="https://pubmed.ncbi.nlm.nih.gov/?term=lewis+rotator+cuff+tendinopathy+assessment" 
                   target="_blank" 
                   rel="noopener noreferrer" 
-                  className="text-blue-600 hover:underline ml-1"
+                  className="text-[#01CAB8] hover:underline ml-1"
                 >
                   [PubMed Ara]
                 </a>
@@ -347,12 +347,12 @@ export default function BlogPage() {
 
           {/* Section 7: Internal Link - ZORUNLU! */}
           <section className="mb-12">
-            <div className="bg-blue-50 border-l-4 border-blue-500 p-6 rounded-r-lg">
+            <div className="bg-[#E6FAF8] border-l-4 border-[#1AD2C4] p-6 rounded-r-lg">
               <p className="text-gray-700">
                 <strong>İlgili İçerik:</strong> Omuz sıkışması tedavisi için ameliyatsız seçenekler hakkında daha fazla bilgi almak isterseniz{' '}
                 <Link 
                   href="/ameliyatsiz-cozumler" 
-                  className="text-blue-600 hover:text-blue-800 font-semibold hover:underline"
+                  className="text-[#01CAB8] hover:text-[#01867A] font-semibold hover:underline"
                 >
                   ameliyatsız çözümler sayfamızı
                 </Link>{' '}
@@ -375,12 +375,12 @@ export default function BlogPage() {
         </div>
 
         {/* CTA */}
-        <div className="bg-gradient-to-r from-blue-600 to-blue-700 rounded-xl p-8 text-center text-white mt-12">
+        <div className="bg-gradient-to-r from-[#01CAB8] to-[#01A899] rounded-xl p-8 text-center text-white mt-12">
           <h2 className="text-2xl font-bold mb-4">Omuz Ağrınız İçin Uzman Değerlendirmesi</h2>
           <p className="mb-6">Omuz sıkışması teşhis ve tedavisi için randevu alın.</p>
           <Link 
             href="/iletisim" 
-            className="inline-block bg-white text-blue-600 px-8 py-3 rounded-lg font-semibold hover:bg-gray-100 transition"
+            className="inline-block bg-white text-[#01CAB8] px-8 py-3 rounded-lg font-semibold hover:bg-gray-100 transition"
           >
             Hemen Randevu Al
           </Link>

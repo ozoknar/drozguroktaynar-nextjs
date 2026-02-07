@@ -71,9 +71,9 @@ export default function BlogPage() {
       <article className="max-w-4xl mx-auto px-4 py-8">
         {/* Breadcrumb */}
         <nav className="text-sm text-gray-500 mb-6">
-          <Link href="/" className="hover:text-blue-600">Ana Sayfa</Link>
+          <Link href="/" className="hover:text-[#01CAB8]">Ana Sayfa</Link>
           <span className="mx-2">/</span>
-          <Link href="/blog" className="hover:text-blue-600">Blog</Link>
+          <Link href="/blog" className="hover:text-[#01CAB8]">Blog</Link>
           <span className="mx-2">/</span>
           <span className="text-gray-700">Kalça Ağrısı: Femoroasetabüler Sıkışma (FAS/FAI) Nedir?</span>
         </nav>
@@ -114,7 +114,7 @@ export default function BlogPage() {
               Femoroasetabüler sıkışma, kalça ekleminde femur (uyluk kemiği) ile asetabulum (kalça çukuru) arasında anormal mekanik temas ve sürtünme sonucu gelişen bir durumdur. Normal kalça hareketinde kemikler arasında yeterli boşluk vardır, ancak FAS'ta anatomik şekil bozuklukları bu boşluğu daraltır ve eklem kıkırdağı ile labrum (eklem dudağı) hasar görür.
             </p>
 
-            <div className="bg-blue-50 p-6 rounded-lg mb-6">
+            <div className="bg-[#E6FAF8] p-6 rounded-lg mb-6">
               <h3 className="text-xl font-semibold text-gray-900 mb-3">FAS Tipleri (Morfokojik Sınıflama)</h3>
               
               <div className="space-y-4">
@@ -303,7 +303,7 @@ export default function BlogPage() {
               Modern kalça cerrahisinin %90'ı artroskopik (kapalı) olarak yapılır. Açık cerrahi (cerrahi dislokasyon) nadir, sadece masif deformitelerde.
             </p>
 
-            <div className="bg-blue-100 p-6 rounded-lg mb-6">
+            <div className="bg-[#B3F0EB] p-6 rounded-lg mb-6">
               <h4 className="text-lg font-semibold text-gray-900 mb-3">Cerrahi Endikasyonlar</h4>
               <ul className="space-y-2 text-gray-700">
                 <li>✓ 3-6 ay konservatif tedaviye yanıtsızlık + belirgin fonksiyon kaybı</li>
@@ -411,7 +411,7 @@ export default function BlogPage() {
                   href="https://pubmed.ncbi.nlm.nih.gov/?term=ganz+femoroacetabular+impingement+osteoarthritis+hip" 
                   target="_blank" 
                   rel="noopener noreferrer" 
-                  className="text-blue-600 hover:underline ml-1"
+                  className="text-[#01CAB8] hover:underline ml-1"
                 >
                   [PubMed Ara]
                 </a>
@@ -422,7 +422,7 @@ export default function BlogPage() {
                   href="https://pubmed.ncbi.nlm.nih.gov/?term=beck+hip+morphology+acetabular+cartilage+impingement" 
                   target="_blank" 
                   rel="noopener noreferrer" 
-                  className="text-blue-600 hover:underline ml-1"
+                  className="text-[#01CAB8] hover:underline ml-1"
                 >
                   [PubMed Ara]
                 </a>
@@ -433,7 +433,7 @@ export default function BlogPage() {
                   href="https://pubmed.ncbi.nlm.nih.gov/?term=philippon+arthroscopic+femoroacetabular+impingement+osteoplasty" 
                   target="_blank" 
                   rel="noopener noreferrer" 
-                  className="text-blue-600 hover:underline ml-1"
+                  className="text-[#01CAB8] hover:underline ml-1"
                 >
                   [PubMed Ara]
                 </a>
@@ -444,7 +444,7 @@ export default function BlogPage() {
                   href="https://pubmed.ncbi.nlm.nih.gov/?term=byrd+jones+hip+arthroscopy+prospective+analysis" 
                   target="_blank" 
                   rel="noopener noreferrer" 
-                  className="text-blue-600 hover:underline ml-1"
+                  className="text-[#01CAB8] hover:underline ml-1"
                 >
                   [PubMed Ara]
                 </a>
@@ -454,12 +454,12 @@ export default function BlogPage() {
 
           {/* Section 8: Internal Link - ZORUNLU! */}
           <section className="mb-12">
-            <div className="bg-blue-50 border-l-4 border-blue-500 p-6 rounded-r-lg">
+            <div className="bg-[#E6FAF8] border-l-4 border-[#1AD2C4] p-6 rounded-r-lg">
               <p className="text-gray-700">
                 <strong>İlgili İçerik:</strong> Kalça ağrısı için ameliyatsız tedavi seçenekleri hakkında daha fazla bilgi almak isterseniz{' '}
                 <Link 
                   href="/ameliyatsiz-cozumler" 
-                  className="text-blue-600 hover:text-blue-800 font-semibold hover:underline"
+                  className="text-[#01CAB8] hover:text-[#01867A] font-semibold hover:underline"
                 >
                   ameliyatsız çözümler sayfamızı
                 </Link>{' '}
@@ -482,12 +482,12 @@ export default function BlogPage() {
         </div>
 
         {/* CTA */}
-        <div className="bg-gradient-to-r from-blue-600 to-blue-700 rounded-xl p-8 text-center text-white mt-12">
+        <div className="bg-gradient-to-r from-[#01CAB8] to-[#01A899] rounded-xl p-8 text-center text-white mt-12">
           <h2 className="text-2xl font-bold mb-4">Kalça Ağrınız İçin Uzman Değerlendirmesi</h2>
           <p className="mb-6">FAS tanı ve tedavisi için randevu alın.</p>
           <Link 
             href="/iletisim" 
-            className="inline-block bg-white text-blue-600 px-8 py-3 rounded-lg font-semibold hover:bg-gray-100 transition"
+            className="inline-block bg-white text-[#01CAB8] px-8 py-3 rounded-lg font-semibold hover:bg-gray-100 transition"
           >
             Hemen Randevu Al
           </Link>

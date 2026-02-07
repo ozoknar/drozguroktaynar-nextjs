@@ -69,7 +69,7 @@ export default function TFCCLezyonuPage() {
           <div className="mb-6">
             <Link 
               href="/blog"
-              className="text-blue-600 hover:text-blue-800 text-sm font-medium"
+              className="text-[#01CAB8] hover:text-[#01867A] text-sm font-medium"
             >
               ← Blog'a Dön
             </Link>
@@ -149,7 +149,7 @@ export default function TFCCLezyonuPage() {
             <li><strong>İstirahat ağrısı:</strong> İleri vakalarda gece ağrıları</li>
           </ul>
 
-          <div className="bg-blue-50 border-l-4 border-blue-500 p-6 my-8">
+          <div className="bg-[#E6FAF8] border-l-4 border-[#1AD2C4] p-6 my-8">
             <p className="text-gray-800">
               <strong>Önemli Not:</strong> TFCC lezyonu belirtileri diğer el bileği problemleriyle karışabilir. Kesin tanı için uzman değerlendirmesi gereklidir.
             </p>
@@ -261,51 +261,51 @@ export default function TFCCLezyonuPage() {
           <ol className="list-decimal pl-6 mb-6 text-gray-700 space-y-2">
             <li>
               Palmer AK. "Triangular fibrocartilage complex lesions: a classification." Journal of Hand Surgery. 1989.
-              {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=TFCC+lesions+classification" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+              {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=TFCC+lesions+classification" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
             </li>
             <li>
               Atzei A, Rizzo A, Luchetti R, Fairplay T. "Arthroscopic foveal repair of triangular fibrocartilage complex peripheral lesions." Hand Clinics. 2011.
-              {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=arthroscopic+TFCC+repair" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+              {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=arthroscopic+TFCC+repair" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
             </li>
             <li>
               Andersson JK. "Treatment of TFCC lesions: a systematic review." Journal of Wrist Surgery. 2015.
-              {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=TFCC+treatment+systematic+review" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+              {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=TFCC+treatment+systematic+review" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
             </li>
             <li>
               Saito T, Nakamura T, Makino Y. "Wrist arthroscopy for triangular fibrocartilage complex tears." Arthroscopy Techniques. 2018.
-              {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=wrist+arthroscopy+TFCC" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+              {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=wrist+arthroscopy+TFCC" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
             </li>
             <li>
               Estrella EP, Hung LK, Ho PC, Wang WM. "Arthroscopic repair of triangular fibrocartilage complex tears." Arthroscopy. 2007.
-              {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=arthroscopic+repair+TFCC+tears" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+              {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=arthroscopic+repair+TFCC+tears" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
             </li>
             <li>
               Haugstvedt JR, Berger RA, Nakamura T, Neale P, Berglund L, An KN. "Relative contributions of the ulnar attachments of the triangular fibrocartilage complex to the dynamic stability of the distal radioulnar joint." Journal of Hand Surgery. 2006.
-              {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=TFCC+ulnar+attachments+stability" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+              {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=TFCC+ulnar+attachments+stability" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
             </li>
             <li>
               Nakamura T, Yabe Y, Horiuchi Y. "Functional anatomy of the triangular fibrocartilage complex." Journal of Hand Surgery. 1996.
-              {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=TFCC+functional+anatomy" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+              {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=TFCC+functional+anatomy" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
             </li>
             <li>
               Wysocki RW, Richard MJ, Crowe MM, Leversedge FJ, Ruch DS. "Arthroscopic treatment of peripheral triangular fibrocartilage complex tears with debridement and repair." Journal of Hand Surgery. 2012.
-              {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=TFCC+peripheral+tears+arthroscopic+treatment" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+              {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=TFCC+peripheral+tears+arthroscopic+treatment" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
             </li>
             <li>
               De Smet L, De Ferm A. "Chronic isolated instability of the distal radioulnar joint treated by ulnar shortening osteotomy." Acta Orthopaedica Belgica. 2004.
-              {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=ulnar+shortening+osteotomy+DRUJ" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+              {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=ulnar+shortening+osteotomy+DRUJ" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
             </li>
             <li>
               Bednar MS, Arnoczky SP, Weiland AJ. "The microvasculature of the triangular fibrocartilage complex: its clinical significance." Journal of Hand Surgery. 1991.
-              {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=TFCC+microvasculature" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+              {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=TFCC+microvasculature" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
             </li>
           </ol>
         </div>
           {/* Ameliyatsız Tedavi Internal Link */}
-          <div className="bg-blue-50 border-l-4 border-blue-700 p-6 my-8 rounded-r-lg">
+          <div className="bg-[#E6FAF8] border-l-4 border-blue-700 p-6 my-8 rounded-r-lg">
             <p className="text-gray-700">
               <strong>İlgili İçerik:</strong> Ameliyatsız tedavi seçenekleri hakkında daha fazla bilgi için{' '}
-              <a href="/ameliyatsiz-cozumler" className="text-blue-700 hover:text-blue-900 font-semibold hover:underline">
+              <a href="/ameliyatsiz-cozumler" className="text-[#01A899] hover:text-blue-900 font-semibold hover:underline">
                 ameliyatsız çözümler sayfamızı
               </a>{' '}
               ziyaret edebilirsiniz.
@@ -314,7 +314,7 @@ export default function TFCCLezyonuPage() {
 
 
         {/* CTA Section */}
-        <div className="mt-16 bg-gradient-to-r from-blue-600 to-blue-800 rounded-2xl p-8 text-white">
+        <div className="mt-16 bg-gradient-to-r from-[#01CAB8] to-[#01867A] rounded-2xl p-8 text-white">
           <h2 className="text-3xl font-bold mb-4">El Bileği Ağrınız mı Var?</h2>
           <p className="text-lg mb-6 text-blue-100">
             TFCC lezyonu ve diğer el bileği problemlerinin tanı ve tedavisi için uzman değerlendirmesi alın. 
@@ -323,13 +323,13 @@ export default function TFCCLezyonuPage() {
           <div className="flex flex-col sm:flex-row gap-4">
             <Link
               href="/iletisim"
-              className="bg-white text-blue-600 px-8 py-3 rounded-lg font-semibold hover:bg-blue-50 transition text-center"
+              className="bg-white text-[#01CAB8] px-8 py-3 rounded-lg font-semibold hover:bg-[#E6FAF8] transition text-center"
             >
               Randevu Alın
             </Link>
             <Link
               href="/hizmetler/el-bilegi-cerrahisi"
-              className="border-2 border-white text-white px-8 py-3 rounded-lg font-semibold hover:bg-blue-700 transition text-center"
+              className="border-2 border-white text-white px-8 py-3 rounded-lg font-semibold hover:bg-[#01A899] transition text-center"
             >
               El Bileği Cerrahisi Hakkında
             </Link>
@@ -343,7 +343,7 @@ export default function TFCCLezyonuPage() {
             <Link href="/blog/el-bilegi-artroskopisi" className="group">
               <div className="border rounded-lg overflow-hidden hover:shadow-lg transition">
                 <div className="p-6">
-                  <h3 className="font-semibold text-gray-900 group-hover:text-blue-600 mb-2">
+                  <h3 className="font-semibold text-gray-900 group-hover:text-[#01CAB8] mb-2">
                     El Bileği Artroskopisi
                   </h3>
                   <p className="text-gray-600 text-sm">
@@ -356,7 +356,7 @@ export default function TFCCLezyonuPage() {
             <Link href="/blog/karpal-tunel-sendromu-2" className="group">
               <div className="border rounded-lg overflow-hidden hover:shadow-lg transition">
                 <div className="p-6">
-                  <h3 className="font-semibold text-gray-900 group-hover:text-blue-600 mb-2">
+                  <h3 className="font-semibold text-gray-900 group-hover:text-[#01CAB8] mb-2">
                     Karpal Tünel Sendromu
                   </h3>
                   <p className="text-gray-600 text-sm">
@@ -369,7 +369,7 @@ export default function TFCCLezyonuPage() {
             <Link href="/blog/skafoid-kirigi-belirtileri" className="group">
               <div className="border rounded-lg overflow-hidden hover:shadow-lg transition">
                 <div className="p-6">
-                  <h3 className="font-semibold text-gray-900 group-hover:text-blue-600 mb-2">
+                  <h3 className="font-semibold text-gray-900 group-hover:text-[#01CAB8] mb-2">
                     Skafoid Kırığı
                   </h3>
                   <p className="text-gray-600 text-sm">

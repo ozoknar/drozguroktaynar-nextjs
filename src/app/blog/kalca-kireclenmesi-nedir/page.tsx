@@ -57,7 +57,7 @@ export default function KalcaKireclenmesiNedirPage() {
       <section className="relative bg-gradient-to-br from-blue-50 via-white to-blue-50 py-16 md:py-24">
         <div className="container mx-auto px-4 max-w-4xl">
           <div className="text-center mb-8">
-            <span className="inline-block px-4 py-2 bg-blue-100 text-blue-800 rounded-full text-sm font-semibold mb-4">
+            <span className="inline-block px-4 py-2 bg-[#B3F0EB] text-[#01867A] rounded-full text-sm font-semibold mb-4">
               Kalça Sağlığı
             </span>
             <h1 className="text-4xl md:text-5xl font-bold text-gray-900 mb-6 leading-tight">
@@ -120,7 +120,7 @@ export default function KalcaKireclenmesiNedirPage() {
             Kalça kireçlenmesinin belirtileri genellikle yavaş ilerler ve zamanla şiddetlenir:
           </p>
           
-          <div className="bg-blue-50 border-l-4 border-blue-500 p-6 mb-6">
+          <div className="bg-[#E6FAF8] border-l-4 border-[#1AD2C4] p-6 mb-6">
             <h3 className="text-xl font-semibold text-gray-800 mb-3">Erken Dönem Belirtileri</h3>
             <ul className="list-disc pl-6 text-gray-700 space-y-2">
               <li>Sabah tutukluğu ve eklem sertliği (30 dakikadan kısa sürer)</li>
@@ -211,7 +211,7 @@ export default function KalcaKireclenmesiNedirPage() {
             <li><strong>Yüzey protezi:</strong> Seçilmiş genç hastalarda alternatif</li>
           </ul>
 
-          <div className="bg-blue-50 p-6 rounded-lg mb-6">
+          <div className="bg-[#E6FAF8] p-6 rounded-lg mb-6">
             <h4 className="text-lg font-semibold text-gray-800 mb-2">Kalça Protezi Hakkında</h4>
             <p className="text-gray-700 leading-relaxed">
               Total kalça protezi, günümüzde başarı oranı %95'in üzerinde olan, hastanın yaşam kalitesini dramatik şekilde artıran bir ameliyattır. Cerrahi sonrası hastalar genellikle 6-12 hafta içinde normal aktivitelere döner ve protezlerin ömrü 20-25 yıldır.
@@ -261,7 +261,7 @@ export default function KalcaKireclenmesiNedirPage() {
                   href="https://pubmed.ncbi.nlm.nih.gov/?term=hip+osteoarthritis+treatment" 
                   target="_blank" 
                   rel="nofollow noopener"
-                  className="text-blue-600 hover:text-blue-800"
+                  className="text-[#01CAB8] hover:text-[#01867A]"
                 >
                   Kalça Osteoartriti Tedavisi - PubMed Ara
                 </a>
@@ -271,7 +271,7 @@ export default function KalcaKireclenmesiNedirPage() {
                   href="https://pubmed.ncbi.nlm.nih.gov/?term=hip+osteoarthritis+risk+factors" 
                   target="_blank" 
                   rel="nofollow noopener"
-                  className="text-blue-600 hover:text-blue-800"
+                  className="text-[#01CAB8] hover:text-[#01867A]"
                 >
                   Kalça Osteoartriti Risk Faktörleri - PubMed Ara
                 </a>
@@ -281,7 +281,7 @@ export default function KalcaKireclenmesiNedirPage() {
                   href="https://pubmed.ncbi.nlm.nih.gov/?term=total+hip+arthroplasty+outcomes" 
                   target="_blank" 
                   rel="nofollow noopener"
-                  className="text-blue-600 hover:text-blue-800"
+                  className="text-[#01CAB8] hover:text-[#01867A]"
                 >
                   Total Kalça Protezi Sonuçları - PubMed Ara
                 </a>
@@ -291,7 +291,7 @@ export default function KalcaKireclenmesiNedirPage() {
                   href="https://pubmed.ncbi.nlm.nih.gov/?term=hip+osteoarthritis+conservative+treatment" 
                   target="_blank" 
                   rel="nofollow noopener"
-                  className="text-blue-600 hover:text-blue-800"
+                  className="text-[#01CAB8] hover:text-[#01867A]"
                 >
                   Kalça Osteoartriti Konservatif Tedavi - PubMed Ara
                 </a>
@@ -301,7 +301,7 @@ export default function KalcaKireclenmesiNedirPage() {
                   href="https://pubmed.ncbi.nlm.nih.gov/?term=femoroacetabular+impingement" 
                   target="_blank" 
                   rel="nofollow noopener"
-                  className="text-blue-600 hover:text-blue-800"
+                  className="text-[#01CAB8] hover:text-[#01867A]"
                 >
                   Femoro-asetabular Sıkışma - PubMed Ara
                 </a>
@@ -311,7 +311,7 @@ export default function KalcaKireclenmesiNedirPage() {
                   href="https://pubmed.ncbi.nlm.nih.gov/?term=hip+arthritis+physical+therapy" 
                   target="_blank" 
                   rel="nofollow noopener"
-                  className="text-blue-600 hover:text-blue-800"
+                  className="text-[#01CAB8] hover:text-[#01867A]"
                 >
                   Kalça Artriti Fizik Tedavi - PubMed Ara
                 </a>
@@ -321,7 +321,7 @@ export default function KalcaKireclenmesiNedirPage() {
                   href="https://pubmed.ncbi.nlm.nih.gov/?term=hyaluronic+acid+hip+injection" 
                   target="_blank" 
                   rel="nofollow noopener"
-                  className="text-blue-600 hover:text-blue-800"
+                  className="text-[#01CAB8] hover:text-[#01867A]"
                 >
                   Kalça Hyalüronik Asit Enjeksiyonu - PubMed Ara
                 </a>
@@ -331,7 +331,7 @@ export default function KalcaKireclenmesiNedirPage() {
                   href="https://pubmed.ncbi.nlm.nih.gov/?term=hip+osteoarthritis+obesity" 
                   target="_blank" 
                   rel="nofollow noopener"
-                  className="text-blue-600 hover:text-blue-800"
+                  className="text-[#01CAB8] hover:text-[#01867A]"
                 >
                   Kalça Osteoartriti ve Obezite - PubMed Ara
                 </a>
@@ -341,7 +341,7 @@ export default function KalcaKireclenmesiNedirPage() {
                   href="https://pubmed.ncbi.nlm.nih.gov/?term=hip+arthroscopy+osteoarthritis" 
                   target="_blank" 
                   rel="nofollow noopener"
-                  className="text-blue-600 hover:text-blue-800"
+                  className="text-[#01CAB8] hover:text-[#01867A]"
                 >
                   Kalça Artroskopisi ve Osteoartrit - PubMed Ara
                 </a>
@@ -351,7 +351,7 @@ export default function KalcaKireclenmesiNedirPage() {
                   href="https://pubmed.ncbi.nlm.nih.gov/?term=developmental+dysplasia+hip+osteoarthritis" 
                   target="_blank" 
                   rel="nofollow noopener"
-                  className="text-blue-600 hover:text-blue-800"
+                  className="text-[#01CAB8] hover:text-[#01867A]"
                 >
                   Gelişimsel Displazi ve Kalça Osteoartriti - PubMed Ara
                 </a>
@@ -360,10 +360,10 @@ export default function KalcaKireclenmesiNedirPage() {
           </div>
         </section>
           {/* Ameliyatsız Tedavi Internal Link */}
-          <div className="bg-blue-50 border-l-4 border-blue-700 p-6 my-8 rounded-r-lg">
+          <div className="bg-[#E6FAF8] border-l-4 border-blue-700 p-6 my-8 rounded-r-lg">
             <p className="text-gray-700">
               <strong>İlgili İçerik:</strong> Ameliyatsız tedavi seçenekleri hakkında daha fazla bilgi için{' '}
-              <a href="/ameliyatsiz-cozumler" className="text-blue-700 hover:text-blue-900 font-semibold hover:underline">
+              <a href="/ameliyatsiz-cozumler" className="text-[#01A899] hover:text-blue-900 font-semibold hover:underline">
                 ameliyatsız çözümler sayfamızı
               </a>{' '}
               ziyaret edebilirsiniz.
@@ -372,7 +372,7 @@ export default function KalcaKireclenmesiNedirPage() {
 
 
         {/* CTA Section */}
-        <section className="bg-gradient-to-r from-blue-600 to-blue-800 rounded-2xl p-8 md:p-12 text-white text-center">
+        <section className="bg-gradient-to-r from-[#01CAB8] to-[#01867A] rounded-2xl p-8 md:p-12 text-white text-center">
           <h2 className="text-3xl font-bold mb-4">Kalça Ağrınız mı Var?</h2>
           <p className="text-xl mb-8 text-blue-100">
             Kalça kireçlenmesi belirtilerinizi değerlendirmek ve size özel tedavi planı oluşturmak için randevu alın.
@@ -380,13 +380,13 @@ export default function KalcaKireclenmesiNedirPage() {
           <div className="flex flex-col sm:flex-row gap-4 justify-center">
             <Link
               href="/iletisim"
-              className="inline-block bg-white text-blue-600 px-8 py-4 rounded-lg font-semibold hover:bg-blue-50 transition-colors"
+              className="inline-block bg-white text-[#01CAB8] px-8 py-4 rounded-lg font-semibold hover:bg-[#E6FAF8] transition-colors"
             >
               Randevu Al
             </Link>
             <Link
               href="/hakkimda"
-              className="inline-block bg-blue-700 text-white px-8 py-4 rounded-lg font-semibold hover:bg-blue-600 transition-colors border-2 border-blue-500"
+              className="inline-block bg-[#01A899] text-white px-8 py-4 rounded-lg font-semibold hover:bg-[#01CAB8] transition-colors border-2 border-[#1AD2C4]"
             >
               Op. Dr. Özgür Oktay Nar Hakkında
             </Link>

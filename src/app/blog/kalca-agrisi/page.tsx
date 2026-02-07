@@ -137,21 +137,21 @@ export default function KalcaAgrisiPage() {
           </section>
 
           {/* Pain Localization Section */}
-          <section className="mb-12 bg-blue-50 p-8 rounded-xl">
+          <section className="mb-12 bg-[#E6FAF8] p-8 rounded-xl">
             <h2 className="text-2xl font-bold text-gray-800 mb-6">
               Ağrı Nerede Hissedilir?
             </h2>
             <div className="grid md:grid-cols-3 gap-4">
               <div className="bg-white p-4 rounded-lg">
-                <h3 className="font-semibold text-blue-800 mb-2">🔹 Kasık Bölgesi</h3>
+                <h3 className="font-semibold text-[#01867A] mb-2">🔹 Kasık Bölgesi</h3>
                 <p className="text-sm text-gray-600">Genellikle kalça eklemi içindeki bir problemden kaynaklanır</p>
               </div>
               <div className="bg-white p-4 rounded-lg">
-                <h3 className="font-semibold text-blue-800 mb-2">🔹 Kalça Dışı</h3>
+                <h3 className="font-semibold text-[#01867A] mb-2">🔹 Kalça Dışı</h3>
                 <p className="text-sm text-gray-600">Kas, bağ veya tendon hasarı ile ilgilidir</p>
               </div>
               <div className="bg-white p-4 rounded-lg">
-                <h3 className="font-semibold text-blue-800 mb-2">🔹 Bel-Kalça</h3>
+                <h3 className="font-semibold text-[#01867A] mb-2">🔹 Bel-Kalça</h3>
                 <p className="text-sm text-gray-600">Bel fıtığı gibi omurga kaynaklı rahatsızlıklar</p>
               </div>
             </div>
@@ -237,7 +237,7 @@ export default function KalcaAgrisiPage() {
             </p>
             <div className="grid md:grid-cols-3 gap-4 mt-6">
               <div className="bg-white p-4 rounded-lg">
-                <h3 className="font-semibold text-blue-800 mb-2">📷 Röntgen</h3>
+                <h3 className="font-semibold text-[#01867A] mb-2">📷 Röntgen</h3>
                 <p className="text-sm text-gray-600">Kemik yapısındaki deformasyon veya kırıklar</p>
               </div>
               <div className="bg-white p-4 rounded-lg">
@@ -267,8 +267,8 @@ export default function KalcaAgrisiPage() {
                 </p>
               </div>
 
-              <div className="bg-blue-50 p-6 rounded-xl">
-                <h3 className="font-semibold text-blue-800 mb-3 flex items-center gap-2">
+              <div className="bg-[#E6FAF8] p-6 rounded-xl">
+                <h3 className="font-semibold text-[#01867A] mb-3 flex items-center gap-2">
                   <span>🏃</span> 2. Fizik Tedavi ve Egzersiz
                 </h3>
                 <p className="text-gray-700">
@@ -390,50 +390,50 @@ export default function KalcaAgrisiPage() {
             <ol className="space-y-3 text-sm text-gray-700">
               <li>
                 <span className="font-medium">1.</span> Lespasio MJ, et al. <em>"Hip Osteoarthritis: A Primer."</em> Perm J. 2018;22:17-084.{' '}
-                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=hip+pain+diagnosis+treatment" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=hip+pain+diagnosis+treatment" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <span className="font-medium">2.</span> Wilson JJ, Furukawa M. <em>"Evaluation of the patient with hip pain."</em> Am Fam Physician. 2014;89(1):27-34.{' '}
-                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=hip+pain+diagnosis+treatment" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=hip+pain+diagnosis+treatment" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <span className="font-medium">3.</span> Schmitt B, et al. <em>"Trochanteric bursitis and tendinitis."</em> BMJ. 2012;344:e3144.{' '}
-                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=hip+pain+diagnosis+treatment" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=hip+pain+diagnosis+treatment" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <span className="font-medium">4.</span> Kahlenberg CA, et al. <em>"Hip arthroscopy for acute traumatic posterior hip dislocation."</em> J Bone Joint Surg Am. 2014;96(19):e166.{' '}
-                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=hip+pain+diagnosis+treatment" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=hip+pain+diagnosis+treatment" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <span className="font-medium">5.</span> Mont MA, et al. <em>"Non-traumatic avascular necrosis of the femoral head."</em> J Bone Joint Surg Am. 1995;77(3):459-74.{' '}
-                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=hip+pain+diagnosis+treatment" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=hip+pain+diagnosis+treatment" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
             </ol>
             
             <details className="mt-4">
-              <summary className="cursor-pointer text-blue-600 font-medium hover:text-blue-800 flex items-center gap-2">
+              <summary className="cursor-pointer text-[#01CAB8] font-medium hover:text-[#01867A] flex items-center gap-2">
                 <span>📖 Daha Fazla Kaynak Göster (5 ek referans)</span>
               </summary>
               <ol start={6} className="space-y-3 text-sm text-gray-700 mt-4 pt-4 border-t">
                 <li>
                   <span className="font-medium">6.</span> Tibor LM, Sekiya JK. <em>"Differential diagnosis of pain around the hip joint."</em> Arthroscopy. 2008;24(12):1407-21.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=hip+pain+diagnosis+treatment" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=hip+pain+diagnosis+treatment" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
                 </li>
                 <li>
                   <span className="font-medium">7.</span> Byrd JWT, Jones KS. <em>"Diagnostic accuracy of clinical assessment, magnetic resonance imaging, magnetic resonance arthrography, and intra-articular injection in hip arthroscopy patients."</em> Am J Sports Med. 2004;32(7):1668-74.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=hip+pain+diagnosis+treatment" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=hip+pain+diagnosis+treatment" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
                 </li>
                 <li>
                   <span className="font-medium">8.</span> Strauss EJ, et al. <em>"The evaluation and management of muscle injuries."</em> Am J Sports Med. 2011;39(8):1813-26.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=hip+pain+diagnosis+treatment" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=hip+pain+diagnosis+treatment" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
                 </li>
                 <li>
                   <span className="font-medium">9.</span> Seidman AJ, et al. <em>"Femoroacetabular impingement and the effect of aging on cartilage health in the hip joint: a review."</em> PM R. 2017;9(9S2):S79-S89.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=hip+pain+diagnosis+treatment" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=hip+pain+diagnosis+treatment" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
                 </li>
                 <li>
                   <span className="font-medium">10.</span> Harris WH. <em>"Etiology of osteoarthritis of the hip."</em> Clin Orthop Relat Res. 1986;(213):20-33.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=hip+pain+diagnosis+treatment" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=hip+pain+diagnosis+treatment" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
                 </li>
               </ol>
             </details>

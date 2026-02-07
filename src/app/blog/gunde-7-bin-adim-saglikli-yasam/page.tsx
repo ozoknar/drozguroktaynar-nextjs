@@ -89,7 +89,7 @@ export default function GunlukAdimPage() {
         <section className="mb-12">
           <h2 className="text-3xl font-bold text-gray-900 mb-6">Bilimsel Kanıtlar: Adım Sayısı ve Mortalite</h2>
           
-          <div className="bg-blue-50 border-l-4 border-blue-500 p-6 mb-6">
+          <div className="bg-[#E6FAF8] border-l-4 border-[#1AD2C4] p-6 mb-6">
             <h3 className="text-xl font-semibold text-gray-900 mb-3">Önemli Araştırmalar</h3>
             
             <div className="space-y-4">
@@ -141,7 +141,7 @@ export default function GunlukAdimPage() {
               </ul>
             </div>
 
-            <div className="bg-blue-50 border border-blue-200 rounded-lg p-6">
+            <div className="bg-[#E6FAF8] border border-blue-200 rounded-lg p-6">
               <h3 className="text-xl font-semibold text-gray-900 mb-3">🩺 Metabolik Sağlık</h3>
               <ul className="space-y-2 text-gray-700 text-sm">
                 <li>• Tip 2 diyabet riski %50 azalma</li>
@@ -253,7 +253,7 @@ export default function GunlukAdimPage() {
             </p>
           </div>
 
-          <div className="bg-blue-50 p-6 rounded-lg">
+          <div className="bg-[#E6FAF8] p-6 rounded-lg">
             <h3 className="text-xl font-semibold text-gray-900 mb-3">📏 Nasıl Ölçülür?</h3>
             <div className="grid md:grid-cols-2 gap-4 text-sm text-gray-700">
               <div>
@@ -353,52 +353,52 @@ export default function GunlukAdimPage() {
             <ol className="space-y-3 text-sm text-gray-700">
               <li>
                 <strong>1.</strong> Lee IM, et al. "Association of Step Volume and Intensity With All-Cause Mortality in Older Women" JAMA Intern Med. 2019;179(8):1105-1112. 
-                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=step+volume+intensity+mortality+older+women" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=step+volume+intensity+mortality+older+women" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <strong>2.</strong> Saint-Maurice PF, et al. "Association of Daily Step Count and Step Intensity With Mortality Among US Adults" JAMA. 2020;323(12):1151-1160. 
-                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=daily+step+count+intensity+mortality+US+adults" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=daily+step+count+intensity+mortality+US+adults" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <strong>3.</strong> Paluch AE, et al. "Daily steps and all-cause mortality: a meta-analysis of 15 international cohorts" Lancet Public Health. 2022;7(3):e219-e228. 
-                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=daily+steps+mortality+meta+analysis+lancet" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=daily+steps+mortality+meta+analysis+lancet" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <strong>4.</strong> Tudor-Locke C, et al. "How many steps/day are enough? Preliminary pedometer indices for public health" Sports Med. 2004;34(1):1-8. 
-                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=pedometer+steps+public+health+Tudor-Locke" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=pedometer+steps+public+health+Tudor-Locke" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <strong>5.</strong> Bassett DR Jr, et al. "Step counting: a review of measurement considerations and health-related applications" Sports Med. 2017;47(7):1303-1315. 
-                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=step+counting+review+health+applications" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=step+counting+review+health+applications" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <strong>6.</strong> Dwyer T, et al. "Objectively measured daily steps and subsequent long-term all-cause mortality" PLoS One. 2015;10(11):e0141274. 
-                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=objectively+measured+steps+mortality+PLoS" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=objectively+measured+steps+mortality+PLoS" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <strong>7.</strong> Jefferis BJ, et al. "Objectively measured physical activity, sedentary behaviour and all-cause mortality in older men" Br J Sports Med. 2019;53(16):1012-1018. 
-                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=physical+activity+sedentary+behaviour+mortality+older+men" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=physical+activity+sedentary+behaviour+mortality+older+men" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <strong>8.</strong> Hall KS, et al. "Systematic review of the prospective association of daily step counts with risk of mortality, cardiovascular disease, and dysglycemia" Int J Behav Nutr Phys Act. 2020;17(1):78. 
-                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=step+counts+mortality+cardiovascular+dysglycemia+review" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=step+counts+mortality+cardiovascular+dysglycemia+review" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <strong>9.</strong> Del Pozo Cruz B, et al. "Association of Daily Step Count and Intensity With Incident Dementia in 78,430 Adults Living in the UK" JAMA Neurol. 2022;79(10):1059-1063. 
-                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=daily+step+count+dementia+UK+JAMA" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=daily+step+count+dementia+UK+JAMA" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <strong>10.</strong> Kraus WE, et al. "Daily step counts for measuring physical activity exposure and its relation to health" Med Sci Sports Exerc. 2019;51(6):1206-1212. 
-                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=daily+step+counts+physical+activity+health" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=daily+step+counts+physical+activity+health" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
             </ol>
           </div>
         </section>
           {/* Ameliyatsız Tedavi Internal Link */}
-          <div className="bg-blue-50 border-l-4 border-blue-700 p-6 my-8 rounded-r-lg">
+          <div className="bg-[#E6FAF8] border-l-4 border-blue-700 p-6 my-8 rounded-r-lg">
             <p className="text-gray-700">
               <strong>İlgili İçerik:</strong> Ameliyatsız tedavi seçenekleri hakkında daha fazla bilgi için{' '}
-              <a href="/ameliyatsiz-cozumler" className="text-blue-700 hover:text-blue-900 font-semibold hover:underline">
+              <a href="/ameliyatsiz-cozumler" className="text-[#01A899] hover:text-blue-900 font-semibold hover:underline">
                 ameliyatsız çözümler sayfamızı
               </a>{' '}
               ziyaret edebilirsiniz.

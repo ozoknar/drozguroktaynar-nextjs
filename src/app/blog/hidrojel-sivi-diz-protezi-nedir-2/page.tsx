@@ -68,7 +68,7 @@ export default function HidrojelDizProteziPage() {
           <div className="mb-6">
             <Link 
               href="/blog"
-              className="text-blue-600 hover:text-blue-800 text-sm font-medium"
+              className="text-[#01CAB8] hover:text-[#01867A] text-sm font-medium"
             >
               ← Blog'a Dön
             </Link>
@@ -114,7 +114,7 @@ export default function HidrojelDizProteziPage() {
             <li><strong>Benzerlik:</strong> Doğal kıkırdak dokusuna mekanik olarak benzer</li>
           </ul>
 
-          <div className="bg-blue-50 border-l-4 border-blue-500 p-6 my-8">
+          <div className="bg-[#E6FAF8] border-l-4 border-[#1AD2C4] p-6 my-8">
             <p className="text-gray-800">
               <strong>Biyomimetik Yaklaşım:</strong> Hidrojeller, doğal eklem kıkırdağının su içeriği (%70-80) ve mekanik özelliklerini taklit etmeyi amaçlar. Bu, daha fizyolojik bir eklem hareketi sağlama potansiyeli sunar.
             </p>
@@ -330,51 +330,51 @@ export default function HidrojelDizProteziPage() {
           <ol className="list-decimal pl-6 mb-6 text-gray-700 space-y-2">
             <li>
               Gong JP, Katsuyama Y, Kurokawa T, Osada Y. "Double-network hydrogels with extremely high mechanical strength." Advanced Materials. 2003.
-              {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=double+network+hydrogels+mechanical+strength" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+              {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=double+network+hydrogels+mechanical+strength" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
             </li>
             <li>
               Krishnan Y, Grodzinsky AJ. "Cartilage diseases." Matrix Biology. 2018.
-              {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=cartilage+diseases+matrix+biology" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+              {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=cartilage+diseases+matrix+biology" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
             </li>
             <li>
               Zhao X. "Multi-scale multi-mechanism design of tough hydrogels." Soft Matter. 2014.
-              {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=tough+hydrogels+design" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+              {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=tough+hydrogels+design" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
             </li>
             <li>
               Yasuda K, Kitamura N, Gong JP, et al. "A novel double-network hydrogel induces spontaneous articular cartilage regeneration in vivo in a large osteochondral defect." Macromolecular Bioscience. 2009.
-              {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=double+network+hydrogel+cartilage+regeneration" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+              {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=double+network+hydrogel+cartilage+regeneration" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
             </li>
             <li>
               Drury JL, Mooney DJ. "Hydrogels for tissue engineering: scaffold design variables and applications." Biomaterials. 2003.
-              {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=hydrogels+tissue+engineering" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+              {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=hydrogels+tissue+engineering" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
             </li>
             <li>
               Oka M, Ushio K, Kumar P, et al. "Development of artificial articular cartilage." Proceedings of the Institution of Mechanical Engineers, Part H: Journal of Engineering in Medicine. 2000.
-              {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=artificial+articular+cartilage+development" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+              {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=artificial+articular+cartilage+development" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
             </li>
             <li>
               Kwon H, Brown WE, Lee CA, et al. "Surgical and tissue engineering strategies for articular cartilage and meniscus repair." Nature Reviews Rheumatology. 2019.
-              {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=cartilage+meniscus+repair+strategies" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+              {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=cartilage+meniscus+repair+strategies" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
             </li>
             <li>
               Makris EA, Gomoll AH, Malizos KN, Hu JC, Athanasiou KA. "Repair and tissue engineering techniques for articular cartilage." Nature Reviews Rheumatology. 2015.
-              {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=articular+cartilage+repair+tissue+engineering" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+              {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=articular+cartilage+repair+tissue+engineering" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
             </li>
             <li>
               Matricali GA, Dereymaeker GP, Luyten FP. "Donor site morbidity after articular cartilage repair procedures: a review." Acta Orthopaedica Belgica. 2010.
-              {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=cartilage+repair+donor+site+morbidity" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+              {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=cartilage+repair+donor+site+morbidity" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
             </li>
             <li>
               Verdonk R, Verdonk P, Huysse W, Forsyth R, Heinrichs EL. "Tissue ingrowth after implantation of a novel, biodegradable polyurethane scaffold for treatment of partial meniscal lesions." American Journal of Sports Medicine. 2011.
-              {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=polyurethane+scaffold+meniscal+lesions" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+              {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=polyurethane+scaffold+meniscal+lesions" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
             </li>
           </ol>
         </div>
           {/* Ameliyatsız Tedavi Internal Link */}
-          <div className="bg-blue-50 border-l-4 border-blue-700 p-6 my-8 rounded-r-lg">
+          <div className="bg-[#E6FAF8] border-l-4 border-blue-700 p-6 my-8 rounded-r-lg">
             <p className="text-gray-700">
               <strong>İlgili İçerik:</strong> Ameliyatsız tedavi seçenekleri hakkında daha fazla bilgi için{' '}
-              <a href="/ameliyatsiz-cozumler" className="text-blue-700 hover:text-blue-900 font-semibold hover:underline">
+              <a href="/ameliyatsiz-cozumler" className="text-[#01A899] hover:text-blue-900 font-semibold hover:underline">
                 ameliyatsız çözümler sayfamızı
               </a>{' '}
               ziyaret edebilirsiniz.
@@ -383,7 +383,7 @@ export default function HidrojelDizProteziPage() {
 
 
         {/* CTA Section */}
-        <div className="mt-16 bg-gradient-to-r from-blue-600 to-blue-800 rounded-2xl p-8 text-white">
+        <div className="mt-16 bg-gradient-to-r from-[#01CAB8] to-[#01867A] rounded-2xl p-8 text-white">
           <h2 className="text-3xl font-bold mb-4">Diz Protezi mi Düşünüyorsunuz?</h2>
           <p className="text-lg mb-6 text-blue-100">
             Diz artriti ve tedavi seçenekleri hakkında kapsamlı bilgi alın. Bursa'da modern diz protezi cerrahisi ve takip hizmetleri sunuyoruz.
@@ -391,13 +391,13 @@ export default function HidrojelDizProteziPage() {
           <div className="flex flex-col sm:flex-row gap-4">
             <Link
               href="/iletisim"
-              className="bg-white text-blue-600 px-8 py-3 rounded-lg font-semibold hover:bg-blue-50 transition text-center"
+              className="bg-white text-[#01CAB8] px-8 py-3 rounded-lg font-semibold hover:bg-[#E6FAF8] transition text-center"
             >
               Randevu Alın
             </Link>
             <Link
               href="/hizmetler/diz-protezi"
-              className="border-2 border-white text-white px-8 py-3 rounded-lg font-semibold hover:bg-blue-700 transition text-center"
+              className="border-2 border-white text-white px-8 py-3 rounded-lg font-semibold hover:bg-[#01A899] transition text-center"
             >
               Diz Protezi Hakkında
             </Link>
@@ -411,7 +411,7 @@ export default function HidrojelDizProteziPage() {
             <Link href="/blog/hidrojel-arastirmalari-son-hizla-devam-ediyor" className="group">
               <div className="border rounded-lg overflow-hidden hover:shadow-lg transition">
                 <div className="p-6">
-                  <h3 className="font-semibold text-gray-900 group-hover:text-blue-600 mb-2">
+                  <h3 className="font-semibold text-gray-900 group-hover:text-[#01CAB8] mb-2">
                     Hidrojel Araştırmaları
                   </h3>
                   <p className="text-gray-600 text-sm">
@@ -424,7 +424,7 @@ export default function HidrojelDizProteziPage() {
             <Link href="/blog/eklem-agrisi-bursa-dr-ozgur-oktay-nar-ortopedi-bursa" className="group">
               <div className="border rounded-lg overflow-hidden hover:shadow-lg transition">
                 <div className="p-6">
-                  <h3 className="font-semibold text-gray-900 group-hover:text-blue-600 mb-2">
+                  <h3 className="font-semibold text-gray-900 group-hover:text-[#01CAB8] mb-2">
                     Eklem Ağrısı ve Tedavisi
                   </h3>
                   <p className="text-gray-600 text-sm">
@@ -437,7 +437,7 @@ export default function HidrojelDizProteziPage() {
             <Link href="/blog/ayak-bilegi-artroskopisi-nedir" className="group">
               <div className="border rounded-lg overflow-hidden hover:shadow-lg transition">
                 <div className="p-6">
-                  <h3 className="font-semibold text-gray-900 group-hover:text-blue-600 mb-2">
+                  <h3 className="font-semibold text-gray-900 group-hover:text-[#01CAB8] mb-2">
                     Minimal İnvaziv Cerrahi
                   </h3>
                   <p className="text-gray-600 text-sm">

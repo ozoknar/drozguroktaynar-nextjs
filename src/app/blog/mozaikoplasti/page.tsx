@@ -165,8 +165,8 @@ export default function MozaikoplastiPage() {
               Hangi Durumlarda Mozaikoplasti Uygulanır?
             </h2>
             <div className="grid md:grid-cols-2 gap-6">
-              <div className="bg-blue-50 p-6 rounded-xl">
-                <h3 className="font-semibold text-blue-800 mb-3">Uygun Durumlar</h3>
+              <div className="bg-[#E6FAF8] p-6 rounded-xl">
+                <h3 className="font-semibold text-[#01867A] mb-3">Uygun Durumlar</h3>
                 <ul className="space-y-2 text-gray-700">
                   <li>• Travmaya bağlı kıkırdak kayıpları</li>
                   <li>• Spor yaralanmaları sonrası kıkırdak defektleri</li>
@@ -294,23 +294,23 @@ export default function MozaikoplastiPage() {
             <ol className="space-y-3 text-sm text-gray-700">
               <li>
                 <span className="font-medium">1.</span> Hangody L, et al. <em>"Mosaicplasty for the treatment of articular cartilage defects: application in clinical practice."</em> Orthopedics. 1998;21(7):751-6.{' '}
-                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=osteochondral+autograft+transplantation" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=osteochondral+autograft+transplantation" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <span className="font-medium">2.</span> Hangody L, Füles P. <em>"Autologous osteochondral mosaicplasty for the treatment of full-thickness defects."</em> Oper Tech Orthop. 2003;13(1):14-24.{' '}
-                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=osteochondral+autograft+transplantation" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=osteochondral+autograft+transplantation" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <span className="font-medium">3.</span> Solheim E, et al. <em>"Results at 10-14 years after mosaicplasty in articular cartilage defects in the knee."</em> Knee Surg Sports Traumatol Arthrosc. 2013;21(8):1876-83.{' '}
-                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=osteochondral+autograft+transplantation" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=osteochondral+autograft+transplantation" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <span className="font-medium">4.</span> Gudas R, et al. <em>"A prospective randomized clinical study of mosaic osteochondral autologous transplantation versus microfracture."</em> Arthroscopy. 2005;21(9):1066-75.{' '}
-                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=osteochondral+autograft+transplantation" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=osteochondral+autograft+transplantation" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <span className="font-medium">5.</span> Marcacci M, et al. <em>"Articular cartilage engineering with Hyalograft C: 3-year clinical results."</em> Clin Orthop Relat Res. 2005;435:96-105.{' '}
-                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=osteochondral+autograft+transplantation" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=osteochondral+autograft+transplantation" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
             </ol>
             
@@ -322,23 +322,23 @@ export default function MozaikoplastiPage() {
               <ol start={6} className="space-y-3 text-sm text-gray-700 mt-4 pt-4 border-t">
                 <li>
                   <span className="font-medium">6.</span> Bentley G, et al. <em>"A prospective, randomised comparison of autologous chondrocyte implantation versus mosaicplasty."</em> J Bone Joint Surg Br. 2003;85(2):223-30.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=osteochondral+autograft+transplantation" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=osteochondral+autograft+transplantation" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
                 </li>
                 <li>
                   <span className="font-medium">7.</span> Hangody L, et al. <em>"Clinical experiences with autologous osteochondral mosaicplasty in an athletic population."</em> Am J Sports Med. 2010;38(6):1125-33.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=osteochondral+autograft+transplantation" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=osteochondral+autograft+transplantation" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
                 </li>
                 <li>
                   <span className="font-medium">8.</span> Horas U, et al. <em>"Autologous chondrocyte implantation and osteochondral cylinder transplantation in cartilage repair."</em> J Bone Joint Surg Am. 2003;85(2):185-92.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=osteochondral+autograft+transplantation" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=osteochondral+autograft+transplantation" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
                 </li>
                 <li>
                   <span className="font-medium">9.</span> Krych AJ, et al. <em>"Return to athletic activity after osteochondral allograft transplantation in the knee."</em> Am J Sports Med. 2012;40(5):1053-9.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=osteochondral+autograft+transplantation" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=osteochondral+autograft+transplantation" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
                 </li>
                 <li>
                   <span className="font-medium">10.</span> Mithoefer K, et al. <em>"Clinical efficacy of the microfracture technique for articular cartilage repair."</em> Am J Sports Med. 2009;37(10):2053-63.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=osteochondral+autograft+transplantation" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=osteochondral+autograft+transplantation" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
                 </li>
               </ol>
             </details>

@@ -71,9 +71,9 @@ export default function AsilTendonuYirtigiPage() {
       <article className="max-w-4xl mx-auto px-4 py-8">
         {/* Breadcrumb */}
         <nav className="text-sm text-gray-500 mb-6">
-          <Link href="/" className="hover:text-blue-600">Ana Sayfa</Link>
+          <Link href="/" className="hover:text-[#01CAB8]">Ana Sayfa</Link>
           <span className="mx-2">/</span>
-          <Link href="/blog" className="hover:text-blue-600">Blog</Link>
+          <Link href="/blog" className="hover:text-[#01CAB8]">Blog</Link>
           <span className="mx-2">/</span>
           <span className="text-gray-700">Aşil Tendonu Yırtığı Nasıl Tedavi Edilir?</span>
         </nav>
@@ -122,11 +122,11 @@ export default function AsilTendonuYirtigiPage() {
             </p>
             <ul className="space-y-2 mt-3">
               <li className="flex items-start">
-                <span className="text-blue-500 mr-2">•</span>
+                <span className="text-[#1AD2C4] mr-2">•</span>
                 <span><strong>Tam yırtık (rüptür):</strong> Tendon tamamen kopar, ayak bileği fonksiyonunu büyük ölçüde kaybeder</span>
               </li>
               <li className="flex items-start">
-                <span className="text-blue-500 mr-2">•</span>
+                <span className="text-[#1AD2C4] mr-2">•</span>
                 <span><strong>Kısmi yırtık:</strong> Tendon liflerinin bir kısmı kopar, kısmi fonksiyon devam eder</span>
               </li>
             </ul>
@@ -176,15 +176,15 @@ export default function AsilTendonuYirtigiPage() {
             </p>
             <ul className="space-y-2 mt-3">
               <li className="flex items-start">
-                <span className="text-blue-500 mr-2">•</span>
+                <span className="text-[#1AD2C4] mr-2">•</span>
                 <span><strong>Alçılama veya bot:</strong> 6-8 hafta ayak parmak ucunda durur pozisyonda tutulur</span>
               </li>
               <li className="flex items-start">
-                <span className="text-blue-500 mr-2">•</span>
+                <span className="text-[#1AD2C4] mr-2">•</span>
                 <span><strong>Fizik tedavi:</strong> Kas gücü ve esnekliği geri kazanma programı</span>
               </li>
               <li className="flex items-start">
-                <span className="text-blue-500 mr-2">•</span>
+                <span className="text-[#1AD2C4] mr-2">•</span>
                 <span><strong>Aşamalı yük verme:</strong> Kontrollü olarak ağırlık artırımı</span>
               </li>
             </ul>
@@ -198,15 +198,15 @@ export default function AsilTendonuYirtigiPage() {
             </p>
             <ul className="space-y-2 mt-3">
               <li className="flex items-start">
-                <span className="text-blue-500 mr-2">•</span>
+                <span className="text-[#1AD2C4] mr-2">•</span>
                 <span><strong>Açık onarım:</strong> Tendon uçları dikişlerle birleştirilir, güçlü iyileşme sağlar</span>
               </li>
               <li className="flex items-start">
-                <span className="text-blue-500 mr-2">•</span>
+                <span className="text-[#1AD2C4] mr-2">•</span>
                 <span><strong>Perkütan (kapalı) onarım:</strong> Küçük kesilerle minimal invaziv yaklaşım</span>
               </li>
               <li className="flex items-start">
-                <span className="text-blue-500 mr-2">•</span>
+                <span className="text-[#1AD2C4] mr-2">•</span>
                 <span><strong>Tendon transferi:</strong> Kronik veya ihmal edilmiş yırtıklarda diğer tendonlar kullanılır</span>
               </li>
             </ul>
@@ -220,15 +220,15 @@ export default function AsilTendonuYirtigiPage() {
             </p>
             <ul className="space-y-2 mt-3">
               <li className="flex items-start">
-                <span className="text-blue-500 mr-2">•</span>
+                <span className="text-[#1AD2C4] mr-2">•</span>
                 <span>Erken dönem: Pasif hareket ve şişlik kontrolü</span>
               </li>
               <li className="flex items-start">
-                <span className="text-blue-500 mr-2">•</span>
+                <span className="text-[#1AD2C4] mr-2">•</span>
                 <span>Orta dönem: Aktif hareket ve kuvvetlendirme egzersizleri</span>
               </li>
               <li className="flex items-start">
-                <span className="text-blue-500 mr-2">•</span>
+                <span className="text-[#1AD2C4] mr-2">•</span>
                 <span>İleri dönem: Spora dönüş programı, pliometrik egzersizler</span>
               </li>
             </ul>
@@ -282,7 +282,7 @@ export default function AsilTendonuYirtigiPage() {
                   href="https://pubmed.ncbi.nlm.nih.gov/?term=achilles+tendon+rupture+treatment" 
                   target="_blank" 
                   rel="noopener noreferrer" 
-                  className="text-blue-600 hover:underline ml-1"
+                  className="text-[#01CAB8] hover:underline ml-1"
                 >
                   [PubMed Ara]
                 </a>
@@ -293,7 +293,7 @@ export default function AsilTendonuYirtigiPage() {
                   href="https://pubmed.ncbi.nlm.nih.gov/?term=achilles+tendon+operative+nonoperative" 
                   target="_blank" 
                   rel="noopener noreferrer" 
-                  className="text-blue-600 hover:underline ml-1"
+                  className="text-[#01CAB8] hover:underline ml-1"
                 >
                   [PubMed Ara]
                 </a>
@@ -304,7 +304,7 @@ export default function AsilTendonuYirtigiPage() {
                   href="https://pubmed.ncbi.nlm.nih.gov/?term=achilles+rupture+meta+analysis" 
                   target="_blank" 
                   rel="noopener noreferrer" 
-                  className="text-blue-600 hover:underline ml-1"
+                  className="text-[#01CAB8] hover:underline ml-1"
                 >
                   [PubMed Ara]
                 </a>
@@ -314,12 +314,12 @@ export default function AsilTendonuYirtigiPage() {
 
           {/* Section 7: Internal Link - ZORUNLU! */}
           <section className="mb-12">
-            <div className="bg-blue-50 border-l-4 border-blue-500 p-6 rounded-r-lg">
+            <div className="bg-[#E6FAF8] border-l-4 border-[#1AD2C4] p-6 rounded-r-lg">
               <p className="text-gray-700">
                 <strong>İlgili İçerik:</strong> Ameliyatsız tedavi seçenekleri hakkında daha fazla bilgi için{' '}
                 <Link 
                   href="/ameliyatsiz-cozumler" 
-                  className="text-blue-600 hover:text-blue-800 font-semibold hover:underline"
+                  className="text-[#01CAB8] hover:text-[#01867A] font-semibold hover:underline"
                 >
                   ameliyatsız çözümler sayfamızı
                 </Link>{' '}
@@ -346,12 +346,12 @@ export default function AsilTendonuYirtigiPage() {
         </div>
 
         {/* CTA */}
-        <div className="bg-gradient-to-r from-blue-600 to-blue-700 rounded-xl p-8 text-center text-white mt-12">
+        <div className="bg-gradient-to-r from-[#01CAB8] to-[#01A899] rounded-xl p-8 text-center text-white mt-12">
           <h2 className="text-2xl font-bold mb-4">Randevu Almak İster misiniz?</h2>
           <p className="mb-6">Uzman değerlendirmesi için hemen iletişime geçin.</p>
           <Link 
             href="/iletisim" 
-            className="inline-block bg-white text-blue-600 px-8 py-3 rounded-lg font-semibold hover:bg-gray-100 transition"
+            className="inline-block bg-white text-[#01CAB8] px-8 py-3 rounded-lg font-semibold hover:bg-gray-100 transition"
           >
             Randevu Al
           </Link>

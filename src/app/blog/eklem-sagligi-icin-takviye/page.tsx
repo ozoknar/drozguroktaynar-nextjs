@@ -225,23 +225,23 @@ export default function EklemSagligiIcinTakviyePage() {
                   <strong>Eklem sağlığı için takviye</strong> kullanımı, özellikle yaşla birlikte artan ağrı ve sertlik şikâyetlerini hafifletmek adına oldukça etkilidir. Bu takviyeler genellikle kıkırdak dokuyu besleyen, iltihabı azaltan ve eklem sıvısını koruyan içeriklere sahiptir.
                 </p>
                 <div className="space-y-4 mb-6">
-                  <div className="border-l-4 border-blue-600 pl-4 bg-blue-50 p-4 rounded-r-lg">
+                  <div className="border-l-4 border-[#01CAB8] pl-4 bg-[#E6FAF8] p-4 rounded-r-lg">
                     <h4 className="font-semibold text-gray-900 mb-1">Glukozamin Sülfat & Kondroitin Sülfat</h4>
                     <p className="text-gray-700 text-sm">Kıkırdak yapı taşlarıdır, kıkırdak yıkımını azaltır ve yeniden yapılanmasına katkı sağlar.</p>
                   </div>
-                  <div className="border-l-4 border-blue-600 pl-4 bg-blue-50 p-4 rounded-r-lg">
+                  <div className="border-l-4 border-[#01CAB8] pl-4 bg-[#E6FAF8] p-4 rounded-r-lg">
                     <h4 className="font-semibold text-gray-900 mb-1">MSM (Metilsülfonilmetan)</h4>
                     <p className="text-gray-700 text-sm">Anti-enflamatuvar etkisiyle ağrıyı azaltır, bağ dokularını destekler.</p>
                   </div>
-                  <div className="border-l-4 border-blue-600 pl-4 bg-blue-50 p-4 rounded-r-lg">
+                  <div className="border-l-4 border-[#01CAB8] pl-4 bg-[#E6FAF8] p-4 rounded-r-lg">
                     <h4 className="font-semibold text-gray-900 mb-1">Kollajen Tip II</h4>
                     <p className="text-gray-700 text-sm">Eklem kıkırdağının temel bileşenidir, sertlik ve ağrıyı azaltır.</p>
                   </div>
-                  <div className="border-l-4 border-blue-600 pl-4 bg-blue-50 p-4 rounded-r-lg">
+                  <div className="border-l-4 border-[#01CAB8] pl-4 bg-[#E6FAF8] p-4 rounded-r-lg">
                     <h4 className="font-semibold text-gray-900 mb-1">Omega-3 Yağ Asitleri</h4>
                     <p className="text-gray-700 text-sm">Eklem iltihabını baskılar, hareket kabiliyetini artırır.</p>
                   </div>
-                  <div className="border-l-4 border-blue-600 pl-4 bg-blue-50 p-4 rounded-r-lg">
+                  <div className="border-l-4 border-[#01CAB8] pl-4 bg-[#E6FAF8] p-4 rounded-r-lg">
                     <h4 className="font-semibold text-gray-900 mb-1">Vitamin D3 ve K2</h4>
                     <p className="text-gray-700 text-sm">Kemik ve eklem bütünlüğü için vazgeçilmezdir, kalsiyumun doğru yönlenmesini sağlar.</p>
                   </div>

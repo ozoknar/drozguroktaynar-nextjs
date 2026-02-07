@@ -71,9 +71,9 @@ export default function KalcaArtroskopisiPage() {
       <article className="max-w-4xl mx-auto px-4 py-8">
         {/* Breadcrumb */}
         <nav className="text-sm text-gray-500 mb-6">
-          <Link href="/" className="hover:text-blue-600">Ana Sayfa</Link>
+          <Link href="/" className="hover:text-[#01CAB8]">Ana Sayfa</Link>
           <span className="mx-2">/</span>
-          <Link href="/blog" className="hover:text-blue-600">Blog</Link>
+          <Link href="/blog" className="hover:text-[#01CAB8]">Blog</Link>
           <span className="mx-2">/</span>
           <span className="text-gray-700">Kalça Artroskopisi Nedir</span>
         </nav>
@@ -124,23 +124,23 @@ export default function KalcaArtroskopisiPage() {
             <div className="bg-gray-50 p-6 rounded-lg mb-4">
               <ul className="space-y-2">
                 <li className="flex items-start">
-                  <span className="text-blue-500 mr-2">•</span>
+                  <span className="text-[#1AD2C4] mr-2">•</span>
                   <span><strong>Minimal invaziv:</strong> Küçük kesiler (portal) kullanılır</span>
                 </li>
                 <li className="flex items-start">
-                  <span className="text-blue-500 mr-2">•</span>
+                  <span className="text-[#1AD2C4] mr-2">•</span>
                   <span><strong>Görüntüleme:</strong> HD kameralar ile detaylı görüntü</span>
                 </li>
                 <li className="flex items-start">
-                  <span className="text-blue-500 mr-2">•</span>
+                  <span className="text-[#1AD2C4] mr-2">•</span>
                   <span><strong>Traksiyon:</strong> Eklem aralığını açmak için özel masa kullanılır</span>
                 </li>
                 <li className="flex items-start">
-                  <span className="text-blue-500 mr-2">•</span>
+                  <span className="text-[#1AD2C4] mr-2">•</span>
                   <span><strong>Sıvı ortamı:</strong> Eklem içi genişletmek ve görüş sağlamak için steril sıvı infüzyonu</span>
                 </li>
                 <li className="flex items-start">
-                  <span className="text-blue-500 mr-2">•</span>
+                  <span className="text-[#1AD2C4] mr-2">•</span>
                   <span><strong>Özel aletler:</strong> Shavers, burrs, RF probes gibi özelleşmiş araçlar</span>
                 </li>
               </ul>
@@ -230,7 +230,7 @@ export default function KalcaArtroskopisiPage() {
             <h2 className="text-3xl font-bold text-gray-900 mb-4">Ameliyat Süreci</h2>
             
             <div className="space-y-6">
-              <div className="bg-blue-50 p-6 rounded-lg">
+              <div className="bg-[#E6FAF8] p-6 rounded-lg">
                 <h3 className="text-lg font-semibold text-gray-900 mb-2">1. Ameliyat Öncesi Hazırlık</h3>
                 <ul className="text-gray-700 space-y-1">
                   <li>• Preoperatif değerlendirme (MR, röntgen, kan testleri)</li>
@@ -241,7 +241,7 @@ export default function KalcaArtroskopisiPage() {
                 </ul>
               </div>
 
-              <div className="bg-blue-50 p-6 rounded-lg">
+              <div className="bg-[#E6FAF8] p-6 rounded-lg">
                 <h3 className="text-lg font-semibold text-gray-900 mb-2">2. Anestezi</h3>
                 <p className="text-gray-700 mb-2">
                   <strong>Genel anestezi + periferik sinir bloğu:</strong> Ameliyat sırasında hasta uyutulur, 
@@ -249,7 +249,7 @@ export default function KalcaArtroskopisiPage() {
                 </p>
               </div>
 
-              <div className="bg-blue-50 p-6 rounded-lg">
+              <div className="bg-[#E6FAF8] p-6 rounded-lg">
                 <h3 className="text-lg font-semibold text-gray-900 mb-2">3. Pozisyonlama</h3>
                 <p className="text-gray-700">
                   <strong>Supine (sırtüstü) veya lateral (yan yatar) pozisyon:</strong> Özel traksiyon masasında, 
@@ -257,7 +257,7 @@ export default function KalcaArtroskopisiPage() {
                 </p>
               </div>
 
-              <div className="bg-blue-50 p-6 rounded-lg">
+              <div className="bg-[#E6FAF8] p-6 rounded-lg">
                 <h3 className="text-lg font-semibold text-gray-900 mb-2">4. Portal (Giriş) Oluşturma</h3>
                 <p className="text-gray-700 mb-2">
                   Floroskopi (röntgen) kılavuzluğunda 2-4 adet küçük cilt kesisi (portal) açılır:
@@ -269,7 +269,7 @@ export default function KalcaArtroskopisiPage() {
                 </ul>
               </div>
 
-              <div className="bg-blue-50 p-6 rounded-lg">
+              <div className="bg-[#E6FAF8] p-6 rounded-lg">
                 <h3 className="text-lg font-semibold text-gray-900 mb-2">5. Tanısal Artroskopi</h3>
                 <p className="text-gray-700">
                   Eklem içi sistematik olarak incelenir: labrum, kıkırdak, ligamentum teres, sinoviyal doku, 
@@ -277,7 +277,7 @@ export default function KalcaArtroskopisiPage() {
                 </p>
               </div>
 
-              <div className="bg-blue-50 p-6 rounded-lg">
+              <div className="bg-[#E6FAF8] p-6 rounded-lg">
                 <h3 className="text-lg font-semibold text-gray-900 mb-2">6. Cerrahi Prosedürler</h3>
                 <ul className="text-gray-700 space-y-2">
                   <li><strong>Labral tamir:</strong> Yırtık labrum eklem kıkırdağına dikilir (anchor kullanılarak)</li>
@@ -289,7 +289,7 @@ export default function KalcaArtroskopisiPage() {
                 </ul>
               </div>
 
-              <div className="bg-blue-50 p-6 rounded-lg">
+              <div className="bg-[#E6FAF8] p-6 rounded-lg">
                 <h3 className="text-lg font-semibold text-gray-900 mb-2">7. Kapanış</h3>
                 <p className="text-gray-700">
                   Portal yerleri birkaç dikiş ile kapatılır. Dren genellikle gerekmez. Steril pansuman yapılır.
@@ -519,7 +519,7 @@ export default function KalcaArtroskopisiPage() {
                   href="https://pubmed.ncbi.nlm.nih.gov/?term=hip+arthroscopy+femoroacetabular+impingement+UK+FASHIoN" 
                   target="_blank" 
                   rel="noopener noreferrer" 
-                  className="text-blue-600 hover:underline ml-1"
+                  className="text-[#01CAB8] hover:underline ml-1"
                 >
                   [PubMed Ara]
                 </a>
@@ -531,7 +531,7 @@ export default function KalcaArtroskopisiPage() {
                   href="https://pubmed.ncbi.nlm.nih.gov/?term=arthroscopic+femoroacetabular+impingement+surgical+indications" 
                   target="_blank" 
                   rel="noopener noreferrer" 
-                  className="text-blue-600 hover:underline ml-1"
+                  className="text-[#01CAB8] hover:underline ml-1"
                 >
                   [PubMed Ara]
                 </a>
@@ -542,7 +542,7 @@ export default function KalcaArtroskopisiPage() {
                   href="https://pubmed.ncbi.nlm.nih.gov/?term=hip+arthroscopy+complications+reoperations+systematic+review" 
                   target="_blank" 
                   rel="noopener noreferrer" 
-                  className="text-blue-600 hover:underline ml-1"
+                  className="text-[#01CAB8] hover:underline ml-1"
                 >
                   [PubMed Ara]
                 </a>
@@ -552,12 +552,12 @@ export default function KalcaArtroskopisiPage() {
 
           {/* Section 9: Internal Link - ZORUNLU! */}
           <section className="mb-12">
-            <div className="bg-blue-50 border-l-4 border-blue-500 p-6 rounded-r-lg">
+            <div className="bg-[#E6FAF8] border-l-4 border-[#1AD2C4] p-6 rounded-r-lg">
               <p className="text-gray-700">
                 <strong>İlgili İçerik:</strong> Ameliyatsız tedavi seçenekleri hakkında daha fazla bilgi için{' '}
                 <Link 
                   href="/ameliyatsiz-cozumler" 
-                  className="text-blue-600 hover:text-blue-800 font-semibold hover:underline"
+                  className="text-[#01CAB8] hover:text-[#01867A] font-semibold hover:underline"
                 >
                   ameliyatsız çözümler sayfamızı
                 </Link>{' '}
@@ -583,12 +583,12 @@ export default function KalcaArtroskopisiPage() {
         </div>
 
         {/* CTA */}
-        <div className="bg-gradient-to-r from-blue-600 to-blue-700 rounded-xl p-8 text-center text-white mt-12">
+        <div className="bg-gradient-to-r from-[#01CAB8] to-[#01A899] rounded-xl p-8 text-center text-white mt-12">
           <h2 className="text-2xl font-bold mb-4">Kalça Artroskopisi Hakkında Detaylı Bilgi</h2>
           <p className="mb-6">Kalça problemleriniz için artroskopi uygunluğunu değerlendirmek için randevu alın.</p>
           <Link 
             href="/iletisim" 
-            className="inline-block bg-white text-blue-600 px-8 py-3 rounded-lg font-semibold hover:bg-gray-100 transition"
+            className="inline-block bg-white text-[#01CAB8] px-8 py-3 rounded-lg font-semibold hover:bg-gray-100 transition"
           >
             Randevu Al
           </Link>

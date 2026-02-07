@@ -71,9 +71,9 @@ export default function BlogPage() {
       <article className="max-w-4xl mx-auto px-4 py-8">
         {/* Breadcrumb */}
         <nav className="text-sm text-gray-500 mb-6">
-          <Link href="/" className="hover:text-blue-600">Ana Sayfa</Link>
+          <Link href="/" className="hover:text-[#01CAB8]">Ana Sayfa</Link>
           <span className="mx-2">/</span>
-          <Link href="/blog" className="hover:text-blue-600">Blog</Link>
+          <Link href="/blog" className="hover:text-[#01CAB8]">Blog</Link>
           <span className="mx-2">/</span>
           <span className="text-gray-700">Total Diz Protezi Nedir? Tedavisi Nasıl Yapılır?</span>
         </nav>
@@ -114,7 +114,7 @@ export default function BlogPage() {
               Total diz protezi, aşınmış ve hasar görmüş diz eklem yüzeylerinin metal ve polietilen (yüksek kaliteli plastik) implantlarla değiştirilmesi işlemidir. Cerrahi sırasında femur (uyluk kemiği), tibia (kaval kemiği) ve genellikle patella (dizkapağı) altında kalan eklem yüzeyleri kesilir ve protez bileşenleri yerleştirilir.
             </p>
 
-            <div className="bg-blue-50 p-6 rounded-lg mb-4">
+            <div className="bg-[#E6FAF8] p-6 rounded-lg mb-4">
               <h3 className="text-xl font-semibold text-gray-900 mb-3">Diz Protezi Bileşenleri</h3>
               <ul className="space-y-3 text-gray-700">
                 <li>
@@ -306,7 +306,7 @@ export default function BlogPage() {
               </div>
             </div>
 
-            <div className="bg-blue-100 p-6 rounded-lg">
+            <div className="bg-[#B3F0EB] p-6 rounded-lg">
               <h3 className="text-xl font-semibold text-gray-900 mb-3">Ameliyat İstatistikleri</h3>
               <ul className="space-y-2 text-gray-700">
                 <li>• <strong>Süre:</strong> 60-90 dakika (tek taraflı), 120-150 dakika (bilateral)</li>
@@ -451,7 +451,7 @@ export default function BlogPage() {
                   href="https://pubmed.ncbi.nlm.nih.gov/?term=kurtz+projections+hip+knee+arthroplasty+2030" 
                   target="_blank" 
                   rel="noopener noreferrer" 
-                  className="text-blue-600 hover:underline ml-1"
+                  className="text-[#01CAB8] hover:underline ml-1"
                 >
                   [PubMed Ara]
                 </a>
@@ -462,7 +462,7 @@ export default function BlogPage() {
                   href="https://pubmed.ncbi.nlm.nih.gov/?term=insall+total+knee+arthroplasty+technique" 
                   target="_blank" 
                   rel="noopener noreferrer" 
-                  className="text-blue-600 hover:underline ml-1"
+                  className="text-[#01CAB8] hover:underline ml-1"
                 >
                   [PubMed Ara]
                 </a>
@@ -473,7 +473,7 @@ export default function BlogPage() {
                   href="https://pubmed.ncbi.nlm.nih.gov/?term=ranawat+total+condylar+knee+survivorship" 
                   target="_blank" 
                   rel="noopener noreferrer" 
-                  className="text-blue-600 hover:underline ml-1"
+                  className="text-[#01CAB8] hover:underline ml-1"
                 >
                   [PubMed Ara]
                 </a>
@@ -484,7 +484,7 @@ export default function BlogPage() {
                   href="https://pubmed.ncbi.nlm.nih.gov/?term=healy+complications+total+knee+arthroplasty+knee+society" 
                   target="_blank" 
                   rel="noopener noreferrer" 
-                  className="text-blue-600 hover:underline ml-1"
+                  className="text-[#01CAB8] hover:underline ml-1"
                 >
                   [PubMed Ara]
                 </a>
@@ -494,12 +494,12 @@ export default function BlogPage() {
 
           {/* Section 8: Internal Link - ZORUNLU! */}
           <section className="mb-12">
-            <div className="bg-blue-50 border-l-4 border-blue-500 p-6 rounded-r-lg">
+            <div className="bg-[#E6FAF8] border-l-4 border-[#1AD2C4] p-6 rounded-r-lg">
               <p className="text-gray-700">
                 <strong>İlgili İçerik:</strong> Diz ağrısı için protez dışında tedavi seçenekleri hakkında bilgi almak isterseniz{' '}
                 <Link 
                   href="/ameliyatsiz-cozumler" 
-                  className="text-blue-600 hover:text-blue-800 font-semibold hover:underline"
+                  className="text-[#01CAB8] hover:text-[#01867A] font-semibold hover:underline"
                 >
                   ameliyatsız çözümler sayfamızı
                 </Link>{' '}
@@ -522,12 +522,12 @@ export default function BlogPage() {
         </div>
 
         {/* CTA */}
-        <div className="bg-gradient-to-r from-blue-600 to-blue-700 rounded-xl p-8 text-center text-white mt-12">
+        <div className="bg-gradient-to-r from-[#01CAB8] to-[#01A899] rounded-xl p-8 text-center text-white mt-12">
           <h2 className="text-2xl font-bold mb-4">Diz Protezi Hakkında Daha Fazla Bilgi</h2>
           <p className="mb-6">Size özel değerlendirme ve tedavi planı için randevu alın.</p>
           <Link 
             href="/iletisim" 
-            className="inline-block bg-white text-blue-600 px-8 py-3 rounded-lg font-semibold hover:bg-gray-100 transition"
+            className="inline-block bg-white text-[#01CAB8] px-8 py-3 rounded-lg font-semibold hover:bg-gray-100 transition"
           >
             Hemen Randevu Al
           </Link>

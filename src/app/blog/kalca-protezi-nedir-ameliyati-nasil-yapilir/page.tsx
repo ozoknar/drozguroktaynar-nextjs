@@ -71,9 +71,9 @@ export default function KalcaProteziPage() {
       <article className="max-w-4xl mx-auto px-4 py-8">
         {/* Breadcrumb */}
         <nav className="text-sm text-gray-500 mb-6">
-          <Link href="/" className="hover:text-blue-600">Ana Sayfa</Link>
+          <Link href="/" className="hover:text-[#01CAB8]">Ana Sayfa</Link>
           <span className="mx-2">/</span>
-          <Link href="/blog" className="hover:text-blue-600">Blog</Link>
+          <Link href="/blog" className="hover:text-[#01CAB8]">Blog</Link>
           <span className="mx-2">/</span>
           <span className="text-gray-700">Kalça Protezi Nedir - Ameliyatı Nasıl Yapılır</span>
         </nav>
@@ -124,7 +124,7 @@ export default function KalcaProteziPage() {
             <div className="bg-gray-50 p-6 rounded-lg mb-4">
               <ul className="space-y-3">
                 <li className="flex items-start">
-                  <span className="text-blue-500 mr-2">1.</span>
+                  <span className="text-[#1AD2C4] mr-2">1.</span>
                   <div>
                     <strong>Asetabular (Kalça Çukuru) Bileşeni:</strong>
                     <p className="text-gray-600 text-sm mt-1">
@@ -133,7 +133,7 @@ export default function KalcaProteziPage() {
                   </div>
                 </li>
                 <li className="flex items-start">
-                  <span className="text-blue-500 mr-2">2.</span>
+                  <span className="text-[#1AD2C4] mr-2">2.</span>
                   <div>
                     <strong>Femoral (Uyluk Kemiği) Bileşeni:</strong>
                     <p className="text-gray-600 text-sm mt-1">
@@ -142,7 +142,7 @@ export default function KalcaProteziPage() {
                   </div>
                 </li>
                 <li className="flex items-start">
-                  <span className="text-blue-500 mr-2">3.</span>
+                  <span className="text-[#1AD2C4] mr-2">3.</span>
                   <div>
                     <strong>Femoral Baş:</strong>
                     <p className="text-gray-600 text-sm mt-1">
@@ -151,7 +151,7 @@ export default function KalcaProteziPage() {
                   </div>
                 </li>
                 <li className="flex items-start">
-                  <span className="text-blue-500 mr-2">4.</span>
+                  <span className="text-[#1AD2C4] mr-2">4.</span>
                   <div>
                     <strong>Liner (Astar):</strong>
                     <p className="text-gray-600 text-sm mt-1">
@@ -164,7 +164,7 @@ export default function KalcaProteziPage() {
 
             <h3 className="text-2xl font-semibold text-gray-900 mb-3">Protez Tipleri</h3>
             <div className="space-y-4">
-              <div className="bg-blue-50 p-5 rounded-lg">
+              <div className="bg-[#E6FAF8] p-5 rounded-lg">
                 <h4 className="font-semibold text-gray-900 mb-2">1. Çimentolu Protez</h4>
                 <p className="text-gray-700">
                   Protez bileşenleri medikal kemik çimentosu (polimetil metakrilat - PMMA) ile kemiğe sabitlenir. 
@@ -172,7 +172,7 @@ export default function KalcaProteziPage() {
                 </p>
               </div>
 
-              <div className="bg-blue-50 p-5 rounded-lg">
+              <div className="bg-[#E6FAF8] p-5 rounded-lg">
                 <h4 className="font-semibold text-gray-900 mb-2">2. Çimentosuz Protez</h4>
                 <p className="text-gray-700">
                   Protez yüzeyi pürüzlü (porous) olup, kemik doğrudan proteze tutunarak (osseointegrasyon) sabitlenir. 
@@ -180,7 +180,7 @@ export default function KalcaProteziPage() {
                 </p>
               </div>
 
-              <div className="bg-blue-50 p-5 rounded-lg">
+              <div className="bg-[#E6FAF8] p-5 rounded-lg">
                 <h4 className="font-semibold text-gray-900 mb-2">3. Hibrit Protez</h4>
                 <p className="text-gray-700">
                   Asetabular komponent çimentosuz, femoral komponent çimentolu. Orta yaş grubu için uygun olabilir.
@@ -286,7 +286,7 @@ export default function KalcaProteziPage() {
 
             <h3 className="text-2xl font-semibold text-gray-900 mb-3">Ameliyat Adımları</h3>
             <div className="space-y-4">
-              <div className="bg-blue-50 p-5 rounded-lg">
+              <div className="bg-[#E6FAF8] p-5 rounded-lg">
                 <h4 className="font-semibold text-gray-900 mb-2">1. Anestezi</h4>
                 <p className="text-gray-700">
                   <strong>Genel anestezi</strong> (hasta uyutulur) veya <strong>spinal/epidural anestezi</strong> 
@@ -294,14 +294,14 @@ export default function KalcaProteziPage() {
                 </p>
               </div>
 
-              <div className="bg-blue-50 p-5 rounded-lg">
+              <div className="bg-[#E6FAF8] p-5 rounded-lg">
                 <h4 className="font-semibold text-gray-900 mb-2">2. Pozisyonlama</h4>
                 <p className="text-gray-700">
                   Hasta lateral dekübit (yan yatar) veya supine (sırt üstü) pozisyonda ameliyat masasına yerleştirilir.
                 </p>
               </div>
 
-              <div className="bg-blue-50 p-5 rounded-lg">
+              <div className="bg-[#E6FAF8] p-5 rounded-lg">
                 <h4 className="font-semibold text-gray-900 mb-2">3. Cerrahi Yaklaşım</h4>
                 <p className="text-gray-700 mb-2">Birkaç farklı yaklaşım vardır:</p>
                 <ul className="text-gray-700 space-y-1 text-sm">
@@ -311,21 +311,21 @@ export default function KalcaProteziPage() {
                 </ul>
               </div>
 
-              <div className="bg-blue-50 p-5 rounded-lg">
+              <div className="bg-[#E6FAF8] p-5 rounded-lg">
                 <h4 className="font-semibold text-gray-900 mb-2">4. Eklem Açılması</h4>
                 <p className="text-gray-700">
                   Cilt ve yumuşak dokular açılır, eklem kapsülü kesilir, kalça çıkarılır (disloke edilir).
                 </p>
               </div>
 
-              <div className="bg-blue-50 p-5 rounded-lg">
+              <div className="bg-[#E6FAF8] p-5 rounded-lg">
                 <h4 className="font-semibold text-gray-900 mb-2">5. Femur Başı Rezeksiyonu</h4>
                 <p className="text-gray-700">
                   Hasarlı femur başı özel testere ile kesilir ve çıkarılır.
                 </p>
               </div>
 
-              <div className="bg-blue-50 p-5 rounded-lg">
+              <div className="bg-[#E6FAF8] p-5 rounded-lg">
                 <h4 className="font-semibold text-gray-900 mb-2">6. Asetabulum Hazırlığı</h4>
                 <p className="text-gray-700">
                   Kalça çukuru özel frezeler (reamer) ile protezin tam oturacağı boyuta getirilir. 
@@ -333,28 +333,28 @@ export default function KalcaProteziPage() {
                 </p>
               </div>
 
-              <div className="bg-blue-50 p-5 rounded-lg">
+              <div className="bg-[#E6FAF8] p-5 rounded-lg">
                 <h4 className="font-semibold text-gray-900 mb-2">7. Asetabular Komponentin Yerleştirilmesi</h4>
                 <p className="text-gray-700">
                   Metal kase press-fit (sıkı geçirme) veya çimento ile yerleştirilir. İçine polietilen veya seramik liner yerleştirilir.
                 </p>
               </div>
 
-              <div className="bg-blue-50 p-5 rounded-lg">
+              <div className="bg-[#E6FAF8] p-5 rounded-lg">
                 <h4 className="font-semibold text-gray-900 mb-2">8. Femur Kanalı Hazırlığı</h4>
                 <p className="text-gray-700">
                   Femur medüller kanalı özel rasp'lar (törpüler) ile genişletilir, stem için yatak hazırlanır.
                 </p>
               </div>
 
-              <div className="bg-blue-50 p-5 rounded-lg">
+              <div className="bg-[#E6FAF8] p-5 rounded-lg">
                 <h4 className="font-semibold text-gray-900 mb-2">9. Femoral Komponentin Yerleştirilmesi</h4>
                 <p className="text-gray-700">
                   Metal stem çimentolu veya çimentosuz olarak femur içine yerleştirilir. Üzerine femoral baş takılır.
                 </p>
               </div>
 
-              <div className="bg-blue-50 p-5 rounded-lg">
+              <div className="bg-[#E6FAF8] p-5 rounded-lg">
                 <h4 className="font-semibold text-gray-900 mb-2">10. Trial (Deneme) ve Redüksiyon</h4>
                 <p className="text-gray-700">
                   Deneme komponentler ile bacak uzunluğu, stabilite, hareket açıklığı test edilir. 
@@ -362,14 +362,14 @@ export default function KalcaProteziPage() {
                 </p>
               </div>
 
-              <div className="bg-blue-50 p-5 rounded-lg">
+              <div className="bg-[#E6FAF8] p-5 rounded-lg">
                 <h4 className="font-semibold text-gray-900 mb-2">11. Stabilite Kontrolü</h4>
                 <p className="text-gray-700">
                   Eklem stabilitesi, hareket açıklığı, bacak uzunluğu kontrol edilir. Gerekirse revizyonlar yapılır.
                 </p>
               </div>
 
-              <div className="bg-blue-50 p-5 rounded-lg">
+              <div className="bg-[#E6FAF8] p-5 rounded-lg">
                 <h4 className="font-semibold text-gray-900 mb-2">12. Kapanış</h4>
                 <p className="text-gray-700">
                   Eklem kapsülü tamir edilir, kaslar ve yumuşak dokular katlar halinde dikilir. 
@@ -463,22 +463,22 @@ export default function KalcaProteziPage() {
             </div>
 
             <h3 className="text-2xl font-semibold text-gray-900 mb-3">Uzun Dönem Beklentiler</h3>
-            <div className="bg-blue-50 p-6 rounded-lg">
+            <div className="bg-[#E6FAF8] p-6 rounded-lg">
               <ul className="space-y-2">
                 <li className="flex items-start">
-                  <span className="text-blue-600 mr-2">→</span>
+                  <span className="text-[#01CAB8] mr-2">→</span>
                   <span><strong>3 ay:</strong> Günlük aktivitelerin çoğunu yapabilme, ofis işine dönüş</span>
                 </li>
                 <li className="flex items-start">
-                  <span className="text-blue-600 mr-2">→</span>
+                  <span className="text-[#01CAB8] mr-2">→</span>
                   <span><strong>6 ay:</strong> Tam iyileşme, hafif sporlar (yüzme, golf, bisiklet)</span>
                 </li>
                 <li className="flex items-start">
-                  <span className="text-blue-600 mr-2">→</span>
+                  <span className="text-[#01CAB8] mr-2">→</span>
                   <span><strong>1 yıl:</strong> Maksimum fonksiyon kazanımı</span>
                 </li>
                 <li className="flex items-start">
-                  <span className="text-blue-600 mr-2">→</span>
+                  <span className="text-[#01CAB8] mr-2">→</span>
                   <span><strong>Protez ömrü:</strong> Modern protezler 15-25 yıl veya daha uzun süre dayanır (%90-95 survival rate 15 yılda)</span>
                 </li>
               </ul>
@@ -608,7 +608,7 @@ export default function KalcaProteziPage() {
                   href="https://pubmed.ncbi.nlm.nih.gov/?term=operation+century+total+hip+replacement+lancet" 
                   target="_blank" 
                   rel="noopener noreferrer" 
-                  className="text-blue-600 hover:underline ml-1"
+                  className="text-[#01CAB8] hover:underline ml-1"
                 >
                   [PubMed Ara]
                 </a>
@@ -619,7 +619,7 @@ export default function KalcaProteziPage() {
                   href="https://pubmed.ncbi.nlm.nih.gov/?term=hip+arthroplasty+lancet+2012" 
                   target="_blank" 
                   rel="noopener noreferrer" 
-                  className="text-blue-600 hover:underline ml-1"
+                  className="text-[#01CAB8] hover:underline ml-1"
                 >
                   [PubMed Ara]
                 </a>
@@ -630,7 +630,7 @@ export default function KalcaProteziPage() {
                   href="https://pubmed.ncbi.nlm.nih.gov/?term=hip+replacement+how+long+systematic+review+lancet" 
                   target="_blank" 
                   rel="noopener noreferrer" 
-                  className="text-blue-600 hover:underline ml-1"
+                  className="text-[#01CAB8] hover:underline ml-1"
                 >
                   [PubMed Ara]
                 </a>
@@ -640,12 +640,12 @@ export default function KalcaProteziPage() {
 
           {/* Section 9: Internal Link - ZORUNLU! */}
           <section className="mb-12">
-            <div className="bg-blue-50 border-l-4 border-blue-500 p-6 rounded-r-lg">
+            <div className="bg-[#E6FAF8] border-l-4 border-[#1AD2C4] p-6 rounded-r-lg">
               <p className="text-gray-700">
                 <strong>İlgili İçerik:</strong> Ameliyatsız tedavi seçenekleri hakkında daha fazla bilgi için{' '}
                 <Link 
                   href="/ameliyatsiz-cozumler" 
-                  className="text-blue-600 hover:text-blue-800 font-semibold hover:underline"
+                  className="text-[#01CAB8] hover:text-[#01867A] font-semibold hover:underline"
                 >
                   ameliyatsız çözümler sayfamızı
                 </Link>{' '}
@@ -671,12 +671,12 @@ export default function KalcaProteziPage() {
         </div>
 
         {/* CTA */}
-        <div className="bg-gradient-to-r from-blue-600 to-blue-700 rounded-xl p-8 text-center text-white mt-12">
+        <div className="bg-gradient-to-r from-[#01CAB8] to-[#01A899] rounded-xl p-8 text-center text-white mt-12">
           <h2 className="text-2xl font-bold mb-4">Kalça Protezi Hakkında Detaylı Bilgi</h2>
           <p className="mb-6">Kalça protezi adaylığınızı değerlendirmek ve tüm sorularınızı yanıtlamak için randevu alın.</p>
           <Link 
             href="/iletisim" 
-            className="inline-block bg-white text-blue-600 px-8 py-3 rounded-lg font-semibold hover:bg-gray-100 transition"
+            className="inline-block bg-white text-[#01CAB8] px-8 py-3 rounded-lg font-semibold hover:bg-gray-100 transition"
           >
             Randevu Al
           </Link>

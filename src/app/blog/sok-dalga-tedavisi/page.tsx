@@ -457,7 +457,7 @@ export default function SokDalgaTedaviPage() {
             </div>
 
             {/* CTA Section */}
-            <div className="bg-gradient-to-r from-teal-600 to-blue-700 rounded-lg p-8 text-center text-white">
+            <div className="bg-gradient-to-r from-teal-600 to-[#01A899] rounded-lg p-8 text-center text-white">
               <h2 className="text-3xl font-bold mb-4">Şok Dalga Tedavisi Hakkında Bilgi Alın</h2>
               <p className="text-xl mb-6 text-teal-100">
                 Kronik ağrılarınız için cerrahi olmayan çözüm: Şok dalga tedavisi. Detaylı bilgi ve randevu için bize ulaşın.

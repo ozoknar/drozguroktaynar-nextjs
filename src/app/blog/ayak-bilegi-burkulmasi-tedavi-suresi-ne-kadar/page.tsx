@@ -89,7 +89,7 @@ export default function AyakBilekBurkulmasiPage() {
             Burkulmaların %85'i <strong>lateral (dış yan) ligamentleri</strong> etkiler. Ayağın içe dönmesi (inversiyon) ile anterior talofibular ligament (ATFL), calcaneofibular ligament (CFL) ve posterior talofibular ligament (PTFL) yaralanır.
           </p>
 
-          <div className="bg-blue-50 border-l-4 border-blue-500 p-6 mb-6">
+          <div className="bg-[#E6FAF8] border-l-4 border-[#1AD2C4] p-6 mb-6">
             <h3 className="text-lg font-semibold text-gray-800 mb-2">🏃 Yaralanma Mekanizması</h3>
             <p className="text-gray-700 mb-2">
               Ayak bileği burkulması genellikle aşağıdaki durumlarda oluşur:
@@ -256,11 +256,11 @@ export default function AyakBilekBurkulmasiPage() {
             Grade 1 ve 2 burkulmalar genellikle ameliyatsız tedavi ile iyileşir:
           </p>
 
-          <div className="bg-blue-50 p-6 rounded-lg mb-6">
+          <div className="bg-[#E6FAF8] p-6 rounded-lg mb-6">
             <h4 className="text-lg font-semibold text-gray-800 mb-4">📅 Faz-Bazlı Rehabilitasyon Programı</h4>
             
             <div className="space-y-4">
-              <div className="border-l-4 border-blue-600 pl-4">
+              <div className="border-l-4 border-[#01CAB8] pl-4">
                 <h5 className="font-semibold text-gray-800">Faz 1: Akut Faz (0-7 gün)</h5>
                 <ul className="text-gray-700 text-sm space-y-1 mt-2">
                   <li>• RICE protokolü</li>
@@ -271,7 +271,7 @@ export default function AyakBilekBurkulmasiPage() {
                 </ul>
               </div>
 
-              <div className="border-l-4 border-blue-600 pl-4">
+              <div className="border-l-4 border-[#01CAB8] pl-4">
                 <h5 className="font-semibold text-gray-800">Faz 2: Erken Mobilizasyon (1-3 hafta)</h5>
                 <ul className="text-gray-700 text-sm space-y-1 mt-2">
                   <li>• Kademeli yük verme (tolere edilebildiğinde)</li>
@@ -282,7 +282,7 @@ export default function AyakBilekBurkulmasiPage() {
                 </ul>
               </div>
 
-              <div className="border-l-4 border-blue-600 pl-4">
+              <div className="border-l-4 border-[#01CAB8] pl-4">
                 <h5 className="font-semibold text-gray-800">Faz 3: Güçlendirme (3-6 hafta)</h5>
                 <ul className="text-gray-700 text-sm space-y-1 mt-2">
                   <li>• Progresif direnç egzersizleri</li>
@@ -293,7 +293,7 @@ export default function AyakBilekBurkulmasiPage() {
                 </ul>
               </div>
 
-              <div className="border-l-4 border-blue-600 pl-4">
+              <div className="border-l-4 border-[#01CAB8] pl-4">
                 <h5 className="font-semibold text-gray-800">Faz 4: Spora Dönüş (6+ hafta)</h5>
                 <ul className="text-gray-700 text-sm space-y-1 mt-2">
                   <li>• İleri seviye güçlendirme</li>
@@ -364,7 +364,7 @@ export default function AyakBilekBurkulmasiPage() {
             </ul>
           </div>
 
-          <div className="bg-blue-50 p-6 rounded-lg mb-6">
+          <div className="bg-[#E6FAF8] p-6 rounded-lg mb-6">
             <h3 className="text-lg font-semibold text-gray-800 mb-3">📋 Ottawa Ayak Bileği Kuralları</h3>
             <p className="text-gray-700 mb-2">
               Aşağıdaki durumlardan biri varsa <strong>röntgen çekilmeli</strong>:
@@ -399,7 +399,7 @@ export default function AyakBilekBurkulmasiPage() {
                   href="https://pubmed.ncbi.nlm.nih.gov/?term=ankle+sprain+treatment+guidelines" 
                   target="_blank" 
                   rel="nofollow noopener"
-                  className="text-blue-600 hover:text-blue-800"
+                  className="text-[#01CAB8] hover:text-[#01867A]"
                 >
                   Ayak Bileği Burkulması Tedavi Kılavuzları - PubMed Ara
                 </a>
@@ -409,7 +409,7 @@ export default function AyakBilekBurkulmasiPage() {
                   href="https://pubmed.ncbi.nlm.nih.gov/?term=lateral+ankle+ligament+injury" 
                   target="_blank" 
                   rel="nofollow noopener"
-                  className="text-blue-600 hover:text-blue-800"
+                  className="text-[#01CAB8] hover:text-[#01867A]"
                 >
                   Lateral Ayak Bileği Ligament Yaralanması - PubMed Ara
                 </a>
@@ -419,7 +419,7 @@ export default function AyakBilekBurkulmasiPage() {
                   href="https://pubmed.ncbi.nlm.nih.gov/?term=ankle+sprain+rehabilitation+protocol" 
                   target="_blank" 
                   rel="nofollow noopener"
-                  className="text-blue-600 hover:text-blue-800"
+                  className="text-[#01CAB8] hover:text-[#01867A]"
                 >
                   Ayak Bileği Burkulması Rehabilitasyon Protokolü - PubMed Ara
                 </a>
@@ -429,7 +429,7 @@ export default function AyakBilekBurkulmasiPage() {
                   href="https://pubmed.ncbi.nlm.nih.gov/?term=chronic+ankle+instability" 
                   target="_blank" 
                   rel="nofollow noopener"
-                  className="text-blue-600 hover:text-blue-800"
+                  className="text-[#01CAB8] hover:text-[#01867A]"
                 >
                   Kronik Ayak Bileği İnstabilitesi - PubMed Ara
                 </a>
@@ -439,7 +439,7 @@ export default function AyakBilekBurkulmasiPage() {
                   href="https://pubmed.ncbi.nlm.nih.gov/?term=Brostrom+procedure+ankle" 
                   target="_blank" 
                   rel="nofollow noopener"
-                  className="text-blue-600 hover:text-blue-800"
+                  className="text-[#01CAB8] hover:text-[#01867A]"
                 >
                   Broström Prosedürü (Ligament Onarımı) - PubMed Ara
                 </a>
@@ -449,7 +449,7 @@ export default function AyakBilekBurkulmasiPage() {
                   href="https://pubmed.ncbi.nlm.nih.gov/?term=proprioception+training+ankle" 
                   target="_blank" 
                   rel="nofollow noopener"
-                  className="text-blue-600 hover:text-blue-800"
+                  className="text-[#01CAB8] hover:text-[#01867A]"
                 >
                   Ayak Bileği Propriyosepsiyon Eğitimi - PubMed Ara
                 </a>
@@ -459,7 +459,7 @@ export default function AyakBilekBurkulmasiPage() {
                   href="https://pubmed.ncbi.nlm.nih.gov/?term=Ottawa+ankle+rules" 
                   target="_blank" 
                   rel="nofollow noopener"
-                  className="text-blue-600 hover:text-blue-800"
+                  className="text-[#01CAB8] hover:text-[#01867A]"
                 >
                   Ottawa Ayak Bileği Kuralları - PubMed Ara
                 </a>
@@ -469,7 +469,7 @@ export default function AyakBilekBurkulmasiPage() {
                   href="https://pubmed.ncbi.nlm.nih.gov/?term=ankle+taping+bracing" 
                   target="_blank" 
                   rel="nofollow noopener"
-                  className="text-blue-600 hover:text-blue-800"
+                  className="text-[#01CAB8] hover:text-[#01867A]"
                 >
                   Ayak Bileği Bantlama ve Bracing - PubMed Ara
                 </a>
@@ -479,7 +479,7 @@ export default function AyakBilekBurkulmasiPage() {
                   href="https://pubmed.ncbi.nlm.nih.gov/?term=ankle+sprain+return+to+sport" 
                   target="_blank" 
                   rel="nofollow noopener"
-                  className="text-blue-600 hover:text-blue-800"
+                  className="text-[#01CAB8] hover:text-[#01867A]"
                 >
                   Burkulma Sonrası Spora Dönüş - PubMed Ara
                 </a>
@@ -489,7 +489,7 @@ export default function AyakBilekBurkulmasiPage() {
                   href="https://pubmed.ncbi.nlm.nih.gov/?term=peroneal+muscle+strengthening" 
                   target="_blank" 
                   rel="nofollow noopener"
-                  className="text-blue-600 hover:text-blue-800"
+                  className="text-[#01CAB8] hover:text-[#01867A]"
                 >
                   Peroneal Kas Güçlendirme - PubMed Ara
                 </a>
@@ -498,10 +498,10 @@ export default function AyakBilekBurkulmasiPage() {
           </div>
         </section>
           {/* Ameliyatsız Tedavi Internal Link */}
-          <div className="bg-blue-50 border-l-4 border-blue-700 p-6 my-8 rounded-r-lg">
+          <div className="bg-[#E6FAF8] border-l-4 border-blue-700 p-6 my-8 rounded-r-lg">
             <p className="text-gray-700">
               <strong>İlgili İçerik:</strong> Ameliyatsız tedavi seçenekleri hakkında daha fazla bilgi için{' '}
-              <a href="/ameliyatsiz-cozumler" className="text-blue-700 hover:text-blue-900 font-semibold hover:underline">
+              <a href="/ameliyatsiz-cozumler" className="text-[#01A899] hover:text-blue-900 font-semibold hover:underline">
                 ameliyatsız çözümler sayfamızı
               </a>{' '}
               ziyaret edebilirsiniz.

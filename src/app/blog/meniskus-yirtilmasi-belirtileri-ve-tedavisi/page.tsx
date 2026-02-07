@@ -265,8 +265,8 @@ export default function MeniskusYirtilmasiPage() {
                 </p>
               </div>
 
-              <div className="bg-blue-50 p-6 rounded-xl">
-                <h3 className="font-semibold text-blue-800 mb-3 flex items-center gap-2">
+              <div className="bg-[#E6FAF8] p-6 rounded-xl">
+                <h3 className="font-semibold text-[#01867A] mb-3 flex items-center gap-2">
                   <span>🔒</span> Kilitlenme (Locking)
                 </h3>
                 <p className="text-gray-700 text-sm mb-2">
@@ -523,10 +523,10 @@ export default function MeniskusYirtilmasiPage() {
             </div>
           </section>
           {/* Ameliyatsız Tedavi Internal Link */}
-          <div className="bg-blue-50 border-l-4 border-blue-700 p-6 my-8 rounded-r-lg">
+          <div className="bg-[#E6FAF8] border-l-4 border-blue-700 p-6 my-8 rounded-r-lg">
             <p className="text-gray-700">
               <strong>İlgili İçerik:</strong> Ameliyatsız tedavi seçenekleri hakkında daha fazla bilgi için{' '}
-              <a href="/ameliyatsiz-cozumler" className="text-blue-700 hover:text-blue-900 font-semibold hover:underline">
+              <a href="/ameliyatsiz-cozumler" className="text-[#01A899] hover:text-blue-900 font-semibold hover:underline">
                 ameliyatsız çözümler sayfamızı
               </a>{' '}
               ziyaret edebilirsiniz.
@@ -566,50 +566,50 @@ export default function MeniskusYirtilmasiPage() {
             <ol className="space-y-3 text-sm text-gray-700">
               <li>
                 <span className="font-medium">1.</span> Englund M, et al. <em>"Incidental meniscal findings on knee MRI in middle-aged and elderly persons."</em> N Engl J Med. 2008;359(11):1108-15.{' '}
-                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=meniscus+tear" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=meniscus+tear" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <span className="font-medium">2.</span> Beaufils P, et al. <em>"Surgical management of degenerative meniscus lesions: the 2016 ESSKA meniscus consensus."</em> Knee Surg Sports Traumatol Arthrosc. 2017;25(2):335-46.{' '}
-                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=meniscus+tear" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=meniscus+tear" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <span className="font-medium">3.</span> Petty CA, Lubowitz JH. <em>"Does arthroscopic partial meniscectomy result in knee osteoarthritis? A systematic review with a minimum of 8 years' follow-up."</em> Arthroscopy. 2011;27(3):419-24.{' '}
-                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=meniscus+tear" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=meniscus+tear" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <span className="font-medium">4.</span> Kopf S, et al. <em>"Management of traumatic meniscus tears: the 2019 ESSKA meniscus consensus."</em> Knee Surg Sports Traumatol Arthrosc. 2020;28(4):1177-94.{' '}
-                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=meniscus+tear" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=meniscus+tear" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <span className="font-medium">5.</span> Paxton ES, et al. <em>"Meniscal repair versus partial meniscectomy: a systematic review comparing reoperation rates and clinical outcomes."</em> Arthroscopy. 2010;26(9):1275-88.{' '}
-                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=meniscus+repair" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=meniscus+repair" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
             </ol>
             
             <details className="mt-4">
-              <summary className="cursor-pointer text-blue-600 font-medium hover:text-blue-800 flex items-center gap-2">
+              <summary className="cursor-pointer text-[#01CAB8] font-medium hover:text-[#01867A] flex items-center gap-2">
                 <span>📖 Daha Fazla Kaynak Göster (5 ek referans)</span>
               </summary>
               <ol start={6} className="space-y-3 text-sm text-gray-700 mt-4 pt-4 border-t">
                 <li>
                   <span className="font-medium">6.</span> Katz JN, et al. <em>"Surgery versus physical therapy for a meniscal tear and osteoarthritis."</em> N Engl J Med. 2013;368(18):1675-84.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=meniscus+tear" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=meniscus+tear" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
                 </li>
                 <li>
                   <span className="font-medium">7.</span> Lohmander LS, et al. <em>"The long-term consequence of anterior cruciate ligament and meniscus injuries: osteoarthritis."</em> Am J Sports Med. 2007;35(10):1756-69.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=meniscus+tear" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=meniscus+tear" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
                 </li>
                 <li>
                   <span className="font-medium">8.</span> Verdonk R, et al. <em>"Meniscus allograft transplantation: long-term follow-up of medial and lateral replacements."</em> Am J Sports Med. 2006;34(9):1404-11.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=meniscus+transplant" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=meniscus+transplant" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
                 </li>
                 <li>
                   <span className="font-medium">9.</span> Forkel P, Petersen W. <em>"Posterior root tear fixation of the lateral meniscus combined with arthroscopic ACL double-bundle reconstruction: technical note of a transosseous fixation using the tibial PL tunnel."</em> Arch Orthop Trauma Surg. 2012;132(3):387-91.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=meniscus+root+tear" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=meniscus+root+tear" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
                 </li>
                 <li>
                   <span className="font-medium">10.</span> Sihvonen R, et al. <em>"Arthroscopic partial meniscectomy versus sham surgery for a degenerative meniscal tear."</em> N Engl J Med. 2013;369(26):2515-24.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=meniscus+tear" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=meniscus+tear" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
                 </li>
               </ol>
             </details>

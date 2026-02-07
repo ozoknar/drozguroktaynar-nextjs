@@ -175,7 +175,7 @@ export default function KalcaArtroskopisiPage() {
               Kalça artroskopisi, hastanın durumuna ve cerrahın tercihine bağlı olarak genel veya bölgesel 
               anestezi altında uygulanır.
             </p>
-            <div className="bg-blue-50 p-6 rounded-xl">
+            <div className="bg-[#E6FAF8] p-6 rounded-xl">
               <ol className="space-y-3 text-gray-700">
                 <li className="flex gap-3">
                   <span className="font-bold text-teal-600 min-w-[24px]">1.</span>
@@ -344,50 +344,50 @@ export default function KalcaArtroskopisiPage() {
             <ol className="space-y-3 text-sm text-gray-700">
               <li>
                 <span className="font-medium">1.</span> Nwachukwu BU, et al. <em>"Arthroscopic Versus Open Treatment of Femoroacetabular Impingement."</em> Am J Sports Med. 2016;44(1):209-16.{' '}
-                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=hip+arthroscopy" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=hip+arthroscopy" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <span className="font-medium">2.</span> Griffin DR, et al. <em>"Hip arthroscopy versus best conservative care for the treatment of femoroacetabular impingement syndrome (UK FASHIoN)."</em> Lancet. 2018;391(10136):2225-2235.{' '}
-                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=hip+arthroscopy" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=hip+arthroscopy" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <span className="font-medium">3.</span> Philippon MJ, et al. <em>"Outcomes following hip arthroscopy for femoroacetabular impingement with associated chondrolabral dysfunction."</em> J Bone Joint Surg Br. 2009;91(1):16-23.{' '}
-                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=hip+arthroscopy" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=hip+arthroscopy" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <span className="font-medium">4.</span> Domb BG, et al. <em>"Arthroscopic labral reconstruction: outcomes and complications."</em> Arthroscopy. 2015;31(12):2325-32.{' '}
-                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=hip+arthroscopy" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=hip+arthroscopy" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <span className="font-medium">5.</span> Byrd JWT, Jones KS. <em>"Hip arthroscopy for labral pathology: prospective analysis with 10-year follow-up."</em> Arthroscopy. 2009;25(4):365-8.{' '}
-                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=hip+arthroscopy" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=hip+arthroscopy" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
             </ol>
             
             <details className="mt-4">
-              <summary className="cursor-pointer text-blue-600 font-medium hover:text-blue-800 flex items-center gap-2">
+              <summary className="cursor-pointer text-[#01CAB8] font-medium hover:text-[#01867A] flex items-center gap-2">
                 <span>📖 Daha Fazla Kaynak Göster (5 ek referans)</span>
               </summary>
               <ol start={6} className="space-y-3 text-sm text-gray-700 mt-4 pt-4 border-t">
                 <li>
                   <span className="font-medium">6.</span> Harris JD, et al. <em>"Complications following hip arthroscopy: a systematic review and meta-analysis."</em> J Bone Joint Surg Am. 2013;95(4):e20.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=hip+arthroscopy" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=hip+arthroscopy" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
                 </li>
                 <li>
                   <span className="font-medium">7.</span> Enseki KR, et al. <em>"The hip joint: arthroscopic procedures and postoperative rehabilitation."</em> J Orthop Sports Phys Ther. 2006;36(7):516-25.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=hip+arthroscopy" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=hip+arthroscopy" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
                 </li>
                 <li>
                   <span className="font-medium">8.</span> Menge TJ, et al. <em>"Hip arthroscopy: indications and outcomes."</em> Instr Course Lect. 2013;62:241-55.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=hip+arthroscopy" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=hip+arthroscopy" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
                 </li>
                 <li>
                   <span className="font-medium">9.</span> Matsuda DK, et al. <em>"Arthroscopic hip labral reconstruction with a gracilis autograft versus labral refixation."</em> Am J Sports Med. 2013;41(12):2840-7.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=hip+arthroscopy" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=hip+arthroscopy" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
                 </li>
                 <li>
                   <span className="font-medium">10.</span> Larson CM, Giveans MR. <em>"Arthroscopic management of femoroacetabular impingement: early outcomes measures."</em> Arthroscopy. 2008;24(5):540-6.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=hip+arthroscopy" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=hip+arthroscopy" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
                 </li>
               </ol>
             </details>

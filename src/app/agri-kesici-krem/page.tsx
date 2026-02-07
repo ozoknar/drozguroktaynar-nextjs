@@ -56,7 +56,7 @@ export default function AgriKesiciKremPage() {
       <article className="max-w-4xl mx-auto px-4 py-12">
         {/* Breadcrumb */}
         <nav className="text-sm text-gray-500 mb-6">
-          <Link href="/" className="hover:text-blue-600">Ana Sayfa</Link>
+          <Link href="/" className="hover:text-[#01CAB8]">Ana Sayfa</Link>
           <span className="mx-2">/</span>
           <span className="text-gray-700">Ağrı Kesici Krem</span>
         </nav>
@@ -91,7 +91,7 @@ export default function AgriKesiciKremPage() {
           </section>
 
           {/* ADIM 2: FAQ Modülü - Google Snippet için */}
-          <section className="bg-blue-50 rounded-xl p-6 mb-10">
+          <section className="bg-[#E6FAF8] rounded-xl p-6 mb-10">
             <h2 className="text-xl font-semibold text-gray-900 mb-4">❓ En Çok Sorulan 3 Soru</h2>
             
             <div className="space-y-4">
@@ -122,13 +122,13 @@ export default function AgriKesiciKremPage() {
           <div className="bg-gray-50 rounded-xl p-6 mb-10">
             <h2 className="text-xl font-semibold text-gray-900 mb-4">📑 İçindekiler</h2>
             <ul className="space-y-2">
-              <li><a href="#nedir" className="text-blue-600 hover:underline">Ağrı Kesici Krem Nedir?</a></li>
-              <li><a href="#nasil-calisir" className="text-blue-600 hover:underline">Nasıl Çalışır? (Dr. Nar Anlatıyor)</a></li>
-              <li><a href="#tedavi-hiyerarsisi" className="text-blue-600 hover:underline">Tedavi Hiyerarşisi: Krem mi, Enjeksiyon mu, Ameliyat mı?</a></li>
-              <li><a href="#diz-agrisi" className="text-blue-600 hover:underline">Diz Ağrısı İçin Krem Önerileri</a></li>
-              <li><a href="#bel-boyun" className="text-blue-600 hover:underline">Bel ve Boyun Ağrısına İyi Gelen Kremler</a></li>
-              <li><a href="#dikkat" className="text-blue-600 hover:underline">Dikkat Edilmesi Gerekenler</a></li>
-              <li><a href="#klinik-tecrube" className="text-blue-600 hover:underline">Klinikten Örnekler</a></li>
+              <li><a href="#nedir" className="text-[#01CAB8] hover:underline">Ağrı Kesici Krem Nedir?</a></li>
+              <li><a href="#nasil-calisir" className="text-[#01CAB8] hover:underline">Nasıl Çalışır? (Dr. Nar Anlatıyor)</a></li>
+              <li><a href="#tedavi-hiyerarsisi" className="text-[#01CAB8] hover:underline">Tedavi Hiyerarşisi: Krem mi, Enjeksiyon mu, Ameliyat mı?</a></li>
+              <li><a href="#diz-agrisi" className="text-[#01CAB8] hover:underline">Diz Ağrısı İçin Krem Önerileri</a></li>
+              <li><a href="#bel-boyun" className="text-[#01CAB8] hover:underline">Bel ve Boyun Ağrısına İyi Gelen Kremler</a></li>
+              <li><a href="#dikkat" className="text-[#01CAB8] hover:underline">Dikkat Edilmesi Gerekenler</a></li>
+              <li><a href="#klinik-tecrube" className="text-[#01CAB8] hover:underline">Klinikten Örnekler</a></li>
             </ul>
           </div>
 
@@ -188,10 +188,10 @@ export default function AgriKesiciKremPage() {
               </div>
               
               {/* Basamak 2 */}
-              <div className="bg-blue-50 rounded-xl p-6 border-l-4 border-blue-500">
+              <div className="bg-[#E6FAF8] rounded-xl p-6 border-l-4 border-[#1AD2C4]">
                 <div className="flex items-center mb-2">
-                  <span className="bg-blue-500 text-white rounded-full w-8 h-8 flex items-center justify-center font-bold mr-3">2</span>
-                  <h3 className="text-lg font-semibold text-blue-800">Rejeneratif Tedaviler</h3>
+                  <span className="bg-[#1AD2C4] text-white rounded-full w-8 h-8 flex items-center justify-center font-bold mr-3">2</span>
+                  <h3 className="text-lg font-semibold text-[#01867A]">Rejeneratif Tedaviler</h3>
                 </div>
                 <p className="text-gray-700 ml-11">
                   Krem yetmezse; PRP (trombositten zengin plazma), hidrojel enjeksiyonu, proloterapi gibi <strong>dokuyu yenileyen</strong> tedaviler devreye girer. Ameliyat değil, enjeksiyon. Etki 6-12 ay sürer.
@@ -361,7 +361,7 @@ export default function AgriKesiciKremPage() {
           </section>
 
           {/* CTA */}
-          <div className="bg-blue-600 text-white rounded-2xl p-8 text-center">
+          <div className="bg-[#01CAB8] text-white rounded-2xl p-8 text-center">
             <h3 className="text-2xl font-bold mb-2">Ağrılarınız İçin Uzman Desteği Alın</h3>
             <p className="text-blue-100 mb-2">
               📍 Nilüfer, Bursa

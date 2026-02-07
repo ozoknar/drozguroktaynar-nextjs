@@ -69,7 +69,7 @@ export default function KavalKemigiPage() {
           <div className="mb-6">
             <Link 
               href="/blog"
-              className="text-blue-600 hover:text-blue-800 text-sm font-medium"
+              className="text-[#01CAB8] hover:text-[#01867A] text-sm font-medium"
             >
               ← Blog'a Dön
             </Link>
@@ -155,7 +155,7 @@ export default function KavalKemigiPage() {
             <li><strong>Hareket:</strong> Alt bacak rotasyon hareketlerine katkıda bulunur</li>
           </ul>
 
-          <div className="bg-blue-50 border-l-4 border-blue-500 p-6 my-8">
+          <div className="bg-[#E6FAF8] border-l-4 border-[#1AD2C4] p-6 my-8">
             <p className="text-gray-800">
               <strong>İlginç Bilgi:</strong> Kaval kemiği vücut ağırlığı taşımada küçük rol oynasa da, ayak bileği stabilitesi açısından hayati öneme sahiptir. Lateral malleol olmadan ayak bileği ekleminin stabilitesi ciddi şekilde bozulur.
             </p>
@@ -356,51 +356,51 @@ export default function KavalKemigiPage() {
           <ol className="list-decimal pl-6 mb-6 text-gray-700 space-y-2">
             <li>
               Court-Brown CM, McBirnie J. "The epidemiology of tibial fractures." Journal of Bone and Joint Surgery. 1995.
-              {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=tibial+fractures+epidemiology" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+              {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=tibial+fractures+epidemiology" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
             </li>
             <li>
               Strauss EJ, Egol KA. "The management of ankle fractures in the elderly." Injury. 2007.
-              {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=ankle+fractures+management" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+              {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=ankle+fractures+management" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
             </li>
             <li>
               Panchbhavi VK, Vallurupalli S, Yang J, Andersen CR. "Comparison of surgical and functional outcomes of ankle fractures in patients over 60 years." Foot & Ankle International. 2008.
-              {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=ankle+fractures+outcomes" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+              {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=ankle+fractures+outcomes" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
             </li>
             <li>
               Takao M, Ochi M, Naito K, Iwata A, Kawasaki K, Tobita M, Miyamoto W, Oae K. "Arthroscopic diagnosis of tibiofibular syndesmosis disruption." Arthroscopy. 2001.
-              {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=syndesmosis+arthroscopic+diagnosis" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+              {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=syndesmosis+arthroscopic+diagnosis" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
             </li>
             <li>
               Weber BG. "Evaluation of ankle injuries with stress radiography." Injury. 1972.
-              {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=Weber+classification+ankle+fractures" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+              {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=Weber+classification+ankle+fractures" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
             </li>
             <li>
               Egol KA, Tejwani NC, Walsh MG, Capla EL, Koval KJ. "Predictors of short-term functional outcome following ankle fracture surgery." Journal of Bone and Joint Surgery. 2006.
-              {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=ankle+fracture+functional+outcome" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+              {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=ankle+fracture+functional+outcome" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
             </li>
             <li>
               Hoiness P, Stromsoe K. "Tricortical versus quadricortical syndesmosis fixation in ankle fractures." Journal of Orthopaedic Trauma. 2004.
-              {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=syndesmosis+fixation+ankle" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+              {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=syndesmosis+fixation+ankle" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
             </li>
             <li>
               Michelson JD, Varner KE, Checcone M. "Diagnosing deltoid injury in ankle fractures: the gravity stress view." Clinical Orthopaedics and Related Research. 2001.
-              {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=deltoid+injury+ankle+fractures" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+              {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=deltoid+injury+ankle+fractures" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
             </li>
             <li>
               Stufkens SA, van den Bekerom MP, Kerkhoffs GM, Hintermann B, van Dijk CN. "Long-term outcome after 1822 operatively treated ankle fractures." Injury. 2011.
-              {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=ankle+fractures+long+term+outcome" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+              {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=ankle+fractures+long+term+outcome" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
             </li>
             <li>
               Weening B, Bhandari M. "Predictors of functional outcome following transsyndesmotic screw fixation of ankle fractures." Journal of Orthopaedic Trauma. 2005.
-              {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=transsyndesmotic+screw+fixation" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+              {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=transsyndesmotic+screw+fixation" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
             </li>
           </ol>
         </div>
           {/* Ameliyatsız Tedavi Internal Link */}
-          <div className="bg-blue-50 border-l-4 border-blue-700 p-6 my-8 rounded-r-lg">
+          <div className="bg-[#E6FAF8] border-l-4 border-blue-700 p-6 my-8 rounded-r-lg">
             <p className="text-gray-700">
               <strong>İlgili İçerik:</strong> Ameliyatsız tedavi seçenekleri hakkında daha fazla bilgi için{' '}
-              <a href="/ameliyatsiz-cozumler" className="text-blue-700 hover:text-blue-900 font-semibold hover:underline">
+              <a href="/ameliyatsiz-cozumler" className="text-[#01A899] hover:text-blue-900 font-semibold hover:underline">
                 ameliyatsız çözümler sayfamızı
               </a>{' '}
               ziyaret edebilirsiniz.
@@ -409,7 +409,7 @@ export default function KavalKemigiPage() {
 
 
         {/* CTA Section */}
-        <div className="mt-16 bg-gradient-to-r from-blue-600 to-blue-800 rounded-2xl p-8 text-white">
+        <div className="mt-16 bg-gradient-to-r from-[#01CAB8] to-[#01867A] rounded-2xl p-8 text-white">
           <h2 className="text-3xl font-bold mb-4">Alt Bacak veya Ayak Bileği Yaralanmanız mı Var?</h2>
           <p className="text-lg mb-6 text-blue-100">
             Kaval kemiği kırıkları ve ayak bileği yaralanmalarının uzman tanı ve tedavisi için bize ulaşın. 
@@ -418,13 +418,13 @@ export default function KavalKemigiPage() {
           <div className="flex flex-col sm:flex-row gap-4">
             <Link
               href="/iletisim"
-              className="bg-white text-blue-600 px-8 py-3 rounded-lg font-semibold hover:bg-blue-50 transition text-center"
+              className="bg-white text-[#01CAB8] px-8 py-3 rounded-lg font-semibold hover:bg-[#E6FAF8] transition text-center"
             >
               Randevu Alın
             </Link>
             <Link
               href="/hizmetler/travma-cerrahisi"
-              className="border-2 border-white text-white px-8 py-3 rounded-lg font-semibold hover:bg-blue-700 transition text-center"
+              className="border-2 border-white text-white px-8 py-3 rounded-lg font-semibold hover:bg-[#01A899] transition text-center"
             >
               Travma Cerrahisi Hakkında
             </Link>
@@ -438,7 +438,7 @@ export default function KavalKemigiPage() {
             <Link href="/blog/ayak-bilegi-artroskopisi-nedir" className="group">
               <div className="border rounded-lg overflow-hidden hover:shadow-lg transition">
                 <div className="p-6">
-                  <h3 className="font-semibold text-gray-900 group-hover:text-blue-600 mb-2">
+                  <h3 className="font-semibold text-gray-900 group-hover:text-[#01CAB8] mb-2">
                     Ayak Bileği Artroskopisi
                   </h3>
                   <p className="text-gray-600 text-sm">
@@ -451,7 +451,7 @@ export default function KavalKemigiPage() {
             <Link href="/blog/eklem-agrisi-bursa-dr-ozgur-oktay-nar-ortopedi-bursa" className="group">
               <div className="border rounded-lg overflow-hidden hover:shadow-lg transition">
                 <div className="p-6">
-                  <h3 className="font-semibold text-gray-900 group-hover:text-blue-600 mb-2">
+                  <h3 className="font-semibold text-gray-900 group-hover:text-[#01CAB8] mb-2">
                     Eklem Ağrısı ve Tedavisi
                   </h3>
                   <p className="text-gray-600 text-sm">
@@ -464,7 +464,7 @@ export default function KavalKemigiPage() {
             <Link href="/blog/skafoid-kirigi-belirtileri" className="group">
               <div className="border rounded-lg overflow-hidden hover:shadow-lg transition">
                 <div className="p-6">
-                  <h3 className="font-semibold text-gray-900 group-hover:text-blue-600 mb-2">
+                  <h3 className="font-semibold text-gray-900 group-hover:text-[#01CAB8] mb-2">
                     Skafoid Kırığı
                   </h3>
                   <p className="text-gray-600 text-sm">

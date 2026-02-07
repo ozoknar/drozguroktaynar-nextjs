@@ -71,9 +71,9 @@ export default function KarpalTunelSendromuPage() {
       <article className="max-w-4xl mx-auto px-4 py-8">
         {/* Breadcrumb */}
         <nav className="text-sm text-gray-500 mb-6">
-          <Link href="/" className="hover:text-blue-600">Ana Sayfa</Link>
+          <Link href="/" className="hover:text-[#01CAB8]">Ana Sayfa</Link>
           <span className="mx-2">/</span>
-          <Link href="/blog" className="hover:text-blue-600">Blog</Link>
+          <Link href="/blog" className="hover:text-[#01CAB8]">Blog</Link>
           <span className="mx-2">/</span>
           <span className="text-gray-700">Karpal Tünel Sendromu</span>
         </nav>
@@ -124,19 +124,19 @@ export default function KarpalTunelSendromuPage() {
             <div className="bg-gray-50 p-6 rounded-lg mb-4">
               <ul className="space-y-2">
                 <li className="flex items-start">
-                  <span className="text-blue-500 mr-2">•</span>
+                  <span className="text-[#1AD2C4] mr-2">•</span>
                   <span><strong>Karpal kemikler:</strong> El bileği tabanını oluşturan 8 küçük kemik</span>
                 </li>
                 <li className="flex items-start">
-                  <span className="text-blue-500 mr-2">•</span>
+                  <span className="text-[#1AD2C4] mr-2">•</span>
                   <span><strong>Transvers karpal ligament (Flexor retinaculum):</strong> Tünelin tavanını oluşturan sıkı bağ</span>
                 </li>
                 <li className="flex items-start">
-                  <span className="text-blue-500 mr-2">•</span>
+                  <span className="text-[#1AD2C4] mr-2">•</span>
                   <span><strong>Median sinir:</strong> Baş parmak, işaret parmağı, orta parmak ve yüzük parmağının yarısına duyu ve tenar kaslara motor fonksiyon sağlar</span>
                 </li>
                 <li className="flex items-start">
-                  <span className="text-blue-500 mr-2">•</span>
+                  <span className="text-[#1AD2C4] mr-2">•</span>
                   <span><strong>Fleksör tendonlar:</strong> Parmakları bükmek için gerekli tendonlar</span>
                 </li>
               </ul>
@@ -290,14 +290,14 @@ export default function KarpalTunelSendromuPage() {
             <h2 className="text-3xl font-bold text-gray-900 mb-4">Tanı Yöntemleri</h2>
             
             <div className="space-y-4">
-              <div className="bg-blue-50 p-5 rounded-lg">
+              <div className="bg-[#E6FAF8] p-5 rounded-lg">
                 <h3 className="font-semibold text-gray-900 mb-2">📋 Anamnez</h3>
                 <p className="text-gray-700">
                   Semptomların karakteri, zamanlaması, tetikleyici faktörler, meslek, sistemik hastalıklar sorgulanır.
                 </p>
               </div>
 
-              <div className="bg-blue-50 p-5 rounded-lg">
+              <div className="bg-[#E6FAF8] p-5 rounded-lg">
                 <h3 className="font-semibold text-gray-900 mb-2">🔍 Fizik Muayene</h3>
                 <ul className="text-gray-700 space-y-2">
                   <li><strong>Tinel testi:</strong> Karpal tünel üzerine vurma → parmağa yayılan karıncalanma (pozitif)</li>
@@ -309,7 +309,7 @@ export default function KarpalTunelSendromuPage() {
                 </ul>
               </div>
 
-              <div className="bg-blue-50 p-5 rounded-lg">
+              <div className="bg-[#E6FAF8] p-5 rounded-lg">
                 <h3 className="font-semibold text-gray-900 mb-2">⚡ Elektrofizyolojik Testler (Altın Standart)</h3>
                 <div className="space-y-2 text-gray-700">
                   <div>
@@ -330,7 +330,7 @@ export default function KarpalTunelSendromuPage() {
                 </p>
               </div>
 
-              <div className="bg-blue-50 p-5 rounded-lg">
+              <div className="bg-[#E6FAF8] p-5 rounded-lg">
                 <h3 className="font-semibold text-gray-900 mb-2">📸 Görüntüleme</h3>
                 <ul className="text-gray-700 space-y-1 text-sm">
                   <li>• <strong>Röntgen:</strong> Kırık, artrit, kitle ekarte etmek için</li>
@@ -530,7 +530,7 @@ export default function KarpalTunelSendromuPage() {
                   href="https://pubmed.ncbi.nlm.nih.gov/?term=prevalence+carpal+tunnel+syndrome+general+population" 
                   target="_blank" 
                   rel="noopener noreferrer" 
-                  className="text-blue-600 hover:underline ml-1"
+                  className="text-[#01CAB8] hover:underline ml-1"
                 >
                   [PubMed Ara]
                 </a>
@@ -541,7 +541,7 @@ export default function KarpalTunelSendromuPage() {
                   href="https://pubmed.ncbi.nlm.nih.gov/?term=treatment+carpal+tunnel+syndrome+JAAOS" 
                   target="_blank" 
                   rel="noopener noreferrer" 
-                  className="text-blue-600 hover:underline ml-1"
+                  className="text-[#01CAB8] hover:underline ml-1"
                 >
                   [PubMed Ara]
                 </a>
@@ -553,7 +553,7 @@ export default function KarpalTunelSendromuPage() {
                   href="https://pubmed.ncbi.nlm.nih.gov/?term=surgical+non-surgical+carpal+tunnel+cochrane" 
                   target="_blank" 
                   rel="noopener noreferrer" 
-                  className="text-blue-600 hover:underline ml-1"
+                  className="text-[#01CAB8] hover:underline ml-1"
                 >
                   [PubMed Ara]
                 </a>
@@ -563,12 +563,12 @@ export default function KarpalTunelSendromuPage() {
 
           {/* Section 9: Internal Link - ZORUNLU! */}
           <section className="mb-12">
-            <div className="bg-blue-50 border-l-4 border-blue-500 p-6 rounded-r-lg">
+            <div className="bg-[#E6FAF8] border-l-4 border-[#1AD2C4] p-6 rounded-r-lg">
               <p className="text-gray-700">
                 <strong>İlgili İçerik:</strong> Ameliyatsız tedavi seçenekleri hakkında daha fazla bilgi için{' '}
                 <Link 
                   href="/ameliyatsiz-cozumler" 
-                  className="text-blue-600 hover:text-blue-800 font-semibold hover:underline"
+                  className="text-[#01CAB8] hover:text-[#01867A] font-semibold hover:underline"
                 >
                   ameliyatsız çözümler sayfamızı
                 </Link>{' '}
@@ -595,12 +595,12 @@ export default function KarpalTunelSendromuPage() {
         </div>
 
         {/* CTA */}
-        <div className="bg-gradient-to-r from-blue-600 to-blue-700 rounded-xl p-8 text-center text-white mt-12">
+        <div className="bg-gradient-to-r from-[#01CAB8] to-[#01A899] rounded-xl p-8 text-center text-white mt-12">
           <h2 className="text-2xl font-bold mb-4">El ve Bilek Sağlığınız İçin Uzman Değerlendirmesi</h2>
           <p className="mb-6">Karpal tünel sendromu şüpheniz varsa detaylı muayene ve tedavi için randevu alın.</p>
           <Link 
             href="/iletisim" 
-            className="inline-block bg-white text-blue-600 px-8 py-3 rounded-lg font-semibold hover:bg-gray-100 transition"
+            className="inline-block bg-white text-[#01CAB8] px-8 py-3 rounded-lg font-semibold hover:bg-gray-100 transition"
           >
             Randevu Al
           </Link>

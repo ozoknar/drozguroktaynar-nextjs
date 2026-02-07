@@ -71,9 +71,9 @@ export default function BlogPage() {
       <article className="max-w-4xl mx-auto px-4 py-8">
         {/* Breadcrumb */}
         <nav className="text-sm text-gray-500 mb-6">
-          <Link href="/" className="hover:text-blue-600">Ana Sayfa</Link>
+          <Link href="/" className="hover:text-[#01CAB8]">Ana Sayfa</Link>
           <span className="mx-2">/</span>
-          <Link href="/blog" className="hover:text-blue-600">Blog</Link>
+          <Link href="/blog" className="hover:text-[#01CAB8]">Blog</Link>
           <span className="mx-2">/</span>
           <span className="text-gray-700">Plantar Fasiit Nedir?</span>
         </nav>
@@ -116,7 +116,7 @@ export default function BlogPage() {
             <p className="text-gray-700 leading-relaxed mb-4">
               Normal koşullarda plantar fasya, yürürken ve koşarken vücut ağırlığınızı emer ve ayak kemerini korur. Ancak aşırı yüklenme, gerginlik veya tekrarlayan mikrotravmalar sonucunda bu doku hasar görür. Zamanla dokuda mikroskobik yırtıklar, iltihaplanma ve dejenerasyon gelişir.
             </p>
-            <div className="bg-blue-50 p-6 rounded-lg mb-4">
+            <div className="bg-[#E6FAF8] p-6 rounded-lg mb-4">
               <h3 className="text-xl font-semibold text-gray-900 mb-3">Anatomik Yapı</h3>
               <ul className="space-y-2 text-gray-700">
                 <li><strong>Plantar Fasya:</strong> Topuk kemiğinden ayak parmaklarına uzanan kalın, lifli bağ dokusu (yaklaşık 3-5 mm kalınlığında)</li>
@@ -215,23 +215,23 @@ export default function BlogPage() {
             <h3 className="text-2xl font-semibold text-gray-900 mb-4">Anatomik ve Biyomekanik Faktörler</h3>
             <ul className="space-y-3 mb-6">
               <li className="flex items-start">
-                <span className="text-blue-500 mr-2 mt-1">•</span>
+                <span className="text-[#1AD2C4] mr-2 mt-1">•</span>
                 <span><strong>Yüksek Ayak Kemeri (Pes Kavus):</strong> Aşırı yüksek kemer, plantar fasyada gerginlik yaratır</span>
               </li>
               <li className="flex items-start">
-                <span className="text-blue-500 mr-2 mt-1">•</span>
+                <span className="text-[#1AD2C4] mr-2 mt-1">•</span>
                 <span><strong>Düz Tabanlık (Pes Planus):</strong> Düşük kemer, fasya üzerinde aşırı gerilme oluşturur</span>
               </li>
               <li className="flex items-start">
-                <span className="text-blue-500 mr-2 mt-1">•</span>
+                <span className="text-[#1AD2C4] mr-2 mt-1">•</span>
                 <span><strong>Pronasyon Bozuklukları:</strong> Aşırı içe yatma (overpronation) fasya gerginliğini artırır</span>
               </li>
               <li className="flex items-start">
-                <span className="text-blue-500 mr-2 mt-1">•</span>
+                <span className="text-[#1AD2C4] mr-2 mt-1">•</span>
                 <span><strong>Baldır Kasları Gerginliği:</strong> Gastroknemius ve soleus kaslarının sıkı olması ayak bileği hareketini kısıtlar, fasya yükünü artırır</span>
               </li>
               <li className="flex items-start">
-                <span className="text-blue-500 mr-2 mt-1">•</span>
+                <span className="text-[#1AD2C4] mr-2 mt-1">•</span>
                 <span><strong>Aşil Tendonu Sertliği:</strong> Dorsifleksiyon kısıtlılığı plantar fasyaya ek yük bindirir</span>
               </li>
             </ul>
@@ -239,23 +239,23 @@ export default function BlogPage() {
             <h3 className="text-2xl font-semibold text-gray-900 mb-4">Yaşam Tarzı ve Çevresel Faktörler</h3>
             <ul className="space-y-3 mb-6">
               <li className="flex items-start">
-                <span className="text-blue-500 mr-2 mt-1">•</span>
+                <span className="text-[#1AD2C4] mr-2 mt-1">•</span>
                 <span><strong>Obezite:</strong> Her fazla kilogram ayak tabanına 3-4 kg ek yük bindirir. VKİ {'>'}30 olan kişilerde risk 3 kat artar</span>
               </li>
               <li className="flex items-start">
-                <span className="text-blue-500 mr-2 mt-1">•</span>
+                <span className="text-[#1AD2C4] mr-2 mt-1">•</span>
                 <span><strong>Uzun Süre Ayakta Kalma:</strong> Öğretmen, sağlık çalışanı, fabrika işçisi gibi meslekler</span>
               </li>
               <li className="flex items-start">
-                <span className="text-blue-500 mr-2 mt-1">•</span>
+                <span className="text-[#1AD2C4] mr-2 mt-1">•</span>
                 <span><strong>Sert Zemin Üzerinde Çalışma:</strong> Beton, mermer gibi yüzeylerde yürümek şok emilimini azaltır</span>
               </li>
               <li className="flex items-start">
-                <span className="text-blue-500 mr-2 mt-1">•</span>
+                <span className="text-[#1AD2C4] mr-2 mt-1">•</span>
                 <span><strong>Uygunsuz Ayakkabı:</strong> Düz tabanlar, yüksek topuklu ayakkabılar, aşınmış tabanlar</span>
               </li>
               <li className="flex items-start">
-                <span className="text-blue-500 mr-2 mt-1">•</span>
+                <span className="text-[#1AD2C4] mr-2 mt-1">•</span>
                 <span><strong>Ani Aktivite Artışı:</strong> Hazırlıksız maraton koşusu, yeni spor başlangıcı</span>
               </li>
             </ul>
@@ -263,19 +263,19 @@ export default function BlogPage() {
             <h3 className="text-2xl font-semibold text-gray-900 mb-4">Demografik ve Sistemik Faktörler</h3>
             <ul className="space-y-3 mb-6">
               <li className="flex items-start">
-                <span className="text-blue-500 mr-2 mt-1">•</span>
+                <span className="text-[#1AD2C4] mr-2 mt-1">•</span>
                 <span><strong>Yaş:</strong> 40-60 yaş en yüksek risk grubu (doku elastikiyeti azalır)</span>
               </li>
               <li className="flex items-start">
-                <span className="text-blue-500 mr-2 mt-1">•</span>
+                <span className="text-[#1AD2C4] mr-2 mt-1">•</span>
                 <span><strong>Cinsiyet:</strong> Kadınlarda erkeklerden 2 kat daha sık (yüksek topuklu ayakkabı, hamilelik)</span>
               </li>
               <li className="flex items-start">
-                <span className="text-blue-500 mr-2 mt-1">•</span>
+                <span className="text-[#1AD2C4] mr-2 mt-1">•</span>
                 <span><strong>Diyabet:</strong> Plantar fasiit riski %20 artar (mikrovasküler sorunlar, nöropati)</span>
               </li>
               <li className="flex items-start">
-                <span className="text-blue-500 mr-2 mt-1">•</span>
+                <span className="text-[#1AD2C4] mr-2 mt-1">•</span>
                 <span><strong>Romatizmal Hastalıklar:</strong> Ankilozan spondilit, reaktif artrit</span>
               </li>
             </ul>
@@ -358,7 +358,7 @@ export default function BlogPage() {
                   href="https://pubmed.ncbi.nlm.nih.gov/?term=thomas+diagnosis+treatment+heel+pain+clinical+practice+guideline" 
                   target="_blank" 
                   rel="noopener noreferrer" 
-                  className="text-blue-600 hover:underline ml-1"
+                  className="text-[#01CAB8] hover:underline ml-1"
                 >
                   [PubMed Ara]
                 </a>
@@ -369,7 +369,7 @@ export default function BlogPage() {
                   href="https://pubmed.ncbi.nlm.nih.gov/?term=riddle+plantar+fasciitis+ambulatory+care+national+study" 
                   target="_blank" 
                   rel="noopener noreferrer" 
-                  className="text-blue-600 hover:underline ml-1"
+                  className="text-[#01CAB8] hover:underline ml-1"
                 >
                   [PubMed Ara]
                 </a>
@@ -380,7 +380,7 @@ export default function BlogPage() {
                   href="https://pubmed.ncbi.nlm.nih.gov/?term=lemont+plantar+fasciitis+degenerative+fasciosis" 
                   target="_blank" 
                   rel="noopener noreferrer" 
-                  className="text-blue-600 hover:underline ml-1"
+                  className="text-[#01CAB8] hover:underline ml-1"
                 >
                   [PubMed Ara]
                 </a>
@@ -391,7 +391,7 @@ export default function BlogPage() {
                   href="https://pubmed.ncbi.nlm.nih.gov/?term=digiovanni+plantar+fascia+stretching+exercise+chronic+heel+pain" 
                   target="_blank" 
                   rel="noopener noreferrer" 
-                  className="text-blue-600 hover:underline ml-1"
+                  className="text-[#01CAB8] hover:underline ml-1"
                 >
                   [PubMed Ara]
                 </a>
@@ -401,12 +401,12 @@ export default function BlogPage() {
 
           {/* Section 7: Internal Link - ZORUNLU! */}
           <section className="mb-12">
-            <div className="bg-blue-50 border-l-4 border-blue-500 p-6 rounded-r-lg">
+            <div className="bg-[#E6FAF8] border-l-4 border-[#1AD2C4] p-6 rounded-r-lg">
               <p className="text-gray-700">
                 <strong>İlgili İçerik:</strong> Plantar fasiit tedavisi için ameliyatsız seçenekler hakkında daha fazla bilgi almak isterseniz{' '}
                 <Link 
                   href="/ameliyatsiz-cozumler" 
-                  className="text-blue-600 hover:text-blue-800 font-semibold hover:underline"
+                  className="text-[#01CAB8] hover:text-[#01867A] font-semibold hover:underline"
                 >
                   ameliyatsız çözümler sayfamızı
                 </Link>{' '}
@@ -429,12 +429,12 @@ export default function BlogPage() {
         </div>
 
         {/* CTA */}
-        <div className="bg-gradient-to-r from-blue-600 to-blue-700 rounded-xl p-8 text-center text-white mt-12">
+        <div className="bg-gradient-to-r from-[#01CAB8] to-[#01A899] rounded-xl p-8 text-center text-white mt-12">
           <h2 className="text-2xl font-bold mb-4">Topuk Ağrınız İçin Uzman Değerlendirmesi</h2>
           <p className="mb-6">Plantar fasiit teşhis ve tedavisi için randevu alın.</p>
           <Link 
             href="/iletisim" 
-            className="inline-block bg-white text-blue-600 px-8 py-3 rounded-lg font-semibold hover:bg-gray-100 transition"
+            className="inline-block bg-white text-[#01CAB8] px-8 py-3 rounded-lg font-semibold hover:bg-gray-100 transition"
           >
             Hemen Randevu Al
           </Link>

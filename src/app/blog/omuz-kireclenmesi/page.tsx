@@ -192,7 +192,7 @@ export default function OmuzKireclenmesiPage() {
           </section>
 
           {/* Diagnosis Section */}
-          <section className="mb-12 bg-blue-50 p-8 rounded-xl">
+          <section className="mb-12 bg-[#E6FAF8] p-8 rounded-xl">
             <h2 className="text-2xl font-bold text-gray-800 mb-6">
               Tanı Süreci
             </h2>
@@ -201,20 +201,20 @@ export default function OmuzKireclenmesiPage() {
             </p>
             <div className="grid md:grid-cols-3 gap-4">
               <div className="bg-white p-4 rounded-lg">
-                <h3 className="font-semibold text-blue-800 mb-2">📷 Röntgen</h3>
+                <h3 className="font-semibold text-[#01867A] mb-2">📷 Röntgen</h3>
                 <p className="text-sm text-gray-600">Kemik çıkıntıları ve eklem boşluğu</p>
               </div>
               <div className="bg-white p-4 rounded-lg">
-                <h3 className="font-semibold text-blue-800 mb-2">🖥️ BT</h3>
+                <h3 className="font-semibold text-[#01867A] mb-2">🖥️ BT</h3>
                 <p className="text-sm text-gray-600">Bilgisayarlı Tomografi ile detay</p>
               </div>
               <div className="bg-white p-4 rounded-lg">
-                <h3 className="font-semibold text-blue-800 mb-2">🧲 MRG</h3>
+                <h3 className="font-semibold text-[#01867A] mb-2">🧲 MRG</h3>
                 <p className="text-sm text-gray-600">Kıkırdak incelmesi değerlendirmesi</p>
               </div>
             </div>
-            <div className="mt-4 p-4 bg-blue-100 rounded-lg">
-              <p className="text-sm text-blue-800">
+            <div className="mt-4 p-4 bg-[#B3F0EB] rounded-lg">
+              <p className="text-sm text-[#01867A]">
                 💡 Bu görüntüleme yöntemleri sayesinde kıkırdak incelmesi, kemik çıkıntıları ve eklem 
                 boşluğundaki daralma net şekilde görülebilir.
               </p>
@@ -242,8 +242,8 @@ export default function OmuzKireclenmesiPage() {
                 </p>
               </div>
 
-              <div className="bg-blue-50 p-6 rounded-xl">
-                <h3 className="font-semibold text-blue-800 mb-3 flex items-center gap-2">
+              <div className="bg-[#E6FAF8] p-6 rounded-xl">
+                <h3 className="font-semibold text-[#01867A] mb-3 flex items-center gap-2">
                   <span>💊</span> 2. İlaç Tedavisi
                 </h3>
                 <p className="text-gray-700">
@@ -360,50 +360,50 @@ export default function OmuzKireclenmesiPage() {
             <ol className="space-y-3 text-sm text-gray-700">
               <li>
                 <span className="font-medium">1.</span> Burbank KM, et al. <em>"Chronic shoulder pain: part I. Evaluation and diagnosis."</em> Am Fam Physician. 2008;77(4):453-60.{' '}
-                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=shoulder+osteoarthritis" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=shoulder+osteoarthritis" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <span className="font-medium">2.</span> Hawkins RJ, Angelo RL. <em>"Glenohumeral osteoarthrosis. A late complication of the Putti-Platt repair."</em> J Bone Joint Surg Am. 1990;72(8):1193-7.{' '}
-                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=shoulder+osteoarthritis" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=shoulder+osteoarthritis" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <span className="font-medium">3.</span> Wiater JM, Fabing MH. <em>"Shoulder Arthroplasty: Prosthetic Options and Indications."</em> J Am Acad Orthop Surg. 2009;17(7):415-25.{' '}
-                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=shoulder+osteoarthritis" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=shoulder+osteoarthritis" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <span className="font-medium">4.</span> Denard PJ, et al. <em>"Management of glenohumeral arthritis in the young adult."</em> J Bone Joint Surg Am. 2011;93(9):885-92.{' '}
-                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=shoulder+osteoarthritis" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=shoulder+osteoarthritis" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <span className="font-medium">5.</span> Matsen FA, et al. <em>"Practical evaluation and management of the shoulder."</em> WB Saunders, 1994.{' '}
-                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=shoulder+osteoarthritis" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=shoulder+osteoarthritis" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
             </ol>
             
             <details className="mt-4">
-              <summary className="cursor-pointer text-blue-600 font-medium hover:text-blue-800 flex items-center gap-2">
+              <summary className="cursor-pointer text-[#01CAB8] font-medium hover:text-[#01867A] flex items-center gap-2">
                 <span>📖 Daha Fazla Kaynak Göster (5 ek referans)</span>
               </summary>
               <ol start={6} className="space-y-3 text-sm text-gray-700 mt-4 pt-4 border-t">
                 <li>
                   <span className="font-medium">6.</span> Neer CS, et al. <em>"Recent experience in total shoulder replacement."</em> J Bone Joint Surg Am. 1982;64(3):319-37.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=shoulder+osteoarthritis" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=shoulder+osteoarthritis" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
                 </li>
                 <li>
                   <span className="font-medium">7.</span> Franklin JL, et al. <em>"Glenoid loosening in total shoulder arthroplasty. Association with rotator cuff deficiency."</em> J Arthroplasty. 1988;3(1):39-46.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=shoulder+osteoarthritis" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=shoulder+osteoarthritis" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
                 </li>
                 <li>
                   <span className="font-medium">8.</span> Walch G, et al. <em>"Patterns of loosening of polyethylene keeled glenoid components after shoulder arthroplasty for primary osteoarthritis."</em> J Bone Joint Surg Am. 2012;94(2):145-50.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=shoulder+osteoarthritis" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=shoulder+osteoarthritis" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
                 </li>
                 <li>
                   <span className="font-medium">9.</span> Bohsali KI, et al. <em>"Complications of total shoulder arthroplasty."</em> J Bone Joint Surg Am. 2006;88(10):2279-92.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=shoulder+osteoarthritis" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=shoulder+osteoarthritis" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
                 </li>
                 <li>
                   <span className="font-medium">10.</span> Singh JA, et al. <em>"Shoulder arthritis."</em> Arthritis Res Ther. 2011;13(2):229.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=shoulder+osteoarthritis" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=shoulder+osteoarthritis" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
                 </li>
               </ol>
             </details>

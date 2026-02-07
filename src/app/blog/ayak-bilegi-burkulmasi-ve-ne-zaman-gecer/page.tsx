@@ -136,7 +136,7 @@ export default function AyakBilegiBurkulmasiPage() {
         <section className="mb-12">
           <h2 className="text-3xl font-bold text-gray-900 mb-6">RICE Protokolü: İlk Yardım ve Erken Tedavi</h2>
           
-          <div className="bg-blue-50 border border-blue-200 rounded-lg p-6 mb-6">
+          <div className="bg-[#E6FAF8] border border-blue-200 rounded-lg p-6 mb-6">
             <p className="text-gray-700 mb-4">
               <strong>RICE</strong>, akut yaralanmaların ilk 48-72 saatinde uygulanması gereken standart bir yaklaşımdır:
             </p>
@@ -268,7 +268,7 @@ export default function AyakBilegiBurkulmasiPage() {
               </p>
             </div>
 
-            <div className="bg-blue-50 border border-blue-200 rounded-lg p-6">
+            <div className="bg-[#E6FAF8] border border-blue-200 rounded-lg p-6">
               <h3 className="text-lg font-semibold text-gray-900 mb-3">Kronik Ağrı</h3>
               <p className="text-gray-700 text-sm mb-2">
                 Skar dokusu, sinir yaralanması veya kıkırdak hasarı nedeniyle uzun süreli ağrı.
@@ -322,52 +322,52 @@ export default function AyakBilegiBurkulmasiPage() {
             <ol className="space-y-3 text-sm text-gray-700">
               <li>
                 <strong>1.</strong> Ferran NA, Maffulli N. "Epidemiology of sprains of the lateral ankle ligament complex" Foot Ankle Clin. 2006;11(3):659-662. 
-                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=ankle+sprain+epidemiology" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=ankle+sprain+epidemiology" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <strong>2.</strong> Bleakley CM, et al. "Effect of accelerated rehabilitation on function after ankle sprain: randomised controlled trial" BMJ. 2010;340:c1964. 
-                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=ankle+sprain+accelerated+rehabilitation+RCT" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=ankle+sprain+accelerated+rehabilitation+RCT" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <strong>3.</strong> Kerkhoffs GM, et al. "Immobilisation and functional treatment for acute lateral ankle ligament injuries in adults" Cochrane Database Syst Rev. 2012;2:CD003762. 
-                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=ankle+sprain+immobilization+functional+treatment+cochrane" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=ankle+sprain+immobilization+functional+treatment+cochrane" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <strong>4.</strong> Hupperets MD, et al. "Effect of unsupervised home based proprioceptive training on recurrences of ankle sprain" BMJ. 2009;339:b2684. 
-                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=ankle+sprain+proprioceptive+training+prevention" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=ankle+sprain+proprioceptive+training+prevention" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <strong>5.</strong> van Rijn RM, et al. "What is the clinical course of acute ankle sprains?" Am J Med. 2008;121(4):324-331. 
-                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=ankle+sprain+clinical+course+natural+history" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=ankle+sprain+clinical+course+natural+history" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <strong>6.</strong> Lamb SE, et al. "Mechanical supports for acute, severe ankle sprain" Cochrane Database Syst Rev. 2009;3:CD005958. 
-                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=ankle+sprain+mechanical+support+cochrane" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=ankle+sprain+mechanical+support+cochrane" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <strong>7.</strong> Ivins D. "Acute ankle sprain: an update" Am Fam Physician. 2006;74(10):1714-1720. 
-                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=acute+ankle+sprain+update+management" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=acute+ankle+sprain+update+management" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <strong>8.</strong> Doherty C, et al. "The incidence and prevalence of ankle sprain injury: a systematic review and meta-analysis" Sports Med. 2014;44(1):123-140. 
-                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=ankle+sprain+incidence+prevalence+meta+analysis" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=ankle+sprain+incidence+prevalence+meta+analysis" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <strong>9.</strong> Doherty C, et al. "Treatment and prevention of acute and recurrent ankle sprain: an overview of systematic reviews with meta-analysis" Br J Sports Med. 2017;51(2):113-125. 
-                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=ankle+sprain+treatment+prevention+overview" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=ankle+sprain+treatment+prevention+overview" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <strong>10.</strong> Anandacoomarasamy A, Barnsley L. "Long term outcomes of inversion ankle injuries" Br J Sports Med. 2005;39(3):e14. 
-                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=ankle+sprain+long+term+outcomes" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=ankle+sprain+long+term+outcomes" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
             </ol>
           </div>
         </section>
           {/* Ameliyatsız Tedavi Internal Link */}
-          <div className="bg-blue-50 border-l-4 border-blue-700 p-6 my-8 rounded-r-lg">
+          <div className="bg-[#E6FAF8] border-l-4 border-blue-700 p-6 my-8 rounded-r-lg">
             <p className="text-gray-700">
               <strong>İlgili İçerik:</strong> Ameliyatsız tedavi seçenekleri hakkında daha fazla bilgi için{' '}
-              <a href="/ameliyatsiz-cozumler" className="text-blue-700 hover:text-blue-900 font-semibold hover:underline">
+              <a href="/ameliyatsiz-cozumler" className="text-[#01A899] hover:text-blue-900 font-semibold hover:underline">
                 ameliyatsız çözümler sayfamızı
               </a>{' '}
               ziyaret edebilirsiniz.

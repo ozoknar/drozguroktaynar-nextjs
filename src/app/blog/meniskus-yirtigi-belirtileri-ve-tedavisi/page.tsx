@@ -90,7 +90,7 @@ export default function MeniskusYirtigiPage() {
         <section className="mb-12">
           <h2 className="text-3xl font-bold text-gray-900 mb-6">Menisküs Yırtığı Belirtileri</h2>
           
-          <div className="bg-blue-50 border-l-4 border-blue-500 p-6 mb-6">
+          <div className="bg-[#E6FAF8] border-l-4 border-[#1AD2C4] p-6 mb-6">
             <h3 className="text-xl font-semibold text-gray-900 mb-3">Akut (Travmatik) Belirtiler</h3>
             <ul className="space-y-2 text-gray-700">
               <li>✓ <strong>Ani şiddetli diz ağrısı:</strong> Yaralanma anında "çat" sesi duyulabilir</li>
@@ -178,7 +178,7 @@ export default function MeniskusYirtigiPage() {
                 </p>
               </div>
 
-              <div className="bg-blue-50 p-4 rounded-lg">
+              <div className="bg-[#E6FAF8] p-4 rounded-lg">
                 <h5 className="font-semibold text-gray-900 mb-2">✂️ Parsiyel Menisektomi</h5>
                 <p className="text-sm text-gray-700">
                   İç (white-white) zonda kan akımı olmayan yırtıklar için. Yırtık parça çıkarılır. İyileşme 4-6 hafta.
@@ -254,52 +254,52 @@ export default function MeniskusYirtigiPage() {
             <ol className="space-y-3 text-sm text-gray-700">
               <li>
                 <strong>1.</strong> Mordecai SC, et al. "Treatment of meniscal tears: An evidence based approach" World J Orthop. 2014;5(3):233-241. 
-                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=meniscus+tear+treatment" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=meniscus+tear+treatment" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <strong>2.</strong> Beaufils P, Verdonk R. "The Meniscus" Springer, 2010. 
-                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=meniscus+anatomy+function" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=meniscus+anatomy+function" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <strong>3.</strong> Englund M, et al. "Incidental meniscal findings on knee MRI in middle-aged and elderly persons" N Engl J Med. 2008;359(11):1108-1115. 
-                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=meniscus+MRI+incidental+findings" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=meniscus+MRI+incidental+findings" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <strong>4.</strong> Katz JN, et al. "Surgery versus physical therapy for a meniscal tear and osteoarthritis" N Engl J Med. 2013;368(18):1675-1684. 
-                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=meniscus+surgery+vs+physical+therapy" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=meniscus+surgery+vs+physical+therapy" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <strong>5.</strong> Paxton ES, et al. "Meniscal repair versus partial meniscectomy: a systematic review comparing reoperation rates and clinical outcomes" Arthroscopy. 2011;27(9):1275-1288. 
-                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=meniscal+repair+vs+meniscectomy" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=meniscal+repair+vs+meniscectomy" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <strong>6.</strong> Rath E, Richmond JC. "The menisci: basic science and advances in treatment" Br J Sports Med. 2000;34(4):252-257. 
-                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=meniscus+basic+science" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=meniscus+basic+science" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <strong>7.</strong> Lohmander LS, et al. "The long-term consequence of anterior cruciate ligament and meniscus injuries" Am J Sports Med. 2007;35(10):1756-1769. 
-                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=meniscus+long+term+outcomes" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=meniscus+long+term+outcomes" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <strong>8.</strong> Makris EA, et al. "The knee meniscus: structure-function, pathophysiology, current repair techniques, and prospects for regeneration" Biomaterials. 2011;32(30):7411-7431. 
-                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=meniscus+regeneration+biomaterials" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=meniscus+regeneration+biomaterials" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <strong>9.</strong> Herrlin S, et al. "Arthroscopic or conservative treatment of degenerative medial meniscal tears: a prospective randomised trial" Knee Surg Sports Traumatol Arthrosc. 2007;15(4):393-401. 
-                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=degenerative+meniscus+arthroscopy+conservative" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=degenerative+meniscus+arthroscopy+conservative" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <strong>10.</strong> Petty CA, Lubowitz JH. "Does arthroscopic partial meniscectomy result in knee osteoarthritis?" Arthroscopy. 2011;27(3):431-444. 
-                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=meniscectomy+osteoarthritis+risk" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=meniscectomy+osteoarthritis+risk" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
             </ol>
           </div>
         </section>
           {/* Ameliyatsız Tedavi Internal Link */}
-          <div className="bg-blue-50 border-l-4 border-blue-700 p-6 my-8 rounded-r-lg">
+          <div className="bg-[#E6FAF8] border-l-4 border-blue-700 p-6 my-8 rounded-r-lg">
             <p className="text-gray-700">
               <strong>İlgili İçerik:</strong> Ameliyatsız tedavi seçenekleri hakkında daha fazla bilgi için{' '}
-              <a href="/ameliyatsiz-cozumler" className="text-blue-700 hover:text-blue-900 font-semibold hover:underline">
+              <a href="/ameliyatsiz-cozumler" className="text-[#01A899] hover:text-blue-900 font-semibold hover:underline">
                 ameliyatsız çözümler sayfamızı
               </a>{' '}
               ziyaret edebilirsiniz.
@@ -308,7 +308,7 @@ export default function MeniskusYirtigiPage() {
 
 
         {/* CTA */}
-        <section className="bg-gradient-to-r from-blue-600 to-indigo-600 text-white rounded-2xl p-8 text-center">
+        <section className="bg-gradient-to-r from-[#01CAB8] to-indigo-600 text-white rounded-2xl p-8 text-center">
           <h2 className="text-3xl font-bold mb-4">Diz Ağrınız mı Var?</h2>
           <p className="text-xl mb-6 opacity-90">
             Menisküs yırtığı şüpheniz varsa, erken tanı ve doğru tedavi için uzman değerlendirmesi önemlidir.
@@ -316,13 +316,13 @@ export default function MeniskusYirtigiPage() {
           <div className="flex flex-wrap justify-center gap-4">
             <Link 
               href="/iletisim" 
-              className="bg-white text-blue-600 px-8 py-3 rounded-full font-semibold hover:bg-blue-50 transition"
+              className="bg-white text-[#01CAB8] px-8 py-3 rounded-full font-semibold hover:bg-[#E6FAF8] transition"
             >
               Randevu Al
             </Link>
             <Link 
               href="/hizmetler" 
-              className="bg-blue-700 text-white px-8 py-3 rounded-full font-semibold hover:bg-blue-800 transition"
+              className="bg-[#01A899] text-white px-8 py-3 rounded-full font-semibold hover:bg-[#01867A] transition"
             >
               Hizmetlerimiz
             </Link>

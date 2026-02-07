@@ -79,7 +79,7 @@ export default function KalcaTendinitiPage() {
             hem akut iltihap hem de kronik dejenerasyonu içerir.
           </p>
 
-          <div className="bg-blue-50 border-l-4 border-blue-500 p-6 mb-6">
+          <div className="bg-[#E6FAF8] border-l-4 border-[#1AD2C4] p-6 mb-6">
             <h4 className="font-semibold text-lg mb-3">Kalça Bölgesindeki Başlıca Tendonlar:</h4>
             <ul className="space-y-2">
               <li>• <strong>Gluteus medius tendonu:</strong> Kalça abduktör kasının tendonu</li>
@@ -158,7 +158,7 @@ export default function KalcaTendinitiPage() {
             Tanı, detaylı anamnez, fizik muayene ve gerektiğinde görüntüleme yöntemleri ile konur.
           </p>
 
-          <div className="bg-blue-50 p-6 rounded-lg mb-8">
+          <div className="bg-[#E6FAF8] p-6 rounded-lg mb-8">
             <h4 className="font-semibold text-lg mb-3">Tanı Süreci:</h4>
             <ul className="space-y-3 text-gray-700">
               <li>
@@ -229,7 +229,7 @@ export default function KalcaTendinitiPage() {
 
           <h3 className="text-2xl font-semibold text-gray-800 mb-4 mt-8">İleri Tedavi Seçenekleri</h3>
 
-          <div className="bg-blue-50 p-6 rounded-lg mb-8">
+          <div className="bg-[#E6FAF8] p-6 rounded-lg mb-8">
             <h4 className="font-semibold text-lg mb-3">Medikal ve İnvaziv Tedaviler:</h4>
             <ul className="space-y-2 text-gray-700">
               <li>• <strong>NSAİİ:</strong> Ağrı ve iltihap kontrolü (kısa süreli)</li>
@@ -323,23 +323,23 @@ export default function KalcaTendinitiPage() {
         <section className="mb-12 p-6 bg-gray-50 rounded-lg">
           <h2 className="text-2xl font-bold text-gray-900 mb-4">Kaynaklar</h2>
           <ol className="space-y-2 text-sm text-gray-700">
-            <li>1. Grimaldi A, et al. "Gluteal Tendinopathy: A Review of Mechanisms, Assessment and Management." Sports Med. 2015. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=gluteal+tendinopathy+review" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a></li>
-            <li>2. Mellor R, et al. "Education plus exercise versus corticosteroid injection use versus a wait and see approach on global outcome and pain from gluteal tendinopathy." Br J Sports Med. 2018. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=gluteal+tendinopathy+treatment+comparison" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a></li>
-            <li>3. Fearon AM, et al. "Greater trochanteric pain syndrome: defining the clinical syndrome." Br J Sports Med. 2013. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=greater+trochanteric+pain+syndrome" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a></li>
-            <li>4. Ganderton C, et al. "Gluteal Loading Versus Sham Exercises to Improve Pain and Dysfunction in Postmenopausal Women with Greater Trochanteric Pain Syndrome." J Womens Health. 2018. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=gluteal+tendinopathy+exercise+women" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a></li>
-            <li>5. Cook JL, Purdam CR. "Is tendon pathology a continuum? A pathology model to explain the clinical presentation of load-induced tendinopathy." Br J Sports Med. 2009. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=tendinopathy+continuum+model" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a></li>
-            <li>6. Long SS, et al. "Prevalence and Characteristics of Asymptomatic Gluteus Medius and Minimus Tendon Abnormalities on MRI." AJR Am J Roentgenol. 2018. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=gluteus+medius+tendon+MRI" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a></li>
-            <li>7. Plinsinga ML, et al. "Pelvic and femoral muscle contributions to hip joint loading during running." J Biomech. 2016. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=hip+biomechanics+running" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a></li>
-            <li>8. Rio E, et al. "Tendon neuroplastic training: changing the way we think about tendon rehabilitation." Br J Sports Med. 2016. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=tendon+rehabilitation+neuroplastic" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a></li>
-            <li>9. Lievense A, et al. "Influence of hip dysplasia on the development of osteoarthritis of the hip." Ann Rheum Dis. 2004. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=hip+dysplasia+biomechanics" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a></li>
-            <li>10. Speers CJ, Bhogal GS. "Greater trochanteric pain syndrome: a review of diagnosis and management in general practice." Br J Gen Pract. 2017. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=trochanteric+pain+primary+care" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a></li>
+            <li>1. Grimaldi A, et al. "Gluteal Tendinopathy: A Review of Mechanisms, Assessment and Management." Sports Med. 2015. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=gluteal+tendinopathy+review" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a></li>
+            <li>2. Mellor R, et al. "Education plus exercise versus corticosteroid injection use versus a wait and see approach on global outcome and pain from gluteal tendinopathy." Br J Sports Med. 2018. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=gluteal+tendinopathy+treatment+comparison" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a></li>
+            <li>3. Fearon AM, et al. "Greater trochanteric pain syndrome: defining the clinical syndrome." Br J Sports Med. 2013. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=greater+trochanteric+pain+syndrome" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a></li>
+            <li>4. Ganderton C, et al. "Gluteal Loading Versus Sham Exercises to Improve Pain and Dysfunction in Postmenopausal Women with Greater Trochanteric Pain Syndrome." J Womens Health. 2018. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=gluteal+tendinopathy+exercise+women" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a></li>
+            <li>5. Cook JL, Purdam CR. "Is tendon pathology a continuum? A pathology model to explain the clinical presentation of load-induced tendinopathy." Br J Sports Med. 2009. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=tendinopathy+continuum+model" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a></li>
+            <li>6. Long SS, et al. "Prevalence and Characteristics of Asymptomatic Gluteus Medius and Minimus Tendon Abnormalities on MRI." AJR Am J Roentgenol. 2018. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=gluteus+medius+tendon+MRI" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a></li>
+            <li>7. Plinsinga ML, et al. "Pelvic and femoral muscle contributions to hip joint loading during running." J Biomech. 2016. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=hip+biomechanics+running" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a></li>
+            <li>8. Rio E, et al. "Tendon neuroplastic training: changing the way we think about tendon rehabilitation." Br J Sports Med. 2016. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=tendon+rehabilitation+neuroplastic" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a></li>
+            <li>9. Lievense A, et al. "Influence of hip dysplasia on the development of osteoarthritis of the hip." Ann Rheum Dis. 2004. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=hip+dysplasia+biomechanics" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a></li>
+            <li>10. Speers CJ, Bhogal GS. "Greater trochanteric pain syndrome: a review of diagnosis and management in general practice." Br J Gen Pract. 2017. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=trochanteric+pain+primary+care" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a></li>
           </ol>
         </section>
           {/* Ameliyatsız Tedavi Internal Link */}
-          <div className="bg-blue-50 border-l-4 border-blue-700 p-6 my-8 rounded-r-lg">
+          <div className="bg-[#E6FAF8] border-l-4 border-blue-700 p-6 my-8 rounded-r-lg">
             <p className="text-gray-700">
               <strong>İlgili İçerik:</strong> Ameliyatsız tedavi seçenekleri hakkında daha fazla bilgi için{' '}
-              <a href="/ameliyatsiz-cozumler" className="text-blue-700 hover:text-blue-900 font-semibold hover:underline">
+              <a href="/ameliyatsiz-cozumler" className="text-[#01A899] hover:text-blue-900 font-semibold hover:underline">
                 ameliyatsız çözümler sayfamızı
               </a>{' '}
               ziyaret edebilirsiniz.
@@ -348,14 +348,14 @@ export default function KalcaTendinitiPage() {
 
 
         {/* CTA Section */}
-        <section className="mt-12 p-8 bg-gradient-to-r from-blue-600 to-blue-700 rounded-2xl text-white">
+        <section className="mt-12 p-8 bg-gradient-to-r from-[#01CAB8] to-[#01A899] rounded-2xl text-white">
           <h2 className="text-3xl font-bold mb-4">Kalça Ağrınız için Uzman Değerlendirme</h2>
           <p className="text-lg mb-6 text-blue-50">
             Kalça tendiniti tanı ve tedavisi için detaylı muayene randevusu alabilirsiniz.
           </p>
           <Link
             href="/randevu"
-            className="inline-block bg-white text-blue-600 px-8 py-3 rounded-lg font-semibold hover:bg-blue-50 transition-colors"
+            className="inline-block bg-white text-[#01CAB8] px-8 py-3 rounded-lg font-semibold hover:bg-[#E6FAF8] transition-colors"
           >
             Randevu Al
           </Link>

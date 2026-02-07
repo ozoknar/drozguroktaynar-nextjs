@@ -144,11 +144,11 @@ export default function YaslilardaKalcaProteziPage() {
             Modern yaklaşımlar, ameliyat sonrası mümkün olan en kısa sürede (genellikle ameliyat günü veya ertesi gün) mobilizasyonu önerir. Ancak yaşlı hastalarda dikkatli ilerleme gereklidir:
           </p>
 
-          <div className="bg-blue-50 p-6 rounded-lg mb-6">
+          <div className="bg-[#E6FAF8] p-6 rounded-lg mb-6">
             <h4 className="text-lg font-semibold text-gray-800 mb-4">📋 İlk Mobilizasyon Adımları</h4>
             
             <div className="space-y-4">
-              <div className="border-l-4 border-blue-600 pl-4">
+              <div className="border-l-4 border-[#01CAB8] pl-4">
                 <h5 className="font-semibold text-gray-800">1. Yatak İçi Egzersizler (Ameliyat Sonrası 2-6 Saat)</h5>
                 <ul className="text-gray-700 text-sm space-y-1 mt-2">
                   <li>• Ayak bileği pompası (her saat 10 tekrar)</li>
@@ -158,7 +158,7 @@ export default function YaslilardaKalcaProteziPage() {
                 </ul>
               </div>
 
-              <div className="border-l-4 border-blue-600 pl-4">
+              <div className="border-l-4 border-[#01CAB8] pl-4">
                 <h5 className="font-semibold text-gray-800">2. Yatak Kenarında Oturma (6-12 Saat Sonra)</h5>
                 <ul className="text-gray-700 text-sm space-y-1 mt-2">
                   <li>• Hemşire veya fizyoterapist gözetiminde</li>
@@ -168,7 +168,7 @@ export default function YaslilardaKalcaProteziPage() {
                 </ul>
               </div>
 
-              <div className="border-l-4 border-blue-600 pl-4">
+              <div className="border-l-4 border-[#01CAB8] pl-4">
                 <h5 className="font-semibold text-gray-800">3. İlk Ayağa Kalkma (12-24 Saat Sonra)</h5>
                 <ul className="text-gray-700 text-sm space-y-1 mt-2">
                   <li>• Walker (yürüteç) veya koltuk değneği kullanarak</li>
@@ -416,7 +416,7 @@ export default function YaslilardaKalcaProteziPage() {
           </ul>
 
           <h3 className="text-2xl font-semibold text-gray-800 mb-4">Yaşam Kalitesi Optimizasyonu</h3>
-          <div className="bg-blue-50 p-6 rounded-lg mb-6">
+          <div className="bg-[#E6FAF8] p-6 rounded-lg mb-6">
             <h4 className="text-lg font-semibold text-gray-800 mb-3">💡 Başarılı Yaşlanma Stratejileri</h4>
             <ul className="text-gray-700 space-y-2">
               <li><strong>Sosyal aktivite:</strong> İzolasyondan kaçının, arkadaş grupları, hobi kulüpleri</li>
@@ -447,7 +447,7 @@ export default function YaslilardaKalcaProteziPage() {
                   href="https://pubmed.ncbi.nlm.nih.gov/?term=geriatric+hip+arthroplasty+rehabilitation" 
                   target="_blank" 
                   rel="nofollow noopener"
-                  className="text-blue-600 hover:text-blue-800"
+                  className="text-[#01CAB8] hover:text-[#01867A]"
                 >
                   Geriatrik Kalça Protezi Rehabilitasyon - PubMed Ara
                 </a>
@@ -457,7 +457,7 @@ export default function YaslilardaKalcaProteziPage() {
                   href="https://pubmed.ncbi.nlm.nih.gov/?term=elderly+hip+replacement+outcomes" 
                   target="_blank" 
                   rel="nofollow noopener"
-                  className="text-blue-600 hover:text-blue-800"
+                  className="text-[#01CAB8] hover:text-[#01867A]"
                 >
                   Yaşlılarda Kalça Protezi Sonuçları - PubMed Ara
                 </a>
@@ -467,7 +467,7 @@ export default function YaslilardaKalcaProteziPage() {
                   href="https://pubmed.ncbi.nlm.nih.gov/?term=fall+prevention+hip+arthroplasty" 
                   target="_blank" 
                   rel="nofollow noopener"
-                  className="text-blue-600 hover:text-blue-800"
+                  className="text-[#01CAB8] hover:text-[#01867A]"
                 >
                   Kalça Protezi Sonrası Düşme Önleme - PubMed Ara
                 </a>
@@ -477,7 +477,7 @@ export default function YaslilardaKalcaProteziPage() {
                   href="https://pubmed.ncbi.nlm.nih.gov/?term=hip+precautions+arthroplasty" 
                   target="_blank" 
                   rel="nofollow noopener"
-                  className="text-blue-600 hover:text-blue-800"
+                  className="text-[#01CAB8] hover:text-[#01867A]"
                 >
                   Kalça Protezi Önlemleri (Hip Precautions) - PubMed Ara
                 </a>
@@ -487,7 +487,7 @@ export default function YaslilardaKalcaProteziPage() {
                   href="https://pubmed.ncbi.nlm.nih.gov/?term=prehabilitation+hip+surgery+elderly" 
                   target="_blank" 
                   rel="nofollow noopener"
-                  className="text-blue-600 hover:text-blue-800"
+                  className="text-[#01CAB8] hover:text-[#01867A]"
                 >
                   Yaşlılarda Kalça Cerrahisi Öncesi Hazırlık - PubMed Ara
                 </a>
@@ -497,7 +497,7 @@ export default function YaslilardaKalcaProteziPage() {
                   href="https://pubmed.ncbi.nlm.nih.gov/?term=early+mobilization+hip+arthroplasty" 
                   target="_blank" 
                   rel="nofollow noopener"
-                  className="text-blue-600 hover:text-blue-800"
+                  className="text-[#01CAB8] hover:text-[#01867A]"
                 >
                   Kalça Protezi Erken Mobilizasyon - PubMed Ara
                 </a>
@@ -507,7 +507,7 @@ export default function YaslilardaKalcaProteziPage() {
                   href="https://pubmed.ncbi.nlm.nih.gov/?term=home+environment+modification+hip+surgery" 
                   target="_blank" 
                   rel="nofollow noopener"
-                  className="text-blue-600 hover:text-blue-800"
+                  className="text-[#01CAB8] hover:text-[#01867A]"
                 >
                   Kalça Cerrahisi Ev Ortamı Düzenleme - PubMed Ara
                 </a>
@@ -517,7 +517,7 @@ export default function YaslilardaKalcaProteziPage() {
                   href="https://pubmed.ncbi.nlm.nih.gov/?term=quality+of+life+elderly+hip+replacement" 
                   target="_blank" 
                   rel="nofollow noopener"
-                  className="text-blue-600 hover:text-blue-800"
+                  className="text-[#01CAB8] hover:text-[#01867A]"
                 >
                   Yaşlılarda Kalça Protezi Yaşam Kalitesi - PubMed Ara
                 </a>
@@ -527,7 +527,7 @@ export default function YaslilardaKalcaProteziPage() {
                   href="https://pubmed.ncbi.nlm.nih.gov/?term=dislocation+prevention+hip+arthroplasty" 
                   target="_blank" 
                   rel="nofollow noopener"
-                  className="text-blue-600 hover:text-blue-800"
+                  className="text-[#01CAB8] hover:text-[#01867A]"
                 >
                   Kalça Protezi Çıkık Önleme - PubMed Ara
                 </a>
@@ -537,7 +537,7 @@ export default function YaslilardaKalcaProteziPage() {
                   href="https://pubmed.ncbi.nlm.nih.gov/?term=assistive+devices+hip+arthroplasty" 
                   target="_blank" 
                   rel="nofollow noopener"
-                  className="text-blue-600 hover:text-blue-800"
+                  className="text-[#01CAB8] hover:text-[#01867A]"
                 >
                   Kalça Protezi Yardımcı Cihazlar - PubMed Ara
                 </a>
@@ -546,10 +546,10 @@ export default function YaslilardaKalcaProteziPage() {
           </div>
         </section>
           {/* Ameliyatsız Tedavi Internal Link */}
-          <div className="bg-blue-50 border-l-4 border-blue-700 p-6 my-8 rounded-r-lg">
+          <div className="bg-[#E6FAF8] border-l-4 border-blue-700 p-6 my-8 rounded-r-lg">
             <p className="text-gray-700">
               <strong>İlgili İçerik:</strong> Ameliyatsız tedavi seçenekleri hakkında daha fazla bilgi için{' '}
-              <a href="/ameliyatsiz-cozumler" className="text-blue-700 hover:text-blue-900 font-semibold hover:underline">
+              <a href="/ameliyatsiz-cozumler" className="text-[#01A899] hover:text-blue-900 font-semibold hover:underline">
                 ameliyatsız çözümler sayfamızı
               </a>{' '}
               ziyaret edebilirsiniz.

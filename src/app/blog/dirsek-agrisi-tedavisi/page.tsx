@@ -71,9 +71,9 @@ export default function DirsekAgrisiTedavisiPage() {
       <article className="max-w-4xl mx-auto px-4 py-8">
         {/* Breadcrumb */}
         <nav className="text-sm text-gray-500 mb-6">
-          <Link href="/" className="hover:text-blue-600">Ana Sayfa</Link>
+          <Link href="/" className="hover:text-[#01CAB8]">Ana Sayfa</Link>
           <span className="mx-2">/</span>
-          <Link href="/blog" className="hover:text-blue-600">Blog</Link>
+          <Link href="/blog" className="hover:text-[#01CAB8]">Blog</Link>
           <span className="mx-2">/</span>
           <span className="text-gray-700">Dirsek Ağrısı Tedavisi</span>
         </nav>
@@ -123,23 +123,23 @@ export default function DirsekAgrisiTedavisiPage() {
             </p>
             <ul className="space-y-2 mt-3">
               <li className="flex items-start">
-                <span className="text-blue-500 mr-2">•</span>
+                <span className="text-[#1AD2C4] mr-2">•</span>
                 <span><strong>Lateral epikondilit (Tenisçi dirseği):</strong> Dirsek dış yan ağrısı, aşırı kullanımla gelişir</span>
               </li>
               <li className="flex items-start">
-                <span className="text-blue-500 mr-2">•</span>
+                <span className="text-[#1AD2C4] mr-2">•</span>
                 <span><strong>Medial epikondilit (Golfçü dirseği):</strong> Dirsek iç yan ağrısı, tekrarlayan hareketlerle oluşur</span>
               </li>
               <li className="flex items-start">
-                <span className="text-blue-500 mr-2">•</span>
+                <span className="text-[#1AD2C4] mr-2">•</span>
                 <span><strong>Olekranon bursiti:</strong> Dirsek arkasında şişlik ve ağrı</span>
               </li>
               <li className="flex items-start">
-                <span className="text-blue-500 mr-2">•</span>
+                <span className="text-[#1AD2C4] mr-2">•</span>
                 <span><strong>Ulnar sinir sıkışması (Kubital tünel sendromu):</strong> El ve parmaklarda uyuşma ile birlikte ağrı</span>
               </li>
               <li className="flex items-start">
-                <span className="text-blue-500 mr-2">•</span>
+                <span className="text-[#1AD2C4] mr-2">•</span>
                 <span><strong>Kıkırdak hasarı veya artrit:</strong> Eklem dejenerasyonu, hareket kısıtlılığı</span>
               </li>
             </ul>
@@ -195,15 +195,15 @@ export default function DirsekAgrisiTedavisiPage() {
             <h4 className="text-xl font-semibold text-gray-800 mb-2 mt-4">1. Dinlenme ve Aktivite Modifikasyonu</h4>
             <ul className="space-y-2">
               <li className="flex items-start">
-                <span className="text-blue-500 mr-2">•</span>
+                <span className="text-[#1AD2C4] mr-2">•</span>
                 <span>Ağrıyı tetikleyen hareketlerden kaçının</span>
               </li>
               <li className="flex items-start">
-                <span className="text-blue-500 mr-2">•</span>
+                <span className="text-[#1AD2C4] mr-2">•</span>
                 <span>İş veya spor aktivitelerinde düzenleme yapın (ergonomi iyileştirmesi)</span>
               </li>
               <li className="flex items-start">
-                <span className="text-blue-500 mr-2">•</span>
+                <span className="text-[#1AD2C4] mr-2">•</span>
                 <span>Atel veya bandaj ile eklem desteği sağlayın</span>
               </li>
             </ul>
@@ -211,11 +211,11 @@ export default function DirsekAgrisiTedavisiPage() {
             <h4 className="text-xl font-semibold text-gray-800 mb-2 mt-4">2. Soğuk ve Sıcak Uygulama</h4>
             <ul className="space-y-2">
               <li className="flex items-start">
-                <span className="text-blue-500 mr-2">•</span>
+                <span className="text-[#1AD2C4] mr-2">•</span>
                 <span><strong>Soğuk uygulama:</strong> İlk 48 saat, şişlik ve iltihabı azaltır (günde 3-4 kez, 15-20 dakika)</span>
               </li>
               <li className="flex items-start">
-                <span className="text-blue-500 mr-2">•</span>
+                <span className="text-[#1AD2C4] mr-2">•</span>
                 <span><strong>Sıcak uygulama:</strong> Kronik ağrıda, kan dolaşımını artırır ve kasları rahatlatır</span>
               </li>
             </ul>
@@ -223,15 +223,15 @@ export default function DirsekAgrisiTedavisiPage() {
             <h4 className="text-xl font-semibold text-gray-800 mb-2 mt-4">3. İlaç Tedavisi</h4>
             <ul className="space-y-2">
               <li className="flex items-start">
-                <span className="text-blue-500 mr-2">•</span>
+                <span className="text-[#1AD2C4] mr-2">•</span>
                 <span>NSAİİ (ibuprofen, naproksen) - ağrı ve iltihabı azaltır</span>
               </li>
               <li className="flex items-start">
-                <span className="text-blue-500 mr-2">•</span>
+                <span className="text-[#1AD2C4] mr-2">•</span>
                 <span>Kortikosteroid enjeksiyonları - şiddetli inflamasyonda kısa vadeli rahatlama</span>
               </li>
               <li className="flex items-start">
-                <span className="text-blue-500 mr-2">•</span>
+                <span className="text-[#1AD2C4] mr-2">•</span>
                 <span>PRP (Platelet-Rich Plasma) tedavisi - tendon iyileşmesini destekler</span>
               </li>
             </ul>
@@ -239,19 +239,19 @@ export default function DirsekAgrisiTedavisiPage() {
             <h4 className="text-xl font-semibold text-gray-800 mb-2 mt-4">4. Fizik Tedavi ve Egzersiz</h4>
             <ul className="space-y-2">
               <li className="flex items-start">
-                <span className="text-blue-500 mr-2">•</span>
+                <span className="text-[#1AD2C4] mr-2">•</span>
                 <span><strong>Germe egzersizleri:</strong> Esnekliği artırır, kasılmayı azaltır</span>
               </li>
               <li className="flex items-start">
-                <span className="text-blue-500 mr-2">•</span>
+                <span className="text-[#1AD2C4] mr-2">•</span>
                 <span><strong>Kuvvetlendirme:</strong> Dirsek çevresindeki kasları güçlendirir, destekler</span>
               </li>
               <li className="flex items-start">
-                <span className="text-blue-500 mr-2">•</span>
+                <span className="text-[#1AD2C4] mr-2">•</span>
                 <span><strong>Ultrason, TENS:</strong> Ağrı kontrolü ve doku iyileşmesini hızlandırır</span>
               </li>
               <li className="flex items-start">
-                <span className="text-blue-500 mr-2">•</span>
+                <span className="text-[#1AD2C4] mr-2">•</span>
                 <span><strong>Manuel terapi:</strong> Eklem mobilizasyonu ve yumuşak doku masajı</span>
               </li>
             </ul>
@@ -262,19 +262,19 @@ export default function DirsekAgrisiTedavisiPage() {
             </p>
             <ul className="space-y-2 mt-3">
               <li className="flex items-start">
-                <span className="text-blue-500 mr-2">•</span>
+                <span className="text-[#1AD2C4] mr-2">•</span>
                 <span><strong>Tendon onarımı veya debridman:</strong> Hasarlı tendon dokusunun temizlenmesi</span>
               </li>
               <li className="flex items-start">
-                <span className="text-blue-500 mr-2">•</span>
+                <span className="text-[#1AD2C4] mr-2">•</span>
                 <span><strong>Sinir dekompresyonu:</strong> Kubital tünel sendromundasinir basısının giderilmesi</span>
               </li>
               <li className="flex items-start">
-                <span className="text-blue-500 mr-2">•</span>
+                <span className="text-[#1AD2C4] mr-2">•</span>
                 <span><strong>Artroskopi:</strong> Minimal invaziv eklem temizliği ve onarımı</span>
               </li>
               <li className="flex items-start">
-                <span className="text-blue-500 mr-2">•</span>
+                <span className="text-[#1AD2C4] mr-2">•</span>
                 <span><strong>Eklem replasmanı:</strong> İleri evre artrit durumunda</span>
               </li>
             </ul>
@@ -328,7 +328,7 @@ export default function DirsekAgrisiTedavisiPage() {
                   href="https://pubmed.ncbi.nlm.nih.gov/?term=epicondylitis+occupational+factors" 
                   target="_blank" 
                   rel="noopener noreferrer" 
-                  className="text-blue-600 hover:underline ml-1"
+                  className="text-[#01CAB8] hover:underline ml-1"
                 >
                   [PubMed Ara]
                 </a>
@@ -339,7 +339,7 @@ export default function DirsekAgrisiTedavisiPage() {
                   href="https://pubmed.ncbi.nlm.nih.gov/?term=corticosteroid+injections+tendinopathy" 
                   target="_blank" 
                   rel="noopener noreferrer" 
-                  className="text-blue-600 hover:underline ml-1"
+                  className="text-[#01CAB8] hover:underline ml-1"
                 >
                   [PubMed Ara]
                 </a>
@@ -350,7 +350,7 @@ export default function DirsekAgrisiTedavisiPage() {
                   href="https://pubmed.ncbi.nlm.nih.gov/?term=tennis+elbow+treatment+comparison" 
                   target="_blank" 
                   rel="noopener noreferrer" 
-                  className="text-blue-600 hover:underline ml-1"
+                  className="text-[#01CAB8] hover:underline ml-1"
                 >
                   [PubMed Ara]
                 </a>
@@ -360,12 +360,12 @@ export default function DirsekAgrisiTedavisiPage() {
 
           {/* Section 7: Internal Link - ZORUNLU! */}
           <section className="mb-12">
-            <div className="bg-blue-50 border-l-4 border-blue-500 p-6 rounded-r-lg">
+            <div className="bg-[#E6FAF8] border-l-4 border-[#1AD2C4] p-6 rounded-r-lg">
               <p className="text-gray-700">
                 <strong>İlgili İçerik:</strong> Ameliyatsız tedavi seçenekleri hakkında daha fazla bilgi için{' '}
                 <Link 
                   href="/ameliyatsiz-cozumler" 
-                  className="text-blue-600 hover:text-blue-800 font-semibold hover:underline"
+                  className="text-[#01CAB8] hover:text-[#01867A] font-semibold hover:underline"
                 >
                   ameliyatsız çözümler sayfamızı
                 </Link>{' '}
@@ -391,12 +391,12 @@ export default function DirsekAgrisiTedavisiPage() {
         </div>
 
         {/* CTA */}
-        <div className="bg-gradient-to-r from-blue-600 to-blue-700 rounded-xl p-8 text-center text-white mt-12">
+        <div className="bg-gradient-to-r from-[#01CAB8] to-[#01A899] rounded-xl p-8 text-center text-white mt-12">
           <h2 className="text-2xl font-bold mb-4">Randevu Almak İster misiniz?</h2>
           <p className="mb-6">Uzman değerlendirmesi için hemen iletişime geçin.</p>
           <Link 
             href="/iletisim" 
-            className="inline-block bg-white text-blue-600 px-8 py-3 rounded-lg font-semibold hover:bg-gray-100 transition"
+            className="inline-block bg-white text-[#01CAB8] px-8 py-3 rounded-lg font-semibold hover:bg-gray-100 transition"
           >
             Randevu Al
           </Link>

@@ -17,7 +17,7 @@ export default function AyakBilegiKirigiPage() {
     <article className="max-w-4xl mx-auto px-4 py-12">
       {/* Breadcrumb */}
       <nav className="text-sm text-gray-500 mb-6">
-        <Link href="/" className="hover:text-blue-600">Ana Sayfa</Link>
+        <Link href="/" className="hover:text-[#01CAB8]">Ana Sayfa</Link>
         <span className="mx-2">/</span>
         <span className="text-gray-700">Ayak Bileği Kırığı Sonrası Yürüme</span>
       </nav>
@@ -45,16 +45,16 @@ export default function AyakBilegiKirigiPage() {
         </p>
 
         {/* Table of Contents */}
-        <div className="bg-blue-50 rounded-xl p-6 mb-8">
+        <div className="bg-[#E6FAF8] rounded-xl p-6 mb-8">
           <h2 className="text-xl font-semibold text-gray-900 mb-4">📑 İçindekiler</h2>
           <ul className="space-y-2">
-            <li><a href="#nedir" className="text-blue-600 hover:underline">Ayak Bileği Kırığı Nedir?</a></li>
-            <li><a href="#iyilesme-sureci" className="text-blue-600 hover:underline">İyileşme Süreci</a></li>
-            <li><a href="#alci-sonrasi" className="text-blue-600 hover:underline">Alçı Sonrası Yürüme</a></li>
-            <li><a href="#ameliyat-sonrasi" className="text-blue-600 hover:underline">Ameliyat Sonrası Yürüme</a></li>
-            <li><a href="#fizik-tedavi" className="text-blue-600 hover:underline">Fizik Tedavi ve Egzersizler</a></li>
-            <li><a href="#komplikasyonlar" className="text-blue-600 hover:underline">Olası Komplikasyonlar</a></li>
-            <li><a href="#sss" className="text-blue-600 hover:underline">Sıkça Sorulan Sorular</a></li>
+            <li><a href="#nedir" className="text-[#01CAB8] hover:underline">Ayak Bileği Kırığı Nedir?</a></li>
+            <li><a href="#iyilesme-sureci" className="text-[#01CAB8] hover:underline">İyileşme Süreci</a></li>
+            <li><a href="#alci-sonrasi" className="text-[#01CAB8] hover:underline">Alçı Sonrası Yürüme</a></li>
+            <li><a href="#ameliyat-sonrasi" className="text-[#01CAB8] hover:underline">Ameliyat Sonrası Yürüme</a></li>
+            <li><a href="#fizik-tedavi" className="text-[#01CAB8] hover:underline">Fizik Tedavi ve Egzersizler</a></li>
+            <li><a href="#komplikasyonlar" className="text-[#01CAB8] hover:underline">Olası Komplikasyonlar</a></li>
+            <li><a href="#sss" className="text-[#01CAB8] hover:underline">Sıkça Sorulan Sorular</a></li>
           </ul>
         </div>
 
@@ -116,19 +116,19 @@ export default function AyakBilegiKirigiPage() {
             Ciddi ve karmaşık ayak bileği kırıklarında cerrahi müdahale kaçınılmaz hale gelebilir. Cerrahi işlem sırasında, kırık kemiklerin doğru hizalanabilmesi için plak, vida, çivi veya tel gibi çeşitli ortopedik materyaller kullanılır.
           </p>
           
-          <div className="bg-blue-50 rounded-xl p-6 mb-6">
+          <div className="bg-[#E6FAF8] rounded-xl p-6 mb-6">
             <h3 className="text-lg font-semibold text-gray-900 mb-3">Ameliyat Sonrası Süreç</h3>
             <div className="space-y-3">
               <div className="flex items-start">
-                <span className="bg-blue-600 text-white rounded-full w-6 h-6 flex items-center justify-center text-sm mr-3 flex-shrink-0">1</span>
+                <span className="bg-[#01CAB8] text-white rounded-full w-6 h-6 flex items-center justify-center text-sm mr-3 flex-shrink-0">1</span>
                 <span><strong>İlk 6 hafta:</strong> Ayağa yük verilmez, istirahat önceliklidir</span>
               </div>
               <div className="flex items-start">
-                <span className="bg-blue-600 text-white rounded-full w-6 h-6 flex items-center justify-center text-sm mr-3 flex-shrink-0">2</span>
+                <span className="bg-[#01CAB8] text-white rounded-full w-6 h-6 flex items-center justify-center text-sm mr-3 flex-shrink-0">2</span>
                 <span><strong>6. hafta:</strong> Hafif yük verme ve yürüyüş egzersizleri başlar</span>
               </div>
               <div className="flex items-start">
-                <span className="bg-blue-600 text-white rounded-full w-6 h-6 flex items-center justify-center text-sm mr-3 flex-shrink-0">3</span>
+                <span className="bg-[#01CAB8] text-white rounded-full w-6 h-6 flex items-center justify-center text-sm mr-3 flex-shrink-0">3</span>
                 <span><strong>10-12. hafta:</strong> Tam yük verme sürecine geçiş</span>
               </div>
             </div>
@@ -217,7 +217,7 @@ export default function AyakBilegiKirigiPage() {
         </section>
 
         {/* CTA */}
-        <div className="bg-blue-600 text-white rounded-2xl p-8 text-center">
+        <div className="bg-[#01CAB8] text-white rounded-2xl p-8 text-center">
           <h3 className="text-2xl font-bold mb-4">Ayak Bileği Kırığı Tedavisi İçin Randevu Alın</h3>
           <p className="text-blue-100 mb-6">
             Uzman ortopedi desteği ile iyileşme sürecinizi hızlandırın.

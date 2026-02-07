@@ -90,7 +90,7 @@ export default function KokHucreTedavisiPage() {
         <section className="mb-12">
           <h2 className="text-3xl font-bold text-gray-900 mb-6">Kök Hücre Nedir?</h2>
           
-          <div className="bg-blue-50 border-l-4 border-blue-500 p-6 mb-6">
+          <div className="bg-[#E6FAF8] border-l-4 border-[#1AD2C4] p-6 mb-6">
             <p className="text-gray-700 mb-3">
               <strong>Kök hücreler</strong>, vücuttaki farklı hücre tiplerine dönüşme (diferansiyasyon) ve kendini yenileme kapasitesine sahip özel hücrelerdir. İki ana özellik taşırlar:
             </p>
@@ -146,7 +146,7 @@ export default function KokHucreTedavisiPage() {
               </ul>
             </div>
 
-            <div className="bg-blue-50 border-l-4 border-blue-500 p-6">
+            <div className="bg-[#E6FAF8] border-l-4 border-[#1AD2C4] p-6">
               <h3 className="text-xl font-semibold text-gray-900 mb-3">2️⃣ Tendon ve Ligament Yaralanmaları</h3>
               <p className="text-gray-700 mb-2">
                 Rotator kaf, Aşil tendonu, lateral epikondilit (tenisçi dirseği) gibi yaralanmalarda denenmektedir.
@@ -192,7 +192,7 @@ export default function KokHucreTedavisiPage() {
             <h3 className="text-xl font-semibold text-gray-900 mb-4">Adım Adım Kök Hücre Uygulaması</h3>
             <div className="space-y-4">
               <div className="flex items-start gap-3">
-                <div className="bg-blue-600 text-white w-8 h-8 rounded-full flex items-center justify-center font-bold flex-shrink-0">1</div>
+                <div className="bg-[#01CAB8] text-white w-8 h-8 rounded-full flex items-center justify-center font-bold flex-shrink-0">1</div>
                 <div>
                   <strong className="text-gray-900">Kaynak Doku Elde Etme:</strong>
                   <p className="text-gray-700 text-sm">Kemik iliği aspirasyonu (pelvis veya tibia), liposuction (yağ dokusu) veya kan alımı.</p>
@@ -200,7 +200,7 @@ export default function KokHucreTedavisiPage() {
               </div>
 
               <div className="flex items-start gap-3">
-                <div className="bg-blue-600 text-white w-8 h-8 rounded-full flex items-center justify-center font-bold flex-shrink-0">2</div>
+                <div className="bg-[#01CAB8] text-white w-8 h-8 rounded-full flex items-center justify-center font-bold flex-shrink-0">2</div>
                 <div>
                   <strong className="text-gray-900">Laboratuvar İşlemi:</strong>
                   <p className="text-gray-700 text-sm">Kök hücrelerin izolasyonu, konsantrasyonu ve gerekirse kültürde çoğaltılması (2-4 hafta).</p>
@@ -208,7 +208,7 @@ export default function KokHucreTedavisiPage() {
               </div>
 
               <div className="flex items-start gap-3">
-                <div className="bg-blue-600 text-white w-8 h-8 rounded-full flex items-center justify-center font-bold flex-shrink-0">3</div>
+                <div className="bg-[#01CAB8] text-white w-8 h-8 rounded-full flex items-center justify-center font-bold flex-shrink-0">3</div>
                 <div>
                   <strong className="text-gray-900">Uygulama:</strong>
                   <p className="text-gray-700 text-sm">İntra-artiküler enjeksiyon, cerrahi implantasyon veya artroskopik yerleştirme.</p>
@@ -216,7 +216,7 @@ export default function KokHucreTedavisiPage() {
               </div>
 
               <div className="flex items-start gap-3">
-                <div className="bg-blue-600 text-white w-8 h-8 rounded-full flex items-center justify-center font-bold flex-shrink-0">4</div>
+                <div className="bg-[#01CAB8] text-white w-8 h-8 rounded-full flex items-center justify-center font-bold flex-shrink-0">4</div>
                 <div>
                   <strong className="text-gray-900">Takip ve Rehabilitasyon:</strong>
                   <p className="text-gray-700 text-sm">Kontrollü egzersiz programı, 3-6-12 aylık MR veya ultrason takibi.</p>
@@ -367,52 +367,52 @@ export default function KokHucreTedavisiPage() {
             <ol className="space-y-3 text-sm text-gray-700">
               <li>
                 <strong>1.</strong> Freitag J, et al. "Mesenchymal stem cell therapy in the treatment of osteoarthritis: reparative pathways, safety and efficacy - a review" BMC Musculoskelet Disord. 2016;17:230. 
-                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=mesenchymal+stem+cell+osteoarthritis" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=mesenchymal+stem+cell+osteoarthritis" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <strong>2.</strong> Pers YM, et al. "Adipose Mesenchymal Stromal Cell-Based Therapy for Severe Osteoarthritis of the Knee" Arthritis Rheumatol. 2016;68(5):1171-1179. 
-                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=adipose+mesenchymal+stem+cell+knee+osteoarthritis" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=adipose+mesenchymal+stem+cell+knee+osteoarthritis" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <strong>3.</strong> Wakitani S, et al. "Mesenchymal cell-based repair of large, full-thickness defects of articular cartilage" J Bone Joint Surg Am. 1994;76(4):579-592. 
-                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=mesenchymal+cell+cartilage+defect+repair" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=mesenchymal+cell+cartilage+defect+repair" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <strong>4.</strong> Kon E, et al. "Clinical results of multilayered biomaterials for osteochondral regeneration" J Exp Orthop. 2014;1(1):10. 
-                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=osteochondral+regeneration+biomaterials" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=osteochondral+regeneration+biomaterials" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <strong>5.</strong> Caplan AI. "Mesenchymal Stem Cells: Time to Change the Name!" Stem Cells Transl Med. 2017;6(6):1445-1451. 
-                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=mesenchymal+stem+cells+nomenclature" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=mesenchymal+stem+cells+nomenclature" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <strong>6.</strong> Lamo-Espinosa JM, et al. "Intra-articular injection of two different doses of autologous bone marrow mesenchymal stem cells versus hyaluronic acid in the treatment of knee osteoarthritis" Stem Cells Int. 2016;2016:4868613. 
-                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=bone+marrow+MSC+hyaluronic+acid+knee" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=bone+marrow+MSC+hyaluronic+acid+knee" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <strong>7.</strong> Centeno CJ, et al. "A randomized controlled trial of bone marrow concentrate versus saline for knee osteoarthritis" Regen Med. 2018;13(2):159-173. 
-                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=bone+marrow+concentrate+knee+osteoarthritis+RCT" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=bone+marrow+concentrate+knee+osteoarthritis+RCT" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <strong>8.</strong> Hernigou P, Beaujean F. "Treatment of osteonecrosis with autologous bone marrow grafting" Clin Orthop Relat Res. 2002;(405):14-23. 
-                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=autologous+bone+marrow+osteonecrosis" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=autologous+bone+marrow+osteonecrosis" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <strong>9.</strong> Murphy MB, et al. "Stem cell therapy in a caprine model of osteoarthritis" Arthritis Rheum. 2003;48(12):3464-3474. 
-                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=stem+cell+therapy+osteoarthritis+animal+model" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=stem+cell+therapy+osteoarthritis+animal+model" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <strong>10.</strong> Toh WS, et al. "Cartilage repair using hyaluronan hydrogel-encapsulated human embryonic stem cell-derived chondrogenic cells" Biomaterials. 2010;31(27):6968-6980. 
-                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=cartilage+repair+embryonic+stem+cell+hydrogel" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                {' '}<a href="https://pubmed.ncbi.nlm.nih.gov/?term=cartilage+repair+embryonic+stem+cell+hydrogel" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
             </ol>
           </div>
         </section>
           {/* Ameliyatsız Tedavi Internal Link */}
-          <div className="bg-blue-50 border-l-4 border-blue-700 p-6 my-8 rounded-r-lg">
+          <div className="bg-[#E6FAF8] border-l-4 border-blue-700 p-6 my-8 rounded-r-lg">
             <p className="text-gray-700">
               <strong>İlgili İçerik:</strong> Ameliyatsız tedavi seçenekleri hakkında daha fazla bilgi için{' '}
-              <a href="/ameliyatsiz-cozumler" className="text-blue-700 hover:text-blue-900 font-semibold hover:underline">
+              <a href="/ameliyatsiz-cozumler" className="text-[#01A899] hover:text-blue-900 font-semibold hover:underline">
                 ameliyatsız çözümler sayfamızı
               </a>{' '}
               ziyaret edebilirsiniz.

@@ -243,8 +243,8 @@ export default function KalcaProteziPage() {
                 <span>Kaslar ve tendonlar onarılır, insizyon kapatılır</span>
               </li>
             </ol>
-            <div className="mt-4 p-4 bg-blue-100 rounded-lg">
-              <p className="text-sm text-blue-800">
+            <div className="mt-4 p-4 bg-[#B3F0EB] rounded-lg">
+              <p className="text-sm text-[#01867A]">
                 💡 <strong>Minimal invaziv teknikler</strong> ile yapılan protez ameliyatlarında kesiler 
                 daha küçük olup, iyileşme süresi ve ağrı daha azdır.
               </p>
@@ -361,51 +361,51 @@ export default function KalcaProteziPage() {
             <ol className="space-y-3 text-sm text-gray-700">
               <li>
                 <span className="font-medium">1.</span> Ferguson RJ, et al. <em>"Hip replacement."</em> Lancet. 2018;392(10158):1662-1671.{' '}
-                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=total+hip+arthroplasty" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=total+hip+arthroplasty" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <span className="font-medium">2.</span> Pivec R, et al. <em>"Hip arthroplasty."</em> Lancet. 2012;380(9855):1768-77.{' '}
-                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=total+hip+arthroplasty" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=total+hip+arthroplasty" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <span className="font-medium">3.</span> Learmonth ID, et al. <em>"The operation of the century: total hip replacement."</em> Lancet. 2007;370(9597):1508-19.{' '}
-                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=total+hip+arthroplasty" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=total+hip+arthroplasty" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <span className="font-medium">4.</span> Maradit Kremers H, et al. <em>"Prevalence of Total Hip and Knee Replacement in the United States."</em> J Bone Joint Surg Am. 2015;97(17):1386-97.{' '}
-                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=total+hip+arthroplasty" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=total+hip+arthroplasty" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <span className="font-medium">5.</span> Shichman I, et al. <em>"Projections and Epidemiology of Primary Hip and Knee Arthroplasty in Medicare Patients to 2040-2060."</em> JB JS Open Access. 2023;8(1):e22.00112.{' '}
-                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=total+hip+arthroplasty" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=total+hip+arthroplasty" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
             </ol>
             
             {/* Expandable References */}
             <details className="mt-4">
-              <summary className="cursor-pointer text-blue-600 font-medium hover:text-blue-800 flex items-center gap-2">
+              <summary className="cursor-pointer text-[#01CAB8] font-medium hover:text-[#01867A] flex items-center gap-2">
                 <span>📖 Daha Fazla Kaynak Göster (5 ek referans)</span>
               </summary>
               <ol start={6} className="space-y-3 text-sm text-gray-700 mt-4 pt-4 border-t">
                 <li>
                   <span className="font-medium">6.</span> Bozic KJ, et al. <em>"The epidemiology of revision total hip arthroplasty in the United States."</em> J Bone Joint Surg Am. 2009;91(1):128-33.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=total+hip+arthroplasty" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=total+hip+arthroplasty" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
                 </li>
                 <li>
                   <span className="font-medium">7.</span> Kremers HM, et al. <em>"Comparative Long-Term Survivorship of Uncemented Acetabular Components in Revision Total Hip Arthroplasty."</em> J Bone Joint Surg Am. 2012;94(12):e82.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=total+hip+arthroplasty" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=total+hip+arthroplasty" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
                 </li>
                 <li>
                   <span className="font-medium">8.</span> Berry DJ, et al. <em>"Twenty-five-year survivorship of two thousand consecutive primary Charnley total hip replacements."</em> J Bone Joint Surg Am. 2002;84(2):171-7.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=total+hip+arthroplasty" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=total+hip+arthroplasty" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
                 </li>
                 <li>
                   <span className="font-medium">9.</span> Wroblewski BM, et al. <em>"28,000 Charnley total hip replacements in 2006: clinical and tribological aspects."</em> Hip Int. 2006;16 Suppl 3:8-14.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=total+hip+arthroplasty" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=total+hip+arthroplasty" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
                 </li>
                 <li>
                   <span className="font-medium">10.</span> Kurtz S, et al. <em>"Projections of primary and revision hip and knee arthroplasty in the United States from 2005 to 2030."</em> J Bone Joint Surg Am. 2007;89(4):780-5.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=total+hip+arthroplasty" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=total+hip+arthroplasty" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
                 </li>
               </ol>
             </details>

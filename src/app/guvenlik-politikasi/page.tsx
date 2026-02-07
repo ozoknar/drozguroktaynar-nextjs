@@ -25,7 +25,7 @@ export default function GuvenlikPolitikasiPage() {
           <section>
             <h2 className="text-2xl font-semibold text-gray-900 mb-4">Temel Güvenlik Prensipleri</h2>
             <div className="grid md:grid-cols-2 gap-4">
-              <div className="bg-blue-50 p-4 rounded-lg">
+              <div className="bg-[#E6FAF8] p-4 rounded-lg">
                 <div className="text-3xl mb-2">🔒</div>
                 <h3 className="font-semibold text-gray-800 mb-2">Gizlilik</h3>
                 <p className="text-sm text-gray-700">Verilerinize yalnızca yetkili personel erişebilir</p>
@@ -66,7 +66,7 @@ export default function GuvenlikPolitikasiPage() {
 
               <div>
                 <h3 className="text-xl font-medium text-gray-800 mb-2 flex items-center">
-                  <span className="text-blue-600 mr-2">🔥</span>
+                  <span className="text-[#01CAB8] mr-2">🔥</span>
                   Güvenlik Duvarı (Firewall)
                 </h3>
                 <p className="text-gray-700 leading-relaxed ml-8">
@@ -125,7 +125,7 @@ export default function GuvenlikPolitikasiPage() {
             <h2 className="text-2xl font-semibold text-gray-900 mb-4">Organizasyonel Güvenlik Önlemleri</h2>
             
             <div className="space-y-3">
-              <div className="border-l-4 border-blue-500 pl-4">
+              <div className="border-l-4 border-[#1AD2C4] pl-4">
                 <h3 className="font-medium text-gray-800">Erişim Kontrolü</h3>
                 <p className="text-gray-700 text-sm mt-1">
                   Hasta verilerine erişim, &quot;en az yetki prensibi&quot; (principle of least privilege) ile sınırlandırılmıştır. 
@@ -267,7 +267,7 @@ export default function GuvenlikPolitikasiPage() {
             <p className="text-gray-700 leading-relaxed mb-3">
               Güvenlik politikamız hakkında sorularınız için:
             </p>
-            <div className="bg-blue-50 border-l-4 border-blue-500 p-4">
+            <div className="bg-[#E6FAF8] border-l-4 border-[#1AD2C4] p-4">
               <p className="text-gray-700">
                 <strong>Op. Dr. Özgür Oktay Nar</strong><br />
                 <strong>E-posta:</strong> ozguroktaynar@gmail.com<br />

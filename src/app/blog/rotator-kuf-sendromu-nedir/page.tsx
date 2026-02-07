@@ -79,7 +79,7 @@ export default function RotatorKufSendromuPage() {
             glenoid kavitede merkezli tutar.
           </p>
 
-          <div className="bg-blue-50 border-l-4 border-blue-500 p-6 mb-6">
+          <div className="bg-[#E6FAF8] border-l-4 border-[#1AD2C4] p-6 mb-6">
             <h4 className="font-semibold text-lg mb-3">Rotator Kılıfı Oluşturan Kaslar (SITS):</h4>
             <ul className="space-y-2">
               <li>• <strong>Supraspinatus:</strong> Abduksiyonun ilk 15°'si, en sık yaralanan</li>
@@ -200,7 +200,7 @@ export default function RotatorKufSendromuPage() {
             "ağrılı ark" bulgusu tipiktir.
           </p>
 
-          <div className="bg-blue-50 border-l-4 border-blue-500 p-6 mb-6">
+          <div className="bg-[#E6FAF8] border-l-4 border-[#1AD2C4] p-6 mb-6">
             <h4 className="font-semibold text-lg mb-3">Tipik Belirtiler:</h4>
             <ul className="space-y-2">
               <li>• <strong>Ağrılı ark işareti:</strong> Kol 60-120° abduksiyonda iken ağrı (yukarı ve aşağı inerken)</li>
@@ -295,7 +295,7 @@ export default function RotatorKufSendromuPage() {
           <h3 className="text-2xl font-semibold text-gray-800 mb-4">Konservatif Tedavi (Evre I-II)</h3>
 
           <div className="space-y-6 mb-8">
-            <div className="bg-blue-50 p-6 rounded-lg">
+            <div className="bg-[#E6FAF8] p-6 rounded-lg">
               <h4 className="font-semibold text-lg mb-3">1. Aktivite Modifikasyonu ve İstirahat:</h4>
               <ul className="space-y-2 text-gray-700">
                 <li>• Overhead aktivitelerden kaçınma</li>
@@ -304,7 +304,7 @@ export default function RotatorKufSendromuPage() {
               </ul>
             </div>
 
-            <div className="bg-blue-50 p-6 rounded-lg">
+            <div className="bg-[#E6FAF8] p-6 rounded-lg">
               <h4 className="font-semibold text-lg mb-3">2. Medikal Tedavi:</h4>
               <ul className="space-y-2 text-gray-700">
                 <li>• <strong>NSAİİ:</strong> İbuprofen, naproksen (2-4 hafta)</li>
@@ -313,7 +313,7 @@ export default function RotatorKufSendromuPage() {
               </ul>
             </div>
 
-            <div className="bg-blue-50 p-6 rounded-lg">
+            <div className="bg-[#E6FAF8] p-6 rounded-lg">
               <h4 className="font-semibold text-lg mb-3">3. Fizik Tedavi ve Egzersiz (6-12 Hafta):</h4>
               <ul className="space-y-2 text-gray-700">
                 <li>
@@ -335,7 +335,7 @@ export default function RotatorKufSendromuPage() {
               </ul>
             </div>
 
-            <div className="bg-blue-50 p-6 rounded-lg">
+            <div className="bg-[#E6FAF8] p-6 rounded-lg">
               <h4 className="font-semibold text-lg mb-3">4. Subakromiyal Kortikosteroid Enjeksiyonu:</h4>
               <ul className="space-y-2 text-gray-700">
                 <li>• <strong>Endikasyon:</strong> Konservatif tedaviye 4-6 hafta yanıt yok</li>
@@ -431,7 +431,7 @@ export default function RotatorKufSendromuPage() {
             hastaların çoğu tam iyileşme gösterir.
           </p>
 
-          <div className="bg-blue-50 p-6 rounded-lg mb-8">
+          <div className="bg-[#E6FAF8] p-6 rounded-lg mb-8">
             <h4 className="font-semibold text-lg mb-3">Başarı Oranları:</h4>
             <ul className="space-y-2 text-gray-700">
               <li>• <strong>Evre I:</strong> %90-95 konservatif tedavi ile iyileşme</li>
@@ -446,23 +446,23 @@ export default function RotatorKufSendromuPage() {
         <section className="mb-12 p-6 bg-gray-50 rounded-lg">
           <h2 className="text-2xl font-bold text-gray-900 mb-4">Kaynaklar</h2>
           <ol className="space-y-2 text-sm text-gray-700">
-            <li>1. Neer CS 2nd. "Anterior acromioplasty for the chronic impingement syndrome in the shoulder." J Bone Joint Surg Am. 1972. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=Neer+impingement+syndrome" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a></li>
-            <li>2. Bigliani LU, Morrison DS, April EW. "The morphology of the acromion and its relationship to rotator cuff tears." Orthop Trans. 1986. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=acromion+morphology+rotator+cuff" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a></li>
-            <li>3. Michener LA, et al. "Anatomical and biomechanical mechanisms of subacromial impingement syndrome." Clin Biomech. 2003. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=subacromial+impingement+biomechanics" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a></li>
-            <li>4. Lewis JS. "Rotator cuff tendinopathy/subacromial impingement syndrome: is it time for a new method of assessment?" Br J Sports Med. 2009. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=rotator+cuff+assessment+methods" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a></li>
-            <li>5. Papadonikolakis A, et al. "Published evidence relevant to the diagnosis of impingement syndrome of the shoulder." J Bone Joint Surg Am. 2011. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=impingement+syndrome+diagnosis+evidence" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a></li>
-            <li>6. Ketola S, et al. "Effectiveness of arthroscopic acromioplasty for subacromial impingement." BMJ. 2009. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=acromioplasty+effectiveness" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a></li>
-            <li>7. Buchbinder R, et al. "Short course prednisolone for adhesive capsulitis." BMJ. 2004. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=corticosteroid+injection+shoulder+impingement" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a></li>
-            <li>8. Hanratty CE, et al. "The effectiveness of physiotherapy exercises in subacromial impingement syndrome: a systematic review and meta-analysis." Semin Arthritis Rheum. 2012. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=physiotherapy+subacromial+impingement" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a></li>
-            <li>9. Kuhn JE. "Exercise in the treatment of rotator cuff impingement: a systematic review and a synthesized evidence-based rehabilitation protocol." J Shoulder Elbow Surg. 2009. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=rotator+cuff+exercise+protocol" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a></li>
-            <li>10. Diercks R, et al. "Guideline for diagnosis and treatment of subacromial pain syndrome." Acta Orthop. 2014. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=subacromial+pain+syndrome+guideline" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a></li>
+            <li>1. Neer CS 2nd. "Anterior acromioplasty for the chronic impingement syndrome in the shoulder." J Bone Joint Surg Am. 1972. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=Neer+impingement+syndrome" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a></li>
+            <li>2. Bigliani LU, Morrison DS, April EW. "The morphology of the acromion and its relationship to rotator cuff tears." Orthop Trans. 1986. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=acromion+morphology+rotator+cuff" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a></li>
+            <li>3. Michener LA, et al. "Anatomical and biomechanical mechanisms of subacromial impingement syndrome." Clin Biomech. 2003. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=subacromial+impingement+biomechanics" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a></li>
+            <li>4. Lewis JS. "Rotator cuff tendinopathy/subacromial impingement syndrome: is it time for a new method of assessment?" Br J Sports Med. 2009. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=rotator+cuff+assessment+methods" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a></li>
+            <li>5. Papadonikolakis A, et al. "Published evidence relevant to the diagnosis of impingement syndrome of the shoulder." J Bone Joint Surg Am. 2011. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=impingement+syndrome+diagnosis+evidence" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a></li>
+            <li>6. Ketola S, et al. "Effectiveness of arthroscopic acromioplasty for subacromial impingement." BMJ. 2009. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=acromioplasty+effectiveness" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a></li>
+            <li>7. Buchbinder R, et al. "Short course prednisolone for adhesive capsulitis." BMJ. 2004. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=corticosteroid+injection+shoulder+impingement" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a></li>
+            <li>8. Hanratty CE, et al. "The effectiveness of physiotherapy exercises in subacromial impingement syndrome: a systematic review and meta-analysis." Semin Arthritis Rheum. 2012. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=physiotherapy+subacromial+impingement" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a></li>
+            <li>9. Kuhn JE. "Exercise in the treatment of rotator cuff impingement: a systematic review and a synthesized evidence-based rehabilitation protocol." J Shoulder Elbow Surg. 2009. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=rotator+cuff+exercise+protocol" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a></li>
+            <li>10. Diercks R, et al. "Guideline for diagnosis and treatment of subacromial pain syndrome." Acta Orthop. 2014. <a href="https://pubmed.ncbi.nlm.nih.gov/?term=subacromial+pain+syndrome+guideline" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a></li>
           </ol>
         </section>
           {/* Ameliyatsız Tedavi Internal Link */}
-          <div className="bg-blue-50 border-l-4 border-blue-700 p-6 my-8 rounded-r-lg">
+          <div className="bg-[#E6FAF8] border-l-4 border-blue-700 p-6 my-8 rounded-r-lg">
             <p className="text-gray-700">
               <strong>İlgili İçerik:</strong> Ameliyatsız tedavi seçenekleri hakkında daha fazla bilgi için{' '}
-              <a href="/ameliyatsiz-cozumler" className="text-blue-700 hover:text-blue-900 font-semibold hover:underline">
+              <a href="/ameliyatsiz-cozumler" className="text-[#01A899] hover:text-blue-900 font-semibold hover:underline">
                 ameliyatsız çözümler sayfamızı
               </a>{' '}
               ziyaret edebilirsiniz.
@@ -471,14 +471,14 @@ export default function RotatorKufSendromuPage() {
 
 
         {/* CTA Section */}
-        <section className="mt-12 p-8 bg-gradient-to-r from-blue-600 to-blue-700 rounded-2xl text-white">
+        <section className="mt-12 p-8 bg-gradient-to-r from-[#01CAB8] to-[#01A899] rounded-2xl text-white">
           <h2 className="text-3xl font-bold mb-4">Omuz Sıkışması mı Var?</h2>
           <p className="text-lg mb-6 text-blue-50">
             Rotator kılıf sendromu tanı ve tedavisi için uzman muayenesi randevusu alabilirsiniz.
           </p>
           <Link
             href="/randevu"
-            className="inline-block bg-white text-blue-600 px-8 py-3 rounded-lg font-semibold hover:bg-blue-50 transition-colors"
+            className="inline-block bg-white text-[#01CAB8] px-8 py-3 rounded-lg font-semibold hover:bg-[#E6FAF8] transition-colors"
           >
             Randevu Al
           </Link>

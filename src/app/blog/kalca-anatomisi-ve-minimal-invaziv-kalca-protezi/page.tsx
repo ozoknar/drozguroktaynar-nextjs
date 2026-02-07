@@ -191,8 +191,8 @@ export default function KalcaAnatomisiVeMinimalInvazivKalcaProteziPage() {
             </p>
 
             <div className="space-y-4">
-              <div className="bg-blue-50 p-6 rounded-xl">
-                <h3 className="font-semibold text-blue-800 mb-3">⚙️ Nedenleri</h3>
+              <div className="bg-[#E6FAF8] p-6 rounded-xl">
+                <h3 className="font-semibold text-[#01867A] mb-3">⚙️ Nedenleri</h3>
                 <ul className="text-sm text-gray-700 space-y-1">
                   <li>• <strong>Yaşlanma:</strong> Kıkırdak yıpranması</li>
                   <li>• <strong>Travma:</strong> Geçmiş kırık, çıkıklar</li>
@@ -396,10 +396,10 @@ export default function KalcaAnatomisiVeMinimalInvazivKalcaProteziPage() {
             </div>
           </section>
           {/* Ameliyatsız Tedavi Internal Link */}
-          <div className="bg-blue-50 border-l-4 border-blue-700 p-6 my-8 rounded-r-lg">
+          <div className="bg-[#E6FAF8] border-l-4 border-blue-700 p-6 my-8 rounded-r-lg">
             <p className="text-gray-700">
               <strong>İlgili İçerik:</strong> Ameliyatsız tedavi seçenekleri hakkında daha fazla bilgi için{' '}
-              <a href="/ameliyatsiz-cozumler" className="text-blue-700 hover:text-blue-900 font-semibold hover:underline">
+              <a href="/ameliyatsiz-cozumler" className="text-[#01A899] hover:text-blue-900 font-semibold hover:underline">
                 ameliyatsız çözümler sayfamızı
               </a>{' '}
               ziyaret edebilirsiniz.
@@ -439,50 +439,50 @@ export default function KalcaAnatomisiVeMinimalInvazivKalcaProteziPage() {
             <ol className="space-y-3 text-sm text-gray-700">
               <li>
                 <span className="font-medium">1.</span> Goodman SB, et al. <em>"Total hip arthroplasty: state of the art."</em> J Bone Joint Surg Am. 2013;95(7):643-5.{' '}
-                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=total+hip+arthroplasty" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=total+hip+arthroplasty" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <span className="font-medium">2.</span> Berend KR, et al. <em>"Rapid rehabilitation for total hip arthroplasty."</em> J Arthroplasty. 2008;23(7 Suppl):36-41.{' '}
-                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=minimal+invasive+hip+replacement" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=minimal+invasive+hip+replacement" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <span className="font-medium">3.</span> Kennon RE, et al. <em>"The anterior approach for total hip arthroplasty: an operative technique and a prospective study of 1000 consecutive cases."</em> J Arthroplasty. 2007;22(7 Suppl 3):2-10.{' '}
-                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=direct+anterior+approach+hip" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=direct+anterior+approach+hip" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <span className="font-medium">4.</span> Meneghini RM. <em>"Minimally invasive total hip arthroplasty: controversies, challenges, and solutions."</em> J Orthop Sci. 22(1):1-10.{' '}
-                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=minimal+invasive+hip+replacement" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=minimal+invasive+hip+replacement" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
               <li>
                 <span className="font-medium">5.</span> Mounir el K, et al. <em>"Mini-invasive total hip arthroplasty. Literature review and personal experience."</em> Orthop Traumatol Surg Res. 2014;100(3):327-32.{' '}
-                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=minimal+invasive+hip+replacement" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                <a href="https://pubmed.ncbi.nlm.nih.gov/?term=minimal+invasive+hip+replacement" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
               </li>
             </ol>
             
             <details className="mt-4">
-              <summary className="cursor-pointer text-blue-600 font-medium hover:text-blue-800 flex items-center gap-2">
+              <summary className="cursor-pointer text-[#01CAB8] font-medium hover:text-[#01867A] flex items-center gap-2">
                 <span>📖 Daha Fazla Kaynak Göster (5 ek referans)</span>
               </summary>
               <ol start={6} className="space-y-3 text-sm text-gray-700 mt-4 pt-4 border-t">
                 <li>
                   <span className="font-medium">6.</span> Pincus D, et al. <em>"Does minimally invasive total hip arthroplasty improve length of stay and patient-reported outcomes? A systematic review and meta-analysis."</em> J Arthroplasty. 2018;33(10):3300-9.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=minimal+invasive+hip+replacement+outcomes" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=minimal+invasive+hip+replacement+outcomes" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
                 </li>
                 <li>
                   <span className="font-medium">7.</span> Bozic KJ, et al. <em>"The epidemiology of revision total hip arthroplasty in the United States."</em> J Bone Joint Surg Am. 2009;91(1):128-35.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=hip+replacement+revision" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=hip+replacement+revision" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
                 </li>
                 <li>
                   <span className="font-medium">8.</span> Parvizi J, et al. <em>"Prevention of surgical site infection in total joint arthroplasty."</em> J Bone Joint Surg Am. 2017;99(4):332-46.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=hip+arthroplasty+infection" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=hip+arthroplasty+infection" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
                 </li>
                 <li>
                   <span className="font-medium">9.</span> Healy WL, et al. <em>"Complications after total hip arthroplasty: the effect of surgical approach."</em> J Arthroplasty. 2008;23(7 Suppl 3):11-6.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=hip+replacement+complications" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=hip+replacement+complications" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
                 </li>
                 <li>
                   <span className="font-medium">10.</span> Huddleston JI, et al. <em>"Risk factors for dislocation after primary total hip arthroplasty: a matched case-control study."</em> J Arthroplasty. 2008;23(7 Suppl 3):110-6.{' '}
-                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=hip+dislocation+risk" target="_blank" rel="noopener noreferrer" className="text-blue-600 hover:underline">[PubMed Ara]</a>
+                  <a href="https://pubmed.ncbi.nlm.nih.gov/?term=hip+dislocation+risk" target="_blank" rel="noopener noreferrer" className="text-[#01CAB8] hover:underline">[PubMed Ara]</a>
                 </li>
               </ol>
             </details>
