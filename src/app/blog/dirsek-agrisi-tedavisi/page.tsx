@@ -87,7 +87,7 @@ export default function DirsekAgrisiTedavisiPage() {
             <time>7 Şubat 2025</time>
           </div>
           <img
-            src="https://placehold.co/1200x630/e2e8f0/475569?text=Dirsek+Agrisi+Tedavisi"
+            src="https://www.drozguroktaynar.com/wp-content/uploads/2026/01/Dirsek-Agrisi-Tedavisi.webp"
             alt="Dirsek Ağrısı Tedavisi"
             className="w-full rounded-xl shadow-lg"
           />

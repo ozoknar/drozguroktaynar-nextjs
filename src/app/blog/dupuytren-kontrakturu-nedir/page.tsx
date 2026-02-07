@@ -87,7 +87,7 @@ export default function DupuytrenKonkrakturuPage() {
             <time>16 Ocak 2025</time>
           </div>
           <img
-            src="https://placehold.co/1200x630/e2e8f0/475569?text=Dupuytren+Kontrakturu"
+            src="https://www.drozguroktaynar.com/wp-content/uploads/2026/01/dupuytren_hastaligi_nedir.webp"
             alt="Dupuytren kontraktürü belirtileri ve tedavi yöntemleri"
             className="w-full rounded-xl shadow-lg"
           />

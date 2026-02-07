@@ -87,7 +87,7 @@ export default function BlogPage() {
             <time>24 Ocak 2025</time>
           </div>
           <img
-            src="https://placehold.co/1200x630/e2e8f0/475569?text=Femoroaseabular+Sikisma"
+            src="https://www.drozguroktaynar.com/wp-content/uploads/2025/11/Kalca-Agrisi-Femoroasetabular-Sikisma-FAS-FAI-Nedir.webp"
             alt="Femoroasetabüler sıkışma sendromu"
             className="w-full rounded-xl shadow-lg"
           />

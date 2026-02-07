@@ -87,7 +87,7 @@ export default function DizKapagiCikigiPage() {
             <time>7 Şubat 2025</time>
           </div>
           <img
-            src="https://placehold.co/1200x630/e2e8f0/475569?text=Diz+Kapagi+Cikigi"
+            src="https://www.drozguroktaynar.com/wp-content/uploads/2025/08/ChatGPT-Image-5-Agu-2025-23_14_35.jpg"
             alt="Diz Kapağı Çıkığı Tedavisi"
             className="w-full rounded-xl shadow-lg"
           />

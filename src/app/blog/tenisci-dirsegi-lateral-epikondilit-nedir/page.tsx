@@ -87,7 +87,7 @@ export default function BlogPage() {
             <time>7 Şubat 2025</time>
           </div>
           <img
-            src="https://placehold.co/1200x630/e2e8f0/475569?text=Tenisci+Dirsegi"
+            src="https://www.drozguroktaynar.com/wp-content/uploads/2026/01/resim.jpg"
             alt="Lateral Epikondilit - Tenisçi Dirseği Anatomisi"
             className="w-full rounded-xl shadow-lg"
           />

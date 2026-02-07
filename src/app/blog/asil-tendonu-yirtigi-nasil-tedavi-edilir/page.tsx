@@ -87,7 +87,7 @@ export default function AsilTendonuYirtigiPage() {
             <time>7 Şubat 2025</time>
           </div>
           <img
-            src="https://placehold.co/1200x630/e2e8f0/475569?text=Asil+Tendonu+Yirtigi"
+            src="https://www.drozguroktaynar.com/wp-content/uploads/2026/01/asil-tendon-kopmasi-2-1024x576-1.jpg"
             alt="Aşil Tendonu Yırtığı Tedavisi"
             className="w-full rounded-xl shadow-lg"
           />

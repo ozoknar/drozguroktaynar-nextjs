@@ -87,7 +87,7 @@ export default function BlogPage() {
             <time>25 Ocak 2025</time>
           </div>
           <img
-            src="https://placehold.co/1200x630/e2e8f0/475569?text=Asil+Tendon+Yirtigi"
+            src="https://www.drozguroktaynar.com/wp-content/uploads/2026/02/Asil-Tendonu-Yirtigi-Nasil-Tedavi-Edilir.webp"
             alt="Aşil tendonu yırtığı tedavisi"
             className="w-full rounded-xl shadow-lg"
           />

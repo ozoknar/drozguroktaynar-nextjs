@@ -87,7 +87,7 @@ export default function BlogPage() {
             <time>7 Şubat 2025</time>
           </div>
           <img
-            src="https://placehold.co/1200x630/e2e8f0/475569?text=El+Bilek+Artroskopisi"
+            src="https://www.drozguroktaynar.com/wp-content/uploads/2024/10/Op.-Dr-Ozgur-Oktay-Nar.webp"
             alt="El-Bilek Artroskopisi Cerrahi Prosedürü"
             className="w-full rounded-xl shadow-lg"
           />

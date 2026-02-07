@@ -87,7 +87,7 @@ export default function BlogPage() {
             <time>20 Ocak 2025</time>
           </div>
           <img
-            src="https://placehold.co/1200x630/e2e8f0/475569?text=Bel+Fitigi+Ameliyati"
+            src="https://www.drozguroktaynar.com/wp-content/uploads/2025/09/bel_agrisi.jpg"
             alt="Bel fıtığı ameliyatı sonrası işe dönüş"
             className="w-full rounded-xl shadow-lg"
           />

@@ -87,7 +87,7 @@ export default function BlogPage() {
             <time>21 Ocak 2025</time>
           </div>
           <img
-            src="https://placehold.co/1200x630/e2e8f0/475569?text=Rotator+Manset+Yirtigi"
+            src="https://www.drozguroktaynar.com/wp-content/uploads/2025/11/Rotator-Manset-Yirtigi-Tedavisi.webp"
             alt="Rotator manşet yırtığı tedavisi"
             className="w-full rounded-xl shadow-lg"
           />

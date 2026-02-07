@@ -87,7 +87,7 @@ export default function BlogPage() {
             <time>18 Ocak 2025</time>
           </div>
           <img
-            src="https://placehold.co/1200x630/e2e8f0/475569?text=Stres+Kirigi"
+            src="https://www.drozguroktaynar.com/wp-content/uploads/2026/02/stres-kiriklari-600x371-1.jpg"
             alt="Stres kırığı tedavisi ve iyileşme"
             className="w-full rounded-xl shadow-lg"
           />

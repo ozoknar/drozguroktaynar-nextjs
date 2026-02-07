@@ -87,7 +87,7 @@ export default function BlogPage() {
             <time>7 Şubat 2025</time>
           </div>
           <img
-            src="https://placehold.co/1200x630/e2e8f0/475569?text=SLAP+Lezyonu"
+            src="https://www.drozguroktaynar.com/wp-content/uploads/2025/11/slap-lezyonu.webp"
             alt="SLAP Lezyonu - Omuz Labrum Anatomisi"
             className="w-full rounded-xl shadow-lg"
           />

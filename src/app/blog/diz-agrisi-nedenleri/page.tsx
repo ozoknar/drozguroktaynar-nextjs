@@ -87,7 +87,7 @@ export default function DizAgrisiNedenleriPage() {
             <time>15 Ocak 2025</time>
           </div>
           <img
-            src="https://placehold.co/1200x630/e2e8f0/475569?text=Diz+Agrisi+Nedenleri"
+            src="https://www.drozguroktaynar.com/wp-content/uploads/2025/11/diz-agrisi-nedenleri.webp"
             alt="Diz ağrısı nedenleri ve tedavi yöntemleri"
             className="w-full rounded-xl shadow-lg"
           />

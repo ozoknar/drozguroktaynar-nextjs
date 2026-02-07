@@ -87,7 +87,7 @@ export default function BlogPage() {
             <time>22 Ocak 2025</time>
           </div>
           <img
-            src="https://placehold.co/1200x630/e2e8f0/475569?text=Omuz+Sikismasi+Tedavisi"
+            src="https://www.drozguroktaynar.com/wp-content/uploads/2025/11/omuz_sikisma_sendromu.webp"
             alt="Omuz sıkışması tedavisi"
             className="w-full rounded-xl shadow-lg"
           />
