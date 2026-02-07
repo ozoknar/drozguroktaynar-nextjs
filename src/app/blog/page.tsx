@@ -290,23 +290,41 @@ const blogPostData: Record<string, { title: string; excerpt: string; date: strin
     category: "Diz",
     image: "https://ooxijkokuifpwunx.public.blob.vercel-storage.com/uploads/uploads/man-bent-her-head-grabbed-him-her-after-exercise_1150-22887-1.webp",
   },
+  "bel-fitigi-ameliyati-sonrasi-yuruyus-programi": {
+    title: "Bel Fıtığı Ameliyatı Sonrası Yürüyüş Programı",
+    excerpt: "Ameliyat sonrası güvenli yürüyüş ve egzersiz rehberi.",
+    date: "2025-10-15",
+    category: "Bel",
+    image: "https://www.drozguroktaynar.com/wp-content/uploads/2025/10/ameliyat_sonrasi_yuruyus.jpg",
+  },
 };
 
 // Default image for posts without specific images
 const defaultImage = "https://ooxijkokuifpwunx.public.blob.vercel-storage.com/uploads/uploads/2024/01/diz_anatomisi.jpg";
 
-// En çok okunan yazılar (popüler konular)
-export const popularPosts = [
-  { slug: "diz-kireclenmesi-tedavisi-2", title: "Diz Kireçlenmesi Tedavisi" },
-  { slug: "meniskus-yirtilmasi-belirtileri-ve-tedavisi", title: "Menisküs Yırtılması" },
-  { slug: "topuk-dikeni-nedir", title: "Topuk Dikeni Nedir?" },
-  { slug: "kalca-protezi-nedir-ameliyati-nasil-yapilir", title: "Kalça Protezi Ameliyatı" },
-  { slug: "rotator-manset-yirtigi-tedavisi", title: "Rotator Manşet Yırtığı" },
-  { slug: "total-diz-protezi-nedir-tedavisi-nasil-yapilir", title: "Total Diz Protezi" },
-  { slug: "karpal-tunel-sendromu-2", title: "Karpal Tünel Sendromu" },
-  { slug: "plantar-fasiit-fasciitis-nedir", title: "Plantar Fasiit" },
-  { slug: "tenisci-dirsegi-lateral-epikondilit-nedir", title: "Tenisçi Dirseği" },
-  { slug: "omuz-sikismasi-tedavisi-nedir-nasil-yapilir", title: "Omuz Sıkışması" },
+// Bölgelere göre en çok okunan yazılar (her bölge için 2 yazı)
+export const popularPostsByRegion = [
+  // Diz (2)
+  { slug: "diz-kireclenmesi-tedavisi-2", title: "Diz Kireçlenmesi Tedavisi", region: "Diz" },
+  { slug: "meniskus-yirtilmasi-belirtileri-ve-tedavisi", title: "Menisküs Yırtılması", region: "Diz" },
+  // Omuz (2)
+  { slug: "rotator-manset-yirtigi-tedavisi", title: "Rotator Manşet Yırtığı", region: "Omuz" },
+  { slug: "omuz-sikismasi-tedavisi-nedir-nasil-yapilir", title: "Omuz Sıkışması", region: "Omuz" },
+  // Kalça (2)
+  { slug: "kalca-protezi-nedir-ameliyati-nasil-yapilir", title: "Kalça Protezi Ameliyatı", region: "Kalça" },
+  { slug: "kalca-artroskopisi-nedir", title: "Kalça Artroskopisi", region: "Kalça" },
+  // Ayak (2)
+  { slug: "topuk-dikeni-nedir", title: "Topuk Dikeni", region: "Ayak" },
+  { slug: "plantar-fasiit-fasciitis-nedir", title: "Plantar Fasiit", region: "Ayak" },
+  // El (2)
+  { slug: "karpal-tunel-sendromu-2", title: "Karpal Tünel Sendromu", region: "El" },
+  { slug: "dupuytren-kontrakturu-nedir", title: "Dupuytren Kontraktürü", region: "El" },
+  // Dirsek (2)
+  { slug: "tenisci-dirsegi-lateral-epikondilit-nedir", title: "Tenisçi Dirseği", region: "Dirsek" },
+  { slug: "golfcu-dirsegi-medial-epikondilit-nedir", title: "Golfçü Dirseği", region: "Dirsek" },
+  // Bel (2)
+  { slug: "bel-fitigi-ameliyati-sonrasi-ise-donus", title: "Bel Fıtığı Sonrası İşe Dönüş", region: "Bel" },
+  { slug: "bel-fitigi-ameliyati-sonrasi-yuruyus-programi", title: "Bel Fıtığı Sonrası Yürüyüş", region: "Bel" },
 ];
 
 // Kategoriler
@@ -381,8 +399,18 @@ function getBlogPosts(): BlogPost[] {
   return posts;
 }
 
+// Group popular posts by region
+function getPopularPostsByRegion() {
+  const regions = ["Diz", "Omuz", "Kalça", "Ayak", "El", "Dirsek", "Bel"];
+  return regions.map(region => ({
+    region,
+    posts: popularPostsByRegion.filter(p => p.region === region)
+  }));
+}
+
 export default function BlogPage() {
   const blogPosts = getBlogPosts();
+  const groupedPopular = getPopularPostsByRegion();
 
   return (
     <div className="py-16 bg-gray-50 min-h-screen">
@@ -392,6 +420,34 @@ export default function BlogPage() {
           <p className="text-xl text-gray-600">
             Ortopedi ve travmatoloji hakkında {blogPosts.length} faydalı yazı
           </p>
+        </div>
+
+        {/* En Çok Okunanlar - Bölgelere Göre (EN ÜSTTE) */}
+        <div className="bg-white rounded-2xl shadow-lg p-6 mb-10">
+          <h2 className="text-2xl font-bold text-gray-900 mb-6 flex items-center gap-2">
+            <span className="text-[#01CAB8]">🔥</span> En Çok Okunan Yazılar
+          </h2>
+          <div className="grid grid-cols-2 sm:grid-cols-3 md:grid-cols-4 lg:grid-cols-7 gap-4">
+            {groupedPopular.map(({ region, posts }) => (
+              <div key={region} className="space-y-2">
+                <h3 className="text-sm font-bold text-[#01CAB8] border-b border-[#01CAB8]/20 pb-1">
+                  {region}
+                </h3>
+                <ul className="space-y-1">
+                  {posts.map((post) => (
+                    <li key={post.slug}>
+                      <Link
+                        href={`/blog/${post.slug}`}
+                        className="text-sm text-gray-700 hover:text-[#01CAB8] transition block leading-tight"
+                      >
+                        {post.title}
+                      </Link>
+                    </li>
+                  ))}
+                </ul>
+              </div>
+            ))}
+          </div>
         </div>
 
         {/* Kategori Navigasyonu */}
@@ -449,9 +505,39 @@ export default function BlogPage() {
             </div>
           </div>
 
-          {/* Sidebar - En Çok Okunanlar */}
+          {/* Sidebar */}
           <div className="lg:w-1/3">
-            <PopularPostsSidebar posts={popularPosts} />
+            <div className="sticky top-24 space-y-6">
+              {/* Randevu CTA */}
+              <div className="bg-gradient-to-br from-[#01CAB8] to-[#019E8F] rounded-xl shadow-md p-6 text-white">
+                <h3 className="text-lg font-bold mb-2">Randevu Alın</h3>
+                <p className="text-white/90 text-sm mb-4">
+                  Ortopedi sorunlarınız için hemen randevu alabilirsiniz.
+                </p>
+                <Link
+                  href="https://wa.me/905522493909"
+                  target="_blank"
+                  className="block w-full bg-white text-[#01CAB8] text-center py-2.5 rounded-lg font-medium hover:bg-gray-100 transition"
+                >
+                  📱 WhatsApp Randevu
+                </Link>
+              </div>
+
+              {/* Kategoriler Widget */}
+              <div className="bg-white rounded-xl shadow-md p-6">
+                <h3 className="text-lg font-bold text-gray-900 mb-4">Kategoriler</h3>
+                <div className="flex flex-wrap gap-2">
+                  {["Diz", "Omuz", "Kalça", "Ayak", "El", "Dirsek", "Bel"].map((cat) => (
+                    <span
+                      key={cat}
+                      className="px-3 py-1.5 bg-gray-100 hover:bg-[#01CAB8] hover:text-white text-gray-700 rounded-full text-sm cursor-pointer transition"
+                    >
+                      {cat}
+                    </span>
+                  ))}
+                </div>
+              </div>
+            </div>
           </div>
         </div>
       </div>
