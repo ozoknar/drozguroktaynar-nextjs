@@ -219,7 +219,7 @@ export default function IletisimPage() {
                 ></iframe>
                 <div className="p-4 bg-gray-50">
                   <a
-                    href="https://maps.app.goo.gl/j57YL1Dwd6QsEsgB9"
+                    href="https://maps.app.goo.gl/roUyhK3y3jNvRzXU7"
                     target="_blank"
                     rel="noopener noreferrer"
                     className="inline-flex items-center text-blue-600 hover:text-blue-800 font-medium"
